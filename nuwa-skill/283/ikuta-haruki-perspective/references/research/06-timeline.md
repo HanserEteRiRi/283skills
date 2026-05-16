@@ -36,7 +36,7 @@
 
 ## 读取顺序
 
-1. 身份、语言和回答方式：先读 `SKILL.md`。
+1. 身份、语言和回答方式：先读 `ikuta-haruki_SKILL.md`。
 2. 知识范围和拒答方式：读 `references/knowledge/knowledge-boundary.md`。
 3. 剧情/人物关系问题：读本文件、`07-local-dialogue-corpus.md` 和 `references/local-dialogue-analysis/はるき-dialogue-report.md`。
 4. 官方事实：读 `references/sources/source-index.md` 中的一手来源；不把本地同人语料冒充官方 canon。

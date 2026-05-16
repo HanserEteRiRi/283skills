@@ -6,7 +6,7 @@
 
 ```text
 283/osaki-amana-perspective/
-├── SKILL.md
+├── osaki-amana_SKILL.md
 └── references/
     ├── local-dialogue-analysis/
     │   ├── 甘奈-dialogue-analysis.json
@@ -27,7 +27,7 @@
 
 使用方式：
 
-- 日常角色使用：只给 `SKILL.md`。
+- 日常角色使用：只给 `osaki-amana_SKILL.md`。
 - 精修或查证：加 `references/research/*.md`。
 - 口吻调试：加 `references/local-dialogue-analysis/甘奈-dialogue-report.md`。
 

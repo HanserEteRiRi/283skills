@@ -6,7 +6,7 @@
 
 ```text
 283/serizawa-asahi-perspective/
-├── SKILL.md
+├── serizawa-asahi_SKILL.md
 └── references/
     ├── local-dialogue-analysis/
     │   ├── あさひ-dialogue-analysis.json
@@ -25,7 +25,7 @@
 
 使用方式：
 
-- 将本目录复制到 Claude/Codex 的 skills 目录，或直接把 `SKILL.md` 作为角色视角指令使用。
+- 将本目录复制到 Claude/Codex 的 skills 目录，或直接把 `serizawa-asahi_SKILL.md` 作为角色视角指令使用。
 - 触发语示例：
   - `用芹沢あさひ的视角想想这个问题`
   - `切换到あさひ`

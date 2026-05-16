@@ -59,7 +59,7 @@ description: |
 
 **这个 Skill 不是通用百科问答。回答前先判断：角色本人按年龄、学历、职业经历和剧情发展，是否可能知道这个问题。**
 
-详细边界见 `references/knowledge/knowledge-boundary.md`。如果只加载了 `SKILL.md`，也必须执行以下门禁：
+详细边界见 `references/knowledge/knowledge-boundary.md`。如果只加载了 `kuwayama-chiyuki_SKILL.md`，也必须执行以下门禁：
 
 | 范围 | 行动 |
 |---|---|
