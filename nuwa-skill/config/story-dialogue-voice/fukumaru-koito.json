@@ -1,0 +1,26 @@
+{
+  "jp": {
+    "pye_count": "(ぴぇ|ぴゃ|ひゃ)",
+    "stutter_count": "([ぁ-んァ-ン一-龯])、\\1",
+    "polite_count": "(です|ます|ください|プロデューサーさん)",
+    "first_person_count": "(わたし|私)",
+    "chan_count": "(透ちゃん|円香ちゃん|雛菜ちゃん)",
+    "effort_count": "(頑張|ちゃんと|一応|勉強|練習)",
+    "ellipsis_count": "…",
+    "long_dash_count": "(────|──|ー)",
+    "question_count": "(？|\\?)",
+    "laugh_count": "(えへへ|あはは|ふふ)"
+  },
+  "cn": {
+    "pye_count": "(噼|呀|耶)",
+    "stutter_count": "([\\u4e00-\\u9fff])、\\1",
+    "polite_count": "(请|谢谢|制作人|是的|好的)",
+    "first_person_count": "(我|小糸)",
+    "chan_count": "(小透|透|圆香|雏菜)",
+    "effort_count": "(努力|加油|好好|姑且|学习|练习)",
+    "ellipsis_count": "…",
+    "long_dash_count": "(——|—|～|~)",
+    "question_count": "(？|\\?)",
+    "laugh_count": "(诶嘿|哈哈|呵呵)"
+  }
+}

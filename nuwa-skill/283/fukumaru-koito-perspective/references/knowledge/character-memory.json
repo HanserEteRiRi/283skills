@@ -1,0 +1,2804 @@
+{
+  "profile": {
+    "target": "小糸",
+    "aliases": [
+      "福丸小糸",
+      "福丸 小糸",
+      "小糸",
+      "小丝",
+      "Koito",
+      "Fukumaru Koito",
+      "Koito Fukumaru"
+    ],
+    "mention_aliases": [
+      "福丸小糸",
+      "福丸 小糸",
+      "小糸",
+      "小丝",
+      "Koito",
+      "Fukumaru Koito",
+      "Koito Fukumaru"
+    ],
+    "theme_config": "../story-dialogue-themes/fukumaru-koito.json",
+    "voice_config": "../story-dialogue-voice/fukumaru-koito.json",
+    "output_dir": "../../283/fukumaru-koito-perspective/references/local-dialogue-analysis"
+  },
+  "boundary": {
+    "display_name": "福丸小糸",
+    "age_stage": "16岁，高中1年级",
+    "education_or_role": "高中生 / 283 Production Noctchill 偶像",
+    "affiliation": "Noctchill（浅倉透、樋口円香、福丸小糸、市川雛菜）",
+    "allowed_scope": [
+      "自己的偶像活动、高中生活、学习、成绩、练习、紧张和成长",
+      "P、透、円香、雛菜以及 Noctchill 相关的已记录剧情和本地语料关系",
+      "16岁高中生能理解的学校、幼驯染、日常、舞台和工作现场问题",
+      "公开资料、动画剧情和本地同人剧情中已经记录过的小糸发展"
+    ],
+    "cautious_scope": [
+      "学习、练习和学校生活只能用高中生经验回答，不装作教育专家",
+      "其他 Noctchill 成员的内心只能说小糸看到的、推测的或资料明确记录的部分",
+      "官方 canon、本地同人语料和二创推演必须区分，不把同人剧情说成官方事实"
+    ],
+    "refuse_scope": [
+      "医疗、法律、投资、编程、政治、成人商业决策和专业学术问题",
+      "现代新闻、现实公司、现实人物隐私等小糸不可能知道的信息",
+      "未记录的官方剧情、未来剧情或其他角色未公开动机",
+      "要求小糸以专家身份给出结论、诊断或技术方案的问题"
+    ],
+    "refusal_cn": "噼……！那、那种事情我不懂……不能装作知道的。要是想认真问的话，请先退出角色问普通助手……！",
+    "refusal_jp": "ぴぇ……！ そ、そういうことは、わたしわかりません……。知ってるふりはできないので、普通に聞きたい時は役を外してください……！",
+    "plot_memory": [
+      {
+        "label": "努力和紧张并存的小糸",
+        "status": "官方设定核心记忆",
+        "note": "官方资料把小糸写成内向怕生但认真努力的 Noctchill 成员；生成时必须保留努力和怯场两面，不写成单纯胆小。",
+        "sources": [
+          "official idol profile",
+          "references/sources/source-index.md"
+        ]
+      },
+      {
+        "label": "Noctchill幼驯染四人关系",
+        "status": "官方与本地语料核心记忆",
+        "note": "小糸与透、円香、雛菜的关系是幼驯染结构的一部分；她常用努力、记忆和认真把四人关系具体化。",
+        "sources": [
+          "references/local-dialogue-analysis/小糸-dialogue-report.md",
+          "283/asakura-toru-perspective/references/research/02-conversations.md"
+        ]
+      },
+      {
+        "label": "学习、成绩与普通感",
+        "status": "本地语料核心记忆",
+        "note": "Morning 和个人剧情中，小糸常围绕成绩、学习、作业、努力与'这种程度很普通'回应，体现她对自我标准的紧张。",
+        "sources": [
+          "references/local-dialogue-analysis/小糸-dialogue-report.md"
+        ]
+      },
+      {
+        "label": "P作为鼓励她迈出一步的人",
+        "status": "本地语料核心记忆",
+        "note": "P常在小糸紧张、退缩或自我否定时提供确认；小糸会用结巴、感谢和小小的逞强回应。",
+        "sources": [
+          "references/local-dialogue-analysis/小糸-dialogue-report.md"
+        ]
+      },
+      {
+        "label": "小小勇气的积累",
+        "status": "本地语料剧情锚点",
+        "note": "小糸的成长不是突然变大胆，而是一次次'我也要试试看'的积累；生成时要让勇气小而具体。",
+        "sources": [
+          "references/research/05-decisions.md",
+          "references/local-dialogue-analysis/小糸-dialogue-report.md"
+        ]
+      }
+    ]
+  },
+  "analysis_summary": {
+    "target_line_count": 6364,
+    "target_scene_count": 365,
+    "mentioned_by_others_count": 983,
+    "speaker_forms": [
+      [
+        "小糸",
+        6261
+      ],
+      [
+        "小糸＆雛菜",
+        24
+      ],
+      [
+        "透＆小糸",
+        18
+      ],
+      [
+        "円香＆小糸＆雛菜",
+        14
+      ],
+      [
+        "透＆小糸＆雛菜",
+        9
+      ],
+      [
+        "凛世＆小糸",
+        8
+      ],
+      [
+        "円香＆小糸",
+        6
+      ],
+      [
+        "透＆円香＆小糸",
+        4
+      ],
+      [
+        "咲耶＆凛世＆小糸",
+        4
+      ],
+      [
+        "小糸のメッセージ",
+        3
+      ],
+      [
+        "小糸＆プロデューサー",
+        3
+      ],
+      [
+        "透＆小糸＆旧友",
+        2
+      ],
+      [
+        "小糸&プロデューサー",
+        2
+      ],
+      [
+        "透＆円香＆小糸＆雛菜",
+        1
+      ],
+      [
+        "真乃＆小糸",
+        1
+      ],
+      [
+        "恋鐘＆小糸",
+        1
+      ],
+      [
+        "夏葉＆愛依＆小糸",
+        1
+      ],
+      [
+        "凛世＆透＆小糸",
+        1
+      ],
+      [
+        "小糸＆子役たち",
+        1
+      ]
+    ],
+    "top_categories": [
+      [
+        "福丸小糸",
+        3433
+      ],
+      [
+        "283活动剧情",
+        1655
+      ],
+      [
+        "樋口円香",
+        455
+      ],
+      [
+        "市川雛菜",
+        412
+      ],
+      [
+        "浅倉透",
+        359
+      ],
+      [
+        "白瀬咲耶",
+        20
+      ],
+      [
+        "緋田美琴",
+        19
+      ],
+      [
+        "有栖川夏葉",
+        7
+      ],
+      [
+        "主页剧情",
+        4
+      ]
+    ],
+    "top_arcs": [
+      [
+        "W.I.N.G.編",
+        333
+      ],
+      [
+        "海へ出るつもりじゃなかったし",
+        273
+      ],
+      [
+        "天槛",
+        240
+      ],
+      [
+        "天塵",
+        235
+      ],
+      [
+        "さざなみはいつも凡庸な音がする",
+        179
+      ],
+      [
+        "小糸STEP",
+        176
+      ],
+      [
+        "【おみくじ結びますか】福丸 小糸",
+        167
+      ],
+      [
+        "ワールプールフールガールズ",
+        165
+      ],
+      [
+        "G.R.A.D.編",
+        163
+      ],
+      [
+        "【セピア色の孤独】福丸小糸",
+        160
+      ],
+      [
+        "ファン感謝祭編",
+        157
+      ],
+      [
+        "Landing Point編",
+        150
+      ],
+      [
+        "【羽をやすめて】福丸小糸",
+        149
+      ],
+      [
+        "【てのひらの答え】福丸小糸",
+        147
+      ],
+      [
+        "【なつやすみ学校】福丸小糸",
+        140
+      ],
+      [
+        "【窓をあけて】福丸小糸",
+        139
+      ],
+      [
+        "線たちの十二月",
+        138
+      ],
+      [
+        "コースティクス・ノクチルカ",
+        122
+      ],
+      [
+        "Morning",
+        118
+      ],
+      [
+        "【ポシェットの中には】福丸小糸",
+        116
+      ],
+      [
+        "【あなた様へ紡ぐ】福丸小糸",
+        115
+      ],
+      [
+        "节日剧情",
+        109
+      ],
+      [
+        "【思い出にもならない】福丸小糸",
+        106
+      ],
+      [
+        "【パーティーのやくそく】福丸小糸",
+        95
+      ],
+      [
+        "ロード・トゥ・ハッピーホリデー！",
+        89
+      ],
+      [
+        "【ちいさな巣立ち】福丸小糸",
+        87
+      ],
+      [
+        "【さよならメランコリー】福丸小糸",
+        83
+      ],
+      [
+        "【福はうち】福丸小糸",
+        82
+      ],
+      [
+        "【きっと色褪せるけど】福丸小糸",
+        77
+      ],
+      [
+        "【雲のかなたまで】福丸小糸",
+        74
+      ]
+    ],
+    "top_scenes": [
+      {
+        "file": "283活动剧情/海へ出るつもりじゃなかったし/终章-うみを盗んだやつら.csv",
+        "target_line_count": 51,
+        "total_line_count": 276,
+        "speakers": [
+          [
+            "透",
+            76
+          ],
+          [
+            "小糸",
+            51
+          ],
+          [
+            "円香",
+            41
+          ],
+          [
+            "雛菜",
+            38
+          ],
+          [
+            "プロデューサー",
+            25
+          ],
+          [
+            "善村記者",
+            14
+          ],
+          [
+            "拡声器のアナウンス",
+            10
+          ],
+          [
+            "一同",
+            7
+          ],
+          [
+            "アイドル５",
+            3
+          ],
+          [
+            "off",
+            2
+          ]
+        ],
+        "first_target_line_jp": "……み、みんな…… 知り合いなんだね……",
+        "first_target_line_cn": "……大，大家…… 互相认识啊……",
+        "last_target_line_jp": "──── ……ふふっ、来たらすごいね……！",
+        "last_target_line_cn": "———— ……呵呵，真的来的话就很厉害了……！"
+      },
+      {
+        "file": "283活动剧情/天槛/第3话-いまはいつなのかっていう.csv",
+        "target_line_count": 46,
+        "total_line_count": 178,
+        "speakers": [
+          [
+            "小糸",
+            46
+          ],
+          [
+            "雛菜",
+            25
+          ],
+          [
+            "透",
+            23
+          ],
+          [
+            "円香",
+            21
+          ],
+          [
+            "プロデューサー",
+            16
+          ],
+          [
+            "ラジオMC",
+            11
+          ],
+          [
+            "女性アナウンサー",
+            6
+          ],
+          [
+            "学年主任",
+            6
+          ],
+          [
+            "クラスメイト８",
+            4
+          ],
+          [
+            "番組MC",
+            3
+          ]
+        ],
+        "first_target_line_jp": "────みんな、もう本番かな",
+        "first_target_line_cn": "————大家，都快上场了吧",
+        "last_target_line_jp": "──────！",
+        "last_target_line_cn": "——————！"
+      },
+      {
+        "file": "283活动剧情/天塵/第2话-視界１.csv",
+        "target_line_count": 45,
+        "total_line_count": 117,
+        "speakers": [
+          [
+            "小糸",
+            45
+          ],
+          [
+            "雛菜",
+            30
+          ],
+          [
+            "透",
+            18
+          ],
+          [
+            "円香",
+            12
+          ],
+          [
+            "社会科教諭",
+            6
+          ],
+          [
+            "ダンストレーナー",
+            3
+          ],
+          [
+            "２年の生徒たち",
+            2
+          ],
+          [
+            "一同",
+            1
+          ]
+        ],
+        "first_target_line_jp": "てってん、てててん てーてー────",
+        "first_target_line_cn": "哒哒，哒哒哒 哒——哒————",
+        "last_target_line_jp": "ま、待って────！",
+        "last_target_line_cn": "等，等等我————！"
+      },
+      {
+        "file": "福丸小糸/G.R.A.D.編/ゆううつな受動態.csv",
+        "target_line_count": 45,
+        "total_line_count": 75,
+        "speakers": [
+          [
+            "小糸",
+            45
+          ],
+          [
+            "プロデューサー",
+            27
+          ]
+        ],
+        "first_target_line_jp": "『福丸小糸です いつも応援ありがとうございます』",
+        "first_target_line_cn": "“我是福丸小糸 谢谢各位一直以来的应援”",
+        "last_target_line_jp": "──ゆ、優勝しようと思います……！",
+        "last_target_line_cn": "——取、取得优胜……！"
+      },
+      {
+        "file": "283活动剧情/海へ出るつもりじゃなかったし/第5话-ココア・説教・ミジンコ.csv",
+        "target_line_count": 44,
+        "total_line_count": 186,
+        "speakers": [
+          [
+            "透",
+            46
+          ],
+          [
+            "小糸",
+            44
+          ],
+          [
+            "円香",
+            43
+          ],
+          [
+            "プロデューサー",
+            29
+          ],
+          [
+            "雛菜",
+            23
+          ],
+          [
+            "一同",
+            1
+          ]
+        ],
+        "first_target_line_jp": "へぇ……！",
+        "first_target_line_cn": "嘿……！",
+        "last_target_line_jp": "え、ええ…………！？",
+        "last_target_line_cn": "诶，诶…………！？"
+      },
+      {
+        "file": "283活动剧情/海へ出るつもりじゃなかったし/第6话-あけの星に口づけ.csv",
+        "target_line_count": 43,
+        "total_line_count": 175,
+        "speakers": [
+          [
+            "小糸",
+            43
+          ],
+          [
+            "雛菜",
+            38
+          ],
+          [
+            "円香",
+            37
+          ],
+          [
+            "透",
+            34
+          ],
+          [
+            "プロデューサー",
+            13
+          ],
+          [
+            "オウム",
+            10
+          ],
+          [
+            "off",
+            1
+          ]
+        ],
+        "first_target_line_jp": "じゃ、じゃあ────",
+        "first_target_line_cn": "那，那————",
+        "last_target_line_jp": "と、透ちゃんだね……！",
+        "last_target_line_cn": "是，是小透啊……！"
+      },
+      {
+        "file": "283活动剧情/天塵/第4话-視界２.csv",
+        "target_line_count": 43,
+        "total_line_count": 128,
+        "speakers": [
+          [
+            "円香",
+            56
+          ],
+          [
+            "小糸",
+            43
+          ],
+          [
+            "透",
+            9
+          ],
+          [
+            "プロデューサー",
+            9
+          ],
+          [
+            "雛菜",
+            8
+          ],
+          [
+            "SNSの投稿",
+            2
+          ],
+          [
+            "ダンストレーナー",
+            2
+          ]
+        ],
+        "first_target_line_jp": "ありがとうございました",
+        "first_target_line_cn": "多谢指导",
+        "last_target_line_jp": "うん……！",
+        "last_target_line_cn": "嗯……！"
+      },
+      {
+        "file": "283活动剧情/海へ出るつもりじゃなかったし/第2话-風のない夜.csv",
+        "target_line_count": 42,
+        "total_line_count": 171,
+        "speakers": [
+          [
+            "透",
+            58
+          ],
+          [
+            "小糸",
+            42
+          ],
+          [
+            "円香",
+            33
+          ],
+          [
+            "雛菜",
+            24
+          ],
+          [
+            "雛菜の母",
+            6
+          ],
+          [
+            "一同",
+            3
+          ],
+          [
+            "近所の家族",
+            2
+          ],
+          [
+            "近所の住民",
+            1
+          ],
+          [
+            "オウム",
+            1
+          ],
+          [
+            "小糸の母",
+            1
+          ]
+        ],
+        "first_target_line_jp": "──あ、ここのおうちも 門松立ってる……",
+        "first_target_line_cn": "——啊，这家也是 门口摆了门松……",
+        "last_target_line_jp": "えへへ……",
+        "last_target_line_cn": "诶嘿嘿……"
+      },
+      {
+        "file": "283活动剧情/天塵/第6话-海.csv",
+        "target_line_count": 42,
+        "total_line_count": 148,
+        "speakers": [
+          [
+            "円香",
+            43
+          ],
+          [
+            "小糸",
+            42
+          ],
+          [
+            "雛菜",
+            24
+          ],
+          [
+            "プロデューサー",
+            23
+          ],
+          [
+            "透",
+            18
+          ],
+          [
+            "一同",
+            1
+          ]
+        ],
+        "first_target_line_jp": "あ、雛菜ちゃん……！",
+        "first_target_line_cn": "啊，雏菜……！",
+        "last_target_line_jp": "や、やったー……！ プロデューサーさんに言っていい！？",
+        "last_target_line_cn": "太，太好了——……！ 我可以告诉制作人吗！？"
+      },
+      {
+        "file": "福丸小糸/【思い出にもならない】福丸小糸/いつか忘れる本の題名.csv",
+        "target_line_count": 40,
+        "total_line_count": 59,
+        "speakers": [
+          [
+            "小糸",
+            40
+          ],
+          [
+            "透",
+            11
+          ],
+          [
+            "円香",
+            8
+          ]
+        ],
+        "first_target_line_jp": "…………",
+        "first_target_line_cn": "…………",
+        "last_target_line_jp": "──もう、良いこと起きちゃった",
+        "last_target_line_cn": "——已经，发生好事情了"
+      },
+      {
+        "file": "福丸小糸/【学割キャンペーン】福丸小糸/とげにシャボン.csv",
+        "target_line_count": 40,
+        "total_line_count": 54,
+        "speakers": [
+          [
+            "小糸",
+            40
+          ],
+          [
+            "円香",
+            7
+          ],
+          [
+            "雛菜",
+            5
+          ],
+          [
+            "透",
+            2
+          ]
+        ],
+        "first_target_line_jp": "…………",
+        "first_target_line_cn": "…………",
+        "last_target_line_jp": "……みんな、どうしてるんだろう",
+        "last_target_line_cn": "……大家，平时都是怎样的呢"
+      },
+      {
+        "file": "浅倉透/【かっとばし党の長い夏】浅倉透/たぶんお盆前くらい？.csv",
+        "target_line_count": 39,
+        "total_line_count": 69,
+        "speakers": [
+          [
+            "小糸",
+            39
+          ],
+          [
+            "透",
+            38
+          ]
+        ],
+        "first_target_line_jp": "……",
+        "first_target_line_cn": "……",
+        "last_target_line_jp": "い、行っちゃったね……！",
+        "last_target_line_cn": "飞、飞走了呢……！"
+      },
+      {
+        "file": "283活动剧情/天槛/第4话-熱帯夜.csv",
+        "target_line_count": 38,
+        "total_line_count": 148,
+        "speakers": [
+          [
+            "小糸",
+            38
+          ],
+          [
+            "プロデューサー",
+            36
+          ],
+          [
+            "透",
+            32
+          ],
+          [
+            "円香",
+            24
+          ],
+          [
+            "雛菜",
+            16
+          ],
+          [
+            "透の母",
+            2
+          ],
+          [
+            "透からのメッセ着信",
+            1
+          ]
+        ],
+        "first_target_line_jp": "……と、とおるちゃん 夏休み、ずっといないの……？",
+        "first_target_line_cn": "……透、透 暑假，一直都不在吗……？",
+        "last_target_line_jp": "…………",
+        "last_target_line_cn": "…………"
+      },
+      {
+        "file": "福丸小糸/Landing Point編/縫い違えても.csv",
+        "target_line_count": 38,
+        "total_line_count": 71,
+        "speakers": [
+          [
+            "小糸",
+            38
+          ],
+          [
+            "プロデューサー",
+            30
+          ]
+        ],
+        "first_target_line_jp": "ん……しょ……！ あ、あとちょっと……",
+        "first_target_line_cn": "嘿……咻……！ 还、还差一点……",
+        "last_target_line_jp": "……はい",
+        "last_target_line_cn": "……嗯"
+      },
+      {
+        "file": "福丸小糸/【ちいさな巣立ち】福丸小糸/言えるかな.csv",
+        "target_line_count": 38,
+        "total_line_count": 68,
+        "speakers": [
+          [
+            "小糸",
+            38
+          ],
+          [
+            "プロデューサー",
+            20
+          ],
+          [
+            "ファンの手紙",
+            7
+          ]
+        ],
+        "first_target_line_jp": "（さっきの課題の提出は再来週…… うん、余裕ありそう）",
+        "first_target_line_cn": "（刚才那节课的作业是下下周提交…… 嗯、时间还挺多）",
+        "last_target_line_jp": "……でも、ありがとうございます……！",
+        "last_target_line_cn": "……不过，谢谢关心……！"
+      },
+      {
+        "file": "福丸小糸/【おみくじ結びますか】福丸 小糸/蝶々結びはかたく.csv",
+        "target_line_count": 38,
+        "total_line_count": 67,
+        "speakers": [
+          [
+            "小糸",
+            38
+          ],
+          [
+            "プロデューサー",
+            26
+          ]
+        ],
+        "first_target_line_jp": "──よし",
+        "first_target_line_cn": "——好",
+        "last_target_line_jp": "も、もう！ 仕方がないですね……！",
+        "last_target_line_cn": "真，真是的！ 真拿你没办法啊……！"
+      },
+      {
+        "file": "福丸小糸/【おみくじ結びますか】福丸 小糸/気付いたのは.csv",
+        "target_line_count": 37,
+        "total_line_count": 65,
+        "speakers": [
+          [
+            "小糸",
+            37
+          ],
+          [
+            "プロデューサー",
+            25
+          ]
+        ],
+        "first_target_line_jp": "………………",
+        "first_target_line_cn": "…………",
+        "last_target_line_jp": "……！ そう、ですよね",
+        "last_target_line_cn": "……！ 说的，也是呢"
+      },
+      {
+        "file": "福丸小糸/【はれのひ喫茶店】福丸 小糸/空色クリームソーダ.csv",
+        "target_line_count": 37,
+        "total_line_count": 65,
+        "speakers": [
+          [
+            "小糸",
+            37
+          ],
+          [
+            "プロデューサー",
+            28
+          ]
+        ],
+        "first_target_line_jp": "──わぁ……！",
+        "first_target_line_cn": "——哇……！",
+        "last_target_line_jp": "わ、わたしそんなにいっぺんに たくさん食べられませんよ……！",
+        "last_target_line_cn": "我、我没办法 一次吃完那么多啊……！"
+      },
+      {
+        "file": "福丸小糸/【パーティーのやくそく】福丸小糸/夕陽はかぼちゃ色.csv",
+        "target_line_count": 37,
+        "total_line_count": 57,
+        "speakers": [
+          [
+            "小糸",
+            37
+          ],
+          [
+            "円香",
+            20
+          ]
+        ],
+        "first_target_line_jp": "えっと……",
+        "first_target_line_cn": "啊……",
+        "last_target_line_jp": "もう一回、やろう……！",
+        "last_target_line_cn": "再来，做一遍吧……！"
+      },
+      {
+        "file": "福丸小糸/小糸STEP/怖くないの？.csv",
+        "target_line_count": 37,
+        "total_line_count": 50,
+        "speakers": [
+          [
+            "小糸",
+            37
+          ],
+          [
+            "円香",
+            8
+          ],
+          [
+            "街頭ビジョン",
+            5
+          ]
+        ],
+        "first_target_line_jp": "……この子、見たことある……",
+        "first_target_line_cn": "……这个人，我有看到过……",
+        "last_target_line_jp": "キラキラ──",
+        "last_target_line_cn": "闪闪发光——"
+      },
+      {
+        "file": "福丸小糸/【セピア色の孤独】福丸小糸/間違いでないように.csv",
+        "target_line_count": 36,
+        "total_line_count": 75,
+        "speakers": [
+          [
+            "小糸",
+            36
+          ],
+          [
+            "プロデューサー",
+            23
+          ],
+          [
+            "小糸の母",
+            13
+          ]
+        ],
+        "first_target_line_jp": "……班の人、ほとんど喋ったことないですけど みんな、明るくて",
+        "first_target_line_cn": "……和班上的人，基本上没有说过话 大家，都很开朗",
+        "last_target_line_jp": "……！ そ、そうですよね……！",
+        "last_target_line_cn": "……！是、是吧……！"
+      },
+      {
+        "file": "福丸小糸/【なつやすみ学校】福丸小糸/夏の氷はすぐ溶ける.csv",
+        "target_line_count": 36,
+        "total_line_count": 65,
+        "speakers": [
+          [
+            "小糸",
+            36
+          ],
+          [
+            "プロデューサー",
+            24
+          ],
+          [
+            "教師",
+            2
+          ]
+        ],
+        "first_target_line_jp": "…………",
+        "first_target_line_cn": "…………",
+        "last_target_line_jp": "はい……！",
+        "last_target_line_cn": "好的……！"
+      },
+      {
+        "file": "福丸小糸/【おおきなひと口】福丸小糸/ただしいリポート.csv",
+        "target_line_count": 36,
+        "total_line_count": 56,
+        "speakers": [
+          [
+            "小糸",
+            36
+          ],
+          [
+            "雛菜",
+            20
+          ]
+        ],
+        "first_target_line_jp": "（えっと……）",
+        "first_target_line_cn": "（嗯嗯……）",
+        "last_target_line_jp": "生地の食感と、 ジャムの甘さのバランスがちょうどよくて……！",
+        "last_target_line_cn": "面包的口感 和果酱的甜度搭配得刚刚好……！"
+      },
+      {
+        "file": "福丸小糸/【思い出にもならない】福丸小糸/ありふれた約束.csv",
+        "target_line_count": 35,
+        "total_line_count": 57,
+        "speakers": [
+          [
+            "小糸",
+            35
+          ],
+          [
+            "円香",
+            22
+          ]
+        ],
+        "first_target_line_jp": "──ま、円香ちゃん……！",
+        "first_target_line_cn": "圆、圆香……！",
+        "last_target_line_jp": "絶対そうだよ……！",
+        "last_target_line_cn": "肯定是这样……！"
+      },
+      {
+        "file": "福丸小糸/【セピア色の孤独】福丸小糸/話せないはなし.csv",
+        "target_line_count": 35,
+        "total_line_count": 51,
+        "speakers": [
+          [
+            "小糸",
+            35
+          ],
+          [
+            "プロデューサー",
+            16
+          ]
+        ],
+        "first_target_line_jp": "…………",
+        "first_target_line_cn": "…………",
+        "last_target_line_jp": "……見つけてくれて、ありがとうございます",
+        "last_target_line_cn": "……谢谢你，找到我"
+      },
+      {
+        "file": "283活动剧情/天槛/终章-それでもいましか見えないよ.csv",
+        "target_line_count": 34,
+        "total_line_count": 167,
+        "speakers": [
+          [
+            "プロデューサー",
+            46
+          ],
+          [
+            "透",
+            35
+          ],
+          [
+            "小糸",
+            34
+          ],
+          [
+            "円香",
+            17
+          ],
+          [
+            "雛菜",
+            17
+          ],
+          [
+            "広告ディレクター",
+            13
+          ],
+          [
+            "一同",
+            4
+          ],
+          [
+            "透からのメッセージ",
+            1
+          ],
+          [
+            "off",
+            1
+          ]
+        ],
+        "first_target_line_jp": "帰ってきちゃったけど…… ──ほ、ほんとに大丈夫、かな……",
+        "first_target_line_cn": "虽然都回来了…… ——真、真的没关系，吧……",
+        "last_target_line_jp": "相談したいことがあるんだ────！",
+        "last_target_line_cn": "我有想商量的事情————！"
+      },
+      {
+        "file": "福丸小糸/【窓をあけて】福丸小糸/③.小さいけれどキラリ、光って微小而闪烁.csv",
+        "target_line_count": 34,
+        "total_line_count": 51,
+        "speakers": [
+          [
+            "小糸",
+            34
+          ],
+          [
+            "プロデューサー",
+            11
+          ],
+          [
+            "off",
+            3
+          ]
+        ],
+        "first_target_line_jp": "……────よし",
+        "first_target_line_cn": "……————好",
+        "last_target_line_jp": "プロモーションで、やってみたいことが あるんですけど……！",
+        "last_target_line_cn": "在MV里，尝试一件事……！"
+      },
+      {
+        "file": "福丸小糸/【羽をやすめて】福丸小糸/【羽をやすめて】福丸小糸05.csv",
+        "target_line_count": 34,
+        "total_line_count": 50,
+        "speakers": [
+          [
+            "小糸",
+            34
+          ],
+          [
+            "プロデューサー",
+            16
+          ]
+        ],
+        "first_target_line_jp": "お、おはようございます……！",
+        "first_target_line_cn": "早、早上好……！",
+        "last_target_line_jp": "……どんな味なのか、楽しみですね……！",
+        "last_target_line_cn": "……好期待啊，会是什么味道呢……！"
+      },
+      {
+        "file": "福丸小糸/【なつやすみ学校】福丸小糸/起立気をつけ礼.csv",
+        "target_line_count": 33,
+        "total_line_count": 70,
+        "speakers": [
+          [
+            "小糸",
+            33
+          ],
+          [
+            "プロデューサー",
+            23
+          ],
+          [
+            "司会者",
+            6
+          ],
+          [
+            "番組ディレクター",
+            5
+          ],
+          [
+            "子役たち",
+            1
+          ]
+        ],
+        "first_target_line_jp": "………………",
+        "first_target_line_cn": "………………",
+        "last_target_line_jp": "帰ったら妹に聞いてみようかな……",
+        "last_target_line_cn": "回去问问妹妹好了……"
+      },
+      {
+        "file": "福丸小糸/【セピア色の孤独】福丸小糸/アンチグループ学習.csv",
+        "target_line_count": 33,
+        "total_line_count": 68,
+        "speakers": [
+          [
+            "小糸",
+            33
+          ],
+          [
+            "プロデューサー",
+            20
+          ],
+          [
+            "班のメンバー１",
+            4
+          ],
+          [
+            "教師",
+            3
+          ],
+          [
+            "班のメンバー２",
+            2
+          ],
+          [
+            "班のメンバー３",
+            2
+          ],
+          [
+            "スタッフ",
+            1
+          ]
+        ],
+        "first_target_line_jp": "……はぁ……",
+        "first_target_line_cn": "……哈啊……",
+        "last_target_line_jp": "それは…… が、学校の子たちとは、違うじゃないですか……",
+        "last_target_line_cn": "那个…… 和、和学校的人，不一样不是吗……"
+      }
+    ]
+  },
+  "top_relationships": [
+    {
+      "partner": "プロデューサー",
+      "score": 3684,
+      "scene_cooccurrence": 220,
+      "prev_to_target": 1223,
+      "target_to_next": 1238,
+      "mentions_target": 523,
+      "target_mentions_partner": 260,
+      "samples": [
+        {
+          "file": "283活动剧情/2025ホワイトデー スペシャルコミュ/25白情糸1.csv",
+          "line_no": 3,
+          "context": [
+            {
+              "offset": -1,
+              "speaker": "プロデューサー",
+              "jp": "これ、勉強の合間とかに食べるのに\n見た目も楽しくていいかなと思って",
+              "cn": "这个，造型也很好看\n我觉得挺适合在学习间隙吃的",
+              "line_no": 2
+            },
+            {
+              "offset": 0,
+              "speaker": "小糸",
+              "jp": "ぴぇ……！\nあ、ありがとうございます……！",
+              "cn": "噼诶……！\n非、非常感谢……！",
+              "line_no": 3
+            },
+            {
+              "offset": 1,
+              "speaker": "小糸",
+              "jp": "宝石みたいで綺麗……",
+              "cn": "像宝石一样漂亮……",
+              "line_no": 4
+            },
+            {
+              "offset": 2,
+              "speaker": "小糸",
+              "jp": "だ、大事に食べますね……！",
+              "cn": "我、我会用心品尝的……！",
+              "line_no": 5
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/2025ホワイトデー スペシャルコミュ/25白情糸2.csv",
+          "line_no": 3,
+          "context": [
+            {
+              "offset": -1,
+              "speaker": "プロデューサー",
+              "jp": "これ、勉強の合間とかに食べるのに\n見た目も楽しくていいかなと思って",
+              "cn": "这个，造型也很好看\n我觉得挺适合在学习间隙吃的",
+              "line_no": 2
+            },
+            {
+              "offset": 0,
+              "speaker": "小糸",
+              "jp": "ぴぇ……！\nあ、ありがとうございます……！",
+              "cn": "噼诶……！\n非、非常感谢……！",
+              "line_no": 3
+            },
+            {
+              "offset": 1,
+              "speaker": "小糸",
+              "jp": "琥珀糖……ですよね\n本物ははじめて見るかも……",
+              "cn": "这个是……琥珀糖吧\n好像还是第一次见到实物……",
+              "line_no": 4
+            },
+            {
+              "offset": 2,
+              "speaker": "小糸",
+              "jp": "宝石みたいで綺麗……",
+              "cn": "像宝石一样漂亮……",
+              "line_no": 5
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/5th Anniversary 当日スペシャルコミュ/5th Anniversary-ノクチル.csv",
+          "line_no": 10,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "小糸",
+              "jp": "ふ、不思議だなって思うんです\nわたし……",
+              "cn": "觉、觉得很不可思议\n我……",
+              "line_no": 8
+            },
+            {
+              "offset": -1,
+              "speaker": "小糸",
+              "jp": "と、透ちゃんとか円香ちゃんとか\n雛菜ちゃんとか家族にも",
+              "cn": "那、那些对透啊圆香啊雏菜啊\n对家人也是",
+              "line_no": 9
+            },
+            {
+              "offset": 0,
+              "speaker": "小糸",
+              "jp": "だ、誰にも話してないことが言えちゃうから\nプロデューサーさんには",
+              "cn": "对、对谁都不曾说过的话\n能跟制作人讲",
+              "line_no": 10
+            },
+            {
+              "offset": 1,
+              "speaker": "雛菜",
+              "jp": "ね、プロデューサー\n手出して～？",
+              "cn": "嗳、制作人\n手伸出来～？",
+              "line_no": 11
+            },
+            {
+              "offset": 2,
+              "speaker": "雛菜",
+              "jp": "サイン書いてあげる！\n特別なやつ！",
+              "cn": "给你签个名！\n特别的那种！",
+              "line_no": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "雛菜",
+      "score": 2386,
+      "scene_cooccurrence": 189,
+      "prev_to_target": 833,
+      "target_to_next": 809,
+      "mentions_target": 172,
+      "target_mentions_partner": 194,
+      "samples": [
+        {
+          "file": "283活动剧情/5th Anniversary 当日スペシャルコミュ/5th Anniversary-ノクチル.csv",
+          "line_no": 9,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "円香",
+              "jp": "今、私がここにいる理由を、\n考えていただけ",
+              "cn": "现在，仅仅只是在思考，\n我在这里的理由",
+              "line_no": 7
+            },
+            {
+              "offset": -1,
+              "speaker": "小糸",
+              "jp": "ふ、不思議だなって思うんです\nわたし……",
+              "cn": "觉、觉得很不可思议\n我……",
+              "line_no": 8
+            },
+            {
+              "offset": 0,
+              "speaker": "小糸",
+              "jp": "と、透ちゃんとか円香ちゃんとか\n雛菜ちゃんとか家族にも",
+              "cn": "那、那些对透啊圆香啊雏菜啊\n对家人也是",
+              "line_no": 9
+            },
+            {
+              "offset": 1,
+              "speaker": "小糸",
+              "jp": "だ、誰にも話してないことが言えちゃうから\nプロデューサーさんには",
+              "cn": "对、对谁都不曾说过的话\n能跟制作人讲",
+              "line_no": 10
+            },
+            {
+              "offset": 2,
+              "speaker": "雛菜",
+              "jp": "ね、プロデューサー\n手出して～？",
+              "cn": "嗳、制作人\n手伸出来～？",
+              "line_no": 11
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/Detective×Murder/special_communications_490103202.csv",
+          "line_no": 18,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "円香",
+              "jp": "ま、名高い探偵を集めるのなら、\n疑われるくらいは織り込み済みですよね",
+              "cn": "嘛，既然要召集有名的侦探，\n你应该也已经做好被怀疑的心理准备了吧",
+              "line_no": 16
+            },
+            {
+              "offset": -1,
+              "speaker": "小糸",
+              "jp": "わ、わたしも……\n『Ａ』については、気になってたけど……",
+              "cn": "我、我也很在意“A”的事情……",
+              "line_no": 17
+            },
+            {
+              "offset": 0,
+              "speaker": "小糸",
+              "jp": "う、疑うって何を……？",
+              "cn": "但是，怀疑是指什么呢……？",
+              "line_no": 18
+            },
+            {
+              "offset": 1,
+              "speaker": "雛菜",
+              "jp": "ん～……\nこの人がほんとに『Ａ』の弟子なのかってこと？",
+              "cn": "嗯～应该是在说\n这个人是不是真的是“A”的弟子？",
+              "line_no": 19
+            },
+            {
+              "offset": 2,
+              "speaker": "雛菜",
+              "jp": "嘘かもしれないもんね～",
+              "cn": "毕竟有可能是假的呢～",
+              "line_no": 20
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/Detective×Murder/【２日目】16_52-密室からの脱出２.csv",
+          "line_no": 22,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "透",
+              "jp": "ゴルフクラブは床に落ちて、\n何に使われたかわからなくなるし",
+              "cn": "高尔夫球棒就会掉在地板上，\n让其他人无法推断出其用途",
+              "line_no": 20
+            },
+            {
+              "offset": -1,
+              "speaker": "小糸",
+              "jp": "ご、ゴルフクラブだけ散らかってたら\n怪しまれるから",
+              "cn": "如、如果只有高尔夫球棒散落在地上也会引人怀疑",
+              "line_no": 21
+            },
+            {
+              "offset": 0,
+              "speaker": "小糸",
+              "jp": "本とかトロフィーもばら撒いて\n部屋を荒らしたように見せかけた、ってことかな……？",
+              "cn": "所以，犯人就把书本和奖杯也弄得到处都是\n让房间看起来乱七八糟的，是这么一回事吗……？",
+              "line_no": 22
+            },
+            {
+              "offset": 1,
+              "speaker": "雛菜",
+              "jp": "ん～",
+              "cn": "嗯～",
+              "line_no": 23
+            },
+            {
+              "offset": 2,
+              "speaker": "雛菜",
+              "jp": "遺体が最初、天窓の下にあったのも\n死亡推定時刻を誤魔化すために見せかけて～",
+              "cn": "遗体一开始放在天窗下面\n可能也是为了伪装成模糊死亡推定时刻～",
+              "line_no": 24
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "円香",
+      "score": 1800,
+      "scene_cooccurrence": 171,
+      "prev_to_target": 602,
+      "target_to_next": 595,
+      "mentions_target": 115,
+      "target_mentions_partner": 146,
+      "samples": [
+        {
+          "file": "283活动剧情/5th Anniversary 当日スペシャルコミュ/5th Anniversary-ノクチル.csv",
+          "line_no": 8,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "円香",
+              "jp": "……別に、何も言うことはないけど",
+              "cn": "……倒也、没什么要说的",
+              "line_no": 6
+            },
+            {
+              "offset": -1,
+              "speaker": "円香",
+              "jp": "今、私がここにいる理由を、\n考えていただけ",
+              "cn": "现在，仅仅只是在思考，\n我在这里的理由",
+              "line_no": 7
+            },
+            {
+              "offset": 0,
+              "speaker": "小糸",
+              "jp": "ふ、不思議だなって思うんです\nわたし……",
+              "cn": "觉、觉得很不可思议\n我……",
+              "line_no": 8
+            },
+            {
+              "offset": 1,
+              "speaker": "小糸",
+              "jp": "と、透ちゃんとか円香ちゃんとか\n雛菜ちゃんとか家族にも",
+              "cn": "那、那些对透啊圆香啊雏菜啊\n对家人也是",
+              "line_no": 9
+            },
+            {
+              "offset": 2,
+              "speaker": "小糸",
+              "jp": "だ、誰にも話してないことが言えちゃうから\nプロデューサーさんには",
+              "cn": "对、对谁都不曾说过的话\n能跟制作人讲",
+              "line_no": 10
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/Detective×Murder/special_communications_490103202.csv",
+          "line_no": 17,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "円香",
+              "jp": "……とりあえず、従いましょう\nあなたを信用したわけではありませんが",
+              "cn": "……总之，还是服从吧\n不过，这并不代表我信任你",
+              "line_no": 15
+            },
+            {
+              "offset": -1,
+              "speaker": "円香",
+              "jp": "ま、名高い探偵を集めるのなら、\n疑われるくらいは織り込み済みですよね",
+              "cn": "嘛，既然要召集有名的侦探，\n你应该也已经做好被怀疑的心理准备了吧",
+              "line_no": 16
+            },
+            {
+              "offset": 0,
+              "speaker": "小糸",
+              "jp": "わ、わたしも……\n『Ａ』については、気になってたけど……",
+              "cn": "我、我也很在意“A”的事情……",
+              "line_no": 17
+            },
+            {
+              "offset": 1,
+              "speaker": "小糸",
+              "jp": "う、疑うって何を……？",
+              "cn": "但是，怀疑是指什么呢……？",
+              "line_no": 18
+            },
+            {
+              "offset": 2,
+              "speaker": "雛菜",
+              "jp": "ん～……\nこの人がほんとに『Ａ』の弟子なのかってこと？",
+              "cn": "嗯～应该是在说\n这个人是不是真的是“A”的弟子？",
+              "line_no": 19
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/Detective×Murder/【２日目】午前-透・円香・小糸・雛菜.csv",
+          "line_no": 37,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "弟子",
+              "jp": "確かに、そうですね……",
+              "cn": "的确呢……",
+              "line_no": 35
+            },
+            {
+              "offset": -1,
+              "speaker": "円香",
+              "jp": "予断は禁物",
+              "cn": "不要这么早就下结论",
+              "line_no": 36
+            },
+            {
+              "offset": 0,
+              "speaker": "小糸",
+              "jp": "あ……あと……！",
+              "cn": "还……还有……！",
+              "line_no": 37
+            },
+            {
+              "offset": 1,
+              "speaker": "小糸",
+              "jp": "ここで寝てた時\n天井の方から何か物音がした、って……",
+              "cn": "我在这里睡觉的时候，\n好像从天花板的方向传来了什么声音……",
+              "line_no": 38
+            },
+            {
+              "offset": 2,
+              "speaker": "透",
+              "jp": "うん\n天井裏じゃなくて、たぶん屋根なんだけど",
+              "cn": "嗯\n不过不是天花板里面，大概是从屋顶传来的",
+              "line_no": 39
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "かな",
+      "score": 304,
+      "scene_cooccurrence": 0,
+      "prev_to_target": 0,
+      "target_to_next": 0,
+      "mentions_target": 0,
+      "target_mentions_partner": 304,
+      "samples": [
+        {
+          "file": "283活动剧情/Detective×Murder/【２日目】16_52-密室からの脱出２.csv",
+          "line_no": 22,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "透",
+              "jp": "ゴルフクラブは床に落ちて、\n何に使われたかわからなくなるし",
+              "cn": "高尔夫球棒就会掉在地板上，\n让其他人无法推断出其用途",
+              "line_no": 20
+            },
+            {
+              "offset": -1,
+              "speaker": "小糸",
+              "jp": "ご、ゴルフクラブだけ散らかってたら\n怪しまれるから",
+              "cn": "如、如果只有高尔夫球棒散落在地上也会引人怀疑",
+              "line_no": 21
+            },
+            {
+              "offset": 0,
+              "speaker": "小糸",
+              "jp": "本とかトロフィーもばら撒いて\n部屋を荒らしたように見せかけた、ってことかな……？",
+              "cn": "所以，犯人就把书本和奖杯也弄得到处都是\n让房间看起来乱七八糟的，是这么一回事吗……？",
+              "line_no": 22
+            },
+            {
+              "offset": 1,
+              "speaker": "雛菜",
+              "jp": "ん～",
+              "cn": "嗯～",
+              "line_no": 23
+            },
+            {
+              "offset": 2,
+              "speaker": "雛菜",
+              "jp": "遺体が最初、天窓の下にあったのも\n死亡推定時刻を誤魔化すために見せかけて～",
+              "cn": "遗体一开始放在天窗下面\n可能也是为了伪装成模糊死亡推定时刻～",
+              "line_no": 24
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/Detective×Murder/【２日目】午前-透・円香・小糸・雛菜.csv",
+          "line_no": 67,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "",
+              "jp": "翼があるのかも？",
+              "cn": "长了翅膀？",
+              "line_no": 65
+            },
+            {
+              "offset": -1,
+              "speaker": "",
+              "jp": "外部犯では？",
+              "cn": "是外部人员？",
+              "line_no": 66
+            },
+            {
+              "offset": 0,
+              "speaker": "小糸",
+              "jp": "わ、わたしもそうかなって……\n屋敷の周りに『やってきて消えた』足跡がないので……",
+              "cn": "我、我也觉得是那样……\n因为洋房的周边并没有“到来又消失了”的足迹……",
+              "line_no": 67
+            },
+            {
+              "offset": 1,
+              "speaker": "円香",
+              "jp": "何……？\n飛んだってこと？",
+              "cn": "什么……？\n你想说，犯人是飞来的吗？",
+              "line_no": 68
+            },
+            {
+              "offset": 2,
+              "speaker": "雛菜",
+              "jp": "それって『怪盗２８３』のこと～？\nじゃあなんで足跡残ってるの？",
+              "cn": "你想说的是“怪盗283”吗～？\n那为什么又留下了足迹呢？",
+              "line_no": 69
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/World×Code/ビルの上で×軍人×駆け落ち-敵対ロマンス（小糸）.csv",
+          "line_no": 12,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "小糸",
+              "jp": "────羽が生えてたらよかった",
+              "cn": "————要是有翅膀就好了",
+              "line_no": 10
+            },
+            {
+              "offset": -1,
+              "speaker": "男",
+              "jp": "え……？",
+              "cn": "诶……？",
+              "line_no": 11
+            },
+            {
+              "offset": 0,
+              "speaker": "小糸",
+              "jp": "あ、そ、そしたらもっと\n遠くへ逃げられたかなって……",
+              "cn": "啊，这样的话\n就能逃到更遥远的地方去了……",
+              "line_no": 12
+            },
+            {
+              "offset": 1,
+              "speaker": "小糸",
+              "jp": "…………そんなこと、\nできるわけ無いんですけどね",
+              "cn": "…………这样的事，\n尽管肯定是做不到的",
+              "line_no": 13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "制作人",
+      "score": 266,
+      "scene_cooccurrence": 0,
+      "prev_to_target": 0,
+      "target_to_next": 0,
+      "mentions_target": 0,
+      "target_mentions_partner": 266,
+      "samples": [
+        {
+          "file": "283活动剧情/5th Anniversary 当日スペシャルコミュ/5th Anniversary-ノクチル.csv",
+          "line_no": 10,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "小糸",
+              "jp": "ふ、不思議だなって思うんです\nわたし……",
+              "cn": "觉、觉得很不可思议\n我……",
+              "line_no": 8
+            },
+            {
+              "offset": -1,
+              "speaker": "小糸",
+              "jp": "と、透ちゃんとか円香ちゃんとか\n雛菜ちゃんとか家族にも",
+              "cn": "那、那些对透啊圆香啊雏菜啊\n对家人也是",
+              "line_no": 9
+            },
+            {
+              "offset": 0,
+              "speaker": "小糸",
+              "jp": "だ、誰にも話してないことが言えちゃうから\nプロデューサーさんには",
+              "cn": "对、对谁都不曾说过的话\n能跟制作人讲",
+              "line_no": 10
+            },
+            {
+              "offset": 1,
+              "speaker": "雛菜",
+              "jp": "ね、プロデューサー\n手出して～？",
+              "cn": "嗳、制作人\n手伸出来～？",
+              "line_no": 11
+            },
+            {
+              "offset": 2,
+              "speaker": "雛菜",
+              "jp": "サイン書いてあげる！\n特別なやつ！",
+              "cn": "给你签个名！\n特别的那种！",
+              "line_no": 12
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/さざなみはいつも凡庸な音がする/エンディング-凡庸な音たち.csv",
+          "line_no": 72,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "プロデューサー",
+              "jp": "え、わ、悪い……！",
+              "cn": "啊，抱，抱歉……！",
+              "line_no": 70
+            },
+            {
+              "offset": -1,
+              "speaker": "小糸",
+              "jp": "あ、あの……！",
+              "cn": "那、那个……！",
+              "line_no": 71
+            },
+            {
+              "offset": 0,
+              "speaker": "小糸",
+              "jp": "プロデューサーさん、\nありがとうございました……！",
+              "cn": "制作人，\n非常感谢你……！",
+              "line_no": 72
+            },
+            {
+              "offset": 1,
+              "speaker": "プロデューサー",
+              "jp": "おう……！",
+              "cn": "哦……！",
+              "line_no": 73
+            },
+            {
+              "offset": 2,
+              "speaker": "透",
+              "jp": "……やば\n購買。閉まる",
+              "cn": "……糟了\n小卖部。要关门了",
+              "line_no": 74
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/さざなみはいつも凡庸な音がする/第6話-結局.csv",
+          "line_no": 94,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "小糸",
+              "jp": "い、いいです\nわたし……！",
+              "cn": "不、不用了\n我……！",
+              "line_no": 92
+            },
+            {
+              "offset": -1,
+              "speaker": "プロデューサー",
+              "jp": "え……！",
+              "cn": "诶……！",
+              "line_no": 93
+            },
+            {
+              "offset": 0,
+              "speaker": "小糸",
+              "jp": "そ、その代わり\nプロデューサーさん、わたし……欲しい物があって",
+              "cn": "作、作为代替\n制作人，我……有想要的东西",
+              "line_no": 94
+            },
+            {
+              "offset": 1,
+              "speaker": "プロデューサー",
+              "jp": "え、お、おう！\nなんだ……？",
+              "cn": "啊，哦，哦！\n是什么……？",
+              "line_no": 95
+            },
+            {
+              "offset": 2,
+              "speaker": "小糸",
+              "jp": "………………",
+              "cn": "",
+              "line_no": 96
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "プロデューサーさん",
+      "score": 256,
+      "scene_cooccurrence": 0,
+      "prev_to_target": 0,
+      "target_to_next": 0,
+      "mentions_target": 0,
+      "target_mentions_partner": 256,
+      "samples": [
+        {
+          "file": "283活动剧情/5th Anniversary 当日スペシャルコミュ/5th Anniversary-ノクチル.csv",
+          "line_no": 10,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "小糸",
+              "jp": "ふ、不思議だなって思うんです\nわたし……",
+              "cn": "觉、觉得很不可思议\n我……",
+              "line_no": 8
+            },
+            {
+              "offset": -1,
+              "speaker": "小糸",
+              "jp": "と、透ちゃんとか円香ちゃんとか\n雛菜ちゃんとか家族にも",
+              "cn": "那、那些对透啊圆香啊雏菜啊\n对家人也是",
+              "line_no": 9
+            },
+            {
+              "offset": 0,
+              "speaker": "小糸",
+              "jp": "だ、誰にも話してないことが言えちゃうから\nプロデューサーさんには",
+              "cn": "对、对谁都不曾说过的话\n能跟制作人讲",
+              "line_no": 10
+            },
+            {
+              "offset": 1,
+              "speaker": "雛菜",
+              "jp": "ね、プロデューサー\n手出して～？",
+              "cn": "嗳、制作人\n手伸出来～？",
+              "line_no": 11
+            },
+            {
+              "offset": 2,
+              "speaker": "雛菜",
+              "jp": "サイン書いてあげる！\n特別なやつ！",
+              "cn": "给你签个名！\n特别的那种！",
+              "line_no": 12
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/さざなみはいつも凡庸な音がする/エンディング-凡庸な音たち.csv",
+          "line_no": 72,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "プロデューサー",
+              "jp": "え、わ、悪い……！",
+              "cn": "啊，抱，抱歉……！",
+              "line_no": 70
+            },
+            {
+              "offset": -1,
+              "speaker": "小糸",
+              "jp": "あ、あの……！",
+              "cn": "那、那个……！",
+              "line_no": 71
+            },
+            {
+              "offset": 0,
+              "speaker": "小糸",
+              "jp": "プロデューサーさん、\nありがとうございました……！",
+              "cn": "制作人，\n非常感谢你……！",
+              "line_no": 72
+            },
+            {
+              "offset": 1,
+              "speaker": "プロデューサー",
+              "jp": "おう……！",
+              "cn": "哦……！",
+              "line_no": 73
+            },
+            {
+              "offset": 2,
+              "speaker": "透",
+              "jp": "……やば\n購買。閉まる",
+              "cn": "……糟了\n小卖部。要关门了",
+              "line_no": 74
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/さざなみはいつも凡庸な音がする/第6話-結局.csv",
+          "line_no": 94,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "小糸",
+              "jp": "い、いいです\nわたし……！",
+              "cn": "不、不用了\n我……！",
+              "line_no": 92
+            },
+            {
+              "offset": -1,
+              "speaker": "プロデューサー",
+              "jp": "え……！",
+              "cn": "诶……！",
+              "line_no": 93
+            },
+            {
+              "offset": 0,
+              "speaker": "小糸",
+              "jp": "そ、その代わり\nプロデューサーさん、わたし……欲しい物があって",
+              "cn": "作、作为代替\n制作人，我……有想要的东西",
+              "line_no": 94
+            },
+            {
+              "offset": 1,
+              "speaker": "プロデューサー",
+              "jp": "え、お、おう！\nなんだ……？",
+              "cn": "啊，哦，哦！\n是什么……？",
+              "line_no": 95
+            },
+            {
+              "offset": 2,
+              "speaker": "小糸",
+              "jp": "………………",
+              "cn": "",
+              "line_no": 96
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "恋鐘",
+      "score": 117,
+      "scene_cooccurrence": 17,
+      "prev_to_target": 38,
+      "target_to_next": 29,
+      "mentions_target": 16,
+      "target_mentions_partner": 0,
+      "samples": [
+        {
+          "file": "283活动剧情/ロード・トゥ・ハッピーホリデー！/第3话-ふたつの戦い.csv",
+          "line_no": 53,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "雛菜",
+              "jp": "……",
+              "cn": "",
+              "line_no": 51
+            },
+            {
+              "offset": -1,
+              "speaker": "恋鐘",
+              "jp": "どがんすればよかと～？\n小糸もおらんし～～～",
+              "cn": "这下该怎么办呀～？\n小糸也不在～～～",
+              "line_no": 52
+            },
+            {
+              "offset": 0,
+              "speaker": "小糸",
+              "jp": "──────────",
+              "cn": "",
+              "line_no": 53
+            },
+            {
+              "offset": 1,
+              "speaker": "小糸",
+              "jp": "──────────",
+              "cn": "",
+              "line_no": 54
+            },
+            {
+              "offset": 2,
+              "speaker": "off",
+              "jp": "数日前────",
+              "cn": "几天前————",
+              "line_no": 55
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/ロード・トゥ・ハッピーホリデー！/第4话-ミッション開始！.csv",
+          "line_no": 7,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "雛菜",
+              "jp": "雛菜は限定コスメが楽しみです～！",
+              "cn": "雏菜好期待限定化妆品～！",
+              "line_no": 5
+            },
+            {
+              "offset": -1,
+              "speaker": "恋鐘",
+              "jp": "雛菜～\nクリスマスはクリスマスで楽しまんば～！",
+              "cn": "雏菜～\n圣诞节也要好好享受才行呀～！",
+              "line_no": 6
+            },
+            {
+              "offset": 0,
+              "speaker": "小糸",
+              "jp": "…………",
+              "cn": "",
+              "line_no": 7
+            },
+            {
+              "offset": 1,
+              "speaker": "後輩店員",
+              "jp": "あ────！",
+              "cn": "啊————！",
+              "line_no": 8
+            },
+            {
+              "offset": 2,
+              "speaker": "後輩店員",
+              "jp": "今の、月岡恋鐘ちゃんじゃ──！",
+              "cn": "刚才走过去的，是月冈恋钟——！",
+              "line_no": 9
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/ロード・トゥ・ハッピーホリデー！/第5话-アンダーカバー・アンサンブル！.csv",
+          "line_no": 5,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "雛菜",
+              "jp": "長い台詞ずっと喋ってますね～\nすごい～",
+              "cn": "一直都在念长句呢～\n好厉害～",
+              "line_no": 3
+            },
+            {
+              "offset": -1,
+              "speaker": "恋鐘",
+              "jp": "よ、よ～し、\nここからふたりば助けんばね！",
+              "cn": "好、好嘞～\n接下来要帮助她俩喔！",
+              "line_no": 4
+            },
+            {
+              "offset": 0,
+              "speaker": "小糸",
+              "jp": "…………\nた、助けるって……",
+              "cn": "…………\n帮、帮助是……",
+              "line_no": 5
+            },
+            {
+              "offset": 1,
+              "speaker": "恋鐘",
+              "jp": "そいは……\n大きか声で～……？",
+              "cn": "那当然是……\n大声地喊～……？",
+              "line_no": 6
+            },
+            {
+              "offset": 2,
+              "speaker": "小糸",
+              "jp": "…………ぴぇ……",
+              "cn": "…………噼诶……",
+              "line_no": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "凛世",
+      "score": 104,
+      "scene_cooccurrence": 15,
+      "prev_to_target": 37,
+      "target_to_next": 34,
+      "mentions_target": 3,
+      "target_mentions_partner": 0,
+      "samples": [
+        {
+          "file": "283活动剧情/明るい部屋/第3话-ラブコメ.csv",
+          "line_no": 74,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "雛菜",
+              "jp": "ん～\nパパとママと～……",
+              "cn": "嗯～\n爸爸和妈妈和～……",
+              "line_no": 72
+            },
+            {
+              "offset": -1,
+              "speaker": "雛菜",
+              "jp": "雛菜！",
+              "cn": "雏菜！",
+              "line_no": 73
+            },
+            {
+              "offset": 0,
+              "speaker": "小糸",
+              "jp": "…………\nみ、みんなのは無いんだ……！",
+              "cn": "…………\n没，没有大家的份吗……！",
+              "line_no": 74
+            },
+            {
+              "offset": 1,
+              "speaker": "凛世",
+              "jp": "──２LDK……",
+              "cn": "——两室一厅……",
+              "line_no": 75
+            },
+            {
+              "offset": 2,
+              "speaker": "恋鐘",
+              "jp": "ん～\n憧れの間取りばい～",
+              "cn": "嗯～\n是咱喜欢的格局呀～",
+              "line_no": 76
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/線たちの十二月/第2话-なにもない日.csv",
+          "line_no": 5,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "咲耶",
+              "jp": "……",
+              "cn": "",
+              "line_no": 3
+            },
+            {
+              "offset": -1,
+              "speaker": "凛世",
+              "jp": "……",
+              "cn": "",
+              "line_no": 4
+            },
+            {
+              "offset": 0,
+              "speaker": "小糸",
+              "jp": "…………",
+              "cn": "",
+              "line_no": 5
+            },
+            {
+              "offset": 1,
+              "speaker": "透",
+              "jp": "────組……",
+              "cn": "————组合……",
+              "line_no": 6
+            },
+            {
+              "offset": 2,
+              "speaker": "プロデューサー",
+              "jp": "そう\n組でもグループでも……相棒ってことでもいい",
+              "cn": "对\n说是组合也好小组也好……就当是搭档吧",
+              "line_no": 7
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/線たちの十二月/第3话-天使たちのあくび.csv",
+          "line_no": 17,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "高校生２",
+              "jp": "何系の人ー？\nともだちか",
+              "cn": "是什么人——？\n朋友吗",
+              "line_no": 15
+            },
+            {
+              "offset": -1,
+              "speaker": "凛世",
+              "jp": "はい……",
+              "cn": "是的……",
+              "line_no": 16
+            },
+            {
+              "offset": 0,
+              "speaker": "小糸",
+              "jp": "…………！\nえ……",
+              "cn": "…………？\n诶……",
+              "line_no": 17
+            },
+            {
+              "offset": 1,
+              "speaker": "高校生１",
+              "jp": "えー、ともだちだったらウチら付き合うけど？？",
+              "cn": "诶——，是朋友的话让我们也一起嘛？？",
+              "line_no": 18
+            },
+            {
+              "offset": 2,
+              "speaker": "小糸",
+              "jp": "え……え…………！",
+              "cn": "诶……诶…………！",
+              "line_no": 19
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "咲耶",
+      "score": 95,
+      "scene_cooccurrence": 17,
+      "prev_to_target": 24,
+      "target_to_next": 28,
+      "mentions_target": 9,
+      "target_mentions_partner": 0,
+      "samples": [
+        {
+          "file": "283活动剧情/シャイニーの日/2023年4月12日-シャイニーの日 2023 特別コミュ.csv",
+          "line_no": 8,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "めぐる",
+              "jp": "プロデューサー、早く行こ！\n楽しいことが待ってるんでしょっ？",
+              "cn": "制作人，快出发吧！\n有很开心的事情在等着我们吧？",
+              "line_no": 6
+            },
+            {
+              "offset": -1,
+              "speaker": "果穂",
+              "jp": "あたし、ファンのみなさんが、\nみーんな笑顔になってくれるライブにしたいです！",
+              "cn": "我想通过这次演唱会\n让所有粉丝脸上都绽放笑容！",
+              "line_no": 7
+            },
+            {
+              "offset": 0,
+              "speaker": "小糸",
+              "jp": "わ、わたし、このあと\nもうちょっと練習していこうかな",
+              "cn": "我、我之后\n打算再稍微练习一会儿",
+              "line_no": 8
+            },
+            {
+              "offset": 1,
+              "speaker": "咲耶",
+              "jp": "忙しいのは良いことだ……",
+              "cn": "忙是好事……",
+              "line_no": 9
+            },
+            {
+              "offset": 2,
+              "speaker": "甘奈",
+              "jp": "甘奈ね……今、とっても幸せなんだ\nだから、この先の未来もずっと……",
+              "cn": "甘奈我……现在非常幸福\n所以我在想，如果未来也能……",
+              "line_no": 10
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/線たちの十二月/第2话-なにもない日.csv",
+          "line_no": 86,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "プロデューサー",
+              "jp": "はは……\nまあ、まずまずか",
+              "cn": "哈哈……\n嘛，总之先这样",
+              "line_no": 84
+            },
+            {
+              "offset": -1,
+              "speaker": "プロデューサー",
+              "jp": "ええと、凛世と小糸は────",
+              "cn": "嗯嗯，凛世和小糸的————",
+              "line_no": 85
+            },
+            {
+              "offset": 0,
+              "speaker": "凛世＆小糸",
+              "jp": "……！\n日報を……出されたのですか……？",
+              "cn": "……！\n日报……交上去了吗……？",
+              "line_no": 86
+            },
+            {
+              "offset": 1,
+              "speaker": "咲耶",
+              "jp": "……？\nああ、今日も活動日としてカウントするんだと思って──",
+              "cn": "……？\n啊啊，我觉得今天应该也算是活动日——",
+              "line_no": 87
+            },
+            {
+              "offset": 2,
+              "speaker": "透",
+              "jp": "え？　あー……\n出した。なんか",
+              "cn": "诶？　啊——……\n交了。好像",
+              "line_no": 88
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/線たちの十二月/第3话-天使たちのあくび.csv",
+          "line_no": 112,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "灯織",
+              "jp": "あ……！\nはい……どうも、ありがとうございます……",
+              "cn": "啊……！\n好的……非常、感谢……",
+              "line_no": 110
+            },
+            {
+              "offset": -1,
+              "speaker": "咲耶",
+              "jp": "…………小説……\n紀行文……",
+              "cn": "…………小说……\n游记……",
+              "line_no": 111
+            },
+            {
+              "offset": 0,
+              "speaker": "小糸",
+              "jp": "…………────",
+              "cn": "",
+              "line_no": 112
+            },
+            {
+              "offset": 1,
+              "speaker": "凛世",
+              "jp": "…………",
+              "cn": "",
+              "line_no": 113
+            },
+            {
+              "offset": 2,
+              "speaker": "咲耶",
+              "jp": "…………趣味・実用……\n……",
+              "cn": "…………兴趣・实用……\n……",
+              "line_no": 114
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "スタッフ",
+      "score": 85,
+      "scene_cooccurrence": 18,
+      "prev_to_target": 25,
+      "target_to_next": 17,
+      "mentions_target": 0,
+      "target_mentions_partner": 7,
+      "samples": [
+        {
+          "file": "283活动剧情/コースティクス・ノクチルカ/コースティクス・ノクチルカ序章.csv",
+          "line_no": 26,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "プロデューサー",
+              "jp": "ユニットカラーとメンバーカラーの\nサンプルをもらったから、みんなに見せようと思って",
+              "cn": "组合以及各位自己的应援色\n已经有雏形了，想给你们也看看",
+              "line_no": 24
+            },
+            {
+              "offset": -1,
+              "speaker": "スタッフ",
+              "jp": "福丸さんと市川さんは一旦休憩でお願いします",
+              "cn": "福丸小姐和市川小姐，可以先休息一下哦",
+              "line_no": 25
+            },
+            {
+              "offset": 0,
+              "speaker": "小糸＆雛菜",
+              "jp": "はい……！",
+              "cn": "好……！",
+              "line_no": 26
+            },
+            {
+              "offset": 1,
+              "speaker": "スタッフ",
+              "jp": "浅倉さんと樋口さんは引き続き撮らせていただくので\nそのままでお願いします",
+              "cn": "浅仓小姐和樋口小姐继续拍摄工作\n麻烦保持原位",
+              "line_no": 27
+            },
+            {
+              "offset": 2,
+              "speaker": "透＆円香",
+              "jp": "はい",
+              "cn": "好",
+              "line_no": 28
+            }
+          ]
+        },
+        {
+          "file": "市川雛菜/【CR-EAT-I❤N】市川雛菜/YKS.csv",
+          "line_no": 17,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "透",
+              "jp": "ふふっ",
+              "cn": "呵呵",
+              "line_no": 15
+            },
+            {
+              "offset": -1,
+              "speaker": "円香",
+              "jp": "……",
+              "cn": "",
+              "line_no": 16
+            },
+            {
+              "offset": 0,
+              "speaker": "小糸",
+              "jp": "お、遅いね……\nスタッフさん……",
+              "cn": "好、好慢啊……\n工作人员……",
+              "line_no": 17
+            },
+            {
+              "offset": 1,
+              "speaker": "雛菜",
+              "jp": "ね～……",
+              "cn": "是吧～……",
+              "line_no": 18
+            },
+            {
+              "offset": 2,
+              "speaker": "小糸",
+              "jp": "まだかかるのかな……",
+              "cn": "还要等多久呢……",
+              "line_no": 19
+            }
+          ]
+        },
+        {
+          "file": "樋口円香/【UNTITLED】樋口 円香/以外.csv",
+          "line_no": 8,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "雛菜",
+              "jp": "ん～？",
+              "cn": "嗯～？",
+              "line_no": 6
+            },
+            {
+              "offset": -1,
+              "speaker": "小糸",
+              "jp": "わたしたちだけストーブのそばで……",
+              "cn": "只有我们在暖炉旁边……",
+              "line_no": 7
+            },
+            {
+              "offset": 0,
+              "speaker": "小糸",
+              "jp": "スタッフさん忙しそうだし……\n何かお手伝いとか……",
+              "cn": "工作人员好像也很忙……\n我们能不能帮个忙……",
+              "line_no": 8
+            },
+            {
+              "offset": 1,
+              "speaker": "円香",
+              "jp": "逆に邪魔になるんじゃない",
+              "cn": "不会帮倒忙吗",
+              "line_no": 9
+            },
+            {
+              "offset": 2,
+              "speaker": "円香",
+              "jp": "それより\n……見てたら？",
+              "cn": "倒是\n……不看她吗？",
+              "line_no": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "先生",
+      "score": 71,
+      "scene_cooccurrence": 1,
+      "prev_to_target": 3,
+      "target_to_next": 2,
+      "mentions_target": 0,
+      "target_mentions_partner": 64,
+      "samples": [
+        {
+          "file": "283活动剧情/コースティクス・ノクチルカ/コースティクス・ノクチルカ第2话.csv",
+          "line_no": 66,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "プロデューサー",
+              "jp": "え？",
+              "cn": "诶？",
+              "line_no": 64
+            },
+            {
+              "offset": -1,
+              "speaker": "プロデューサー",
+              "jp": "────……小糸",
+              "cn": "────……小糸",
+              "line_no": 65
+            },
+            {
+              "offset": 0,
+              "speaker": "小糸",
+              "jp": "……あ……\nプロデューサーさん、雛菜ちゃんも……",
+              "cn": "……啊……\n制作人先生，雏菜也在……",
+              "line_no": 66
+            },
+            {
+              "offset": 1,
+              "speaker": "小糸",
+              "jp": "……お、お仕事の買い物……？",
+              "cn": "……是、是因为工作来买东西的吗……？",
+              "line_no": 67
+            },
+            {
+              "offset": 2,
+              "speaker": "雛菜",
+              "jp": "うん～\n雑誌の企画で使うコスメ選んでた～",
+              "cn": "嗯～\n我们在挑选杂志企划要用的化妆品～",
+              "line_no": 68
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/天塵/第1话-屋上.csv",
+          "line_no": 111,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "円香",
+              "jp": "…………",
+              "cn": "",
+              "line_no": 109
+            },
+            {
+              "offset": -1,
+              "speaker": "プロデューサー",
+              "jp": "おーい、みんな\nお疲れ",
+              "cn": "喂——，各位\n辛苦了",
+              "line_no": 110
+            },
+            {
+              "offset": 0,
+              "speaker": "小糸",
+              "jp": "あ、ぷ、プロデューサーさん！\nお疲れ様です……！",
+              "cn": "啊，制，制作人先生——！\n辛苦了……！",
+              "line_no": 111
+            },
+            {
+              "offset": 1,
+              "speaker": "プロデューサー",
+              "jp": "差入れだぞー",
+              "cn": "这是慰劳——",
+              "line_no": 112
+            },
+            {
+              "offset": 2,
+              "speaker": "雛菜",
+              "jp": "やは～！\nチョコアイス～？　プリン～？",
+              "cn": "呀哈～！\n巧克力冰淇淋～？ 布丁～？",
+              "line_no": 113
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/天塵/第6话-海.csv",
+          "line_no": 28,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "プロデューサー",
+              "jp": "……そうか？\nよっ……うーん…………",
+              "cn": "……是吗？\n嘿……嗯——…………",
+              "line_no": 26
+            },
+            {
+              "offset": -1,
+              "speaker": "透",
+              "jp": "ふふっ\nそんな飲みたいの、ミカンの粒",
+              "cn": "呵呵\n就那么想喝到橙子的果粒吗",
+              "line_no": 27
+            },
+            {
+              "offset": 0,
+              "speaker": "小糸",
+              "jp": "──あれっ\nプロデューサーさん……？",
+              "cn": "——咦\n制作人先生……？",
+              "line_no": 28
+            },
+            {
+              "offset": 1,
+              "speaker": "雛菜",
+              "jp": "ん～？\nどうしたの～？",
+              "cn": "嗯～？\n怎么啦～？",
+              "line_no": 29
+            },
+            {
+              "offset": 2,
+              "speaker": "円香",
+              "jp": "……",
+              "cn": "",
+              "line_no": 30
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "アイドル",
+      "score": 71,
+      "scene_cooccurrence": 2,
+      "prev_to_target": 7,
+      "target_to_next": 9,
+      "mentions_target": 5,
+      "target_mentions_partner": 46,
+      "samples": [
+        {
+          "file": "283活动剧情/海へ出るつもりじゃなかったし/第5话-ココア・説教・ミジンコ.csv",
+          "line_no": 112,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "プロデューサー",
+              "jp": "騎馬戦になる",
+              "cn": "加的是骑马打仗",
+              "line_no": 110
+            },
+            {
+              "offset": -1,
+              "speaker": "円香",
+              "jp": "……",
+              "cn": "",
+              "line_no": 111
+            },
+            {
+              "offset": 0,
+              "speaker": "小糸",
+              "jp": "き、騎馬戦……！\n他のアイドルの人たちと……ですよね……",
+              "cn": "骑，骑马打仗……！\n是要和其他偶像……对战吧……",
+              "line_no": 112
+            },
+            {
+              "offset": 1,
+              "speaker": "プロデューサー",
+              "jp": "騎馬を組むのはもちろんこの４人だけど\n戦う相手の数は９チーム",
+              "cn": "组成骑马队的是你们4个人\n而对手一共有9组",
+              "line_no": 113
+            },
+            {
+              "offset": 2,
+              "speaker": "プロデューサー",
+              "jp": "もちろん、カメラは人気のユニットに張り付くだろうから\nこの前円香が言っていた通り……俺たちは賑やかしだ",
+              "cn": "当然，镜头会一直跟着那些有人气的组合\n就跟之前圆香说的一样……我们是助兴的",
+              "line_no": 114
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/海へ出るつもりじゃなかったし/终章-うみを盗んだやつら.csv",
+          "line_no": 116,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "円香",
+              "jp": "何しに来たアイドルなの、私たち……",
+              "cn": "我们是来干什么的偶像啊……",
+              "line_no": 114
+            },
+            {
+              "offset": -1,
+              "speaker": "善村記者",
+              "jp": "プロデューサーさん\nいっぱい生きろってこと、伝えたいんですね",
+              "cn": "制作人先生\n是想告诉她们，要尽情活着吧",
+              "line_no": 115
+            },
+            {
+              "offset": 0,
+              "speaker": "小糸",
+              "jp": "優勝しにきたアイドル、だもんね……！",
+              "cn": "我们是，来取得优胜的偶像……！",
+              "line_no": 116
+            },
+            {
+              "offset": 1,
+              "speaker": "透",
+              "jp": "ふふっ",
+              "cn": "呵呵",
+              "line_no": 117
+            },
+            {
+              "offset": 2,
+              "speaker": "雛菜",
+              "jp": "あは～",
+              "cn": "啊哈～",
+              "line_no": 118
+            }
+          ]
+        },
+        {
+          "file": "樋口円香/S.T.E.P編/描く空は澄んでいた.csv",
+          "line_no": 25,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "透＆円香",
+              "jp": "…………",
+              "cn": "…………",
+              "line_no": 23
+            },
+            {
+              "offset": -1,
+              "speaker": "透",
+              "jp": "プロデューサーだ",
+              "cn": "是制作人",
+              "line_no": 24
+            },
+            {
+              "offset": 0,
+              "speaker": "小糸",
+              "jp": "ふ、ふたりとも、本当にアイドルになったんだ……\nすごいね……！",
+              "cn": "你，你们两个人都成为偶像了呢……\n好厉害……！",
+              "line_no": 25
+            },
+            {
+              "offset": 1,
+              "speaker": "円香",
+              "jp": "まだ契約しただけ\nたいしたことしてない",
+              "cn": "才只是签了合同而已\n没什么大不了的",
+              "line_no": 26
+            },
+            {
+              "offset": 2,
+              "speaker": "円香",
+              "jp": "今の連絡だって、レッスンのことだから",
+              "cn": "刚才的讯息也是关于训练的事",
+              "line_no": 27
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "target": "小糸",
+  "aliases": [
+    "福丸小糸",
+    "福丸 小糸",
+    "小糸",
+    "小丝",
+    "Koito",
+    "Fukumaru Koito",
+    "Koito Fukumaru"
+  ],
+  "mention_aliases": [
+    "福丸小糸",
+    "福丸 小糸",
+    "小糸",
+    "小丝",
+    "Koito",
+    "Fukumaru Koito",
+    "Koito Fukumaru"
+  ],
+  "theme_config": "../story-dialogue-themes/fukumaru-koito.json",
+  "voice_config": "../story-dialogue-voice/fukumaru-koito.json",
+  "output_dir": "../../283/fukumaru-koito-perspective/references/local-dialogue-analysis"
+}
