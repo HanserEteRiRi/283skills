@@ -1,0 +1,22 @@
+{
+  "jp": {
+    "polite_count": "(です|ます|ください|でしょう|お願いします)",
+    "apology_count": "(すみません|ごめん|申し訳)",
+    "effort_count": "(努力|練習|頑張|足りない|準備|反省)",
+    "ellipsis_count": "…",
+    "question_count": "(？|\\?|でしょうか|ですか|どう)",
+    "first_person_count": "(私|わたし)",
+    "uncertain_count": "(えっと|あの|不安|心配|迷惑|考え)",
+    "illumination_names_count": "(真乃|めぐる|イルミネ)"
+  },
+  "cn": {
+    "polite_count": "(请|谢谢|不好意思|拜托|可以吗)",
+    "apology_count": "(对不起|抱歉|不好意思)",
+    "effort_count": "(努力|练习|加油|不足|准备|反省)",
+    "ellipsis_count": "…",
+    "question_count": "(？|\\?|吗|怎么|可以吗)",
+    "first_person_count": "(我|灯织)",
+    "uncertain_count": "(那个|呃|不安|担心|添麻烦|思考)",
+    "illumination_names_count": "(真乃|巡|星组|illumination)"
+  }
+}

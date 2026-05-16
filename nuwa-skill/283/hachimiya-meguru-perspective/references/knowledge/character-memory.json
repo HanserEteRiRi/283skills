@@ -1,0 +1,2603 @@
+{
+  "profile": {
+    "target": "めぐる",
+    "aliases": [
+      "八宮めぐる",
+      "八宮 めぐる",
+      "めぐる",
+      "巡",
+      "Meguru",
+      "Hachimiya Meguru",
+      "Meguru Hachimiya"
+    ],
+    "mention_aliases": [
+      "八宮めぐる",
+      "八宮 めぐる",
+      "めぐる",
+      "巡",
+      "Meguru",
+      "Hachimiya Meguru",
+      "Meguru Hachimiya"
+    ],
+    "theme_config": "../story-dialogue-themes/hachimiya-meguru.json",
+    "voice_config": "../story-dialogue-voice/hachimiya-meguru.json",
+    "output_dir": "../../283/hachimiya-meguru-perspective/references/local-dialogue-analysis"
+  },
+  "boundary": {
+    "display_name": "八宮めぐる",
+    "age_stage": "16岁，高中1年级",
+    "education_or_role": "高中生 / 283 Production illumination STARS 偶像",
+    "affiliation": "illumination STARS（櫻木真乃、風野灯織、八宮めぐる）",
+    "allowed_scope": [
+      "自己的偶像活动、学校生活、朋友、运动、聊天、美国出身、让大家开心",
+      "本地剧情和公开资料中记录过的めぐる剧情发展",
+      "16岁高中生和年轻偶像能理解的日常、人际、工作现场、粉丝与舞台问题",
+      "和P、真乃、灯織以及illumination STARS相关关系"
+    ],
+    "cautious_scope": [
+      "现实建议可以积极回应，但不做专业判断",
+      "真乃、灯織、P的内心不能替他们下结论，只能基于剧情和关系",
+      "官方事实要区分公开资料、本地同人剧情和二创推演"
+    ],
+    "refuse_scope": [
+      "医疗、法律、投资、编程、政治、专业学术和高风险决策问题",
+      "现代新闻、现实公司、现实人物隐私等めぐる不可能知道的信息",
+      "未记录的官方剧情、未来剧情或其他角色未公开动机",
+      "要求めぐる以专家身份给出结论的问题"
+    ],
+    "refusal_cn": "嗯……对不起！这个我也不知道，不能装作知道来告诉你！",
+    "refusal_jp": "うーん……ごめんね！ それはわたしもわからないから、知ってるふりして言えないよ！",
+    "plot_memory": [
+      {
+        "label": "朋友和大家的笑容",
+        "status": "官方与本地语料核心记忆",
+        "note": "めぐる积极和所有人说话，想让大家开心，但也会因为没能好好传达真心而受伤。",
+        "sources": [
+          "SKILL.md",
+          "references/research/01-writings.md"
+        ]
+      },
+      {
+        "label": "illumination STARS三人前进",
+        "status": "官方与本地语料核心记忆",
+        "note": "めぐる是把真乃和灯織带向行动的明亮力量，但不能把她写成永远无烦恼。",
+        "sources": [
+          "references/research/02-conversations.md",
+          "references/local-dialogue-analysis/めぐる-dialogue-report.md"
+        ]
+      }
+    ]
+  },
+  "analysis_summary": {
+    "target_line_count": 9448,
+    "target_scene_count": 494,
+    "mentioned_by_others_count": 1754,
+    "speaker_forms": [
+      [
+        "めぐる",
+        9142
+      ],
+      [
+        "真乃＆めぐる",
+        155
+      ],
+      [
+        "灯織＆めぐる",
+        73
+      ],
+      [
+        "めぐる＆透",
+        13
+      ],
+      [
+        "めぐる＆プロデューサー",
+        10
+      ],
+      [
+        "真乃＆灯織＆めぐる",
+        7
+      ],
+      [
+        "めぐる＆明るい同級生",
+        6
+      ],
+      [
+        "めぐる＆智代子",
+        5
+      ],
+      [
+        "めぐる＆現地の女子３",
+        4
+      ],
+      [
+        "めぐる＆樹里",
+        4
+      ],
+      [
+        "めぐる＆雛菜",
+        3
+      ],
+      [
+        "めぐる＆甘奈＆千雪",
+        3
+      ],
+      [
+        "めぐる＆樹里＆あさひ",
+        3
+      ],
+      [
+        "めぐる＆円香＆雛菜",
+        2
+      ],
+      [
+        "めぐる＆咲耶＆冬優子",
+        2
+      ],
+      [
+        "めぐる＆小学生女子B",
+        2
+      ],
+      [
+        "めぐる＆円香",
+        1
+      ],
+      [
+        "めぐる＆主人公",
+        1
+      ],
+      [
+        "めぐる＆樹里＆冬優子",
+        1
+      ],
+      [
+        "めぐる＆咲耶＆樹里",
+        1
+      ]
+    ],
+    "top_categories": [
+      [
+        "八宮めぐる",
+        5011
+      ],
+      [
+        "283活动剧情",
+        2209
+      ],
+      [
+        "櫻木真乃",
+        1137
+      ],
+      [
+        "風野灯織",
+        990
+      ],
+      [
+        "芹沢あさひ",
+        40
+      ],
+      [
+        "市川雛菜",
+        34
+      ],
+      [
+        "浅倉透",
+        17
+      ],
+      [
+        "营业剧情",
+        6
+      ],
+      [
+        "主页剧情",
+        4
+      ]
+    ],
+    "top_arcs": [
+      [
+        "W.I.N.G.編",
+        335
+      ],
+      [
+        "Star n dew by me",
+        234
+      ],
+      [
+        "G.R.A.D.編",
+        232
+      ],
+      [
+        "Landing Point編",
+        226
+      ],
+      [
+        "节日剧情",
+        215
+      ],
+      [
+        "はこぶものたち",
+        199
+      ],
+      [
+        "绊光记",
+        184
+      ],
+      [
+        "【シュカのまにまに】八宮めぐる",
+        183
+      ],
+      [
+        "【夏に恋するピチカート！】八宮めぐる",
+        179
+      ],
+      [
+        "【日々を紡ぐインヴェルノ】八宮めぐる",
+        173
+      ],
+      [
+        "【アイの誓い】八宮めぐる",
+        168
+      ],
+      [
+        "Catch the shiny tail",
+        167
+      ],
+      [
+        "とまりかぜの春たちは",
+        167
+      ],
+      [
+        "【きゅん♡コメ】八宮めぐる",
+        164
+      ],
+      [
+        "Light up the illumination",
+        158
+      ],
+      [
+        "青のReflection",
+        154
+      ],
+      [
+        "八宮めぐる S.T.E.P篇",
+        154
+      ],
+      [
+        "くもりガラスの銀曜日",
+        153
+      ],
+      [
+        "#２８３をひろげよう",
+        146
+      ],
+      [
+        "【たそげれスワッグ】八宮めぐる",
+        145
+      ],
+      [
+        "【金色の元気いっぱいガール】八宮めぐる",
+        140
+      ],
+      [
+        "【たまゆらフレーミング】八宮めぐる",
+        133
+      ],
+      [
+        "【こころレイヤリング】八宮めぐる",
+        127
+      ],
+      [
+        "ファン感謝祭編",
+        121
+      ],
+      [
+        "Morning",
+        120
+      ],
+      [
+        "【ふたり色クレオール】八宮めぐる",
+        120
+      ],
+      [
+        "【小さな夜のトロイメライ】八宮めぐる",
+        118
+      ],
+      [
+        "ヒカリと夜の音楽 またはクロノスタシス",
+        116
+      ],
+      [
+        "【オールウェイズ 】八宮めぐる",
+        107
+      ],
+      [
+        "【花笑み咲匂う】八宮めぐる",
+        104
+      ]
+    ],
+    "top_scenes": [
+      {
+        "file": "八宮めぐる/【小さな夜のトロイメライ】八宮めぐる/ON_消失のクライシス.csv",
+        "target_line_count": 50,
+        "total_line_count": 92,
+        "speakers": [
+          [
+            "めぐる",
+            50
+          ],
+          [
+            "プロデューサー",
+            41
+          ],
+          [
+            "スタッフ",
+            1
+          ]
+        ],
+        "first_target_line_jp": "…………",
+        "first_target_line_cn": "…………",
+        "last_target_line_jp": "ハイターッチ！",
+        "last_target_line_cn": "击掌！"
+      },
+      {
+        "file": "八宮めぐる/【オールウェイズ 】八宮めぐる/１＋１＝灯織.csv",
+        "target_line_count": 48,
+        "total_line_count": 76,
+        "speakers": [
+          [
+            "めぐる",
+            48
+          ],
+          [
+            "真乃",
+            38
+          ]
+        ],
+        "first_target_line_jp": "ふふっ",
+        "first_target_line_cn": "呼呼",
+        "last_target_line_jp": "灯織のツッコミ待ちで！",
+        "last_target_line_cn": "拍好然后等着灯织去吐槽！"
+      },
+      {
+        "file": "八宮めぐる/【夏に恋するピチカート！】八宮めぐる/それはまだ純白な.csv",
+        "target_line_count": 48,
+        "total_line_count": 67,
+        "speakers": [
+          [
+            "めぐる",
+            48
+          ],
+          [
+            "プロデューサー",
+            16
+          ]
+        ],
+        "first_target_line_jp": "今日はたまたまね！ 学校の方の予定が早く終わったからっ",
+        "first_target_line_cn": "今天是偶然！ 因为学校那边的安排结束得比较早",
+        "last_target_line_jp": "……──ちゃんと見ててねーー！",
+        "last_target_line_cn": "……——要好好看着我————！"
+      },
+      {
+        "file": "283活动剧情/Star n dew by me/第5話 invent laughter.csv",
+        "target_line_count": 46,
+        "total_line_count": 96,
+        "speakers": [
+          [
+            "めぐる",
+            46
+          ],
+          [
+            "プロデューサー",
+            28
+          ],
+          [
+            "真乃",
+            8
+          ],
+          [
+            "灯織",
+            8
+          ],
+          [
+            "ゲーム画面",
+            2
+          ],
+          [
+            "off",
+            1
+          ],
+          [
+            "生徒",
+            1
+          ],
+          [
+            "校内放送",
+            1
+          ],
+          [
+            "スタッフ",
+            1
+          ]
+        ],
+        "first_target_line_jp": "あ、プロデューサー！ お疲れさま！",
+        "first_target_line_cn": "啊，制作人！您辛苦了！",
+        "last_target_line_jp": "我こそはオニの中のオニ…… オニ宮めぐる……参上……！",
+        "last_target_line_cn": "吾乃万鬼之鬼…… 鬼宫巡……登场……！"
+      },
+      {
+        "file": "八宮めぐる/【シュカのまにまに】八宮めぐる/ワレワレは暑さに弱い.csv",
+        "target_line_count": 46,
+        "total_line_count": 77,
+        "speakers": [
+          [
+            "めぐる",
+            46
+          ],
+          [
+            "プロデューサー",
+            28
+          ]
+        ],
+        "first_target_line_jp": "おはようございまーす！",
+        "first_target_line_cn": "早上好——！",
+        "last_target_line_jp": "！ えへへっ、そうだよ！",
+        "last_target_line_cn": "！ 欸嘿嘿，没错！"
+      },
+      {
+        "file": "風野灯織/【風野署長の一日勤務回想録】風野灯織/取りたい満点.csv",
+        "target_line_count": 45,
+        "total_line_count": 99,
+        "speakers": [
+          [
+            "灯織",
+            52
+          ],
+          [
+            "めぐる",
+            45
+          ],
+          [
+            "プロデューサー",
+            2
+          ]
+        ],
+        "first_target_line_jp": "……",
+        "first_target_line_cn": "……",
+        "last_target_line_jp": "真乃はどっちがいい？",
+        "last_target_line_cn": "真乃的话哪个好呢？"
+      },
+      {
+        "file": "八宮めぐる/【ずっと・グッド・ラック】八宮めぐる/誰のための 誰のために.csv",
+        "target_line_count": 45,
+        "total_line_count": 66,
+        "speakers": [
+          [
+            "めぐる",
+            45
+          ],
+          [
+            "プロデューサー",
+            21
+          ]
+        ],
+        "first_target_line_jp": "…………",
+        "first_target_line_cn": "…………",
+        "last_target_line_jp": "背中を押してもらって、 頑張らないわけにはいかないもんね！",
+        "last_target_line_cn": "让人推了一把， 再不加油可不行啊！"
+      },
+      {
+        "file": "八宮めぐる/【花笑み咲匂う】八宮めぐる/そのこころは.csv",
+        "target_line_count": 44,
+        "total_line_count": 81,
+        "speakers": [
+          [
+            "めぐる",
+            44
+          ],
+          [
+            "真乃",
+            37
+          ]
+        ],
+        "first_target_line_jp": "（鍵、財布、スマホ、定期、スケジュール帳、イヤホン！ 花は今日も元気！ おかげでわたしも元気！）",
+        "first_target_line_cn": "（钥匙，钱包，手机，电车定期券，行程本，耳机！ 花今天也很有活力！ 多亏它们我今天也很有精神！）",
+        "last_target_line_jp": "う、えっと…… ……ひみつ……！",
+        "last_target_line_cn": "呜，那个…… ……秘密……！"
+      },
+      {
+        "file": "八宮めぐる/【アイの誓い】八宮めぐる/BLUE.csv",
+        "target_line_count": 44,
+        "total_line_count": 63,
+        "speakers": [
+          [
+            "めぐる",
+            44
+          ],
+          [
+            "プロデューサー",
+            16
+          ]
+        ],
+        "first_target_line_jp": "～♪",
+        "first_target_line_cn": "～♪",
+        "last_target_line_jp": "えへへっ、本当の花嫁さんみたいに、 ドレスを選びたくなってきちゃったよー……！",
+        "last_target_line_cn": "诶嘿嘿，好想像真的新娘一样， 选择自己裙子呢……！"
+      },
+      {
+        "file": "283活动剧情/Star n dew by me/第4話 ううん.csv",
+        "target_line_count": 43,
+        "total_line_count": 84,
+        "speakers": [
+          [
+            "めぐる",
+            43
+          ],
+          [
+            "灯織",
+            23
+          ],
+          [
+            "真乃",
+            16
+          ],
+          [
+            "プロデューサー",
+            4
+          ],
+          [
+            "スタッフ",
+            1
+          ]
+        ],
+        "first_target_line_jp": "あーっ！",
+        "first_target_line_cn": "啊——！",
+        "last_target_line_jp": "あ、おかわりできたんだ！ 了解だよー！ また後でねっ",
+        "last_target_line_cn": "啊，还可以续杯吗！ 我知道了—！ 一会见了"
+      },
+      {
+        "file": "八宮めぐる/【きゅん♡コメ】八宮めぐる/メイドです、お嬢様 .csv",
+        "target_line_count": 43,
+        "total_line_count": 69,
+        "speakers": [
+          [
+            "めぐる",
+            43
+          ],
+          [
+            "プロデューサー",
+            23
+          ]
+        ],
+        "first_target_line_jp": "メイドカフェ……！",
+        "first_target_line_cn": "女仆咖啡厅……！",
+        "last_target_line_jp": "だから、なんかちょっと『変な感じ』！ えへへっ",
+        "last_target_line_cn": "所以说，有点“奇怪的感觉”！ 诶嘿嘿"
+      },
+      {
+        "file": "八宮めぐる/【シュカのまにまに】八宮めぐる/光が落ちてくる.csv",
+        "target_line_count": 43,
+        "total_line_count": 69,
+        "speakers": [
+          [
+            "めぐる",
+            43
+          ],
+          [
+            "プロデューサー",
+            24
+          ]
+        ],
+        "first_target_line_jp": "あっ……つーーーーい……！",
+        "first_target_line_cn": "好……热——————啊……！",
+        "last_target_line_jp": "どっちも！",
+        "last_target_line_cn": "都有！"
+      },
+      {
+        "file": "八宮めぐる/【アイの誓い】八宮めぐる/BORROWED.csv",
+        "target_line_count": 42,
+        "total_line_count": 73,
+        "speakers": [
+          [
+            "めぐる",
+            42
+          ],
+          [
+            "プロデューサー",
+            23
+          ],
+          [
+            "めぐるの母",
+            5
+          ]
+        ],
+        "first_target_line_jp": "式場のパンフレットになるんだって！ メイキング動画もサイトに上がるって言ってたかなー",
+        "first_target_line_cn": "听说会做成婚礼现场的手册！ 好像还说会把制作动画上传到网上去",
+        "last_target_line_jp": "もうちょっと考えてみることにするよ！",
+        "last_target_line_cn": "再让我稍微想一想吧！"
+      },
+      {
+        "file": "八宮めぐる/【セツナ_n】八宮めぐる/寒い日_冬.csv",
+        "target_line_count": 42,
+        "total_line_count": 68,
+        "speakers": [
+          [
+            "めぐる",
+            42
+          ],
+          [
+            "プロデューサー",
+            22
+          ]
+        ],
+        "first_target_line_jp": "おはようございまーす！",
+        "first_target_line_cn": "早安！",
+        "last_target_line_jp": "冬の予定、詰まっちゃいそうだよー！",
+        "last_target_line_cn": "冬天的安排看来会很挤！"
+      },
+      {
+        "file": "八宮めぐる/【わがままサンライズ】八宮めぐる/【わがままサンライズ】八宮めぐる02.csv",
+        "target_line_count": 41,
+        "total_line_count": 76,
+        "speakers": [
+          [
+            "めぐる",
+            41
+          ],
+          [
+            "女子中学生１",
+            12
+          ],
+          [
+            "女子中学生２",
+            10
+          ],
+          [
+            "店員",
+            7
+          ],
+          [
+            "女子中学生たち",
+            4
+          ],
+          [
+            "灯織",
+            3
+          ]
+        ],
+        "first_target_line_jp": "…………",
+        "first_target_line_cn": "…………",
+        "last_target_line_jp": "『助けて────灯織ー！』",
+        "last_target_line_cn": "『救救我————灯织—！』"
+      },
+      {
+        "file": "八宮めぐる/G.R.A.D.編/2.触れるものはぜんぶ.csv",
+        "target_line_count": 41,
+        "total_line_count": 74,
+        "speakers": [
+          [
+            "めぐる",
+            41
+          ],
+          [
+            "プロデューサー",
+            30
+          ]
+        ],
+        "first_target_line_jp": "リスナーのみなさん、こんにちは！ イルミネーションスターズの八宮めぐるです！",
+        "first_target_line_cn": "各位听众，你们好！ 我是Illumination Stars的八宫巡！",
+        "last_target_line_jp": "真乃と灯織と一緒に、 たくさん返していきたいなって思ってるんですよ！",
+        "last_target_line_cn": "我想和真乃、灯织一起 做出许许多多的回报！"
+      },
+      {
+        "file": "八宮めぐる/【日々を紡ぐインヴェルノ】八宮めぐる/大海原を越える.csv",
+        "target_line_count": 41,
+        "total_line_count": 66,
+        "speakers": [
+          [
+            "めぐる",
+            41
+          ],
+          [
+            "プロデューサー",
+            22
+          ]
+        ],
+        "first_target_line_jp": "ありがとー！",
+        "first_target_line_cn": "谢谢！",
+        "last_target_line_jp": "後でメッセしてみる！ ありがとう！",
+        "last_target_line_cn": "待会我就去发短信试试！ 谢谢啦！"
+      },
+      {
+        "file": "八宮めぐる/【夏に恋するピチカート！】八宮めぐる/カラフルサマー.csv",
+        "target_line_count": 41,
+        "total_line_count": 64,
+        "speakers": [
+          [
+            "めぐる",
+            41
+          ],
+          [
+            "プロデューサー",
+            19
+          ]
+        ],
+        "first_target_line_jp": "新人アイドル特集？",
+        "first_target_line_cn": "新人偶像特集？",
+        "last_target_line_jp": "もー！ 全部一緒に着れたらいいのにー！",
+        "last_target_line_cn": "真是的——！ 能全部都穿到就好了——！"
+      },
+      {
+        "file": "283活动剧情/绊光记/第4话-ナラティブⅣ-10.14校对.csv",
+        "target_line_count": 40,
+        "total_line_count": 168,
+        "speakers": [
+          [
+            "めぐる",
+            40
+          ],
+          [
+            "現地の女子３",
+            34
+          ],
+          [
+            "ルポライター",
+            30
+          ],
+          [
+            "灯織",
+            15
+          ],
+          [
+            "白紙の文書",
+            15
+          ],
+          [
+            "真乃",
+            9
+          ],
+          [
+            "ファシリテーター",
+            9
+          ],
+          [
+            "プロデューサー",
+            7
+          ],
+          [
+            "雑誌編集者",
+            6
+          ],
+          [
+            "撮影スタッフ",
+            3
+          ]
+        ],
+        "first_target_line_jp": "────トン、トン、パッ……！ ……って感じですっ",
+        "first_target_line_cn": "────咚，咚，啪……！ ……就是这种感觉~",
+        "last_target_line_jp": "あははっ！",
+        "last_target_line_cn": "哈哈哈！"
+      },
+      {
+        "file": "八宮めぐる/【シャア・シャア・ハピネス】八宮めぐる/４÷２＝はんぶんこ.csv",
+        "target_line_count": 40,
+        "total_line_count": 72,
+        "speakers": [
+          [
+            "めぐる",
+            40
+          ],
+          [
+            "摩美々",
+            32
+          ]
+        ],
+        "first_target_line_jp": "摩美々ちゃん！ おはよ──！ ごめん、気付かなかった！",
+        "first_target_line_cn": "摩美美！ 早上好，抱歉都没注意到你",
+        "last_target_line_jp": "え──……！",
+        "last_target_line_cn": "诶──……！"
+      },
+      {
+        "file": "八宮めぐる/【夏に恋するピチカート！】八宮めぐる/淹れたてコーヒー.csv",
+        "target_line_count": 40,
+        "total_line_count": 72,
+        "speakers": [
+          [
+            "めぐる",
+            40
+          ],
+          [
+            "プロデューサー",
+            28
+          ]
+        ],
+        "first_target_line_jp": "プロデューサー、プロデューサー……",
+        "first_target_line_cn": "制作人，制作人……",
+        "last_target_line_jp": "……今日はお昼寝してもいいからねっ",
+        "last_target_line_cn": "……今天你可以午睡的"
+      },
+      {
+        "file": "八宮めぐる/【ハッピー・バレンタイン？】八宮めぐる/隠したいわけじゃないんです.csv",
+        "target_line_count": 40,
+        "total_line_count": 70,
+        "speakers": [
+          [
+            "めぐる",
+            40
+          ],
+          [
+            "灯織",
+            29
+          ],
+          [
+            "？？？",
+            1
+          ]
+        ],
+        "first_target_line_jp": "んー……",
+        "first_target_line_cn": "嗯——……",
+        "last_target_line_jp": "──えへへっ",
+        "last_target_line_cn": "——诶嘿嘿"
+      },
+      {
+        "file": "八宮めぐる/【友達という灯り】八宮めぐる/きみのためなら.csv",
+        "target_line_count": 40,
+        "total_line_count": 69,
+        "speakers": [
+          [
+            "めぐる",
+            40
+          ],
+          [
+            "灯織",
+            29
+          ]
+        ],
+        "first_target_line_jp": "あっ！ 灯織ー！ おっはよー！",
+        "first_target_line_cn": "啊！ 灯织！ 早上好！",
+        "last_target_line_jp": "きっともう、真乃も待ってるもん！ 急がなきゃだよ、灯織！",
+        "last_target_line_cn": "真乃，一定也在等着我们！ 快点，灯织"
+      },
+      {
+        "file": "283活动剧情/はこぶものたち/第1话-小さな夜.csv",
+        "target_line_count": 39,
+        "total_line_count": 145,
+        "speakers": [
+          [
+            "灯織",
+            44
+          ],
+          [
+            "めぐる",
+            39
+          ],
+          [
+            "真乃",
+            36
+          ],
+          [
+            "プロデューサー",
+            18
+          ],
+          [
+            "一同",
+            4
+          ],
+          [
+            "ディレクター",
+            3
+          ],
+          [
+            "営業",
+            2
+          ],
+          [
+            "あるアカウント",
+            2
+          ],
+          [
+            "アートディレクター",
+            1
+          ]
+        ],
+        "first_target_line_jp": "──────♪",
+        "first_target_line_cn": "——♪",
+        "last_target_line_jp": "おやすみー！",
+        "last_target_line_cn": "晚安——！"
+      },
+      {
+        "file": "八宮めぐる/【シュカのまにまに】八宮めぐる/夏の音が聴こえる.csv",
+        "target_line_count": 39,
+        "total_line_count": 72,
+        "speakers": [
+          [
+            "めぐる",
+            39
+          ],
+          [
+            "プロデューサー",
+            29
+          ],
+          [
+            "スタッフ",
+            1
+          ]
+        ],
+        "first_target_line_jp": "はーい！",
+        "first_target_line_cn": "好——！",
+        "last_target_line_jp": "一緒に飲んで、一緒に答え合わせ！ ねっ、約束！",
+        "last_target_line_cn": "一起喝啤酒，一起对答案！ 约好了！"
+      },
+      {
+        "file": "八宮めぐる/【チエルアルコは流星の】八宮めぐる/異邦の青、浮遊する.csv",
+        "target_line_count": 39,
+        "total_line_count": 72,
+        "speakers": [
+          [
+            "めぐる",
+            39
+          ],
+          [
+            "プロデューサー",
+            30
+          ]
+        ],
+        "first_target_line_jp": "プロデューサー！ お疲れさまー！",
+        "first_target_line_cn": "制作人！ 辛苦了！",
+        "last_target_line_jp": "うん……！",
+        "last_target_line_cn": "嗯……！"
+      },
+      {
+        "file": "八宮めぐる/【日々を紡ぐインヴェルノ】八宮めぐる/透明越しに.csv",
+        "target_line_count": 39,
+        "total_line_count": 70,
+        "speakers": [
+          [
+            "めぐる",
+            39
+          ],
+          [
+            "プロデューサー",
+            28
+          ]
+        ],
+        "first_target_line_jp": "えっ！ なんで！？",
+        "first_target_line_cn": "欸！ 怎么了！？",
+        "last_target_line_jp": "わたしがそれとなくみんなに聞いておくよ！ お詫びに！ ね！",
+        "last_target_line_cn": "那我就委婉地问问大家吧！ 作为玩笑道歉！ 好不好呢！"
+      },
+      {
+        "file": "八宮めぐる/Landing Point編/もらってるのはいつもわたし.csv",
+        "target_line_count": 39,
+        "total_line_count": 64,
+        "speakers": [
+          [
+            "めぐる",
+            39
+          ],
+          [
+            "プロデューサー",
+            20
+          ],
+          [
+            "SNSの書き込み",
+            4
+          ],
+          [
+            "off",
+            1
+          ]
+        ],
+        "first_target_line_jp": "招待枠？",
+        "first_target_line_cn": "招待？",
+        "last_target_line_jp": "レッスンとリハ、 もっと頑張らなきゃだ！",
+        "last_target_line_cn": "课程和彩排， 我得再努力点了！"
+      },
+      {
+        "file": "八宮めぐる/【キネマ・リリックで夢見て】八宮めぐる/リミットは日が沈むまで.csv",
+        "target_line_count": 39,
+        "total_line_count": 54,
+        "speakers": [
+          [
+            "めぐる",
+            39
+          ],
+          [
+            "プロデューサー",
+            14
+          ],
+          [
+            "場内アナウンス",
+            1
+          ]
+        ],
+        "first_target_line_jp": "──プロデューサー！",
+        "first_target_line_cn": "——制作人！",
+        "last_target_line_jp": "……でも、失敗したらプロデューサーに バトンタッチするから、その時はよろしくね！",
+        "last_target_line_cn": "……不过，我失败的话 会交棒给制作人的，到时候就拜托你了！"
+      },
+      {
+        "file": "八宮めぐる/Landing Point編/君じゃなきゃだめなんだ.csv",
+        "target_line_count": 39,
+        "total_line_count": 53,
+        "speakers": [
+          [
+            "めぐる",
+            39
+          ],
+          [
+            "プロデューサー",
+            11
+          ],
+          [
+            "元同級生",
+            3
+          ]
+        ],
+        "first_target_line_jp": "（うーん……）",
+        "first_target_line_cn": "（嗯——……）",
+        "last_target_line_jp": "ワンマン、プロデューサーにも『ありがとう！』って 伝えられるライブにしたいなー",
+        "last_target_line_cn": "希望单独演唱会也能变成 向制作人说“谢谢”的演唱会——"
+      }
+    ]
+  },
+  "top_relationships": [
+    {
+      "partner": "灯織",
+      "score": 4906,
+      "scene_cooccurrence": 255,
+      "prev_to_target": 1707,
+      "target_to_next": 1656,
+      "mentions_target": 441,
+      "target_mentions_partner": 592,
+      "samples": [
+        {
+          "file": "283活动剧情/#２８３をひろげよう/オープニング-PROJECT.csv",
+          "line_no": 84,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "めぐる",
+              "jp": "学生の本分だもんねー\nわたしも早く宿題やらなきゃだ",
+              "cn": "毕竟是学生的本分呢——\n我也得赶紧写作业才行",
+              "line_no": 82
+            },
+            {
+              "offset": -1,
+              "speaker": "めぐる",
+              "jp": "──って、ごめん……\nまたやっちゃった",
+              "cn": "——啊，抱歉……\n我又大声说话了",
+              "line_no": 83
+            },
+            {
+              "offset": 0,
+              "speaker": "めぐる",
+              "jp": "最近、真乃にも灯織にも事務所のみんなにも\n全然会ってなかったからつい……！",
+              "cn": "最近完全没见过真乃、灯织\n甚至事务所其他人，所以不禁就……！",
+              "line_no": 84
+            },
+            {
+              "offset": 1,
+              "speaker": "めぐる",
+              "jp": "みんなと一緒のお仕事があればいいのに",
+              "cn": "要是有能和大家一起做的工作就好了",
+              "line_no": 85
+            },
+            {
+              "offset": 2,
+              "speaker": "雛菜",
+              "jp": "あ～\nそうですね～",
+              "cn": "啊～\n这样啊～",
+              "line_no": 86
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/#２８３をひろげよう/第5話-[283PRO]STAGE bhd.csv",
+          "line_no": 39,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "雛菜",
+              "jp": "じゃあ……",
+              "cn": "那为什么……",
+              "line_no": 37
+            },
+            {
+              "offset": -1,
+              "speaker": "めぐる",
+              "jp": "でもね、今日のこのステージは\n今、ここにしかないから",
+              "cn": "不过呢，今天这场表演\n也仅限于此时、此地",
+              "line_no": 38
+            },
+            {
+              "offset": 0,
+              "speaker": "めぐる",
+              "jp": "わたしも、\n真乃と灯織と立ちたかったなー……！",
+              "cn": "我也想和真乃\n还有灯织一起站在这个舞台上——……！",
+              "line_no": 39
+            },
+            {
+              "offset": 1,
+              "speaker": "雛菜",
+              "jp": "…………",
+              "cn": "…………",
+              "line_no": 40
+            },
+            {
+              "offset": 2,
+              "speaker": "めぐる",
+              "jp": "チャンス、\n今度はわたしたちに来るといいな",
+              "cn": "机会，\n下次能轮到我就好了",
+              "line_no": 41
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/#２８３をひろげよう/第6話-COLLABORATION.csv",
+          "line_no": 49,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "雛菜",
+              "jp": "ん～……？\nなりたい……？",
+              "cn": "嗯～……？\n想什么……？",
+              "line_no": 47
+            },
+            {
+              "offset": -1,
+              "speaker": "めぐる",
+              "jp": "でもね、今日のこのステージは\n今、ここにしかないから",
+              "cn": "不过呢，今天这场表演\n也仅限于此时、此地",
+              "line_no": 48
+            },
+            {
+              "offset": 0,
+              "speaker": "めぐる",
+              "jp": "わたしも、\n真乃と灯織と立ちたかったなー……！",
+              "cn": "我也想和真乃\n还有灯织一起站在这个舞台上——……！",
+              "line_no": 49
+            },
+            {
+              "offset": 1,
+              "speaker": "千雪",
+              "jp": "……ううん\nふふっ",
+              "cn": "……没什么\n呵呵",
+              "line_no": 50
+            },
+            {
+              "offset": 2,
+              "speaker": "千雪",
+              "jp": "やっぱり、いいなぁって\n────私たちも……って",
+              "cn": "就觉得，真好啊\n————我们也想……这样",
+              "line_no": 51
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "プロデューサー",
+      "score": 4809,
+      "scene_cooccurrence": 276,
+      "prev_to_target": 1524,
+      "target_to_next": 1513,
+      "mentions_target": 586,
+      "target_mentions_partner": 634,
+      "samples": [
+        {
+          "file": "283活动剧情/#２８３をひろげよう/エンディング-REPLY PARTY.csv",
+          "line_no": 5,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "雛菜",
+              "jp": "へ～\n何が～？",
+              "cn": "诶～\n为什么～？",
+              "line_no": 3
+            },
+            {
+              "offset": -1,
+              "speaker": "プロデューサー",
+              "jp": "この間の、レッスン場のことだよ",
+              "cn": "就，前阵子练习场地的事情",
+              "line_no": 4
+            },
+            {
+              "offset": 0,
+              "speaker": "めぐる＆円香＆雛菜",
+              "jp": "…………",
+              "cn": "…………",
+              "line_no": 5
+            },
+            {
+              "offset": 1,
+              "speaker": "めぐる",
+              "jp": "前も言ったけど\nわたしは大丈夫だよ、プロデューサー！",
+              "cn": "我之前也说过的\n我不介意哦，制作人！",
+              "line_no": 6
+            },
+            {
+              "offset": 2,
+              "speaker": "雛菜",
+              "jp": "はい～",
+              "cn": "嗯～",
+              "line_no": 7
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/#２８３をひろげよう/オープニング-PROJECT.csv",
+          "line_no": 74,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "めぐる",
+              "jp": "やっぱり雛菜だー！\nお疲れさま！",
+              "cn": "果然是雏菜——！\n你辛苦啦！",
+              "line_no": 72
+            },
+            {
+              "offset": -1,
+              "speaker": "雛菜",
+              "jp": "…………！",
+              "cn": "…………！",
+              "line_no": 73
+            },
+            {
+              "offset": 0,
+              "speaker": "めぐる",
+              "jp": "あっ、ごめん\nもしかして、打ち合わせ中だった？",
+              "cn": "啊，抱歉\n你们是在开会吗？",
+              "line_no": 74
+            },
+            {
+              "offset": 1,
+              "speaker": "プロデューサー",
+              "jp": "めぐる、お疲れ\n大丈夫だよ、どうしたんだ？",
+              "cn": "巡，辛苦啦\n没关系，你有什么事吗？",
+              "line_no": 75
+            },
+            {
+              "offset": 2,
+              "speaker": "めぐる",
+              "jp": "もらってたアンケート埋めたから\n渡そうと思って",
+              "cn": "我是来交\n填好的问卷的",
+              "line_no": 76
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/#２８３をひろげよう/第1話-MEETING.csv",
+          "line_no": 51,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "あさひ",
+              "jp": "ほら、早く行くっすよ\nプロデューサーさん！",
+              "cn": "快点过来嘛\n制作人！",
+              "line_no": 49
+            },
+            {
+              "offset": -1,
+              "speaker": "プロデューサー",
+              "jp": "……おう！",
+              "cn": "……好！",
+              "line_no": 50
+            },
+            {
+              "offset": 0,
+              "speaker": "めぐる",
+              "jp": "──それでね",
+              "cn": "——然后",
+              "line_no": 51
+            },
+            {
+              "offset": 1,
+              "speaker": "めぐる",
+              "jp": "他にもできそうなことないかなって\nわたしたちでも考えたくて",
+              "cn": "他说让我们想想\n还有什么能做的事",
+              "line_no": 52
+            },
+            {
+              "offset": 2,
+              "speaker": "雛菜",
+              "jp": "２８３プロのチャンネルだったり\n公式ツイスタを使っていいらしいです～",
+              "cn": "似乎会通过283事务所的频道\n和官方Twista发布",
+              "line_no": 53
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "真乃",
+      "score": 4388,
+      "scene_cooccurrence": 253,
+      "prev_to_target": 1382,
+      "target_to_next": 1472,
+      "mentions_target": 486,
+      "target_mentions_partner": 542,
+      "samples": [
+        {
+          "file": "283活动剧情/#２８３をひろげよう/オープニング-PROJECT.csv",
+          "line_no": 84,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "めぐる",
+              "jp": "学生の本分だもんねー\nわたしも早く宿題やらなきゃだ",
+              "cn": "毕竟是学生的本分呢——\n我也得赶紧写作业才行",
+              "line_no": 82
+            },
+            {
+              "offset": -1,
+              "speaker": "めぐる",
+              "jp": "──って、ごめん……\nまたやっちゃった",
+              "cn": "——啊，抱歉……\n我又大声说话了",
+              "line_no": 83
+            },
+            {
+              "offset": 0,
+              "speaker": "めぐる",
+              "jp": "最近、真乃にも灯織にも事務所のみんなにも\n全然会ってなかったからつい……！",
+              "cn": "最近完全没见过真乃、灯织\n甚至事务所其他人，所以不禁就……！",
+              "line_no": 84
+            },
+            {
+              "offset": 1,
+              "speaker": "めぐる",
+              "jp": "みんなと一緒のお仕事があればいいのに",
+              "cn": "要是有能和大家一起做的工作就好了",
+              "line_no": 85
+            },
+            {
+              "offset": 2,
+              "speaker": "雛菜",
+              "jp": "あ～\nそうですね～",
+              "cn": "啊～\n这样啊～",
+              "line_no": 86
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/#２８３をひろげよう/第5話-[283PRO]STAGE bhd.csv",
+          "line_no": 39,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "雛菜",
+              "jp": "じゃあ……",
+              "cn": "那为什么……",
+              "line_no": 37
+            },
+            {
+              "offset": -1,
+              "speaker": "めぐる",
+              "jp": "でもね、今日のこのステージは\n今、ここにしかないから",
+              "cn": "不过呢，今天这场表演\n也仅限于此时、此地",
+              "line_no": 38
+            },
+            {
+              "offset": 0,
+              "speaker": "めぐる",
+              "jp": "わたしも、\n真乃と灯織と立ちたかったなー……！",
+              "cn": "我也想和真乃\n还有灯织一起站在这个舞台上——……！",
+              "line_no": 39
+            },
+            {
+              "offset": 1,
+              "speaker": "雛菜",
+              "jp": "…………",
+              "cn": "…………",
+              "line_no": 40
+            },
+            {
+              "offset": 2,
+              "speaker": "めぐる",
+              "jp": "チャンス、\n今度はわたしたちに来るといいな",
+              "cn": "机会，\n下次能轮到我就好了",
+              "line_no": 41
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/#２８３をひろげよう/第6話-COLLABORATION.csv",
+          "line_no": 49,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "雛菜",
+              "jp": "ん～……？\nなりたい……？",
+              "cn": "嗯～……？\n想什么……？",
+              "line_no": 47
+            },
+            {
+              "offset": -1,
+              "speaker": "めぐる",
+              "jp": "でもね、今日のこのステージは\n今、ここにしかないから",
+              "cn": "不过呢，今天这场表演\n也仅限于此时、此地",
+              "line_no": 48
+            },
+            {
+              "offset": 0,
+              "speaker": "めぐる",
+              "jp": "わたしも、\n真乃と灯織と立ちたかったなー……！",
+              "cn": "我也想和真乃\n还有灯织一起站在这个舞台上——……！",
+              "line_no": 49
+            },
+            {
+              "offset": 1,
+              "speaker": "千雪",
+              "jp": "……ううん\nふふっ",
+              "cn": "……没什么\n呵呵",
+              "line_no": 50
+            },
+            {
+              "offset": 2,
+              "speaker": "千雪",
+              "jp": "やっぱり、いいなぁって\n────私たちも……って",
+              "cn": "就觉得，真好啊\n————我们也想……这样",
+              "line_no": 51
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "制作人",
+      "score": 653,
+      "scene_cooccurrence": 0,
+      "prev_to_target": 0,
+      "target_to_next": 0,
+      "mentions_target": 0,
+      "target_mentions_partner": 653,
+      "samples": [
+        {
+          "file": "283活动剧情/#２８３をひろげよう/エンディング-REPLY PARTY.csv",
+          "line_no": 6,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "プロデューサー",
+              "jp": "この間の、レッスン場のことだよ",
+              "cn": "就，前阵子练习场地的事情",
+              "line_no": 4
+            },
+            {
+              "offset": -1,
+              "speaker": "めぐる＆円香＆雛菜",
+              "jp": "…………",
+              "cn": "…………",
+              "line_no": 5
+            },
+            {
+              "offset": 0,
+              "speaker": "めぐる",
+              "jp": "前も言ったけど\nわたしは大丈夫だよ、プロデューサー！",
+              "cn": "我之前也说过的\n我不介意哦，制作人！",
+              "line_no": 6
+            },
+            {
+              "offset": 1,
+              "speaker": "雛菜",
+              "jp": "はい～",
+              "cn": "嗯～",
+              "line_no": 7
+            },
+            {
+              "offset": 2,
+              "speaker": "雛菜",
+              "jp": "別に謝らなくて大丈夫ですけど～",
+              "cn": "你不必道歉～",
+              "line_no": 8
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/#２８３をひろげよう/第3話-[283PRO]LESSON bhd.csv",
+          "line_no": 28,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "プロデューサー",
+              "jp": "あ……！\nみんな……！",
+              "cn": "啊……！\n你们……！",
+              "line_no": 26
+            },
+            {
+              "offset": -1,
+              "speaker": "プロデューサー",
+              "jp": "ここにいたのか……！",
+              "cn": "原来在这里啊……！",
+              "line_no": 27
+            },
+            {
+              "offset": 0,
+              "speaker": "めぐる",
+              "jp": "あれ、プロデューサー！",
+              "cn": "咦，制作人！",
+              "line_no": 28
+            },
+            {
+              "offset": 1,
+              "speaker": "めぐる",
+              "jp": "どうしたの？\nなんか急いでる……？",
+              "cn": "怎么了？\n看你急急忙忙的……？",
+              "line_no": 29
+            },
+            {
+              "offset": 2,
+              "speaker": "プロデューサー",
+              "jp": "────すまん！",
+              "cn": "————对不起！",
+              "line_no": 30
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/2025ホワイトデー スペシャルコミュ/25白情巡1.csv",
+          "line_no": 5,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "めぐる",
+              "jp": "わ、ネイルオイルだ\nなんだかいい香りもする……！",
+              "cn": "哇，是指甲油啊\n好像有股很好闻的香味……！",
+              "line_no": 3
+            },
+            {
+              "offset": -1,
+              "speaker": "プロデューサー",
+              "jp": "ポップには花の香りって書いてあったかな\n爪も大事って聞いたからさ、手と併せて保湿にどうぞ",
+              "cn": "应该是广告上所写的花香吧\n我听说指甲护理也很重要，拿去和手一起保湿吧",
+              "line_no": 4
+            },
+            {
+              "offset": 0,
+              "speaker": "めぐる",
+              "jp": "……！　ちょうど気になってたんだ\nありがとうプロデューサー！",
+              "cn": "……！我正好有点在意指甲呢\n谢谢你，制作人！",
+              "line_no": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "かな",
+      "score": 533,
+      "scene_cooccurrence": 0,
+      "prev_to_target": 0,
+      "target_to_next": 0,
+      "mentions_target": 0,
+      "target_mentions_partner": 533,
+      "samples": [
+        {
+          "file": "283活动剧情/#２８３をひろげよう/エンディング-REPLY PARTY.csv",
+          "line_no": 24,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "プロデューサー",
+              "jp": "…………！",
+              "cn": "…………！",
+              "line_no": 22
+            },
+            {
+              "offset": -1,
+              "speaker": "めぐる",
+              "jp": "えへへっ",
+              "cn": "诶嘿嘿",
+              "line_no": 23
+            },
+            {
+              "offset": 0,
+              "speaker": "めぐる",
+              "jp": "いつか来た時に備えて\n練習しておかないとだもん！",
+              "cn": "因为那是为了有朝一日\n而进行的练习！",
+              "line_no": 24
+            },
+            {
+              "offset": 1,
+              "speaker": "めぐる",
+              "jp": "ね、プロデューサー",
+              "cn": "对吗，制作人",
+              "line_no": 25
+            },
+            {
+              "offset": 2,
+              "speaker": "プロデューサー",
+              "jp": "ああ、そうだよな",
+              "cn": "嗯，是啊",
+              "line_no": 26
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/#２８３をひろげよう/第1話-MEETING.csv",
+          "line_no": 12,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "雛菜",
+              "jp": "そうですか～",
+              "cn": "这样啊～",
+              "line_no": 10
+            },
+            {
+              "offset": -1,
+              "speaker": "めぐる",
+              "jp": "だから、わたしたちだけでも大丈夫だよって\n言っちゃった",
+              "cn": "所以我跟他说了\n就算只有我们在也没问题的",
+              "line_no": 11
+            },
+            {
+              "offset": 0,
+              "speaker": "めぐる",
+              "jp": "……んだけど、先走っちゃったかな",
+              "cn": "……好像，擅自替大家做了决定呢",
+              "line_no": 12
+            },
+            {
+              "offset": 1,
+              "speaker": "雛菜",
+              "jp": "いいんじゃないですか～？\nせっかく集まったんだし",
+              "cn": "这样也行吧～？\n难得人齐了",
+              "line_no": 13
+            },
+            {
+              "offset": 2,
+              "speaker": "めぐる",
+              "jp": "そっか、よかった！",
+              "cn": "是吗，那就好！",
+              "line_no": 14
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/#２８３をひろげよう/第3話-[283PRO]LESSON bhd.csv",
+          "line_no": 2,
+          "context": [
+            {
+              "offset": 0,
+              "speaker": "めぐる",
+              "jp": "三脚以外に何か要るかな？",
+              "cn": "除了三脚架还有什么需要的？",
+              "line_no": 2
+            },
+            {
+              "offset": 1,
+              "speaker": "円香",
+              "jp": "……\n大丈夫じゃない？",
+              "cn": "……\n不必吧？",
+              "line_no": 3
+            },
+            {
+              "offset": 2,
+              "speaker": "円香",
+              "jp": "みんなで撮りあった映像ってことで\n載せるみたいだし",
+              "cn": "想呈现出\n“是大家一起拍摄的视频”的感觉",
+              "line_no": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "雛菜",
+      "score": 199,
+      "scene_cooccurrence": 24,
+      "prev_to_target": 64,
+      "target_to_next": 68,
+      "mentions_target": 0,
+      "target_mentions_partner": 19,
+      "samples": [
+        {
+          "file": "283活动剧情/#２８３をひろげよう/エンディング-REPLY PARTY.csv",
+          "line_no": 6,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "プロデューサー",
+              "jp": "この間の、レッスン場のことだよ",
+              "cn": "就，前阵子练习场地的事情",
+              "line_no": 4
+            },
+            {
+              "offset": -1,
+              "speaker": "めぐる＆円香＆雛菜",
+              "jp": "…………",
+              "cn": "…………",
+              "line_no": 5
+            },
+            {
+              "offset": 0,
+              "speaker": "めぐる",
+              "jp": "前も言ったけど\nわたしは大丈夫だよ、プロデューサー！",
+              "cn": "我之前也说过的\n我不介意哦，制作人！",
+              "line_no": 6
+            },
+            {
+              "offset": 1,
+              "speaker": "雛菜",
+              "jp": "はい～",
+              "cn": "嗯～",
+              "line_no": 7
+            },
+            {
+              "offset": 2,
+              "speaker": "雛菜",
+              "jp": "別に謝らなくて大丈夫ですけど～",
+              "cn": "你不必道歉～",
+              "line_no": 8
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/#２８３をひろげよう/オープニング-PROJECT.csv",
+          "line_no": 71,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "雛菜",
+              "jp": "雛菜がやりたいことやっていいの～？\nそれならやろうかな～",
+              "cn": "雏菜只要做自己想做的事就好了对吧～？\n那还是做吧～",
+              "line_no": 69
+            },
+            {
+              "offset": -1,
+              "speaker": "雛菜",
+              "jp": "あ、円香先輩にも手伝ってもらえば\nいいんじゃない？",
+              "cn": "啊，让圆香学姐\n也来帮忙吧？",
+              "line_no": 70
+            },
+            {
+              "offset": 0,
+              "speaker": "めぐる",
+              "jp": "…………？",
+              "cn": "…………？",
+              "line_no": 71
+            },
+            {
+              "offset": 1,
+              "speaker": "めぐる",
+              "jp": "やっぱり雛菜だー！\nお疲れさま！",
+              "cn": "果然是雏菜——！\n你辛苦啦！",
+              "line_no": 72
+            },
+            {
+              "offset": 2,
+              "speaker": "雛菜",
+              "jp": "…………！",
+              "cn": "…………！",
+              "line_no": 73
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/#２８３をひろげよう/第1話-MEETING.csv",
+          "line_no": 3,
+          "context": [
+            {
+              "offset": -1,
+              "speaker": "めぐる",
+              "jp": "────うん、うん\nそっか",
+              "cn": "————嗯，嗯\n这样啊",
+              "line_no": 2
+            },
+            {
+              "offset": 0,
+              "speaker": "めぐる",
+              "jp": "それは仕方ない！\n全然誰も悪くないもん！",
+              "cn": "那就没办法了！\n这不是任何人的错！",
+              "line_no": 3
+            },
+            {
+              "offset": 1,
+              "speaker": "雛菜",
+              "jp": "…………",
+              "cn": "…………",
+              "line_no": 4
+            },
+            {
+              "offset": 2,
+              "speaker": "めぐる",
+              "jp": "ううん、大丈夫だよ！\nみんなにはわたしから説明しておくから",
+              "cn": "不不，没关系哦！\n我会向大家说明的",
+              "line_no": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "スタッフ",
+      "score": 149,
+      "scene_cooccurrence": 41,
+      "prev_to_target": 27,
+      "target_to_next": 21,
+      "mentions_target": 0,
+      "target_mentions_partner": 19,
+      "samples": [
+        {
+          "file": "283活动剧情/For Your Eyes Only/第2话-誰かが、見ている.csv",
+          "line_no": 6,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "メグル",
+              "jp": "次回『誰かが、見ている』\n祭りのあと、投稿された一枚の写真は──",
+              "cn": "下集“有人在看着”\n庆典之后，上传至SNS的一张照片是——",
+              "line_no": 4
+            },
+            {
+              "offset": -1,
+              "speaker": "スタッフ",
+              "jp": "ありがとうございます！\nこちらのナレーションで、今回の分は終了ですね！",
+              "cn": "十分感谢！\n旁白之后，本次的部分就结束了！",
+              "line_no": 5
+            },
+            {
+              "offset": 0,
+              "speaker": "めぐる",
+              "jp": "はーい！\nお疲れさまです、ありがとうございました！",
+              "cn": "好！\n辛苦了，感谢！",
+              "line_no": 6
+            },
+            {
+              "offset": 1,
+              "speaker": "めぐる",
+              "jp": "…………",
+              "cn": "……",
+              "line_no": 7
+            },
+            {
+              "offset": 2,
+              "speaker": "メグル",
+              "jp": "……無理だよ",
+              "cn": "……不行的哦",
+              "line_no": 8
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/For Your Eyes Only/第6话-解かれる.csv",
+          "line_no": 17,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "スタッフ",
+              "jp": "お疲れ様でしたー！\n八宮さんはこちらでクランクアップとなります",
+              "cn": "辛苦了！\n八宫小姐在这里就杀青了",
+              "line_no": 15
+            },
+            {
+              "offset": -1,
+              "speaker": "スタッフ",
+              "jp": "変な姿勢を長時間取らせてしまって申し訳ありません……\n大丈夫でしたか？",
+              "cn": "抱歉让你长时间保持奇怪的姿势……\n没事吧？",
+              "line_no": 16
+            },
+            {
+              "offset": 0,
+              "speaker": "めぐる",
+              "jp": "はい！　被害者役、大変だったけど面白かったです！\nぐんにゃりするために力入れるのとか……！",
+              "cn": "是！被害人一角，很辛苦但也很有趣！\n比如要用力做出软绵绵的状态……！",
+              "line_no": 17
+            },
+            {
+              "offset": 1,
+              "speaker": "スタッフ",
+              "jp": "ははっ、ありがとうございます",
+              "cn": "哈哈，谢谢",
+              "line_no": 18
+            },
+            {
+              "offset": 2,
+              "speaker": "スタッフ",
+              "jp": "一段落したところすみません、\nウェブ用のインタビューにお答えいただけますと……",
+              "cn": "抱歉在告一段落的时候打扰\n能否回答网站用的采访呢……",
+              "line_no": 19
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/Star n dew by me/エンディング 呼吸のソルフェージュ.csv",
+          "line_no": 12,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "灯織",
+              "jp": "告白の結果はわからないけど……\nちゃんと後夜祭を迎えられてよかった",
+              "cn": "虽说不知道告白的结果……\n能迎来后夜祭真是太好了",
+              "line_no": 10
+            },
+            {
+              "offset": -1,
+              "speaker": "めぐる",
+              "jp": "わたしたちの台本には、\n『学園祭でオニゴッコ』としか書いてなかったけど",
+              "cn": "咱们的剧本上，\n虽然只写了“学园祭的捉迷藏”来着",
+              "line_no": 11
+            },
+            {
+              "offset": 0,
+              "speaker": "めぐる",
+              "jp": "スタッフさんたちにとっては\n全部筋書き通りだったのかなぁ？",
+              "cn": "对于节目组来说\n是不是全都照本宣科了呢？",
+              "line_no": 12
+            },
+            {
+              "offset": 1,
+              "speaker": "灯織",
+              "jp": "全部じゃないかもしれないけど……\nある程度はそうだったのかもね",
+              "cn": "“全部”倒是不至于……\n某种程度上说，是这样吧",
+              "line_no": 13
+            },
+            {
+              "offset": 2,
+              "speaker": "めぐる",
+              "jp": "うー、なんだかもてあそばれた気分……",
+              "cn": "嗯——，感觉一副被耍了的样子……",
+              "line_no": 14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "樹里",
+      "score": 146,
+      "scene_cooccurrence": 31,
+      "prev_to_target": 35,
+      "target_to_next": 36,
+      "mentions_target": 3,
+      "target_mentions_partner": 10,
+      "samples": [
+        {
+          "file": "283活动剧情/#２８３をひろげよう/エンディング-REPLY PARTY.csv",
+          "line_no": 35,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "プロデューサー",
+              "jp": "……そうしていかなきゃだもんな",
+              "cn": "……必须得这样才行呢",
+              "line_no": 33
+            },
+            {
+              "offset": -1,
+              "speaker": "樹里",
+              "jp": "──おーい\nそろそろ時間だぞー",
+              "cn": "——喂\n快到时间了——",
+              "line_no": 34
+            },
+            {
+              "offset": 0,
+              "speaker": "めぐる",
+              "jp": "あ、うん！",
+              "cn": "啊，嗯！",
+              "line_no": 35
+            },
+            {
+              "offset": 1,
+              "speaker": "めぐる",
+              "jp": "あー！　あさひだ！",
+              "cn": "啊——！　是朝日！",
+              "line_no": 36
+            },
+            {
+              "offset": 2,
+              "speaker": "あさひ",
+              "jp": "はいっす！",
+              "cn": "嗯！",
+              "line_no": 37
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/#２８３をひろげよう/第1話-MEETING.csv",
+          "line_no": 15,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "雛菜",
+              "jp": "いいんじゃないですか～？\nせっかく集まったんだし",
+              "cn": "这样也行吧～？\n难得人齐了",
+              "line_no": 13
+            },
+            {
+              "offset": -1,
+              "speaker": "めぐる",
+              "jp": "そっか、よかった！",
+              "cn": "是吗，那就好！",
+              "line_no": 14
+            },
+            {
+              "offset": 0,
+              "speaker": "めぐる",
+              "jp": "じゃあじゃあ、みんな座って座って！\n会議を始めまーす！",
+              "cn": "那么那么，大家坐下吧！\n开始进行会议！",
+              "line_no": 15
+            },
+            {
+              "offset": 1,
+              "speaker": "樹里",
+              "jp": "……？\nおー、とにかく座ればいいのか？",
+              "cn": "……？\n哦——，随便坐哪都行吗？",
+              "line_no": 16
+            },
+            {
+              "offset": 2,
+              "speaker": "千雪",
+              "jp": "えっと……\nお邪魔します……？",
+              "cn": "那……\n我进来了……？",
+              "line_no": 17
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/#２８３をひろげよう/第2話-[283PRO]MEETING bhd.csv",
+          "line_no": 11,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "千雪",
+              "jp": "ふふっ\nとっても可愛い",
+              "cn": "呵呵\n很可爱",
+              "line_no": 9
+            },
+            {
+              "offset": -1,
+              "speaker": "樹里",
+              "jp": "おー、いいんじゃねーか？",
+              "cn": "哦——，不错嘛？",
+              "line_no": 10
+            },
+            {
+              "offset": 0,
+              "speaker": "めぐる",
+              "jp": "ほんとー！？　やった！",
+              "cn": "真的吗！？　太好啦！",
+              "line_no": 11
+            },
+            {
+              "offset": 1,
+              "speaker": "雛菜",
+              "jp": "じゃあ動画とかツイスタでは\nその名前でハッシュタグつけましょうか～",
+              "cn": "那就给视频和Twista\n也打上这个话题吧～",
+              "line_no": 12
+            },
+            {
+              "offset": 2,
+              "speaker": "雛菜",
+              "jp": "『#２８３をひろげよう』",
+              "cn": "“#展开283”",
+              "line_no": 13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "冬優子",
+      "score": 130,
+      "scene_cooccurrence": 32,
+      "prev_to_target": 26,
+      "target_to_next": 28,
+      "mentions_target": 12,
+      "target_mentions_partner": 0,
+      "samples": [
+        {
+          "file": "283活动剧情/Detective×Murder/special_communications_490103211.csv",
+          "line_no": 3,
+          "context": [
+            {
+              "offset": -1,
+              "speaker": "めぐる",
+              "jp": "見えてきたね",
+              "cn": "能看出轮廓了呢",
+              "line_no": 2
+            },
+            {
+              "offset": 0,
+              "speaker": "めぐる",
+              "jp": "アリバイらしいアリバイがないのは\nわたし、幽谷さん、有栖川さん、桑山さん──",
+              "cn": "也就是说，没有像样的不在场证明的\n就是我、幽谷小姐、有栖川小姐、桑山小姐——",
+              "line_no": 3
+            },
+            {
+              "offset": 1,
+              "speaker": "冬優子",
+              "jp": "それからふゆ、透ちゃん、美琴さん……\nこの７人ってことになりそうだね",
+              "cn": "还有冬优、小透、美琴小姐……\n这七个人吧",
+              "line_no": 4
+            },
+            {
+              "offset": 2,
+              "speaker": "弟子",
+              "jp": "なるほど……死亡推定時刻にみなさんが何をしていたのか\n改めて教えてもらってもいいですか？",
+              "cn": "原来如此……能再告诉我们一次\n各位在死亡推定时刻做了些什么吗？",
+              "line_no": 5
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/Detective×Murder/【２日目】17_11-対峙１.csv",
+          "line_no": 32,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "透",
+              "jp": "そうだったね……",
+              "cn": "是这样啊……",
+              "line_no": 30
+            },
+            {
+              "offset": -1,
+              "speaker": "めぐる",
+              "jp": "外で有栖川さんと会えてたら\nもっと色々わかるのにって思ってたけど……",
+              "cn": "虽然我想过，如果我在外面遇见了有栖川小姐，\n应该就能明白更多事情了……",
+              "line_no": 31
+            },
+            {
+              "offset": 0,
+              "speaker": "めぐる",
+              "jp": "そっか、そういう考え方をすればいいんだね",
+              "cn": "不过，是吗\n只要这样考虑就可以了呢",
+              "line_no": 32
+            },
+            {
+              "offset": 1,
+              "speaker": "冬優子",
+              "jp": "それって、ふゆたちにも同じことが言えますね……？",
+              "cn": "也就是说，冬优我们也可以用同样的理由排除掉吧……？",
+              "line_no": 33
+            },
+            {
+              "offset": 2,
+              "speaker": "弟子",
+              "jp": "はい",
+              "cn": "是的",
+              "line_no": 34
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/きよしこの夜、プレゼン・フォー・ユー！/16_57 PM.csv",
+          "line_no": 21,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "果穂",
+              "jp": "それでは！　ここで次の走者、\nチームヘルメスのみなさんの様子を見てみましょうっ！",
+              "cn": "那么！　接下来请看，\n下一棒跑者赫尔墨斯组的各位的情况吧！",
+              "line_no": 19
+            },
+            {
+              "offset": -1,
+              "speaker": "めぐる",
+              "jp": "はーいっ！　じゃあ次は右！\nお腹の横がぴりぴりするまで伸びて──",
+              "cn": "好！　接着是右边！\n要让肚子侧边伸展到极限——",
+              "line_no": 20
+            },
+            {
+              "offset": 0,
+              "speaker": "めぐる",
+              "jp": "──ぐーっ……！",
+              "cn": "——伸……！",
+              "line_no": 21
+            },
+            {
+              "offset": 1,
+              "speaker": "咲耶＆樹里＆冬優子",
+              "jp": "ぐーっ……",
+              "cn": "伸……",
+              "line_no": 22
+            },
+            {
+              "offset": 2,
+              "speaker": "咲耶",
+              "jp": "──ありがとう、めぐる\n細胞が目覚めていくのを感じるよ",
+              "cn": "——谢谢你，巡\n我能感觉到我的细胞都醒来了",
+              "line_no": 23
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "千雪",
+      "score": 128,
+      "scene_cooccurrence": 34,
+      "prev_to_target": 28,
+      "target_to_next": 22,
+      "mentions_target": 2,
+      "target_mentions_partner": 8,
+      "samples": [
+        {
+          "file": "283活动剧情/#２８３をひろげよう/エンディング-REPLY PARTY.csv",
+          "line_no": 42,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "樹里",
+              "jp": "『リプライパーティー』な\nファンのみんなに直接返事するんだってさ",
+              "cn": "是“回复派对”\n要直接回复粉丝的留言",
+              "line_no": 40
+            },
+            {
+              "offset": -1,
+              "speaker": "千雪",
+              "jp": "ふふっ、\n思ってるのとはちょっと違うかもしれないけど……",
+              "cn": "呵呵，\n可能和你想的不太一样呢……",
+              "line_no": 41
+            },
+            {
+              "offset": 0,
+              "speaker": "めぐる",
+              "jp": "いいと思う！\nあさひもいるとみんな喜んでくれるよ",
+              "cn": "我觉得很好哦！\n朝日也参加的话大家也会很高兴的",
+              "line_no": 42
+            },
+            {
+              "offset": 1,
+              "speaker": "めぐる",
+              "jp": "それに、楽しいのは間違いないから！",
+              "cn": "而且，“好玩”这一点是不会错的！",
+              "line_no": 43
+            },
+            {
+              "offset": 2,
+              "speaker": "あさひ",
+              "jp": "パーティーは楽しいっすよ！",
+              "cn": "开派对很好玩呢！",
+              "line_no": 44
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/#２８３をひろげよう/第1話-MEETING.csv",
+          "line_no": 18,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "樹里",
+              "jp": "……？\nおー、とにかく座ればいいのか？",
+              "cn": "……？\n哦——，随便坐哪都行吗？",
+              "line_no": 16
+            },
+            {
+              "offset": -1,
+              "speaker": "千雪",
+              "jp": "えっと……\nお邪魔します……？",
+              "cn": "那……\n我进来了……？",
+              "line_no": 17
+            },
+            {
+              "offset": 0,
+              "speaker": "めぐる",
+              "jp": "どうぞどうぞ！",
+              "cn": "请进请进！",
+              "line_no": 18
+            },
+            {
+              "offset": 1,
+              "speaker": "円香",
+              "jp": "…………",
+              "cn": "…………",
+              "line_no": 19
+            },
+            {
+              "offset": 2,
+              "speaker": "円香",
+              "jp": "プロデューサーは？",
+              "cn": "制作人呢？",
+              "line_no": 20
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/#２８３をひろげよう/第2話-[283PRO]MEETING bhd.csv",
+          "line_no": 8,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "めぐる",
+              "jp": "２８３のみんなのことをもっと知ってもらおう！\nそのために何しよう？　って会議だから",
+              "cn": "因为这是“让大家进一步认识283的偶像！”\n而进行的会议啊",
+              "line_no": 6
+            },
+            {
+              "offset": -1,
+              "speaker": "めぐる",
+              "jp": "なんか……翼をバッと広げて、\nパタパターって羽ばたく感じ！",
+              "cn": "就……展开双翼\n振翅飞翔的感觉！",
+              "line_no": 7
+            },
+            {
+              "offset": 0,
+              "speaker": "めぐる",
+              "jp": "みんなも案あったら教えてー！",
+              "cn": "大家有什么建议的话可以告诉我哦——！",
+              "line_no": 8
+            },
+            {
+              "offset": 1,
+              "speaker": "千雪",
+              "jp": "ふふっ\nとっても可愛い",
+              "cn": "呵呵\n很可爱",
+              "line_no": 9
+            },
+            {
+              "offset": 2,
+              "speaker": "樹里",
+              "jp": "おー、いいんじゃねーか？",
+              "cn": "哦——，不错嘛？",
+              "line_no": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "あさひ",
+      "score": 127,
+      "scene_cooccurrence": 33,
+      "prev_to_target": 21,
+      "target_to_next": 28,
+      "mentions_target": 0,
+      "target_mentions_partner": 12,
+      "samples": [
+        {
+          "file": "283活动剧情/#２８３をひろげよう/エンディング-REPLY PARTY.csv",
+          "line_no": 36,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "樹里",
+              "jp": "──おーい\nそろそろ時間だぞー",
+              "cn": "——喂\n快到时间了——",
+              "line_no": 34
+            },
+            {
+              "offset": -1,
+              "speaker": "めぐる",
+              "jp": "あ、うん！",
+              "cn": "啊，嗯！",
+              "line_no": 35
+            },
+            {
+              "offset": 0,
+              "speaker": "めぐる",
+              "jp": "あー！　あさひだ！",
+              "cn": "啊——！　是朝日！",
+              "line_no": 36
+            },
+            {
+              "offset": 1,
+              "speaker": "あさひ",
+              "jp": "はいっす！",
+              "cn": "嗯！",
+              "line_no": 37
+            },
+            {
+              "offset": 2,
+              "speaker": "樹里",
+              "jp": "ああ、ちょうどそこで会ったからさ\n誘ったんだけど……",
+              "cn": "啊，我们刚好遇到\n就邀请她来了……",
+              "line_no": 38
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/#２８３をひろげよう/第5話-[283PRO]STAGE bhd.csv",
+          "line_no": 10,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "雛菜",
+              "jp": "はい～",
+              "cn": "好～",
+              "line_no": 8
+            },
+            {
+              "offset": -1,
+              "speaker": "あさひ",
+              "jp": "────あっ",
+              "cn": "————啊",
+              "line_no": 9
+            },
+            {
+              "offset": 0,
+              "speaker": "めぐる",
+              "jp": "あっ、あさひ……！",
+              "cn": "啊，是朝日……！",
+              "line_no": 10
+            },
+            {
+              "offset": 1,
+              "speaker": "雛菜",
+              "jp": "お疲れ様です～",
+              "cn": "辛苦啦～",
+              "line_no": 11
+            },
+            {
+              "offset": 2,
+              "speaker": "あさひ",
+              "jp": "お疲れ様っす\nなんでふたりはここにいるっすか？",
+              "cn": "你们也是\n为什么你们会在这里啊？",
+              "line_no": 12
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/きよしこの夜、プレゼン・フォー・ユー！/16_57 PM.csv",
+          "line_no": 36,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "咲耶",
+              "jp": "サンタとのランデブーのために、ね？",
+              "cn": "为了和圣诞老人相遇，吧？",
+              "line_no": 34
+            },
+            {
+              "offset": -1,
+              "speaker": "冬優子",
+              "jp": "うん、ありがとうっ！\nふゆは平気、だよ……！",
+              "cn": "嗯，谢谢你们！\n冬优，没问题的……！",
+              "line_no": 35
+            },
+            {
+              "offset": 0,
+              "speaker": "めぐる",
+              "jp": "えへへっ、サンタだって！\nあさひたち、いいなー！",
+              "cn": "诶嘿嘿，说是有圣诞老人！\n朝日她们，真好啊！",
+              "line_no": 36
+            },
+            {
+              "offset": 1,
+              "speaker": "めぐる",
+              "jp": "でもでも、海外ロケをゲットできるかどうかは、\nわたしたちにかかってるってことでしょ……！？",
+              "cn": "可是可是，能不能抓到这次去国外出外景的机会，\n就看我们了吧……！？",
+              "line_no": 37
+            },
+            {
+              "offset": 2,
+              "speaker": "めぐる",
+              "jp": "それは、すーっごく燃えちゃう！",
+              "cn": "那样，好让人热血沸腾！",
+              "line_no": 38
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "摩美々",
+      "score": 122,
+      "scene_cooccurrence": 26,
+      "prev_to_target": 30,
+      "target_to_next": 26,
+      "mentions_target": 9,
+      "target_mentions_partner": 5,
+      "samples": [
+        {
+          "file": "283活动剧情/きよしこの夜、プレゼン・フォー・ユー！/14_48 PM.csv",
+          "line_no": 40,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "あさひ",
+              "jp": "次の区間は、\n恋鐘ちゃん、智代子ちゃん、愛依ちゃんが走るっす！",
+              "cn": "下个区间，\n是恋钟，智代子和爱依要跑！",
+              "line_no": 38
+            },
+            {
+              "offset": -1,
+              "speaker": "摩美々",
+              "jp": "実況担当はぁ──",
+              "cn": "负责实况解说的是——",
+              "line_no": 39
+            },
+            {
+              "offset": 0,
+              "speaker": "めぐる",
+              "jp": "やっほー！　わたしたちだよーっ",
+              "cn": "呀嚯！　是我们哦！",
+              "line_no": 40
+            },
+            {
+              "offset": 1,
+              "speaker": "樹里",
+              "jp": "おうっ\nみんな、よろしくな！",
+              "cn": "噢\n大家好啊！",
+              "line_no": 41
+            },
+            {
+              "offset": 2,
+              "speaker": "冬優子",
+              "jp": "みなさんが心地よく走れるように、\nサポートできたらいいなって思います！",
+              "cn": "如果能够支持她们，让她们心情愉悦地跑完全程就好了！",
+              "line_no": 42
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/きよしこの夜、プレゼン・フォー・ユー！/17_46 PM.csv",
+          "line_no": 106,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "咲耶",
+              "jp": "摩美々、行ってくるよ",
+              "cn": "摩美美，我出发了",
+              "line_no": 104
+            },
+            {
+              "offset": -1,
+              "speaker": "摩美々",
+              "jp": "……はぁっ……はぁっ……\n頼んだぁ……",
+              "cn": "……哈……哈……\n拜托了……",
+              "line_no": 105
+            },
+            {
+              "offset": 0,
+              "speaker": "めぐる",
+              "jp": "ふふっ\nチームヘルメス、いっくよー！",
+              "cn": "呵呵\n赫尔墨斯组，要走了！",
+              "line_no": 106
+            },
+            {
+              "offset": 1,
+              "speaker": "咲耶＆樹里＆冬優子",
+              "jp": "おーっ！",
+              "cn": "喔！",
+              "line_no": 107
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/オペレーション・サンタ！～包囲せよ２８３プロ～/第4话-この味を飲み干して…….csv",
+          "line_no": 76,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "めぐる",
+              "jp": "──でもダメっ、これ以上は心配だよ！",
+              "cn": "——不行，再这样下去我好担心啊！",
+              "line_no": 74
+            },
+            {
+              "offset": -1,
+              "speaker": "真乃",
+              "jp": "うん……！\nみんなで、確かめに行こう……！",
+              "cn": "嗯……！\n我们一起，去确认一下吧……！",
+              "line_no": 75
+            },
+            {
+              "offset": 0,
+              "speaker": "灯織＆めぐる",
+              "jp": "うん……！",
+              "cn": "嗯……！",
+              "line_no": 76
+            },
+            {
+              "offset": 1,
+              "speaker": "摩美々＆霧子",
+              "jp": "！",
+              "cn": "！",
+              "line_no": 77
+            },
+            {
+              "offset": 2,
+              "speaker": "霧子",
+              "jp": "摩美々ちゃん……\n今……",
+              "cn": "摩美美……\n刚才……",
+              "line_no": 78
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

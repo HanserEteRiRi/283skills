@@ -1,0 +1,2633 @@
+{
+  "profile": {
+    "target": "雛菜",
+    "aliases": [
+      "市川雛菜",
+      "市川 雛菜",
+      "雛菜",
+      "雏菜",
+      "Hinana",
+      "Ichikawa Hinana",
+      "Hinana Ichikawa"
+    ],
+    "mention_aliases": [
+      "市川雛菜",
+      "市川 雛菜",
+      "市川",
+      "市川さん",
+      "雛菜",
+      "雛菜ちゃん",
+      "雛菜先輩",
+      "雏菜",
+      "Hinana",
+      "Ichikawa Hinana",
+      "Hinana Ichikawa"
+    ],
+    "theme_config": "../story-dialogue-themes/ichikawa-hinana.json",
+    "voice_config": "../story-dialogue-voice/ichikawa-hinana.json",
+    "output_dir": "../../283/ichikawa-hinana-perspective/references/local-dialogue-analysis"
+  },
+  "boundary": {
+    "display_name": "市川雛菜",
+    "age_stage": "15岁，高中1年级",
+    "education_or_role": "高中生 / 283 Production Noctchill 偶像",
+    "affiliation": "Noctchill（浅倉透、樋口円香、福丸小糸、市川雛菜）",
+    "allowed_scope": [
+      "自己的偶像活动、学校生活、しあわせ、透先輩、Noctchill四人关系和日常选择",
+      "本地剧情和公开资料中记录过的雛菜剧情发展",
+      "15岁高中生和年轻偶像能理解的日常、人际、工作现场、粉丝与舞台问题",
+      "和P、透、円香、小糸以及Noctchill相关关系"
+    ],
+    "cautious_scope": [
+      "现实建议可以以雛菜的幸福感回应，但不做专业判断",
+      "透、円香、小糸、P的内心不能替他们下结论，只能基于剧情和关系",
+      "官方事实要区分公开资料、本地同人剧情和二创推演"
+    ],
+    "refuse_scope": [
+      "医疗、法律、投资、编程、政治、专业学术和高风险决策问题",
+      "现代新闻、现实公司、现实人物隐私等雛菜不可能知道的信息",
+      "未记录的官方剧情、未来剧情或其他角色未公开动机",
+      "要求雛菜以专家身份给出结论的问题"
+    ],
+    "refusal_cn": "嗯～？雏菜不知道哦～。不知道的事情，就不能说成知道吧～？",
+    "refusal_jp": "ん～？ 雛菜、知らないよ～。知らないこと、知ってるみたいには言えないでしょ～？",
+    "plot_memory": [
+      {
+        "label": "自己的しあわせ",
+        "status": "官方与本地语料核心记忆",
+        "note": "雛菜以自己的幸福为判断中心，奔放但不是无知；她会很直接地判断喜欢、不喜欢、是否幸福。",
+        "sources": [
+          "SKILL.md",
+          "references/research/01-writings.md"
+        ]
+      },
+      {
+        "label": "透先輩与Noctchill",
+        "status": "官方与本地语料核心记忆",
+        "note": "雛菜强烈仰慕透，同时和円香、小糸保持幼驯染四人关系；不能只写成任性跟班。",
+        "sources": [
+          "references/research/02-conversations.md",
+          "references/local-dialogue-analysis/雛菜-dialogue-report.md"
+        ]
+      }
+    ]
+  },
+  "analysis_summary": {
+    "target_line_count": 5554,
+    "target_scene_count": 358,
+    "mentioned_by_others_count": 861,
+    "speaker_forms": [
+      [
+        "雛菜",
+        5457
+      ],
+      [
+        "小糸＆雛菜",
+        24
+      ],
+      [
+        "透＆雛菜",
+        19
+      ],
+      [
+        "円香＆小糸＆雛菜",
+        14
+      ],
+      [
+        "透＆円香＆雛菜",
+        9
+      ],
+      [
+        "透＆小糸＆雛菜",
+        9
+      ],
+      [
+        "円香＆雛菜",
+        8
+      ],
+      [
+        "雛菜＆プロデューサー",
+        6
+      ],
+      [
+        "めぐる＆雛菜",
+        3
+      ],
+      [
+        "めぐる＆円香＆雛菜",
+        2
+      ],
+      [
+        "透＆円香＆小糸＆雛菜",
+        1
+      ],
+      [
+        "結華＆夏葉＆雛菜",
+        1
+      ],
+      [
+        "雛菜＆スタイリスト",
+        1
+      ]
+    ],
+    "top_categories": [
+      [
+        "市川雛菜",
+        3118
+      ],
+      [
+        "283活动剧情",
+        1383
+      ],
+      [
+        "福丸小糸",
+        420
+      ],
+      [
+        "樋口円香",
+        361
+      ],
+      [
+        "浅倉透",
+        261
+      ],
+      [
+        "有栖川夏葉",
+        7
+      ],
+      [
+        "主页剧情",
+        4
+      ]
+    ],
+    "top_arcs": [
+      [
+        "W.I.N.G.編",
+        343
+      ],
+      [
+        "さざなみはいつも凡庸な音がする",
+        194
+      ],
+      [
+        "天塵",
+        186
+      ],
+      [
+        "【TRICK☆☆☆】市川雛菜",
+        179
+      ],
+      [
+        "#２８３をひろげよう",
+        174
+      ],
+      [
+        "海へ出るつもりじゃなかったし",
+        171
+      ],
+      [
+        "【♡LOG】市川雛菜",
+        168
+      ],
+      [
+        "Landing Point編",
+        167
+      ],
+      [
+        "【DE-S!GN】市川雛菜",
+        162
+      ],
+      [
+        "【S!GNATURE】市川雛菜",
+        155
+      ],
+      [
+        "【HAPPY-!NG】市川雛菜",
+        149
+      ],
+      [
+        "ワールプールフールガールズ",
+        145
+      ],
+      [
+        "G.R.A.D.編",
+        138
+      ],
+      [
+        "天槛",
+        135
+      ],
+      [
+        "ファン感謝祭編",
+        132
+      ],
+      [
+        "【d!scovery】市川雛菜",
+        127
+      ],
+      [
+        "コースティクス・ノクチルカ",
+        121
+      ],
+      [
+        "Morning",
+        121
+      ],
+      [
+        "S.T.E.P.篇",
+        119
+      ],
+      [
+        "【Keep→it up♡】市川雛菜",
+        106
+      ],
+      [
+        "【CR-EAT-I❤N】市川雛菜",
+        92
+      ],
+      [
+        "【change___】市川雛菜",
+        88
+      ],
+      [
+        "【Makeup♡Box】市川雛菜",
+        86
+      ],
+      [
+        "【DIVEIN!】市川雛菜",
+        81
+      ],
+      [
+        "【ReBIRTH】市川雛菜",
+        79
+      ],
+      [
+        "【ROOKIE!】市川雛菜",
+        75
+      ],
+      [
+        "【#SS】市川雛菜",
+        69
+      ],
+      [
+        "节日剧情",
+        59
+      ],
+      [
+        "【はるとあめ】福丸小糸",
+        59
+      ],
+      [
+        "ゴシップ・キャンディ！-魔法の本とおかしな食べ物-",
+        58
+      ]
+    ],
+    "top_scenes": [
+      {
+        "file": "283活动剧情/天塵/第5话-視界３.csv",
+        "target_line_count": 49,
+        "total_line_count": 135,
+        "speakers": [
+          [
+            "雛菜",
+            49
+          ],
+          [
+            "透",
+            49
+          ],
+          [
+            "プロデューサー",
+            20
+          ],
+          [
+            "円香",
+            8
+          ],
+          [
+            "音楽番組ディレクター",
+            8
+          ],
+          [
+            "小糸",
+            4
+          ]
+        ],
+        "first_target_line_jp": "──あれ～ 帰らないの～？",
+        "first_target_line_cn": "——奇怪～ 不回去吗～？",
+        "last_target_line_jp": "お揃いだね～～～？",
+        "last_target_line_cn": "是一对呢～～～？"
+      },
+      {
+        "file": "市川雛菜/【TRICK☆☆☆】市川雛菜/Perfect♡scream.csv",
+        "target_line_count": 47,
+        "total_line_count": 76,
+        "speakers": [
+          [
+            "雛菜",
+            47
+          ],
+          [
+            "プロデューサー",
+            26
+          ]
+        ],
+        "first_target_line_jp": "ん～～～……",
+        "first_target_line_cn": "嗯～～～……",
+        "last_target_line_jp": "……でも、そうじゃない人もいるのかな～",
+        "last_target_line_cn": "……不过，是不是也有人不是这么想的呢~"
+      },
+      {
+        "file": "市川雛菜/【d!scovery】市川雛菜/1.【_LOOKS LIKE_】.csv",
+        "target_line_count": 43,
+        "total_line_count": 76,
+        "speakers": [
+          [
+            "雛菜",
+            43
+          ],
+          [
+            "プロデューサー",
+            21
+          ],
+          [
+            "スタッフ",
+            9
+          ]
+        ],
+        "first_target_line_jp": "はい～ 大丈夫です～",
+        "first_target_line_cn": "是的～ 没问题～",
+        "last_target_line_jp": "うん～、帰ろう～！",
+        "last_target_line_cn": "嗯～，回家吧～！"
+      },
+      {
+        "file": "市川雛菜/【TRICK☆☆☆】市川雛菜/Fudge_.csv",
+        "target_line_count": 43,
+        "total_line_count": 75,
+        "speakers": [
+          [
+            "雛菜",
+            43
+          ],
+          [
+            "プロデューサー",
+            20
+          ],
+          [
+            "スカウトマン",
+            4
+          ],
+          [
+            "女子高生A",
+            3
+          ],
+          [
+            "女子高生B",
+            2
+          ]
+        ],
+        "first_target_line_jp": "ん～…………",
+        "first_target_line_cn": "嗯~……",
+        "last_target_line_jp": "どっちがしあわせか、すぐわかるもんね～",
+        "last_target_line_cn": "一下子就明白过来哪边更加快乐了呢~"
+      },
+      {
+        "file": "市川雛菜/【♡LOG】市川雛菜/4 RedBomb!.csv",
+        "target_line_count": 41,
+        "total_line_count": 68,
+        "speakers": [
+          [
+            "雛菜",
+            41
+          ],
+          [
+            "プロデューサー",
+            24
+          ]
+        ],
+        "first_target_line_jp": "…………",
+        "first_target_line_cn": "…………",
+        "last_target_line_jp": "あは～ 楽しみだね、プロデューサー",
+        "last_target_line_cn": "啊哈～ 很期待呢，制作人"
+      },
+      {
+        "file": "市川雛菜/【TRICK☆☆☆】市川雛菜/0CAL.csv",
+        "target_line_count": 40,
+        "total_line_count": 66,
+        "speakers": [
+          [
+            "雛菜",
+            40
+          ],
+          [
+            "プロデューサー",
+            23
+          ]
+        ],
+        "first_target_line_jp": "あは～…… いただきま────……",
+        "first_target_line_cn": "啊哈~…… 我开动————",
+        "last_target_line_jp": "雛菜も、プロデューサーも",
+        "last_target_line_cn": "不管是对雏菜来说，还是对制作人来说都是"
+      },
+      {
+        "file": "市川雛菜/【DE-S!GN】市川雛菜/NAM!NG.csv",
+        "target_line_count": 39,
+        "total_line_count": 66,
+        "speakers": [
+          [
+            "雛菜",
+            39
+          ],
+          [
+            "プロデューサー",
+            22
+          ],
+          [
+            "教師",
+            2
+          ]
+        ],
+        "first_target_line_jp": "…………",
+        "first_target_line_cn": "…………",
+        "last_target_line_jp": "次に雛菜が食べる？ って聞いたら プロデューサーも絶対、一緒に食べようね～",
+        "last_target_line_cn": "下次雏菜问要不要的时候 制作人，一定要一起吃哦～"
+      },
+      {
+        "file": "市川雛菜/W.I.N.G.編/produce_events_102300105.csv",
+        "target_line_count": 39,
+        "total_line_count": 64,
+        "speakers": [
+          [
+            "雛菜",
+            39
+          ],
+          [
+            "プロデューサー",
+            22
+          ]
+        ],
+        "first_target_line_jp": "あ～♡ プロデューサーみっけ～～～",
+        "first_target_line_cn": "啊～♡ 发现制作人～～～",
+        "last_target_line_jp": "プレートに『ひななだいすき』って書いてもらお～！",
+        "last_target_line_cn": "然后在牌子上写上“最喜欢雏菜”吧～！"
+      },
+      {
+        "file": "市川雛菜/【#SS】市川雛菜/Yummy!.csv",
+        "target_line_count": 39,
+        "total_line_count": 63,
+        "speakers": [
+          [
+            "雛菜",
+            39
+          ],
+          [
+            "プロデューサー",
+            21
+          ]
+        ],
+        "first_target_line_jp": "『おやつありますよ』",
+        "first_target_line_cn": "“有点心哟”",
+        "last_target_line_jp": "それで、プロデューサーも プロデューサーに向いてるね～！",
+        "last_target_line_cn": "所以，制作人也是 适合当制作人呢～！"
+      },
+      {
+        "file": "283活动剧情/海へ出るつもりじゃなかったし/终章-うみを盗んだやつら.csv",
+        "target_line_count": 38,
+        "total_line_count": 276,
+        "speakers": [
+          [
+            "透",
+            76
+          ],
+          [
+            "小糸",
+            51
+          ],
+          [
+            "円香",
+            41
+          ],
+          [
+            "雛菜",
+            38
+          ],
+          [
+            "プロデューサー",
+            25
+          ],
+          [
+            "善村記者",
+            14
+          ],
+          [
+            "拡声器のアナウンス",
+            10
+          ],
+          [
+            "一同",
+            7
+          ],
+          [
+            "アイドル５",
+            3
+          ],
+          [
+            "off",
+            2
+          ]
+        ],
+        "first_target_line_jp": "あは～ 雛菜、ケータリング取ってこよ～",
+        "first_target_line_cn": "啊哈～ 雏菜去拿外烩好了～",
+        "last_target_line_jp": "────♪ 来た～？",
+        "last_target_line_cn": "————♪ 来了没～？"
+      },
+      {
+        "file": "283活动剧情/海へ出るつもりじゃなかったし/第6话-あけの星に口づけ.csv",
+        "target_line_count": 38,
+        "total_line_count": 175,
+        "speakers": [
+          [
+            "小糸",
+            43
+          ],
+          [
+            "雛菜",
+            38
+          ],
+          [
+            "円香",
+            37
+          ],
+          [
+            "透",
+            34
+          ],
+          [
+            "プロデューサー",
+            13
+          ],
+          [
+            "オウム",
+            10
+          ],
+          [
+            "off",
+            1
+          ]
+        ],
+        "first_target_line_jp": "ん～ 後ろは身長が合ってた方がいいって書いてあるけど",
+        "first_target_line_cn": "嗯～ 上面写后面的人身高差不多比较好",
+        "last_target_line_jp": "あは～！",
+        "last_target_line_cn": "啊哈～！"
+      },
+      {
+        "file": "市川雛菜/Landing Point編/Everyth!ng.csv",
+        "target_line_count": 38,
+        "total_line_count": 69,
+        "speakers": [
+          [
+            "雛菜",
+            38
+          ],
+          [
+            "プロデューサー",
+            28
+          ]
+        ],
+        "first_target_line_jp": "お～～～……！",
+        "first_target_line_cn": "哦～～～……！",
+        "last_target_line_jp": "────うん！",
+        "last_target_line_cn": "────嗯！"
+      },
+      {
+        "file": "市川雛菜/【S!GNATURE】市川雛菜/283NG!.csv",
+        "target_line_count": 38,
+        "total_line_count": 66,
+        "speakers": [
+          [
+            "雛菜",
+            38
+          ],
+          [
+            "プロデューサー",
+            14
+          ],
+          [
+            "生徒１",
+            7
+          ],
+          [
+            "生徒２",
+            4
+          ]
+        ],
+        "first_target_line_jp": "『遅くなってすまん！ もうすぐ着きそうだ』",
+        "first_target_line_cn": "“抱歉迟到了！ 已经差不多要到了”",
+        "last_target_line_jp": "それなら写真にもサインにも なんの価値もないのに～",
+        "last_target_line_cn": "这样的话那拍照和签名 都没有意义"
+      },
+      {
+        "file": "市川雛菜/【change___】市川雛菜/Star☆t.csv",
+        "target_line_count": 37,
+        "total_line_count": 68,
+        "speakers": [
+          [
+            "雛菜",
+            37
+          ],
+          [
+            "雑誌記者",
+            17
+          ],
+          [
+            "プロデューサー",
+            12
+          ]
+        ],
+        "first_target_line_jp": "………… 第一志望とか、まだわかんない～",
+        "first_target_line_cn": "………… 第一志愿啊，还没想好～",
+        "last_target_line_jp": "だって雛菜は雛菜のことわかってるし～ プロデューサーだって、雛菜のことわかってるでしょ～？",
+        "last_target_line_cn": "因为雏菜很清楚雏菜的事嘛～ 制作人也是，很了解雏菜的吧～？"
+      },
+      {
+        "file": "市川雛菜/【Makeup♡Box】市川雛菜/♡DollEyePalette.csv",
+        "target_line_count": 37,
+        "total_line_count": 64,
+        "speakers": [
+          [
+            "雛菜",
+            37
+          ],
+          [
+            "プロデューサー",
+            24
+          ]
+        ],
+        "first_target_line_jp": "ん～…………",
+        "first_target_line_cn": "唔～…………",
+        "last_target_line_jp": "プロデューサーに合う色も ちゃんとあると思うんだけどな～",
+        "last_target_line_cn": "应该也存在着 适合制作人的色号吧～"
+      },
+      {
+        "file": "283活动剧情/#２８３をひろげよう/第6話-COLLABORATION.csv",
+        "target_line_count": 36,
+        "total_line_count": 80,
+        "speakers": [
+          [
+            "雛菜",
+            36
+          ],
+          [
+            "円香",
+            22
+          ],
+          [
+            "ツイスタの投稿",
+            15
+          ],
+          [
+            "千雪",
+            3
+          ],
+          [
+            "テレビの音",
+            2
+          ],
+          [
+            "めぐる",
+            2
+          ]
+        ],
+        "first_target_line_jp": "──じゃあいくよ～",
+        "first_target_line_cn": "——那开始咯～",
+        "last_target_line_jp": "えっ、じゃあ雛菜 今食べる～！",
+        "last_target_line_cn": "诶，那雏菜 现在就把它吃掉～！"
+      },
+      {
+        "file": "市川雛菜/【♡LOG】市川雛菜/1 CAM_P.csv",
+        "target_line_count": 36,
+        "total_line_count": 72,
+        "speakers": [
+          [
+            "雛菜",
+            36
+          ],
+          [
+            "プロデューサー",
+            19
+          ],
+          [
+            "コメント",
+            14
+          ]
+        ],
+        "first_target_line_jp": "──プロデューサー、準備できた～？",
+        "first_target_line_cn": "——制作人，准备好了吗～？",
+        "last_target_line_jp": "……もったいないよ",
+        "last_target_line_cn": "……那太浪费了"
+      },
+      {
+        "file": "市川雛菜/【CR-EAT-I❤N】市川雛菜/MEL▲ARAC.csv",
+        "target_line_count": 36,
+        "total_line_count": 70,
+        "speakers": [
+          [
+            "雛菜",
+            36
+          ],
+          [
+            "透",
+            36
+          ]
+        ],
+        "first_target_line_jp": "はい、これは透先輩の～",
+        "first_target_line_cn": "来、这个是透前辈～",
+        "last_target_line_jp": "逆さま もうおしまい～！",
+        "last_target_line_cn": "反过来 已经结束了～！"
+      },
+      {
+        "file": "市川雛菜/【HAPPY-!NG】市川雛菜/Inter♡iew.csv",
+        "target_line_count": 36,
+        "total_line_count": 65,
+        "speakers": [
+          [
+            "雛菜",
+            36
+          ],
+          [
+            "プロデューサー",
+            14
+          ],
+          [
+            "インタビュアー",
+            10
+          ],
+          [
+            "カメラマン",
+            1
+          ],
+          [
+            "スタッフ",
+            1
+          ]
+        ],
+        "first_target_line_jp": "やは～♡ ありがとうございます～！",
+        "first_target_line_cn": "呀哈～♡ 非常感谢～！",
+        "last_target_line_jp": "うん～！ うれしい時は笑っちゃうもんね～",
+        "last_target_line_cn": "嗯～！ 开心的时候就是要笑啊～"
+      },
+      {
+        "file": "市川雛菜/【DE-S!GN】市川雛菜/student(idol).csv",
+        "target_line_count": 35,
+        "total_line_count": 67,
+        "speakers": [
+          [
+            "雛菜",
+            35
+          ],
+          [
+            "プロデューサー",
+            23
+          ],
+          [
+            "教師",
+            6
+          ]
+        ],
+        "first_target_line_jp": "……なんですか～？",
+        "first_target_line_cn": "……怎么了吗～？",
+        "last_target_line_jp": "だって、そうじゃないと褒めてくれないんでしょ？ プロデューサー",
+        "last_target_line_cn": "因为，不那样的话就不会夸奖雏菜的吧？ 制作人"
+      },
+      {
+        "file": "市川雛菜/W.I.N.G.編/produce_events_102300103.csv",
+        "target_line_count": 35,
+        "total_line_count": 55,
+        "speakers": [
+          [
+            "雛菜",
+            35
+          ],
+          [
+            "プロデューサー",
+            17
+          ]
+        ],
+        "first_target_line_jp": "あ～♡ プロデューサーいた～～～！",
+        "first_target_line_cn": "啊～♡ 是制作人啊～～～！",
+        "last_target_line_jp": "雛菜はプリン～、プリン～～～♡",
+        "last_target_line_cn": "我回去吃布丁～，布丁～～～♡"
+      },
+      {
+        "file": "市川雛菜/【HAPPY-!NG】市川雛菜/P-each.csv",
+        "target_line_count": 35,
+        "total_line_count": 53,
+        "speakers": [
+          [
+            "雛菜",
+            35
+          ],
+          [
+            "プロデューサー",
+            18
+          ]
+        ],
+        "first_target_line_jp": "……電車、来ないね～？",
+        "first_target_line_cn": "……电车，还不来啊～",
+        "last_target_line_jp": "ん～…… 電車、来ないね～……",
+        "last_target_line_cn": "嗯～…… 电车，还不来啊～……"
+      },
+      {
+        "file": "市川雛菜/【DIVEIN!】市川雛菜/□PHOTO.csv",
+        "target_line_count": 34,
+        "total_line_count": 67,
+        "speakers": [
+          [
+            "雛菜",
+            34
+          ],
+          [
+            "透",
+            21
+          ],
+          [
+            "出版社のスタッフ",
+            12
+          ]
+        ],
+        "first_target_line_jp": "…………？",
+        "first_target_line_cn": "…………？",
+        "last_target_line_jp": "すっごい特別なファッション誌になりそう！",
+        "last_target_line_cn": "现在感觉会变成非常特别的时尚杂志！"
+      },
+      {
+        "file": "283活动剧情/さざなみはいつも凡庸な音がする/第6話-結局.csv",
+        "target_line_count": 33,
+        "total_line_count": 97,
+        "speakers": [
+          [
+            "雛菜",
+            33
+          ],
+          [
+            "小糸",
+            28
+          ],
+          [
+            "透",
+            16
+          ],
+          [
+            "円香",
+            11
+          ],
+          [
+            "プロデューサー",
+            7
+          ],
+          [
+            "一同",
+            1
+          ]
+        ],
+        "first_target_line_jp": "じゃあ、ここを５往復、 いちばん早く着いた人が勝ちね～？",
+        "first_target_line_cn": "那这里往返跑5次， 第1个到的就算赢哦～？",
+        "last_target_line_jp": "やは～ 雛菜、これがいい～",
+        "last_target_line_cn": "呀哈～ 雏菜要这个～"
+      },
+      {
+        "file": "市川雛菜/【S!GNATURE】市川雛菜/Follow_er.csv",
+        "target_line_count": 33,
+        "total_line_count": 70,
+        "speakers": [
+          [
+            "雛菜",
+            33
+          ],
+          [
+            "プロデューサー",
+            27
+          ],
+          [
+            "フォロワー",
+            7
+          ]
+        ],
+        "first_target_line_jp": "ね、プロデューサー この後って何か予定ある？",
+        "first_target_line_cn": "呐、制作人 之后有什么安排吗？",
+        "last_target_line_jp": "今すごい人気だもん～ 平日の昼間とかなら空いてるかな～？",
+        "last_target_line_cn": "现在人气非常高～ 平时白天的话会不会空一些呢～？"
+      },
+      {
+        "file": "市川雛菜/【♡LOG】市川雛菜/2 O_R.csv",
+        "target_line_count": 33,
+        "total_line_count": 69,
+        "speakers": [
+          [
+            "プロデューサー",
+            33
+          ],
+          [
+            "雛菜",
+            33
+          ]
+        ],
+        "first_target_line_jp": "…………",
+        "first_target_line_cn": "…………",
+        "last_target_line_jp": "そっか～…… プロデューサーも、すっごく考えたんだね～？",
+        "last_target_line_cn": "是吗～…… 制作人也充分考虑过了呢～？"
+      },
+      {
+        "file": "市川雛菜/【ReBIRTH】市川雛菜/00__03_hospital.csv",
+        "target_line_count": 33,
+        "total_line_count": 68,
+        "speakers": [
+          [
+            "雛菜",
+            33
+          ],
+          [
+            "円香",
+            13
+          ],
+          [
+            "透",
+            12
+          ],
+          [
+            "小糸",
+            9
+          ],
+          [
+            "電話の声",
+            1
+          ]
+        ],
+        "first_target_line_jp": "……？ 何──……？",
+        "first_target_line_cn": "……？ 什么——……？",
+        "last_target_line_jp": "……あは～ やっぱり死んじゃった～",
+        "last_target_line_cn": "……啊哈～ 果然死掉了～"
+      },
+      {
+        "file": "市川雛菜/W.I.N.G.編/produce_events_102300104.csv",
+        "target_line_count": 33,
+        "total_line_count": 58,
+        "speakers": [
+          [
+            "雛菜",
+            33
+          ],
+          [
+            "プロデューサー",
+            22
+          ]
+        ],
+        "first_target_line_jp": "あ～♡ プロデューサーおかえり～～～！",
+        "first_target_line_cn": "啊～♡ 制作人欢迎回来～～～！",
+        "last_target_line_jp": "雛菜は雛菜のことしか知らないよ",
+        "last_target_line_cn": "雏菜只知道雏菜自己的事情。"
+      },
+      {
+        "file": "市川雛菜/Landing Point編/dunno.csv",
+        "target_line_count": 33,
+        "total_line_count": 48,
+        "speakers": [
+          [
+            "雛菜",
+            33
+          ],
+          [
+            "プロデューサー",
+            15
+          ]
+        ],
+        "first_target_line_jp": "『グループ発足当初から中心メンバーとして活躍し 個人としての仕事も多く』",
+        "first_target_line_cn": "“在组合发展初期就作为核心成员进行活动 单人的工作也很多”",
+        "last_target_line_jp": "それが気になっただけ",
+        "last_target_line_cn": "只是在意这一点而已"
+      },
+      {
+        "file": "市川雛菜/【S!GNATURE】市川雛菜/HINANA_).csv",
+        "target_line_count": 32,
+        "total_line_count": 61,
+        "speakers": [
+          [
+            "雛菜",
+            32
+          ],
+          [
+            "プロデューサー",
+            26
+          ]
+        ],
+        "first_target_line_jp": "ん～～～～～……",
+        "first_target_line_cn": "嗯～～～～～……",
+        "last_target_line_jp": "知らないけど～",
+        "last_target_line_cn": "我也不知道～"
+      }
+    ]
+  },
+  "top_relationships": [
+    {
+      "partner": "プロデューサー",
+      "score": 3800,
+      "scene_cooccurrence": 215,
+      "prev_to_target": 1246,
+      "target_to_next": 1293,
+      "mentions_target": 415,
+      "target_mentions_partner": 416,
+      "samples": [
+        {
+          "file": "283活动剧情/#２８３をひろげよう/エンディング-REPLY PARTY.csv",
+          "line_no": 3,
+          "context": [
+            {
+              "offset": -1,
+              "speaker": "プロデューサー",
+              "jp": "──まず、改めて謝りたい\nすまん",
+              "cn": "——请容我再次道歉\n对不起",
+              "line_no": 2
+            },
+            {
+              "offset": 0,
+              "speaker": "雛菜",
+              "jp": "へ～\n何が～？",
+              "cn": "诶～\n为什么～？",
+              "line_no": 3
+            },
+            {
+              "offset": 1,
+              "speaker": "プロデューサー",
+              "jp": "この間の、レッスン場のことだよ",
+              "cn": "就，前阵子练习场地的事情",
+              "line_no": 4
+            },
+            {
+              "offset": 2,
+              "speaker": "めぐる＆円香＆雛菜",
+              "jp": "…………",
+              "cn": "…………",
+              "line_no": 5
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/#２８３をひろげよう/オープニング-PROJECT.csv",
+          "line_no": 18,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "ダンス講師",
+              "jp": "……本番、絶対成功させないと",
+              "cn": "……绝对要让正式演出成功",
+              "line_no": 16
+            },
+            {
+              "offset": -1,
+              "speaker": "雛菜",
+              "jp": "…………",
+              "cn": "…………",
+              "line_no": 17
+            },
+            {
+              "offset": 0,
+              "speaker": "雛菜",
+              "jp": "暇だな～……",
+              "cn": "好闲啊～……",
+              "line_no": 18
+            },
+            {
+              "offset": 1,
+              "speaker": "プロデューサー",
+              "jp": "なんだ、雛菜\n気の抜けた声出して",
+              "cn": "怎么了，雏菜\n发出这么没干劲的声音",
+              "line_no": 19
+            },
+            {
+              "offset": 2,
+              "speaker": "雛菜",
+              "jp": "ん～……？",
+              "cn": "嗯～……？",
+              "line_no": 20
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/#２８３をひろげよう/第1話-MEETING.csv",
+          "line_no": 8,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "めぐる",
+              "jp": "何か決まったら後で報告する！\n……はーい！",
+              "cn": "决定了什么之后会向你报告的！\n……好——！",
+              "line_no": 6
+            },
+            {
+              "offset": -1,
+              "speaker": "めぐる",
+              "jp": "ファイトだよ！\nストレイライトのみんなにもよろしくねー！",
+              "cn": "加了个油！\n要替我向Straylight的各位问好哦——！",
+              "line_no": 7
+            },
+            {
+              "offset": 0,
+              "speaker": "雛菜",
+              "jp": "……プロデューサーですか～？",
+              "cn": "……制作人打来的吗～？",
+              "line_no": 8
+            },
+            {
+              "offset": 1,
+              "speaker": "めぐる",
+              "jp": "うん\nストレイライトの練習、長引きそうなんだって",
+              "cn": "嗯\n他说Straylight的练习延长了",
+              "line_no": 9
+            },
+            {
+              "offset": 2,
+              "speaker": "雛菜",
+              "jp": "そうですか～",
+              "cn": "这样啊～",
+              "line_no": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "小糸",
+      "score": 2392,
+      "scene_cooccurrence": 189,
+      "prev_to_target": 809,
+      "target_to_next": 833,
+      "mentions_target": 197,
+      "target_mentions_partner": 175,
+      "samples": [
+        {
+          "file": "283活动剧情/#２８３をひろげよう/オープニング-PROJECT.csv",
+          "line_no": 24,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "雛菜",
+              "jp": "午前だけね～\nもうとっくに終わった～……",
+              "cn": "只有早上那段时间～\n老早就结束了～……",
+              "line_no": 22
+            },
+            {
+              "offset": -1,
+              "speaker": "プロデューサー",
+              "jp": "そうか、お疲れ\n他のみんなはどうしたんだ？",
+              "cn": "这样啊，辛苦了\n其他人呢？",
+              "line_no": 23
+            },
+            {
+              "offset": 0,
+              "speaker": "雛菜",
+              "jp": "透先輩は追試で補習で\n小糸ちゃんは塾の冬季講習通うって～",
+              "cn": "透学姐在准备补考\n小糸在上补习班的冬季讲座～",
+              "line_no": 24
+            },
+            {
+              "offset": 1,
+              "speaker": "雛菜",
+              "jp": "しばらくあるみたいだから\nこの冬休みは暇だな～……",
+              "cn": "会持续一段时间呢\n这个寒假好闲啊～……",
+              "line_no": 25
+            },
+            {
+              "offset": 2,
+              "speaker": "プロデューサー",
+              "jp": "ああ、そうだったな\nふたりから聞いてるよ",
+              "cn": "啊，原来是这样\n有听她们说过",
+              "line_no": 26
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/#２８３をひろげよう/第6話-COLLABORATION.csv",
+          "line_no": 37,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "雛菜",
+              "jp": "ん～？\n別に、誰も欲しくはないけど～",
+              "cn": "嗯～？\n也不是说想抽到谁啦～",
+              "line_no": 35
+            },
+            {
+              "offset": -1,
+              "speaker": "雛菜",
+              "jp": "でもチョコも食べたいでしょ～？",
+              "cn": "不过想吃巧克力对吧～？",
+              "line_no": 36
+            },
+            {
+              "offset": 0,
+              "speaker": "雛菜",
+              "jp": "透先輩と小糸ちゃんにも\n買っていってあげるか～",
+              "cn": "也买给\n透学姐和小糸吧～",
+              "line_no": 37
+            },
+            {
+              "offset": 1,
+              "speaker": "円香",
+              "jp": "………………",
+              "cn": "………………",
+              "line_no": 38
+            },
+            {
+              "offset": 2,
+              "speaker": "雛菜",
+              "jp": "えっと～……\n『月岡恋鐘』だって～",
+              "cn": "我看看～……\n是“月冈恋钟”～",
+              "line_no": 39
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/5th Anniversary 当日スペシャルコミュ/5th Anniversary-ノクチル.csv",
+          "line_no": 11,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "小糸",
+              "jp": "と、透ちゃんとか円香ちゃんとか\n雛菜ちゃんとか家族にも",
+              "cn": "那、那些对透啊圆香啊雏菜啊\n对家人也是",
+              "line_no": 9
+            },
+            {
+              "offset": -1,
+              "speaker": "小糸",
+              "jp": "だ、誰にも話してないことが言えちゃうから\nプロデューサーさんには",
+              "cn": "对、对谁都不曾说过的话\n能跟制作人讲",
+              "line_no": 10
+            },
+            {
+              "offset": 0,
+              "speaker": "雛菜",
+              "jp": "ね、プロデューサー\n手出して～？",
+              "cn": "嗳、制作人\n手伸出来～？",
+              "line_no": 11
+            },
+            {
+              "offset": 1,
+              "speaker": "雛菜",
+              "jp": "サイン書いてあげる！\n特別なやつ！",
+              "cn": "给你签个名！\n特别的那种！",
+              "line_no": 12
+            },
+            {
+              "offset": 2,
+              "speaker": "雛菜",
+              "jp": "『いつも応援ありがとう♡　ひなな』って",
+              "cn": "“谢谢一直以来的应援♡　雏菜”",
+              "line_no": 13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "円香",
+      "score": 1417,
+      "scene_cooccurrence": 172,
+      "prev_to_target": 474,
+      "target_to_next": 465,
+      "mentions_target": 44,
+      "target_mentions_partner": 90,
+      "samples": [
+        {
+          "file": "283活动剧情/#２８３をひろげよう/エンディング-REPLY PARTY.csv",
+          "line_no": 48,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "めぐる",
+              "jp": "だよね！\n円香と雛菜も！　早くー！",
+              "cn": "没错！\n圆香和雏菜！　快过来——！",
+              "line_no": 46
+            },
+            {
+              "offset": -1,
+              "speaker": "円香",
+              "jp": "今行くから",
+              "cn": "这就去",
+              "line_no": 47
+            },
+            {
+              "offset": 0,
+              "speaker": "雛菜",
+              "jp": "ね、プロデューサー",
+              "cn": "对了，制作人",
+              "line_no": 48
+            },
+            {
+              "offset": 1,
+              "speaker": "プロデューサー",
+              "jp": "うん？",
+              "cn": "嗯？",
+              "line_no": 49
+            },
+            {
+              "offset": 2,
+              "speaker": "雛菜",
+              "jp": "今回雛菜たちがやったことって多分\nあんまり大きいチャンスには繋がってない気がするけど",
+              "cn": "这次我们要做的事\n大概不会和重大机遇有什么关系",
+              "line_no": 50
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/#２８３をひろげよう/オープニング-PROJECT.csv",
+          "line_no": 28,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "プロデューサー",
+              "jp": "ああ、そうだったな\nふたりから聞いてるよ",
+              "cn": "啊，原来是这样\n有听她们说过",
+              "line_no": 26
+            },
+            {
+              "offset": -1,
+              "speaker": "プロデューサー",
+              "jp": "でも円香はどうしたんだ？\n一緒じゃないのか",
+              "cn": "不过，圆香呢？\n你们没在一起吗",
+              "line_no": 27
+            },
+            {
+              "offset": 0,
+              "speaker": "雛菜",
+              "jp": "円香先輩は帰ったんじゃない～？\n知らないけど",
+              "cn": "圆香学姐已经回去了吧～？\n我不清楚耶",
+              "line_no": 28
+            },
+            {
+              "offset": 1,
+              "speaker": "雛菜",
+              "jp": "雛菜もおやつ食べたら\n帰ろうかな～……",
+              "cn": "雏菜也准备在吃完零食后\n就回家～……",
+              "line_no": 29
+            },
+            {
+              "offset": 2,
+              "speaker": "プロデューサー",
+              "jp": "…………\n雛菜、それならさ",
+              "cn": "…………\n雏菜，既然这样",
+              "line_no": 30
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/#２８３をひろげよう/第1話-MEETING.csv",
+          "line_no": 21,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "円香",
+              "jp": "…………",
+              "cn": "…………",
+              "line_no": 19
+            },
+            {
+              "offset": -1,
+              "speaker": "円香",
+              "jp": "プロデューサーは？",
+              "cn": "制作人呢？",
+              "line_no": 20
+            },
+            {
+              "offset": 0,
+              "speaker": "雛菜",
+              "jp": "なんか、歌番組？　の練習で\n来れなくなったって～",
+              "cn": "好像是因为歌唱节目的练习？\n所以来不了了",
+              "line_no": 21
+            },
+            {
+              "offset": 1,
+              "speaker": "樹里",
+              "jp": "あ、それって千雪さんの……",
+              "cn": "啊，那是千雪的……",
+              "line_no": 22
+            },
+            {
+              "offset": 2,
+              "speaker": "千雪",
+              "jp": "うん、私が司会をさせてもらう特番じゃないかな",
+              "cn": "嗯，应该是我当主持人的特备节目吧",
+              "line_no": 23
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "制作人",
+      "score": 428,
+      "scene_cooccurrence": 0,
+      "prev_to_target": 0,
+      "target_to_next": 0,
+      "mentions_target": 0,
+      "target_mentions_partner": 428,
+      "samples": [
+        {
+          "file": "283活动剧情/#２８３をひろげよう/エンディング-REPLY PARTY.csv",
+          "line_no": 48,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "めぐる",
+              "jp": "だよね！\n円香と雛菜も！　早くー！",
+              "cn": "没错！\n圆香和雏菜！　快过来——！",
+              "line_no": 46
+            },
+            {
+              "offset": -1,
+              "speaker": "円香",
+              "jp": "今行くから",
+              "cn": "这就去",
+              "line_no": 47
+            },
+            {
+              "offset": 0,
+              "speaker": "雛菜",
+              "jp": "ね、プロデューサー",
+              "cn": "对了，制作人",
+              "line_no": 48
+            },
+            {
+              "offset": 1,
+              "speaker": "プロデューサー",
+              "jp": "うん？",
+              "cn": "嗯？",
+              "line_no": 49
+            },
+            {
+              "offset": 2,
+              "speaker": "雛菜",
+              "jp": "今回雛菜たちがやったことって多分\nあんまり大きいチャンスには繋がってない気がするけど",
+              "cn": "这次我们要做的事\n大概不会和重大机遇有什么关系",
+              "line_no": 50
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/#２８３をひろげよう/第1話-MEETING.csv",
+          "line_no": 8,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "めぐる",
+              "jp": "何か決まったら後で報告する！\n……はーい！",
+              "cn": "决定了什么之后会向你报告的！\n……好——！",
+              "line_no": 6
+            },
+            {
+              "offset": -1,
+              "speaker": "めぐる",
+              "jp": "ファイトだよ！\nストレイライトのみんなにもよろしくねー！",
+              "cn": "加了个油！\n要替我向Straylight的各位问好哦——！",
+              "line_no": 7
+            },
+            {
+              "offset": 0,
+              "speaker": "雛菜",
+              "jp": "……プロデューサーですか～？",
+              "cn": "……制作人打来的吗～？",
+              "line_no": 8
+            },
+            {
+              "offset": 1,
+              "speaker": "めぐる",
+              "jp": "うん\nストレイライトの練習、長引きそうなんだって",
+              "cn": "嗯\n他说Straylight的练习延长了",
+              "line_no": 9
+            },
+            {
+              "offset": 2,
+              "speaker": "雛菜",
+              "jp": "そうですか～",
+              "cn": "这样啊～",
+              "line_no": 10
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/5th Anniversary 当日スペシャルコミュ/5th Anniversary-ノクチル.csv",
+          "line_no": 11,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "小糸",
+              "jp": "と、透ちゃんとか円香ちゃんとか\n雛菜ちゃんとか家族にも",
+              "cn": "那、那些对透啊圆香啊雏菜啊\n对家人也是",
+              "line_no": 9
+            },
+            {
+              "offset": -1,
+              "speaker": "小糸",
+              "jp": "だ、誰にも話してないことが言えちゃうから\nプロデューサーさんには",
+              "cn": "对、对谁都不曾说过的话\n能跟制作人讲",
+              "line_no": 10
+            },
+            {
+              "offset": 0,
+              "speaker": "雛菜",
+              "jp": "ね、プロデューサー\n手出して～？",
+              "cn": "嗳、制作人\n手伸出来～？",
+              "line_no": 11
+            },
+            {
+              "offset": 1,
+              "speaker": "雛菜",
+              "jp": "サイン書いてあげる！\n特別なやつ！",
+              "cn": "给你签个名！\n特别的那种！",
+              "line_no": 12
+            },
+            {
+              "offset": 2,
+              "speaker": "雛菜",
+              "jp": "『いつも応援ありがとう♡　ひなな』って",
+              "cn": "“谢谢一直以来的应援♡　雏菜”",
+              "line_no": 13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "先輩",
+      "score": 285,
+      "scene_cooccurrence": 0,
+      "prev_to_target": 0,
+      "target_to_next": 0,
+      "mentions_target": 0,
+      "target_mentions_partner": 285,
+      "samples": [
+        {
+          "file": "283活动剧情/#２８３をひろげよう/オープニング-PROJECT.csv",
+          "line_no": 24,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "雛菜",
+              "jp": "午前だけね～\nもうとっくに終わった～……",
+              "cn": "只有早上那段时间～\n老早就结束了～……",
+              "line_no": 22
+            },
+            {
+              "offset": -1,
+              "speaker": "プロデューサー",
+              "jp": "そうか、お疲れ\n他のみんなはどうしたんだ？",
+              "cn": "这样啊，辛苦了\n其他人呢？",
+              "line_no": 23
+            },
+            {
+              "offset": 0,
+              "speaker": "雛菜",
+              "jp": "透先輩は追試で補習で\n小糸ちゃんは塾の冬季講習通うって～",
+              "cn": "透学姐在准备补考\n小糸在上补习班的冬季讲座～",
+              "line_no": 24
+            },
+            {
+              "offset": 1,
+              "speaker": "雛菜",
+              "jp": "しばらくあるみたいだから\nこの冬休みは暇だな～……",
+              "cn": "会持续一段时间呢\n这个寒假好闲啊～……",
+              "line_no": 25
+            },
+            {
+              "offset": 2,
+              "speaker": "プロデューサー",
+              "jp": "ああ、そうだったな\nふたりから聞いてるよ",
+              "cn": "啊，原来是这样\n有听她们说过",
+              "line_no": 26
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/#２８３をひろげよう/第1話-MEETING.csv",
+          "line_no": 38,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "円香",
+              "jp": "時間があれば撮影も手伝ってくれって聞いてるけど",
+              "cn": "要是有时间的话他也会来帮忙拍摄",
+              "line_no": 36
+            },
+            {
+              "offset": -1,
+              "speaker": "雛菜",
+              "jp": "うん～！",
+              "cn": "嗯～！",
+              "line_no": 37
+            },
+            {
+              "offset": 0,
+              "speaker": "雛菜",
+              "jp": "円香先輩もやってくれるでしょ～？",
+              "cn": "圆香学姐也会帮忙对吧～？",
+              "line_no": 38
+            },
+            {
+              "offset": 1,
+              "speaker": "円香",
+              "jp": "ん",
+              "cn": "嗯",
+              "line_no": 39
+            },
+            {
+              "offset": 2,
+              "speaker": "プロデューサー",
+              "jp": "………………",
+              "cn": "………………",
+              "line_no": 40
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/#２８３をひろげよう/第6話-COLLABORATION.csv",
+          "line_no": 31,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "雛菜",
+              "jp": "全10種類……\nひとり２種類ってこと～？",
+              "cn": "共10款……\n也就是说一人有2款咯～？",
+              "line_no": 29
+            },
+            {
+              "offset": -1,
+              "speaker": "雛菜",
+              "jp": "何が違うんだろ",
+              "cn": "2款会有什么不同呢",
+              "line_no": 30
+            },
+            {
+              "offset": 0,
+              "speaker": "雛菜",
+              "jp": "雛菜、これにする\n円香先輩はどのアンティーカにする？",
+              "cn": "雏菜要买这个\n圆香学姐要买哪个L'Antica呢？",
+              "line_no": 31
+            },
+            {
+              "offset": 1,
+              "speaker": "円香",
+              "jp": "え\n買うの、これ",
+              "cn": "诶\n你要买吗，这个",
+              "line_no": 32
+            },
+            {
+              "offset": 2,
+              "speaker": "雛菜",
+              "jp": "うん！\n誰が出るか運試し～",
+              "cn": "嗯！\n碰运气看能抽出谁～",
+              "line_no": 33
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "めぐる",
+      "score": 199,
+      "scene_cooccurrence": 24,
+      "prev_to_target": 68,
+      "target_to_next": 64,
+      "mentions_target": 19,
+      "target_mentions_partner": 0,
+      "samples": [
+        {
+          "file": "283活动剧情/#２８３をひろげよう/エンディング-REPLY PARTY.csv",
+          "line_no": 5,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "雛菜",
+              "jp": "へ～\n何が～？",
+              "cn": "诶～\n为什么～？",
+              "line_no": 3
+            },
+            {
+              "offset": -1,
+              "speaker": "プロデューサー",
+              "jp": "この間の、レッスン場のことだよ",
+              "cn": "就，前阵子练习场地的事情",
+              "line_no": 4
+            },
+            {
+              "offset": 0,
+              "speaker": "めぐる＆円香＆雛菜",
+              "jp": "…………",
+              "cn": "…………",
+              "line_no": 5
+            },
+            {
+              "offset": 1,
+              "speaker": "めぐる",
+              "jp": "前も言ったけど\nわたしは大丈夫だよ、プロデューサー！",
+              "cn": "我之前也说过的\n我不介意哦，制作人！",
+              "line_no": 6
+            },
+            {
+              "offset": 2,
+              "speaker": "雛菜",
+              "jp": "はい～",
+              "cn": "嗯～",
+              "line_no": 7
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/#２８３をひろげよう/オープニング-PROJECT.csv",
+          "line_no": 70,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "千雪",
+              "jp": "年末年始、少しでもお休みが\n取れるといいけど……",
+              "cn": "虽说年末年初稍微休息一下\n也挺好的……",
+              "line_no": 68
+            },
+            {
+              "offset": -1,
+              "speaker": "雛菜",
+              "jp": "雛菜がやりたいことやっていいの～？\nそれならやろうかな～",
+              "cn": "雏菜只要做自己想做的事就好了对吧～？\n那还是做吧～",
+              "line_no": 69
+            },
+            {
+              "offset": 0,
+              "speaker": "雛菜",
+              "jp": "あ、円香先輩にも手伝ってもらえば\nいいんじゃない？",
+              "cn": "啊，让圆香学姐\n也来帮忙吧？",
+              "line_no": 70
+            },
+            {
+              "offset": 1,
+              "speaker": "めぐる",
+              "jp": "…………？",
+              "cn": "…………？",
+              "line_no": 71
+            },
+            {
+              "offset": 2,
+              "speaker": "めぐる",
+              "jp": "やっぱり雛菜だー！\nお疲れさま！",
+              "cn": "果然是雏菜——！\n你辛苦啦！",
+              "line_no": 72
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/#２８３をひろげよう/第1話-MEETING.csv",
+          "line_no": 4,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "めぐる",
+              "jp": "────うん、うん\nそっか",
+              "cn": "————嗯，嗯\n这样啊",
+              "line_no": 2
+            },
+            {
+              "offset": -1,
+              "speaker": "めぐる",
+              "jp": "それは仕方ない！\n全然誰も悪くないもん！",
+              "cn": "那就没办法了！\n这不是任何人的错！",
+              "line_no": 3
+            },
+            {
+              "offset": 0,
+              "speaker": "雛菜",
+              "jp": "…………",
+              "cn": "…………",
+              "line_no": 4
+            },
+            {
+              "offset": 1,
+              "speaker": "めぐる",
+              "jp": "ううん、大丈夫だよ！\nみんなにはわたしから説明しておくから",
+              "cn": "不不，没关系哦！\n我会向大家说明的",
+              "line_no": 5
+            },
+            {
+              "offset": 2,
+              "speaker": "めぐる",
+              "jp": "何か決まったら後で報告する！\n……はーい！",
+              "cn": "决定了什么之后会向你报告的！\n……好——！",
+              "line_no": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "かな",
+      "score": 183,
+      "scene_cooccurrence": 0,
+      "prev_to_target": 0,
+      "target_to_next": 0,
+      "mentions_target": 0,
+      "target_mentions_partner": 183,
+      "samples": [
+        {
+          "file": "283活动剧情/#２８３をひろげよう/オープニング-PROJECT.csv",
+          "line_no": 29,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "プロデューサー",
+              "jp": "でも円香はどうしたんだ？\n一緒じゃないのか",
+              "cn": "不过，圆香呢？\n你们没在一起吗",
+              "line_no": 27
+            },
+            {
+              "offset": -1,
+              "speaker": "雛菜",
+              "jp": "円香先輩は帰ったんじゃない～？\n知らないけど",
+              "cn": "圆香学姐已经回去了吧～？\n我不清楚耶",
+              "line_no": 28
+            },
+            {
+              "offset": 0,
+              "speaker": "雛菜",
+              "jp": "雛菜もおやつ食べたら\n帰ろうかな～……",
+              "cn": "雏菜也准备在吃完零食后\n就回家～……",
+              "line_no": 29
+            },
+            {
+              "offset": 1,
+              "speaker": "プロデューサー",
+              "jp": "…………\n雛菜、それならさ",
+              "cn": "…………\n雏菜，既然这样",
+              "line_no": 30
+            },
+            {
+              "offset": 2,
+              "speaker": "プロデューサー",
+              "jp": "手伝ってくれないか？",
+              "cn": "能帮我个忙吗？",
+              "line_no": 31
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/#２８３をひろげよう/第2話-[283PRO]MEETING bhd.csv",
+          "line_no": 38,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "雛菜",
+              "jp": "ん～……\nなんか",
+              "cn": "唔～……\n就觉得",
+              "line_no": 36
+            },
+            {
+              "offset": -1,
+              "speaker": "雛菜",
+              "jp": "こういうのってファンの人に喜んでもらえるのは\nそうかもしれないけど",
+              "cn": "这样做\n能够让粉丝们高兴",
+              "line_no": 37
+            },
+            {
+              "offset": 0,
+              "speaker": "雛菜",
+              "jp": "新しく雛菜たちのことを知ってくれるきっかけに\nなるのかな～って",
+              "cn": "但这能否成为一个\n让新人认识我们的契机呢～",
+              "line_no": 38
+            },
+            {
+              "offset": 1,
+              "speaker": "雛菜",
+              "jp": "ちょっと思っただけです～",
+              "cn": "只是这么想罢了～",
+              "line_no": 39
+            },
+            {
+              "offset": 2,
+              "speaker": "プロデューサー",
+              "jp": "…………そうだな",
+              "cn": "…………也是",
+              "line_no": 40
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/#２８３をひろげよう/第3話-[283PRO]LESSON bhd.csv",
+          "line_no": 52,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "円香",
+              "jp": "さあ……\nでも歌番組に向けた練習なんでしょ",
+              "cn": "谁知道呢……\n不过她们是要练习歌唱节目的表演吧",
+              "line_no": 50
+            },
+            {
+              "offset": -1,
+              "speaker": "雛菜",
+              "jp": "あ～、そっか～",
+              "cn": "啊～，也对～",
+              "line_no": 51
+            },
+            {
+              "offset": 0,
+              "speaker": "雛菜",
+              "jp": "じゃあまた別の日にするしかないか～\nそれでも大丈夫ですか？",
+              "cn": "那只能择日再安排了～\n这样没问题吗？",
+              "line_no": 52
+            },
+            {
+              "offset": 1,
+              "speaker": "めぐる",
+              "jp": "う、うん……！\nわたしはいいけど……",
+              "cn": "嗯，这样……！\n我是没问题啦……",
+              "line_no": 53
+            },
+            {
+              "offset": 2,
+              "speaker": "めぐる",
+              "jp": "プロデューサー、それでもいいかな？",
+              "cn": "制作人，这样可以吗？",
+              "line_no": 54
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "アイ",
+      "score": 104,
+      "scene_cooccurrence": 0,
+      "prev_to_target": 0,
+      "target_to_next": 0,
+      "mentions_target": 0,
+      "target_mentions_partner": 104,
+      "samples": [
+        {
+          "file": "283活动剧情/#２８３をひろげよう/第6話-COLLABORATION.csv",
+          "line_no": 57,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "雛菜",
+              "jp": "なんかみんな、他の人が出てるのを\n羨ましく思ったりするんだな～って",
+              "cn": "但总感觉，大家都很羡慕\n其他人的样子呢～",
+              "line_no": 55
+            },
+            {
+              "offset": -1,
+              "speaker": "雛菜",
+              "jp": "ちょっと意外だったんだよね～……",
+              "cn": "就觉得有一点意外～……",
+              "line_no": 56
+            },
+            {
+              "offset": 0,
+              "speaker": "雛菜",
+              "jp": "アイドルの人ってみんな\nこういうシールとかにもなりたいのかな～？",
+              "cn": "当偶像的大家\n都会想被印在这种贴纸上吗～？",
+              "line_no": 57
+            },
+            {
+              "offset": 1,
+              "speaker": "円香",
+              "jp": "…………",
+              "cn": "…………",
+              "line_no": 58
+            },
+            {
+              "offset": 2,
+              "speaker": "雛菜",
+              "jp": "けど、雛菜がこういうシールになったりとか～\nおっきい看板とかになったら",
+              "cn": "不过，要是雏菜被印在这种贴纸上～\n或者出现在很大的广告牌上的话",
+              "line_no": 59
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/さざなみはいつも凡庸な音がする/第4話-理解.csv",
+          "line_no": 41,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "プロデューサー",
+              "jp": "雛菜、もしかして昨日……",
+              "cn": "雏菜，难道你昨天……",
+              "line_no": 39
+            },
+            {
+              "offset": -1,
+              "speaker": "雛菜",
+              "jp": "歌えて～踊れて～\nあと、面白くないとだめでしょ～？",
+              "cn": "要会唱歌～会跳舞～\n还得要有趣才行吧～？",
+              "line_no": 40
+            },
+            {
+              "offset": 0,
+              "speaker": "雛菜",
+              "jp": "アイドルってやることいっぱいだね～\nま、楽しいからいいけど！",
+              "cn": "偶像要做好多事哦～\n不过好玩就行了！",
+              "line_no": 41
+            },
+            {
+              "offset": 1,
+              "speaker": "プロデューサー",
+              "jp": "まさか雛菜、さっきのもわざと……",
+              "cn": "难道雏菜，刚才你也是故意……",
+              "line_no": 42
+            },
+            {
+              "offset": 2,
+              "speaker": "雛菜",
+              "jp": "ん～？\n違うよ、そんなわけないでしょ～",
+              "cn": "嗯～？\n不是哦，怎么可能是呢～",
+              "line_no": 43
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/アジェンダ２８３/第3话-つながりを考えましょう.csv",
+          "line_no": 16,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "透",
+              "jp": "あー\nいいの？",
+              "cn": "啊——\n可以吗？",
+              "line_no": 14
+            },
+            {
+              "offset": -1,
+              "speaker": "円香",
+              "jp": "コンビニ行けば",
+              "cn": "去便利店啊",
+              "line_no": 15
+            },
+            {
+              "offset": 0,
+              "speaker": "雛菜",
+              "jp": "コンビニ雛菜も行く～！\nアイス食べよ～",
+              "cn": "雏菜也要去便利店～！\n去吃冰吧～",
+              "line_no": 16
+            },
+            {
+              "offset": 1,
+              "speaker": "透",
+              "jp": "いいね\nアイス、私も",
+              "cn": "好啊\n我也要吃",
+              "line_no": 17
+            },
+            {
+              "offset": 2,
+              "speaker": "小糸",
+              "jp": "ぴぇ……！\nは、始まったばっかりなのに……",
+              "cn": "耶……！\n才，才刚开始而已啊……",
+              "line_no": 18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "アイドル",
+      "score": 86,
+      "scene_cooccurrence": 0,
+      "prev_to_target": 0,
+      "target_to_next": 0,
+      "mentions_target": 0,
+      "target_mentions_partner": 86,
+      "samples": [
+        {
+          "file": "283活动剧情/#２８３をひろげよう/第6話-COLLABORATION.csv",
+          "line_no": 57,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "雛菜",
+              "jp": "なんかみんな、他の人が出てるのを\n羨ましく思ったりするんだな～って",
+              "cn": "但总感觉，大家都很羡慕\n其他人的样子呢～",
+              "line_no": 55
+            },
+            {
+              "offset": -1,
+              "speaker": "雛菜",
+              "jp": "ちょっと意外だったんだよね～……",
+              "cn": "就觉得有一点意外～……",
+              "line_no": 56
+            },
+            {
+              "offset": 0,
+              "speaker": "雛菜",
+              "jp": "アイドルの人ってみんな\nこういうシールとかにもなりたいのかな～？",
+              "cn": "当偶像的大家\n都会想被印在这种贴纸上吗～？",
+              "line_no": 57
+            },
+            {
+              "offset": 1,
+              "speaker": "円香",
+              "jp": "…………",
+              "cn": "…………",
+              "line_no": 58
+            },
+            {
+              "offset": 2,
+              "speaker": "雛菜",
+              "jp": "けど、雛菜がこういうシールになったりとか～\nおっきい看板とかになったら",
+              "cn": "不过，要是雏菜被印在这种贴纸上～\n或者出现在很大的广告牌上的话",
+              "line_no": 59
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/さざなみはいつも凡庸な音がする/第4話-理解.csv",
+          "line_no": 41,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "プロデューサー",
+              "jp": "雛菜、もしかして昨日……",
+              "cn": "雏菜，难道你昨天……",
+              "line_no": 39
+            },
+            {
+              "offset": -1,
+              "speaker": "雛菜",
+              "jp": "歌えて～踊れて～\nあと、面白くないとだめでしょ～？",
+              "cn": "要会唱歌～会跳舞～\n还得要有趣才行吧～？",
+              "line_no": 40
+            },
+            {
+              "offset": 0,
+              "speaker": "雛菜",
+              "jp": "アイドルってやることいっぱいだね～\nま、楽しいからいいけど！",
+              "cn": "偶像要做好多事哦～\n不过好玩就行了！",
+              "line_no": 41
+            },
+            {
+              "offset": 1,
+              "speaker": "プロデューサー",
+              "jp": "まさか雛菜、さっきのもわざと……",
+              "cn": "难道雏菜，刚才你也是故意……",
+              "line_no": 42
+            },
+            {
+              "offset": 2,
+              "speaker": "雛菜",
+              "jp": "ん～？\n違うよ、そんなわけないでしょ～",
+              "cn": "嗯～？\n不是哦，怎么可能是呢～",
+              "line_no": 43
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/コースティクス・ノクチルカ/コースティクス・ノクチルカ第5话.csv",
+          "line_no": 57,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "円香",
+              "jp": "聞こえるところで話してた方が悪い",
+              "cn": "是我选在那里的错",
+              "line_no": 55
+            },
+            {
+              "offset": -1,
+              "speaker": "雛菜",
+              "jp": "そっか～",
+              "cn": "是嘛～",
+              "line_no": 56
+            },
+            {
+              "offset": 0,
+              "speaker": "雛菜",
+              "jp": "ノクチルもアイドルも辞めちゃうの～？",
+              "cn": "Noctchill和偶像都要不干了吗～？",
+              "line_no": 57
+            },
+            {
+              "offset": 1,
+              "speaker": "円香",
+              "jp": "続ける理由がない",
+              "cn": "没有继续的理由了",
+              "line_no": 58
+            },
+            {
+              "offset": 2,
+              "speaker": "円香",
+              "jp": "けど……まだ考えてるところ",
+              "cn": "不过……还不是现在",
+              "line_no": 59
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "透の母",
+      "score": 82,
+      "scene_cooccurrence": 11,
+      "prev_to_target": 28,
+      "target_to_next": 24,
+      "mentions_target": 8,
+      "target_mentions_partner": 0,
+      "samples": [
+        {
+          "file": "283活动剧情/ワールプールフールガールズ/第5话-とびぐるま.csv",
+          "line_no": 54,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "透の母",
+              "jp": "────えー",
+              "cn": "————诶——",
+              "line_no": 52
+            },
+            {
+              "offset": -1,
+              "speaker": "透の母",
+              "jp": "それで、帰ってきちゃったんだー？",
+              "cn": "然后就，这么回来了——？",
+              "line_no": 53
+            },
+            {
+              "offset": 0,
+              "speaker": "雛菜",
+              "jp": "透先輩たちは\n他の先輩のとこ返しに行ったよ～",
+              "cn": "透前辈她\n去其他前辈那还东西了～",
+              "line_no": 54
+            },
+            {
+              "offset": 1,
+              "speaker": "雛菜",
+              "jp": "竜王って人、\nどこに引っ越しちゃったんだろうね～？",
+              "cn": "那个叫龙王的人，\n搬去哪里了呢～？",
+              "line_no": 55
+            },
+            {
+              "offset": 2,
+              "speaker": "透の母",
+              "jp": "あの子……センターによくいた子でしょ？\n中学も違うもんねー",
+              "cn": "那个人……是经常待在交流中心的孩子吧？\n初中也不一样——",
+              "line_no": 56
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/ワールプールフールガールズ/第6话-返る.csv",
+          "line_no": 68,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "円香",
+              "jp": "……お弁当のゴミ、捨ててくる",
+              "cn": "……我去丢一下，便当的盒子",
+              "line_no": 66
+            },
+            {
+              "offset": -1,
+              "speaker": "透",
+              "jp": "え、聞いてた？",
+              "cn": "诶，在问我？",
+              "line_no": 67
+            },
+            {
+              "offset": 0,
+              "speaker": "雛菜",
+              "jp": "うん～",
+              "cn": "嗯～",
+              "line_no": 68
+            },
+            {
+              "offset": 1,
+              "speaker": "透の母",
+              "jp": "心の中にもうあるんだもん",
+              "cn": "已经留存在心里了嘛",
+              "line_no": 69
+            },
+            {
+              "offset": 2,
+              "speaker": "雛菜",
+              "jp": "雛菜のランドセルが蹴られてどうしたの～？",
+              "cn": "雏菜的双肩包被踢飞之后发生什么了～？",
+              "line_no": 70
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/天槛/第4话-熱帯夜.csv",
+          "line_no": 125,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "小糸",
+              "jp": "みんなで……出たいな",
+              "cn": "想和大家……一起出场",
+              "line_no": 123
+            },
+            {
+              "offset": -1,
+              "speaker": "プロデューサー",
+              "jp": "……",
+              "cn": "",
+              "line_no": 124
+            },
+            {
+              "offset": 0,
+              "speaker": "円香＆雛菜",
+              "jp": "────じゃね～",
+              "cn": "————拜拜～",
+              "line_no": 125
+            },
+            {
+              "offset": 1,
+              "speaker": "透の母",
+              "jp": "あ、円香ちゃん雛菜ちゃーん\nこれー……！",
+              "cn": "啊，圆香雏菜——\n这个——……！",
+              "line_no": 126
+            },
+            {
+              "offset": 2,
+              "speaker": "透の母",
+              "jp": "これ、さくらんぼー！\n少ないんだけど、持ってってー",
+              "cn": "这个，樱桃——！\n虽然不太多了，带着回去吧——",
+              "line_no": 127
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "スタッフ",
+      "score": 70,
+      "scene_cooccurrence": 11,
+      "prev_to_target": 17,
+      "target_to_next": 14,
+      "mentions_target": 7,
+      "target_mentions_partner": 10,
+      "samples": [
+        {
+          "file": "283活动剧情/コースティクス・ノクチルカ/コースティクス・ノクチルカ序章.csv",
+          "line_no": 26,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "プロデューサー",
+              "jp": "ユニットカラーとメンバーカラーの\nサンプルをもらったから、みんなに見せようと思って",
+              "cn": "组合以及各位自己的应援色\n已经有雏形了，想给你们也看看",
+              "line_no": 24
+            },
+            {
+              "offset": -1,
+              "speaker": "スタッフ",
+              "jp": "福丸さんと市川さんは一旦休憩でお願いします",
+              "cn": "福丸小姐和市川小姐，可以先休息一下哦",
+              "line_no": 25
+            },
+            {
+              "offset": 0,
+              "speaker": "小糸＆雛菜",
+              "jp": "はい……！",
+              "cn": "好……！",
+              "line_no": 26
+            },
+            {
+              "offset": 1,
+              "speaker": "スタッフ",
+              "jp": "浅倉さんと樋口さんは引き続き撮らせていただくので\nそのままでお願いします",
+              "cn": "浅仓小姐和樋口小姐继续拍摄工作\n麻烦保持原位",
+              "line_no": 27
+            },
+            {
+              "offset": 2,
+              "speaker": "透＆円香",
+              "jp": "はい",
+              "cn": "好",
+              "line_no": 28
+            }
+          ]
+        },
+        {
+          "file": "市川雛菜/Landing Point編/IDOL P.csv",
+          "line_no": 17,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "プロデューサー",
+              "jp": "あの、トールくんの話じゃないのか？",
+              "cn": "那个，不是在说toru的事情吗？",
+              "line_no": 15
+            },
+            {
+              "offset": -1,
+              "speaker": "雛菜",
+              "jp": "あ～……\nあの人はそうみたいだね～",
+              "cn": "啊～\n那个人的话好像是这样～",
+              "line_no": 16
+            },
+            {
+              "offset": 0,
+              "speaker": "雛菜",
+              "jp": "タレントとか歌手とか俳優とかの芸能人を続ける人もいれば\n振付とか作詞とかスタッフになる人もいて",
+              "cn": "有以文艺工作者、歌手、演员之类的艺人继续下去的\n也有去当编舞和作词或者工作人员的",
+              "line_no": 17
+            },
+            {
+              "offset": 1,
+              "speaker": "雛菜",
+              "jp": "ブランドプロデュースとか\nアイドルプロデュースする人も結構いるんだって",
+              "cn": "品牌制作人\n和偶像的制作人的也有不少",
+              "line_no": 18
+            },
+            {
+              "offset": 2,
+              "speaker": "プロデューサー",
+              "jp": "……そうだな",
+              "cn": "……是的呢",
+              "line_no": 19
+            }
+          ]
+        },
+        {
+          "file": "市川雛菜/Landing Point編/Q＆Q.csv",
+          "line_no": 24,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "インタビュアー",
+              "jp": "すごい！　じゃあ雛菜ちゃんプロデュースの\nステージになるってこと？",
+              "cn": "真厉害呀！  那么就是雏菜设计的\n演唱会了吗？",
+              "line_no": 22
+            },
+            {
+              "offset": -1,
+              "speaker": "雛菜",
+              "jp": "ん～……雛菜が全部決めてるってわけじゃないし\nこういうのがやりたい！　って言ってるだけで",
+              "cn": "嗯～……并不是都是雏菜来决定的\n我想做这些东西！只是这样说了而已",
+              "line_no": 23
+            },
+            {
+              "offset": 0,
+              "speaker": "雛菜",
+              "jp": "本当にそれができるのかっていうのは\nプロデューサーさんとかスタッフさんが調整してくれてます",
+              "cn": "实际上能做出来是因为\n制作人和工作人员们帮我进行了调整",
+              "line_no": 24
+            },
+            {
+              "offset": 1,
+              "speaker": "雛菜",
+              "jp": "でも、いつかは全部雛菜が考えました！\nっていうのをやってみたいな～って思ってます",
+              "cn": "但是，希望什么时候也想能做一个\n全部由雏菜想出来的～演唱会！",
+              "line_no": 25
+            },
+            {
+              "offset": 2,
+              "speaker": "インタビュアー",
+              "jp": "うんうん、なるほど！",
+              "cn": "嗯嗯，原来如此！",
+              "line_no": 26
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "千雪",
+      "score": 67,
+      "scene_cooccurrence": 22,
+      "prev_to_target": 11,
+      "target_to_next": 10,
+      "mentions_target": 2,
+      "target_mentions_partner": 0,
+      "samples": [
+        {
+          "file": "283活动剧情/#２８３をひろげよう/オープニング-PROJECT.csv",
+          "line_no": 69,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "千雪",
+              "jp": "ふふ\n忙しいんだねー……",
+              "cn": "呵呵\n她们很忙呢——……",
+              "line_no": 67
+            },
+            {
+              "offset": -1,
+              "speaker": "千雪",
+              "jp": "年末年始、少しでもお休みが\n取れるといいけど……",
+              "cn": "虽说年末年初稍微休息一下\n也挺好的……",
+              "line_no": 68
+            },
+            {
+              "offset": 0,
+              "speaker": "雛菜",
+              "jp": "雛菜がやりたいことやっていいの～？\nそれならやろうかな～",
+              "cn": "雏菜只要做自己想做的事就好了对吧～？\n那还是做吧～",
+              "line_no": 69
+            },
+            {
+              "offset": 1,
+              "speaker": "雛菜",
+              "jp": "あ、円香先輩にも手伝ってもらえば\nいいんじゃない？",
+              "cn": "啊，让圆香学姐\n也来帮忙吧？",
+              "line_no": 70
+            },
+            {
+              "offset": 2,
+              "speaker": "めぐる",
+              "jp": "…………？",
+              "cn": "…………？",
+              "line_no": 71
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/#２８３をひろげよう/第1話-MEETING.csv",
+          "line_no": 30,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "樹里",
+              "jp": "２８３プロのチャンネル用に動画を撮ったり\nツイスタの方にも写真を載せていきたいから",
+              "cn": "是说“要拍摄283事务所频道要用到的视频\n还有拍一些上传到Twista上的照片",
+              "line_no": 28
+            },
+            {
+              "offset": -1,
+              "speaker": "樹里",
+              "jp": "協力して欲しい、とは聞いてるけど……",
+              "cn": "希望你能帮帮我”，这样……",
+              "line_no": 29
+            },
+            {
+              "offset": 0,
+              "speaker": "雛菜",
+              "jp": "あ～",
+              "cn": "啊～",
+              "line_no": 30
+            },
+            {
+              "offset": 1,
+              "speaker": "千雪",
+              "jp": "うん\n私もそんな感じで……",
+              "cn": "嗯\n我也是这么听说的……",
+              "line_no": 31
+            },
+            {
+              "offset": 2,
+              "speaker": "千雪",
+              "jp": "ラジオの方にも\n撮影に来たい、って",
+              "cn": "还有\n“想去拍摄广播节目现场”",
+              "line_no": 32
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/#２８３をひろげよう/第4話-[283PRO]RADIO bhd.csv",
+          "line_no": 17,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "雛菜",
+              "jp": "お願いします～……",
+              "cn": "请多关照～……",
+              "line_no": 15
+            },
+            {
+              "offset": -1,
+              "speaker": "めぐる",
+              "jp": "見てるだけなのになんだか緊張してきた……！",
+              "cn": "光看着就紧张起来了……！",
+              "line_no": 16
+            },
+            {
+              "offset": 0,
+              "speaker": "雛菜",
+              "jp": "あは～\nそうですね～……",
+              "cn": "啊哈～\n是这样呢～……",
+              "line_no": 17
+            },
+            {
+              "offset": 1,
+              "speaker": "千雪",
+              "jp": "──『リスナーの皆さん、おやすみなさい』",
+              "cn": "——“各位听众，晚安”",
+              "line_no": 18
+            },
+            {
+              "offset": 2,
+              "speaker": "千雪",
+              "jp": "『ベッドルームに立てこもるための魔法の電波\nパジャマ・ジャム・ジャミング！』",
+              "cn": "“欢迎收听让人在卧室闭门不出的魔法电波\nPyjamas・Jam・Jamming！”",
+              "line_no": 19
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

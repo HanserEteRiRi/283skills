@@ -1,0 +1,22 @@
+{
+  "jp": {
+    "ahaha_count": "(あは|やは|えへ)",
+    "long_tilde_count": "(～|ー{2,}|～～)",
+    "heart_count": "(♡|❤|☆)",
+    "happiness_count": "(しあわせ|楽しい|さいこ|好き|かわいい|可愛い)",
+    "self_name_count": "(雛菜|私)",
+    "toru_senpai_count": "透先輩",
+    "soft_question_count": "(～？|？|\\?|かな|でしょ)",
+    "refusal_count": "(いや|だめ|無理|嫌|わかんない|知らない)"
+  },
+  "cn": {
+    "ahaha_count": "(啊哈|呀哈|嘿嘿)",
+    "long_tilde_count": "(～|~|—|——)",
+    "heart_count": "(♡|❤|☆)",
+    "happiness_count": "(幸福|快乐|开心|最高|喜欢|可爱)",
+    "self_name_count": "(雏菜|我)",
+    "toru_senpai_count": "透前辈",
+    "soft_question_count": "(吗|吧|呢|？|\\?)",
+    "refusal_count": "(不要|不行|不勉强|讨厌|不知道|不懂)"
+  }
+}

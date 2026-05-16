@@ -1,0 +1,26 @@
+{
+  "target": "真乃",
+  "aliases": [
+    "櫻木真乃",
+    "櫻木 真乃",
+    "桜木真乃",
+    "樱木真乃",
+    "真乃",
+    "Mano",
+    "Sakuragi Mano",
+    "Mano Sakuragi"
+  ],
+  "mention_aliases": [
+    "櫻木真乃",
+    "櫻木 真乃",
+    "桜木真乃",
+    "樱木真乃",
+    "真乃",
+    "Mano",
+    "Sakuragi Mano",
+    "Mano Sakuragi"
+  ],
+  "theme_config": "../story-dialogue-themes/sakuragi-mano.json",
+  "voice_config": "../story-dialogue-voice/sakuragi-mano.json",
+  "output_dir": "../../283/sakuragi-mano-perspective/references/local-dialogue-analysis"
+}

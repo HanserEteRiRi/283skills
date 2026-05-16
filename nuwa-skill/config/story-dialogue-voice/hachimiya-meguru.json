@@ -1,0 +1,22 @@
+{
+  "jp": {
+    "exclamation_count": "！|!",
+    "long_vowel_count": "(ー|～|~)",
+    "friendly_count": "(みんな|一緒|友達|大好き|楽しい)",
+    "energy_count": "(早く|行こ|やろう|元気|走|楽し)",
+    "apology_thanks_count": "(ごめん|ありがとう|大丈夫)",
+    "first_person_count": "(わたし|私)",
+    "laugh_count": "(えへへ|あはは|ふふ|へへ)",
+    "question_count": "(？|\\?|かな|だよね)"
+  },
+  "cn": {
+    "exclamation_count": "！|!",
+    "long_vowel_count": "(—|——|～|~)",
+    "friendly_count": "(大家|一起|朋友|最喜欢|开心)",
+    "energy_count": "(快点|走吧|来做|精神|跑|开心)",
+    "apology_thanks_count": "(对不起|谢谢|没关系)",
+    "first_person_count": "(我|巡)",
+    "laugh_count": "(嘿嘿|哈哈|呵呵)",
+    "question_count": "(？|\\?|吗|吧|对吧)"
+  }
+}

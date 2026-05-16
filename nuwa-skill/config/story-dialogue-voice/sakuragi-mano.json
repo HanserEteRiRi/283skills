@@ -1,0 +1,22 @@
+{
+  "jp": {
+    "soft_onomatopoeia_count": "(ほわ|ほわほわ|ほっ|ぽかぽか)",
+    "bird_mun_count": "(むんっ|むん|ぽぉっぽぉ|ピーちゃん)",
+    "polite_count": "(です|ます|ください|でしょう)",
+    "ellipsis_count": "…",
+    "soft_laugh_count": "(ふふ|えへへ|えへ)",
+    "apology_thanks_count": "(すみません|ありがとう|ごめん)",
+    "first_person_count": "(私|わたし)",
+    "uncertain_count": "(えっと|あの|かな|でしょうか|緊張)"
+  },
+  "cn": {
+    "soft_onomatopoeia_count": "(软绵|暖洋洋|暖|呼)",
+    "bird_mun_count": "(嗯|咕咕|P酱)",
+    "polite_count": "(请|谢谢|不好意思|可以吗)",
+    "ellipsis_count": "…",
+    "soft_laugh_count": "(呵呵|嘿嘿|诶嘿)",
+    "apology_thanks_count": "(对不起|谢谢|抱歉)",
+    "first_person_count": "(我|真乃)",
+    "uncertain_count": "(那个|呃|吗|紧张|不安)"
+  }
+}

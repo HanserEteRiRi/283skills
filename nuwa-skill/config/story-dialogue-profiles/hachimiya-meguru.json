@@ -1,0 +1,24 @@
+{
+  "target": "めぐる",
+  "aliases": [
+    "八宮めぐる",
+    "八宮 めぐる",
+    "めぐる",
+    "巡",
+    "Meguru",
+    "Hachimiya Meguru",
+    "Meguru Hachimiya"
+  ],
+  "mention_aliases": [
+    "八宮めぐる",
+    "八宮 めぐる",
+    "めぐる",
+    "巡",
+    "Meguru",
+    "Hachimiya Meguru",
+    "Meguru Hachimiya"
+  ],
+  "theme_config": "../story-dialogue-themes/hachimiya-meguru.json",
+  "voice_config": "../story-dialogue-voice/hachimiya-meguru.json",
+  "output_dir": "../../283/hachimiya-meguru-perspective/references/local-dialogue-analysis"
+}

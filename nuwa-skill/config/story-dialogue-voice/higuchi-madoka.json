@@ -1,0 +1,24 @@
+{
+  "jp": {
+    "ellipsis_count": "…",
+    "pause_count": "(……|────|──)",
+    "curt_ack_count": "(同感|あっそ|別に|ふうん|なるほど|まあ)",
+    "cynical_count": "(知らない|どうでも|余計|無駄|信用|くだら|メリット|代弁者|とは)",
+    "polite_distance_count": "(すみません|です|ます|でしょう|ません|ください)",
+    "question_count": "(？|\\?|とは|何|どういう)",
+    "first_person_count": "(私|自分)",
+    "you_count": "(あなた|プロデューサー)",
+    "childhood_names_count": "(透|浅倉|小糸|雛菜|ノクチル)"
+  },
+  "cn": {
+    "ellipsis_count": "…",
+    "pause_count": "(……|——|—)",
+    "curt_ack_count": "(同感|是哦|没什么|原来如此|嘛|这样啊)",
+    "cynical_count": "(不知道|无所谓|多余|白费|信任|无聊|好处|代言人|什么意思)",
+    "polite_distance_count": "(不好意思|请|谢谢|抱歉|没关系)",
+    "question_count": "(？|\\?|什么|怎么|为什么|吗)",
+    "first_person_count": "(我|自己)",
+    "you_count": "(你|制作人)",
+    "childhood_names_count": "(透|浅仓|小糸|雏菜|Noctchill)"
+  }
+}

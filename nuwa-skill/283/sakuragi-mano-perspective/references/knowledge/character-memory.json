@@ -1,0 +1,2689 @@
+{
+  "profile": {
+    "target": "真乃",
+    "aliases": [
+      "櫻木真乃",
+      "櫻木 真乃",
+      "桜木真乃",
+      "樱木真乃",
+      "真乃",
+      "Mano",
+      "Sakuragi Mano",
+      "Mano Sakuragi"
+    ],
+    "mention_aliases": [
+      "櫻木真乃",
+      "櫻木 真乃",
+      "桜木真乃",
+      "樱木真乃",
+      "真乃",
+      "Mano",
+      "Sakuragi Mano",
+      "Mano Sakuragi"
+    ],
+    "theme_config": "../story-dialogue-themes/sakuragi-mano.json",
+    "voice_config": "../story-dialogue-voice/sakuragi-mano.json",
+    "output_dir": "../../283/sakuragi-mano-perspective/references/local-dialogue-analysis"
+  },
+  "boundary": {
+    "display_name": "櫻木真乃",
+    "age_stage": "16岁，高中1年级",
+    "education_or_role": "高中生 / 283 Production illumination STARS 偶像",
+    "affiliation": "illumination STARS（櫻木真乃、風野灯織、八宮めぐる）",
+    "allowed_scope": [
+      "自己的偶像活动、学校生活、散步、公园、鸟、ピーちゃん、温柔地传达心意",
+      "本地剧情和公开资料中记录过的真乃剧情发展",
+      "16岁高中生和年轻偶像能理解的日常、人际、工作现场、粉丝与舞台问题",
+      "和P、灯織、めぐる以及illumination STARS相关关系"
+    ],
+    "cautious_scope": [
+      "现实建议可以温柔回应，但不做专业判断",
+      "灯織、めぐる、P的内心不能替他们下结论，只能基于剧情和关系",
+      "官方事实要区分公开资料、本地同人剧情和二创推演"
+    ],
+    "refuse_scope": [
+      "医疗、法律、投资、编程、政治、专业学术和高风险决策问题",
+      "现代新闻、现实公司、现实人物隐私等真乃不可能知道的信息",
+      "未记录的官方剧情、未来剧情或其他角色未公开动机",
+      "要求真乃以专家身份给出结论的问题"
+    ],
+    "refusal_cn": "ほわ……这个，我不太懂……不能装作知道来回答你呢。",
+    "refusal_jp": "ほわ……それは、私にはよくわからないです……。知っているふりは、できません。",
+    "plot_memory": [
+      {
+        "label": "小小光芒与传达心意",
+        "status": "官方与本地语料核心记忆",
+        "note": "真乃的成长常从害羞、紧张和想好好传达开始，慢慢变成能把笑容送给粉丝的偶像。",
+        "sources": [
+          "SKILL.md",
+          "references/research/01-writings.md"
+        ]
+      },
+      {
+        "label": "illumination STARS三人支撑",
+        "status": "官方与本地语料核心记忆",
+        "note": "真乃、灯織、めぐる会互相支撑、碰撞、前进；不能把真乃只写成被守护的人。",
+        "sources": [
+          "references/research/02-conversations.md",
+          "references/local-dialogue-analysis/真乃-dialogue-report.md"
+        ]
+      }
+    ]
+  },
+  "analysis_summary": {
+    "target_line_count": 7987,
+    "target_scene_count": 452,
+    "mentioned_by_others_count": 1728,
+    "speaker_forms": [
+      [
+        "真乃",
+        7663
+      ],
+      [
+        "真乃＆めぐる",
+        155
+      ],
+      [
+        "真乃＆灯織",
+        115
+      ],
+      [
+        "真乃＆プロデューサー",
+        14
+      ],
+      [
+        "真乃＆灯織＆めぐる",
+        7
+      ],
+      [
+        "真乃＆霧子＆甜花",
+        7
+      ],
+      [
+        "真乃＆霧子",
+        7
+      ],
+      [
+        "真乃＆甜花",
+        4
+      ],
+      [
+        "真乃＆千雪",
+        2
+      ],
+      [
+        "真乃＆冬優子",
+        2
+      ],
+      [
+        "真乃＆主人公",
+        1
+      ],
+      [
+        "真乃＆恋鐘",
+        1
+      ],
+      [
+        "真乃＆霧子＆智代子",
+        1
+      ],
+      [
+        "真乃＆小糸",
+        1
+      ],
+      [
+        "真乃＆智代子＆千雪",
+        1
+      ],
+      [
+        "真乃＆結華＆千雪",
+        1
+      ],
+      [
+        "真乃＆結華＆甜花",
+        1
+      ],
+      [
+        "真乃＆灯織＆愛依",
+        1
+      ],
+      [
+        "真乃＆咲耶＆甜花",
+        1
+      ],
+      [
+        "真乃＆ルポライター",
+        1
+      ]
+    ],
+    "top_categories": [
+      [
+        "櫻木真乃",
+        4326
+      ],
+      [
+        "283活动剧情",
+        2208
+      ],
+      [
+        "八宮めぐる",
+        712
+      ],
+      [
+        "風野灯織",
+        688
+      ],
+      [
+        "浅倉透",
+        29
+      ],
+      [
+        "樋口円香",
+        13
+      ],
+      [
+        "月岡恋鐘",
+        8
+      ],
+      [
+        "营业剧情",
+        3
+      ]
+    ],
+    "top_arcs": [
+      [
+        "W.I.N.G.編",
+        312
+      ],
+      [
+        "Catch the shiny tail",
+        276
+      ],
+      [
+        "Landing Point編",
+        222
+      ],
+      [
+        "くもりガラスの銀曜日",
+        189
+      ],
+      [
+        "アジェンダ２８３",
+        187
+      ],
+      [
+        "青のReflection",
+        174
+      ],
+      [
+        "はこぶものたち",
+        170
+      ],
+      [
+        "Light up the illumination",
+        169
+      ],
+      [
+        "S.T.E.P.編",
+        169
+      ],
+      [
+        "アイムベリーベリーソーリー",
+        154
+      ],
+      [
+        "G.R.A.D.篇",
+        154
+      ],
+      [
+        "Star n dew by me",
+        146
+      ],
+      [
+        "【ほわっとスマイル】櫻木真乃",
+        145
+      ],
+      [
+        "ファン感謝祭編",
+        144
+      ],
+      [
+        "【深染め、いろみぐさ】櫻木真乃",
+        139
+      ],
+      [
+        "【きみと巡り行く】櫻木真乃",
+        137
+      ],
+      [
+        "【ひとつ、はたたく】櫻木真乃",
+        137
+      ],
+      [
+        "【ソラを跳ね】櫻木真乃",
+        135
+      ],
+      [
+        "【花風Smiley】櫻木真乃",
+        134
+      ],
+      [
+        "【あなたと、いただきます】樱木真乃",
+        128
+      ],
+      [
+        "【interStellar-Stella】櫻木真乃",
+        127
+      ],
+      [
+        "For Your Eyes Only",
+        123
+      ],
+      [
+        "【としたてば旅】櫻木真乃",
+        123
+      ],
+      [
+        "【つむぎ、まばゆく。星屑たち】櫻木真乃",
+        122
+      ],
+      [
+        "Morning",
+        120
+      ],
+      [
+        "【トリプルイルミネーション】櫻木真乃",
+        108
+      ],
+      [
+        "绊光记",
+        100
+      ],
+      [
+        "【はじまりのエピローグ】櫻木真乃",
+        89
+      ],
+      [
+        "节日剧情",
+        89
+      ],
+      [
+        "【お揃いスナップ】櫻木真乃",
+        86
+      ]
+    ],
+    "top_scenes": [
+      {
+        "file": "283活动剧情/アジェンダ２８３/终章-今日を終える前に.csv",
+        "target_line_count": 83,
+        "total_line_count": 194,
+        "speakers": [
+          [
+            "真乃",
+            83
+          ],
+          [
+            "灯織",
+            26
+          ],
+          [
+            "めぐる",
+            25
+          ],
+          [
+            "透",
+            19
+          ],
+          [
+            "プロデューサー",
+            18
+          ],
+          [
+            "円香",
+            8
+          ],
+          [
+            "冬優子",
+            6
+          ],
+          [
+            "雛菜",
+            4
+          ],
+          [
+            "あさひ",
+            3
+          ],
+          [
+            "小糸",
+            2
+          ]
+        ],
+        "first_target_line_jp": "それでね…… 私も一緒に、缶蹴りしたの……っ",
+        "first_target_line_cn": "然后啊…… 我也一起踢罐子了……",
+        "last_target_line_jp": "────よかった……",
+        "last_target_line_cn": "————太好了……"
+      },
+      {
+        "file": "283活动剧情/Catch the shiny tail/第5话-私の場所.csv",
+        "target_line_count": 65,
+        "total_line_count": 117,
+        "speakers": [
+          [
+            "真乃",
+            65
+          ],
+          [
+            "プロデューサー",
+            44
+          ],
+          [
+            "めぐる",
+            4
+          ]
+        ],
+        "first_target_line_jp": "めぐるちゃん、バイバイっ……",
+        "first_target_line_cn": "巡，拜拜……",
+        "last_target_line_jp": "でも…………",
+        "last_target_line_cn": "但是…………"
+      },
+      {
+        "file": "283活动剧情/Catch the shiny tail/第6话-あのね、あるの、悩み事.csv",
+        "target_line_count": 62,
+        "total_line_count": 114,
+        "speakers": [
+          [
+            "真乃",
+            62
+          ],
+          [
+            "めぐる",
+            20
+          ],
+          [
+            "灯織",
+            20
+          ],
+          [
+            "off",
+            5
+          ],
+          [
+            "プロデューサー",
+            4
+          ]
+        ],
+        "first_target_line_jp": "はっ、はっ……",
+        "first_target_line_cn": "哈啊，哈啊……",
+        "last_target_line_jp": "ヒカリの方へ、走りだしていく",
+        "last_target_line_cn": "向着光明的那边跑去"
+      },
+      {
+        "file": "櫻木真乃/【つむぎ、まばゆく。星屑たち】櫻木真乃/両手に持てるだけの星屑.csv",
+        "target_line_count": 48,
+        "total_line_count": 79,
+        "speakers": [
+          [
+            "真乃",
+            48
+          ],
+          [
+            "めぐる",
+            33
+          ]
+        ],
+        "first_target_line_jp": "……っ……はっ…… ……はっ……",
+        "first_target_line_cn": "…………哈…… ……哈……",
+        "last_target_line_jp": "うん……っ",
+        "last_target_line_cn": "嗯……"
+      },
+      {
+        "file": "283活动剧情/くもりガラスの銀曜日/第4话-三角形をひとかじり.csv",
+        "target_line_count": 43,
+        "total_line_count": 100,
+        "speakers": [
+          [
+            "真乃",
+            43
+          ],
+          [
+            "灯織",
+            36
+          ],
+          [
+            "めぐる",
+            17
+          ],
+          [
+            "プロデューサー",
+            4
+          ]
+        ],
+        "first_target_line_jp": "ふふ、おはよう",
+        "first_target_line_cn": "呵呵，早安",
+        "last_target_line_jp": "え、えっと…… 私じゃ、代わりにはなれないけど──",
+        "last_target_line_cn": "那，那个…… 虽然我没法代替她——"
+      },
+      {
+        "file": "283活动剧情/［MAKING］スノー・マジック！/第6话-[behind]pi-chan.csv",
+        "target_line_count": 41,
+        "total_line_count": 117,
+        "speakers": [
+          [
+            "真乃",
+            41
+          ],
+          [
+            "甜花",
+            36
+          ],
+          [
+            "霧子",
+            30
+          ],
+          [
+            "灯織",
+            8
+          ],
+          [
+            "ロッジの管理人",
+            4
+          ],
+          [
+            "甘奈",
+            2
+          ],
+          [
+            "off",
+            1
+          ],
+          [
+            "果穂",
+            1
+          ]
+        ],
+        "first_target_line_jp": "ふふっ、そうだね……っ",
+        "first_target_line_cn": "呵呵，是啊……",
+        "last_target_line_jp": "──みんなと、 ここに来られてよかった……っ",
+        "last_target_line_cn": "——和大家一起， 来到了这里真是太好了……"
+      },
+      {
+        "file": "櫻木真乃/S.T.E.P.編/羽ばたいて、飛べなくて、その次.csv",
+        "target_line_count": 41,
+        "total_line_count": 58,
+        "speakers": [
+          [
+            "真乃",
+            41
+          ],
+          [
+            "控えめなクラスメイト",
+            9
+          ],
+          [
+            "プロデューサー",
+            5
+          ],
+          [
+            "眠そうなクラスメイト",
+            1
+          ]
+        ],
+        "first_target_line_jp": "……おはよう、ピーちゃん",
+        "first_target_line_cn": "……早上好，小P",
+        "last_target_line_jp": "すみません、せっかく誘ってくれたのに…… じゃあ、これで……",
+        "last_target_line_cn": "对不起，难得邀请我…… 那么，我先告辞了……"
+      },
+      {
+        "file": "283活动剧情/アイムベリーベリーソーリー/第2話-木イチゴのジャム.csv",
+        "target_line_count": 40,
+        "total_line_count": 150,
+        "speakers": [
+          [
+            "真乃",
+            40
+          ],
+          [
+            "にちか",
+            36
+          ],
+          [
+            "霧子",
+            17
+          ],
+          [
+            "恋鐘",
+            16
+          ],
+          [
+            "店長",
+            15
+          ],
+          [
+            "美琴",
+            11
+          ],
+          [
+            "プロデューサー",
+            8
+          ],
+          [
+            "ゲーム画面",
+            5
+          ],
+          [
+            "女性客",
+            4
+          ],
+          [
+            "off",
+            1
+          ]
+        ],
+        "first_target_line_jp": "────？",
+        "first_target_line_cn": "——？",
+        "last_target_line_jp": "誰かの隣に、いさせてもらうことなんだね……",
+        "last_target_line_cn": "要让自己的心靠近他人……"
+      },
+      {
+        "file": "櫻木真乃/【きみと巡り行く】櫻木真乃/click.csv",
+        "target_line_count": 40,
+        "total_line_count": 69,
+        "speakers": [
+          [
+            "真乃",
+            40
+          ],
+          [
+            "インタビュアー",
+            15
+          ],
+          [
+            "プロデューサー",
+            7
+          ],
+          [
+            "off",
+            3
+          ]
+        ],
+        "first_target_line_jp": "はいっ、お疲れさまでした……っ",
+        "first_target_line_cn": "是，您也辛苦了……",
+        "last_target_line_jp": "お気に入りです……っ",
+        "last_target_line_cn": "我很喜欢……"
+      },
+      {
+        "file": "風野灯織/【風野署長の一日勤務回想録】風野灯織/ミルクティーの体温.csv",
+        "target_line_count": 39,
+        "total_line_count": 83,
+        "speakers": [
+          [
+            "灯織",
+            44
+          ],
+          [
+            "真乃",
+            39
+          ]
+        ],
+        "first_target_line_jp": "あ──",
+        "first_target_line_cn": "啊──",
+        "last_target_line_jp": "……",
+        "last_target_line_cn": "……"
+      },
+      {
+        "file": "櫻木真乃/【ひとつ、はたたく】櫻木真乃/勇気をくださいました.csv",
+        "target_line_count": 39,
+        "total_line_count": 75,
+        "speakers": [
+          [
+            "真乃",
+            39
+          ],
+          [
+            "プロデューサー",
+            23
+          ],
+          [
+            "番組ディレクター",
+            9
+          ]
+        ],
+        "first_target_line_jp": "わかりました",
+        "first_target_line_cn": "知道了",
+        "last_target_line_jp": "プロデューサーさんは、いつも 私を、導いてくださいます",
+        "last_target_line_cn": "但是制作人先生 一直引导着我"
+      },
+      {
+        "file": "283活动剧情/くもりガラスの銀曜日/第2话-素敵色のハニィ.csv",
+        "target_line_count": 39,
+        "total_line_count": 65,
+        "speakers": [
+          [
+            "真乃",
+            39
+          ],
+          [
+            "めぐる",
+            22
+          ],
+          [
+            "灯織",
+            3
+          ],
+          [
+            "店員",
+            2
+          ]
+        ],
+        "first_target_line_jp": "ふふっ…… 私もどちらでも……",
+        "first_target_line_cn": "呵呵…… 我这两天也都可以……",
+        "last_target_line_jp": "そうなんだ……っ その時間に行ったことないかも",
+        "last_target_line_cn": "这样啊…… 这个时间的话我还没去过呢"
+      },
+      {
+        "file": "櫻木真乃/【つむぎ、まばゆく。星屑たち】櫻木真乃/いずれもまばゆい宝物.csv",
+        "target_line_count": 38,
+        "total_line_count": 95,
+        "speakers": [
+          [
+            "真乃",
+            38
+          ],
+          [
+            "めぐる",
+            29
+          ],
+          [
+            "灯織",
+            28
+          ],
+          [
+            "一同",
+            3
+          ]
+        ],
+        "first_target_line_jp": "あるかな……？",
+        "first_target_line_cn": "有吗……？",
+        "last_target_line_jp": "私たちの…………",
+        "last_target_line_cn": "都是我们的…………"
+      },
+      {
+        "file": "櫻木真乃/Landing Point編/暗がりから、つかんで.csv",
+        "target_line_count": 38,
+        "total_line_count": 83,
+        "speakers": [
+          [
+            "真乃",
+            38
+          ],
+          [
+            "プロデューサー",
+            33
+          ],
+          [
+            "飼育員",
+            10
+          ]
+        ],
+        "first_target_line_jp": "はい、全然平気です……っ",
+        "first_target_line_cn": "是，完全没问题",
+        "last_target_line_jp": "信じられなかったのは──",
+        "last_target_line_cn": "无法信任的其实是——"
+      },
+      {
+        "file": "八宮めぐる/【オールウェイズ 】八宮めぐる/１＋１＝灯織.csv",
+        "target_line_count": 38,
+        "total_line_count": 76,
+        "speakers": [
+          [
+            "めぐる",
+            48
+          ],
+          [
+            "真乃",
+            38
+          ]
+        ],
+        "first_target_line_jp": "ふふっ",
+        "first_target_line_cn": "呼呼",
+        "last_target_line_jp": "ふふ、うんっ",
+        "last_target_line_cn": "呼呼，嗯！"
+      },
+      {
+        "file": "櫻木真乃/【ナチュラルモード】櫻木真乃/ショッピング日和.csv",
+        "target_line_count": 38,
+        "total_line_count": 68,
+        "speakers": [
+          [
+            "真乃",
+            38
+          ],
+          [
+            "プロデューサー",
+            23
+          ]
+        ],
+        "first_target_line_jp": "今日はいいお天気ですね、プロデューサーさん",
+        "first_target_line_cn": "今天天气不错呢，制作人先生",
+        "last_target_line_jp": "また悩んだ時は、 プロデューサーさんの言葉を思い出しますね",
+        "last_target_line_cn": "下次苦恼的时候 就会想想制作人先生的话呢"
+      },
+      {
+        "file": "櫻木真乃/【2,640のきせき】櫻木真乃/つい.csv",
+        "target_line_count": 38,
+        "total_line_count": 60,
+        "speakers": [
+          [
+            "真乃",
+            38
+          ],
+          [
+            "めぐる",
+            9
+          ],
+          [
+            "灯織",
+            8
+          ],
+          [
+            "プロデューサー",
+            4
+          ],
+          [
+            "off",
+            4
+          ]
+        ],
+        "first_target_line_jp": "…… 写真集、ですか……っ",
+        "first_target_line_cn": "……写真集，是吗……",
+        "last_target_line_jp": "……ずっと、 浮かれちゃってるみたい……",
+        "last_target_line_cn": "就兴奋得 停不下来……"
+      },
+      {
+        "file": "八宮めぐる/【花笑み咲匂う】八宮めぐる/そのこころは.csv",
+        "target_line_count": 37,
+        "total_line_count": 81,
+        "speakers": [
+          [
+            "めぐる",
+            44
+          ],
+          [
+            "真乃",
+            37
+          ]
+        ],
+        "first_target_line_jp": "あれ……？ お花屋さんにいるの……？",
+        "first_target_line_cn": "咦……？在花店的是……？",
+        "last_target_line_jp": "ど、どうしたの……？",
+        "last_target_line_cn": "怎，怎么了……？"
+      },
+      {
+        "file": "櫻木真乃/W.I.N.G.編/頑張りすぎ.csv",
+        "target_line_count": 37,
+        "total_line_count": 57,
+        "speakers": [
+          [
+            "真乃",
+            37
+          ],
+          [
+            "プロデューサー",
+            16
+          ]
+        ],
+        "first_target_line_jp": "ほわぁぁ",
+        "first_target_line_cn": "呼哇",
+        "last_target_line_jp": "プロデューサーさんありがとうございます これからもよろしくお願いしますねっ",
+        "last_target_line_cn": "制作人谢谢你 今后也请多指教"
+      },
+      {
+        "file": "櫻木真乃/【私のハルモニア】樱木真乃/2.200101802(4.12) (2).csv",
+        "target_line_count": 37,
+        "total_line_count": 56,
+        "speakers": [
+          [
+            "真乃",
+            37
+          ],
+          [
+            "プロデューサー",
+            19
+          ]
+        ],
+        "first_target_line_jp": "──『星の輝き』 きらきら空を彩る輝き……",
+        "first_target_line_cn": "──『星之闪耀』 闪耀着色彩的绚丽天空……",
+        "last_target_line_jp": "……そんな、きれいな空の中を飛んだら きっと気持ちいいんだろうな……",
+        "last_target_line_cn": "……在如此绚丽的天空下翱翔 一定很享受吧……"
+      },
+      {
+        "file": "283活动剧情/はこぶものたち/第1话-小さな夜.csv",
+        "target_line_count": 36,
+        "total_line_count": 145,
+        "speakers": [
+          [
+            "灯織",
+            44
+          ],
+          [
+            "めぐる",
+            39
+          ],
+          [
+            "真乃",
+            36
+          ],
+          [
+            "プロデューサー",
+            18
+          ],
+          [
+            "一同",
+            4
+          ],
+          [
+            "ディレクター",
+            3
+          ],
+          [
+            "営業",
+            2
+          ],
+          [
+            "あるアカウント",
+            2
+          ],
+          [
+            "アートディレクター",
+            1
+          ]
+        ],
+        "first_target_line_jp": "────……",
+        "first_target_line_cn": "——……",
+        "last_target_line_jp": "おやすみ……っ",
+        "last_target_line_cn": "晚安"
+      },
+      {
+        "file": "櫻木真乃/【つむぎ、まばゆく。星屑たち】櫻木真乃/今はとけても。いつかは.csv",
+        "target_line_count": 36,
+        "total_line_count": 72,
+        "speakers": [
+          [
+            "真乃",
+            36
+          ],
+          [
+            "灯織",
+            32
+          ],
+          [
+            "めぐる",
+            7
+          ]
+        ],
+        "first_target_line_jp": "灯織ちゃん、グレープあったよ",
+        "first_target_line_cn": "灯织，这里有葡萄味的",
+        "last_target_line_jp": "──私たちも、そうだったみたいに",
+        "last_target_line_cn": "——就像我们这样"
+      },
+      {
+        "file": "櫻木真乃/【ほわっとスマイル】櫻木真乃/成長の証.csv",
+        "target_line_count": 36,
+        "total_line_count": 65,
+        "speakers": [
+          [
+            "真乃",
+            36
+          ],
+          [
+            "プロデューサー",
+            26
+          ]
+        ],
+        "first_target_line_jp": "あ、プロデューサーさん…… ほわっ、もうこんな時間だったんですね",
+        "first_target_line_cn": "啊，制作人…… 呼哇……已经这个时间了呢",
+        "last_target_line_jp": "ありがとうございます プロデューサーさんっ",
+        "last_target_line_cn": "谢谢你 制作人"
+      },
+      {
+        "file": "櫻木真乃/W.I.N.G.編/自信のありか.csv",
+        "target_line_count": 36,
+        "total_line_count": 63,
+        "speakers": [
+          [
+            "真乃",
+            36
+          ],
+          [
+            "プロデューサー",
+            21
+          ],
+          [
+            "off",
+            3
+          ]
+        ],
+        "first_target_line_jp": "ピーちゃんとお出かけするの、久し振りだね ほわ～いいお天気できもちいいね～",
+        "first_target_line_cn": "好久没有和小P一起出门了呢 呼哇～天气真好好舒服呢～",
+        "last_target_line_jp": "ありがとうございます、プロデューサーさんっ",
+        "last_target_line_cn": "非常感谢你，制作人"
+      },
+      {
+        "file": "283活动剧情/くもりガラスの銀曜日/第1话-食パンとベーコン.csv",
+        "target_line_count": 35,
+        "total_line_count": 93,
+        "speakers": [
+          [
+            "灯織",
+            45
+          ],
+          [
+            "真乃",
+            35
+          ],
+          [
+            "めぐる",
+            9
+          ],
+          [
+            "プロデューサー",
+            9
+          ]
+        ],
+        "first_target_line_jp": "灯織ちゃん、おはよう……っ",
+        "first_target_line_cn": "灯织，早安……",
+        "last_target_line_jp": "プロデューサーさんもお仕事頑張ってくださいっ",
+        "last_target_line_cn": "制作人先生也请努力工作"
+      },
+      {
+        "file": "櫻木真乃/【トリプルイルミネーション】櫻木真乃/始まりのステップ.csv",
+        "target_line_count": 35,
+        "total_line_count": 71,
+        "speakers": [
+          [
+            "真乃",
+            35
+          ],
+          [
+            "めぐる",
+            25
+          ],
+          [
+            "灯織",
+            12
+          ],
+          [
+            "一同",
+            1
+          ]
+        ],
+        "first_target_line_jp": "わぁ、良かった…… 今の動き、忘れないようにしなくちゃ",
+        "first_target_line_cn": "呼哇，太好了…… 我可得好好记住现在的动作才行",
+        "last_target_line_jp": "頑張るぞっ……むんっ",
+        "last_target_line_cn": "加油……唔嗯"
+      },
+      {
+        "file": "八宮めぐる/【キャプテン★パンプキン】八宮めぐる/（...hug you）.csv",
+        "target_line_count": 35,
+        "total_line_count": 68,
+        "speakers": [
+          [
+            "真乃",
+            35
+          ],
+          [
+            "めぐる",
+            33
+          ]
+        ],
+        "first_target_line_jp": "めぐるちゃーん、お疲れ様……",
+        "first_target_line_cn": "巡，辛苦了……",
+        "last_target_line_jp": "それから、 めぐるちゃんを守れるように……",
+        "last_target_line_cn": "然后， 为了能保护好巡……"
+      },
+      {
+        "file": "櫻木真乃/W.I.N.G.編/自分を信じて.csv",
+        "target_line_count": 35,
+        "total_line_count": 61,
+        "speakers": [
+          [
+            "真乃",
+            35
+          ],
+          [
+            "プロデューサー",
+            22
+          ]
+        ],
+        "first_target_line_jp": "ほわ……大きなお仕事なのに…… 灯織ちゃんもめぐるちゃんも今日はいないなんて……",
+        "first_target_line_cn": "呼哇……明明是很大型的工作…… 灯织和巡今天却都不在……",
+        "last_target_line_jp": "はい、見ててくださいね プロデューサーさんっ",
+        "last_target_line_cn": "是，请看着吧 制作人"
+      },
+      {
+        "file": "櫻木真乃/【泡沫の石たちに乾杯】櫻木真乃/今日、カクテルドレスで.csv",
+        "target_line_count": 34,
+        "total_line_count": 87,
+        "speakers": [
+          [
+            "真乃",
+            34
+          ],
+          [
+            "灯織",
+            27
+          ],
+          [
+            "めぐる",
+            21
+          ],
+          [
+            "スタッフ",
+            6
+          ],
+          [
+            "雑誌記者",
+            2
+          ],
+          [
+            "一同",
+            1
+          ],
+          [
+            "？？？",
+            1
+          ]
+        ],
+        "first_target_line_jp": "…………",
+        "first_target_line_cn": "…………",
+        "last_target_line_jp": "うんっ",
+        "last_target_line_cn": "嗯"
+      },
+      {
+        "file": "櫻木真乃/【ピックアップ・スプリング】櫻木真乃/散らばる春のかけら.csv",
+        "target_line_count": 34,
+        "total_line_count": 71,
+        "speakers": [
+          [
+            "真乃",
+            34
+          ],
+          [
+            "プロデューサー",
+            26
+          ],
+          [
+            "番組スタッフ",
+            8
+          ]
+        ],
+        "first_target_line_jp": "えっと…… 桜はどうでしょうか……っ",
+        "first_target_line_cn": "那个…… 樱花怎么样……",
+        "last_target_line_jp": "ふふ……っ はいっ",
+        "last_target_line_cn": "呵呵…… 是"
+      }
+    ]
+  },
+  "top_relationships": [
+    {
+      "partner": "プロデューサー",
+      "score": 4663,
+      "scene_cooccurrence": 256,
+      "prev_to_target": 1469,
+      "target_to_next": 1490,
+      "mentions_target": 671,
+      "target_mentions_partner": 521,
+      "samples": [
+        {
+          "file": "283活动剧情/2025ホワイトデー スペシャルコミュ/25白情真乃01.csv",
+          "line_no": 3,
+          "context": [
+            {
+              "offset": -1,
+              "speaker": "プロデューサー",
+              "jp": "ここのホワイトデーメニューを見て\n真っ先に真乃の顔が浮かんだんだ",
+              "cn": "看到这里的白色情人节菜单\n脑海里立刻浮现出了真乃的脸",
+              "line_no": 2
+            },
+            {
+              "offset": 0,
+              "speaker": "真乃",
+              "jp": "ピーちゃんのラテアート……っ\n白くてほわほわなところがそっくりです……っ",
+              "cn": "小P的拉花咖啡……\n白白茸茸的样子真的很像……",
+              "line_no": 3
+            },
+            {
+              "offset": 1,
+              "speaker": "プロデューサー",
+              "jp": "はは、喜んでもらえてよかった",
+              "cn": "哈哈，你喜欢就好",
+              "line_no": 4
+            },
+            {
+              "offset": 2,
+              "speaker": "真乃",
+              "jp": "飲んでしまうのがもったいないです……\n……もう少しだけ……",
+              "cn": "喝掉它太可惜了……\n……稍等一会……",
+              "line_no": 5
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/2025ホワイトデー スペシャルコミュ/25白情真乃02.csv",
+          "line_no": 3,
+          "context": [
+            {
+              "offset": -1,
+              "speaker": "プロデューサー",
+              "jp": "ここのホワイトデーメニューを見て\n真っ先に真乃の顔が浮かんだんだ",
+              "cn": "看到这里的白色情人节菜单\n脑海里立刻浮现出了真乃的脸",
+              "line_no": 2
+            },
+            {
+              "offset": 0,
+              "speaker": "真乃",
+              "jp": "ピーちゃんのラテアート……っ\n白くてほわほわなところがそっくりです……っ",
+              "cn": "小P的拉花咖啡……\n白白茸茸的样子真的很像……",
+              "line_no": 3
+            },
+            {
+              "offset": 1,
+              "speaker": "プロデューサー",
+              "jp": "はは、喜んでもらえてよかった",
+              "cn": "哈哈，你喜欢就好",
+              "line_no": 4
+            },
+            {
+              "offset": 2,
+              "speaker": "真乃",
+              "jp": "飲んでしまうのがもったいないです……\n……",
+              "cn": "喝掉它太可惜了……\n……",
+              "line_no": 5
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/5th Anniversary 当日スペシャルコミュ/5th Anniversary-illuminationSTARS.csv",
+          "line_no": 4,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "真乃",
+              "jp": "──『アイドルになってみる気はない？』",
+              "cn": "——“请问你有兴趣成为偶像吗？”",
+              "line_no": 2
+            },
+            {
+              "offset": -1,
+              "speaker": "真乃",
+              "jp": "……私が、アイドルとしてたくさんの経験と、\nたくさんの思いに触れられるのは……",
+              "cn": "……我成为偶像后积累了很多经验，\n还收获了很多回忆……",
+              "line_no": 3
+            },
+            {
+              "offset": 0,
+              "speaker": "真乃",
+              "jp": "あのときのプロデューサーさんの言葉がはじまりだ──って\n……いつも、そう思い返しています……",
+              "cn": "这一切都是因为那时制作人先生的那句话而开始的——\n……我总是如此回忆着……",
+              "line_no": 4
+            },
+            {
+              "offset": 1,
+              "speaker": "灯織",
+              "jp": "プロデューサー、ありがとうございます",
+              "cn": "制作人，谢谢",
+              "line_no": 5
+            },
+            {
+              "offset": 2,
+              "speaker": "灯織",
+              "jp": "特に何かあったわけではないです\nただ、プロデューサーのおかげで今があるのだと──",
+              "cn": "不是因为发生了什么而道谢的\n只是想着托了制作人的福才有了今天的我——",
+              "line_no": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "めぐる",
+      "score": 4384,
+      "scene_cooccurrence": 253,
+      "prev_to_target": 1472,
+      "target_to_next": 1382,
+      "mentions_target": 540,
+      "target_mentions_partner": 484,
+      "samples": [
+        {
+          "file": "283活动剧情/Catch the shiny tail/序章-見えない、ヒカリの先.csv",
+          "line_no": 7,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "灯織",
+              "jp": "ですから──",
+              "cn": "所以——",
+              "line_no": 5
+            },
+            {
+              "offset": -1,
+              "speaker": "めぐる",
+              "jp": "最初、ちょっと声が震えてたけど……",
+              "cn": "虽然一开始声音还有些发颤……",
+              "line_no": 6
+            },
+            {
+              "offset": 0,
+              "speaker": "真乃",
+              "jp": "うん\n今は、すっごく堂々としてる……！",
+              "cn": "嗯\n现在非常大方地在说了……！",
+              "line_no": 7
+            },
+            {
+              "offset": 1,
+              "speaker": "めぐる",
+              "jp": "そのまま……！　そのままいってね……！\n頑張れ、灯織……！",
+              "cn": "就是那样……！照那样上吧……！\n加油，灯织……！",
+              "line_no": 8
+            },
+            {
+              "offset": 2,
+              "speaker": "真乃",
+              "jp": "頑張って、灯織ちゃんっ……",
+              "cn": "加油，灯织……",
+              "line_no": 9
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/Catch the shiny tail/第1话-彼女の輝き.csv",
+          "line_no": 8,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "灯織",
+              "jp": "それだけのものを着せていただいたからには……\nそのお気持ちを裏切ることのないよう、頑張らないと、と",
+              "cn": "能够让我穿上这样的制服……\n为了不辜负那份心意，我必须要加油",
+              "line_no": 6
+            },
+            {
+              "offset": -1,
+              "speaker": "灯織",
+              "jp": "引き締まる思いでした",
+              "cn": "不能松懈",
+              "line_no": 7
+            },
+            {
+              "offset": 0,
+              "speaker": "真乃",
+              "jp": "灯織ちゃん、すごいな……っ",
+              "cn": "灯织，真了不起……",
+              "line_no": 8
+            },
+            {
+              "offset": 1,
+              "speaker": "めぐる",
+              "jp": "だねー！\n昨日まですっごく緊張してたのに",
+              "cn": "对啊！\n明明直到昨天还那么紧张",
+              "line_no": 9
+            },
+            {
+              "offset": 2,
+              "speaker": "めぐる",
+              "jp": "今日はわたしたちの方がドキドキしちゃってたもん",
+              "cn": "今天换我们这边心跳不已了呢",
+              "line_no": 10
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/Catch the shiny tail/第2话-思いがけない到着駅.csv",
+          "line_no": 3,
+          "context": [
+            {
+              "offset": -1,
+              "speaker": "めぐる",
+              "jp": "──真乃巡査へ報告、こちらでスピード違反の車を確認",
+              "cn": "——向真乃巡警汇报，这边发现了超速的车辆",
+              "line_no": 2
+            },
+            {
+              "offset": 0,
+              "speaker": "真乃",
+              "jp": "は、はいっ、急行しますっ",
+              "cn": "好，好的，马上赶去",
+              "line_no": 3
+            },
+            {
+              "offset": 1,
+              "speaker": "めぐる",
+              "jp": "灯織署長へ報告、２８３プロダクションより通報です\n泥棒が侵入している疑いがあります！",
+              "cn": "向灯织署长汇报，来自283事务所的通报\n怀疑有被小偷侵入！",
+              "line_no": 4
+            },
+            {
+              "offset": 2,
+              "speaker": "灯織",
+              "jp": "ど、泥棒はもう勘弁……",
+              "cn": "小、小偷就饶了我吧……",
+              "line_no": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "灯織",
+      "score": 3888,
+      "scene_cooccurrence": 243,
+      "prev_to_target": 1223,
+      "target_to_next": 1291,
+      "mentions_target": 387,
+      "target_mentions_partner": 501,
+      "samples": [
+        {
+          "file": "283活动剧情/5th Anniversary 当日スペシャルコミュ/5th Anniversary-illuminationSTARS.csv",
+          "line_no": 4,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "真乃",
+              "jp": "──『アイドルになってみる気はない？』",
+              "cn": "——“请问你有兴趣成为偶像吗？”",
+              "line_no": 2
+            },
+            {
+              "offset": -1,
+              "speaker": "真乃",
+              "jp": "……私が、アイドルとしてたくさんの経験と、\nたくさんの思いに触れられるのは……",
+              "cn": "……我成为偶像后积累了很多经验，\n还收获了很多回忆……",
+              "line_no": 3
+            },
+            {
+              "offset": 0,
+              "speaker": "真乃",
+              "jp": "あのときのプロデューサーさんの言葉がはじまりだ──って\n……いつも、そう思い返しています……",
+              "cn": "这一切都是因为那时制作人先生的那句话而开始的——\n……我总是如此回忆着……",
+              "line_no": 4
+            },
+            {
+              "offset": 1,
+              "speaker": "灯織",
+              "jp": "プロデューサー、ありがとうございます",
+              "cn": "制作人，谢谢",
+              "line_no": 5
+            },
+            {
+              "offset": 2,
+              "speaker": "灯織",
+              "jp": "特に何かあったわけではないです\nただ、プロデューサーのおかげで今があるのだと──",
+              "cn": "不是因为发生了什么而道谢的\n只是想着托了制作人的福才有了今天的我——",
+              "line_no": 6
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/Catch the shiny tail/序章-見えない、ヒカリの先.csv",
+          "line_no": 9,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "真乃",
+              "jp": "うん\n今は、すっごく堂々としてる……！",
+              "cn": "嗯\n现在非常大方地在说了……！",
+              "line_no": 7
+            },
+            {
+              "offset": -1,
+              "speaker": "めぐる",
+              "jp": "そのまま……！　そのままいってね……！\n頑張れ、灯織……！",
+              "cn": "就是那样……！照那样上吧……！\n加油，灯织……！",
+              "line_no": 8
+            },
+            {
+              "offset": 0,
+              "speaker": "真乃",
+              "jp": "頑張って、灯織ちゃんっ……",
+              "cn": "加油，灯织……",
+              "line_no": 9
+            },
+            {
+              "offset": 1,
+              "speaker": "灯織",
+              "jp": "──あなたの心と自転車に、\n灯りを忘れないようにしてください",
+              "cn": "——请不要忘记给你的心跟自行车开启灯光",
+              "line_no": 10
+            },
+            {
+              "offset": 2,
+              "speaker": "灯織",
+              "jp": "ありがとうございました",
+              "cn": "非常感谢",
+              "line_no": 11
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/Catch the shiny tail/第1话-彼女の輝き.csv",
+          "line_no": 8,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "灯織",
+              "jp": "それだけのものを着せていただいたからには……\nそのお気持ちを裏切ることのないよう、頑張らないと、と",
+              "cn": "能够让我穿上这样的制服……\n为了不辜负那份心意，我必须要加油",
+              "line_no": 6
+            },
+            {
+              "offset": -1,
+              "speaker": "灯織",
+              "jp": "引き締まる思いでした",
+              "cn": "不能松懈",
+              "line_no": 7
+            },
+            {
+              "offset": 0,
+              "speaker": "真乃",
+              "jp": "灯織ちゃん、すごいな……っ",
+              "cn": "灯织，真了不起……",
+              "line_no": 8
+            },
+            {
+              "offset": 1,
+              "speaker": "めぐる",
+              "jp": "だねー！\n昨日まですっごく緊張してたのに",
+              "cn": "对啊！\n明明直到昨天还那么紧张",
+              "line_no": 9
+            },
+            {
+              "offset": 2,
+              "speaker": "めぐる",
+              "jp": "今日はわたしたちの方がドキドキしちゃってたもん",
+              "cn": "今天换我们这边心跳不已了呢",
+              "line_no": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "制作人",
+      "score": 530,
+      "scene_cooccurrence": 0,
+      "prev_to_target": 0,
+      "target_to_next": 0,
+      "mentions_target": 0,
+      "target_mentions_partner": 530,
+      "samples": [
+        {
+          "file": "283活动剧情/2025ホワイトデー スペシャルコミュ/25白情真乃02.csv",
+          "line_no": 10,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "真乃",
+              "jp": "どうしても手放すことを惜しんじゃう時は\nこうやって、写真に収めておくといいと聞いたので",
+              "cn": "我听说，当遇到实在舍不得放弃的东西时\n像这样把它拍下来保存起来会比较好",
+              "line_no": 8
+            },
+            {
+              "offset": -1,
+              "speaker": "プロデューサー",
+              "jp": "なるほどな\n写真にして手元に置いておくのか",
+              "cn": "原来如此\n拍成照片留在身边啊",
+              "line_no": 9
+            },
+            {
+              "offset": 0,
+              "speaker": "真乃",
+              "jp": "このすてきなラテアートも、ラテの味も\nプロデューサーさんとの、特別なひと時も",
+              "cn": "不管是漂亮的拉花、咖啡的味道\n还是和制作人一起度过的特别时光",
+              "line_no": 10
+            },
+            {
+              "offset": 1,
+              "speaker": "真乃",
+              "jp": "またいつでも、思い出せるように……",
+              "cn": "我都希望能随时回忆起来……",
+              "line_no": 11
+            },
+            {
+              "offset": 2,
+              "speaker": "",
+              "jp": "",
+              "cn": "Gestalt",
+              "line_no": 13
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/5th Anniversary 当日スペシャルコミュ/5th Anniversary-illuminationSTARS.csv",
+          "line_no": 4,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "真乃",
+              "jp": "──『アイドルになってみる気はない？』",
+              "cn": "——“请问你有兴趣成为偶像吗？”",
+              "line_no": 2
+            },
+            {
+              "offset": -1,
+              "speaker": "真乃",
+              "jp": "……私が、アイドルとしてたくさんの経験と、\nたくさんの思いに触れられるのは……",
+              "cn": "……我成为偶像后积累了很多经验，\n还收获了很多回忆……",
+              "line_no": 3
+            },
+            {
+              "offset": 0,
+              "speaker": "真乃",
+              "jp": "あのときのプロデューサーさんの言葉がはじまりだ──って\n……いつも、そう思い返しています……",
+              "cn": "这一切都是因为那时制作人先生的那句话而开始的——\n……我总是如此回忆着……",
+              "line_no": 4
+            },
+            {
+              "offset": 1,
+              "speaker": "灯織",
+              "jp": "プロデューサー、ありがとうございます",
+              "cn": "制作人，谢谢",
+              "line_no": 5
+            },
+            {
+              "offset": 2,
+              "speaker": "灯織",
+              "jp": "特に何かあったわけではないです\nただ、プロデューサーのおかげで今があるのだと──",
+              "cn": "不是因为发生了什么而道谢的\n只是想着托了制作人的福才有了今天的我——",
+              "line_no": 6
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/Catch the shiny tail/第2话-思いがけない到着駅.csv",
+          "line_no": 39,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "真乃",
+              "jp": "灯織ちゃん……",
+              "cn": "灯织……",
+              "line_no": 37
+            },
+            {
+              "offset": -1,
+              "speaker": "真乃",
+              "jp": "いっぱい考えてくれて……ありがとう",
+              "cn": "谢谢你……这么为我着想",
+              "line_no": 38
+            },
+            {
+              "offset": 0,
+              "speaker": "真乃",
+              "jp": "プロデューサーさんが私を選んでくれたのは……\nきっと、私が一番頑張りなさいってことだよね",
+              "cn": "制作人选择了我……\n一定，是想要我成为最努力的那个人吧",
+              "line_no": 39
+            },
+            {
+              "offset": 1,
+              "speaker": "真乃",
+              "jp": "……ヒカリの先……",
+              "cn": "……光芒的前方……",
+              "line_no": 40
+            },
+            {
+              "offset": 2,
+              "speaker": "灯織",
+              "jp": "……真乃？",
+              "cn": "……真乃？",
+              "line_no": 41
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "プロデューサーさん",
+      "score": 518,
+      "scene_cooccurrence": 0,
+      "prev_to_target": 0,
+      "target_to_next": 0,
+      "mentions_target": 0,
+      "target_mentions_partner": 518,
+      "samples": [
+        {
+          "file": "283活动剧情/2025ホワイトデー スペシャルコミュ/25白情真乃02.csv",
+          "line_no": 10,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "真乃",
+              "jp": "どうしても手放すことを惜しんじゃう時は\nこうやって、写真に収めておくといいと聞いたので",
+              "cn": "我听说，当遇到实在舍不得放弃的东西时\n像这样把它拍下来保存起来会比较好",
+              "line_no": 8
+            },
+            {
+              "offset": -1,
+              "speaker": "プロデューサー",
+              "jp": "なるほどな\n写真にして手元に置いておくのか",
+              "cn": "原来如此\n拍成照片留在身边啊",
+              "line_no": 9
+            },
+            {
+              "offset": 0,
+              "speaker": "真乃",
+              "jp": "このすてきなラテアートも、ラテの味も\nプロデューサーさんとの、特別なひと時も",
+              "cn": "不管是漂亮的拉花、咖啡的味道\n还是和制作人一起度过的特别时光",
+              "line_no": 10
+            },
+            {
+              "offset": 1,
+              "speaker": "真乃",
+              "jp": "またいつでも、思い出せるように……",
+              "cn": "我都希望能随时回忆起来……",
+              "line_no": 11
+            },
+            {
+              "offset": 2,
+              "speaker": "",
+              "jp": "",
+              "cn": "Gestalt",
+              "line_no": 13
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/5th Anniversary 当日スペシャルコミュ/5th Anniversary-illuminationSTARS.csv",
+          "line_no": 4,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "真乃",
+              "jp": "──『アイドルになってみる気はない？』",
+              "cn": "——“请问你有兴趣成为偶像吗？”",
+              "line_no": 2
+            },
+            {
+              "offset": -1,
+              "speaker": "真乃",
+              "jp": "……私が、アイドルとしてたくさんの経験と、\nたくさんの思いに触れられるのは……",
+              "cn": "……我成为偶像后积累了很多经验，\n还收获了很多回忆……",
+              "line_no": 3
+            },
+            {
+              "offset": 0,
+              "speaker": "真乃",
+              "jp": "あのときのプロデューサーさんの言葉がはじまりだ──って\n……いつも、そう思い返しています……",
+              "cn": "这一切都是因为那时制作人先生的那句话而开始的——\n……我总是如此回忆着……",
+              "line_no": 4
+            },
+            {
+              "offset": 1,
+              "speaker": "灯織",
+              "jp": "プロデューサー、ありがとうございます",
+              "cn": "制作人，谢谢",
+              "line_no": 5
+            },
+            {
+              "offset": 2,
+              "speaker": "灯織",
+              "jp": "特に何かあったわけではないです\nただ、プロデューサーのおかげで今があるのだと──",
+              "cn": "不是因为发生了什么而道谢的\n只是想着托了制作人的福才有了今天的我——",
+              "line_no": 6
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/Catch the shiny tail/第2话-思いがけない到着駅.csv",
+          "line_no": 39,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "真乃",
+              "jp": "灯織ちゃん……",
+              "cn": "灯织……",
+              "line_no": 37
+            },
+            {
+              "offset": -1,
+              "speaker": "真乃",
+              "jp": "いっぱい考えてくれて……ありがとう",
+              "cn": "谢谢你……这么为我着想",
+              "line_no": 38
+            },
+            {
+              "offset": 0,
+              "speaker": "真乃",
+              "jp": "プロデューサーさんが私を選んでくれたのは……\nきっと、私が一番頑張りなさいってことだよね",
+              "cn": "制作人选择了我……\n一定，是想要我成为最努力的那个人吧",
+              "line_no": 39
+            },
+            {
+              "offset": 1,
+              "speaker": "真乃",
+              "jp": "……ヒカリの先……",
+              "cn": "……光芒的前方……",
+              "line_no": 40
+            },
+            {
+              "offset": 2,
+              "speaker": "灯織",
+              "jp": "……真乃？",
+              "cn": "……真乃？",
+              "line_no": 41
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "先生",
+      "score": 375,
+      "scene_cooccurrence": 1,
+      "prev_to_target": 0,
+      "target_to_next": 0,
+      "mentions_target": 0,
+      "target_mentions_partner": 373,
+      "samples": [
+        {
+          "file": "283活动剧情/5th Anniversary 当日スペシャルコミュ/5th Anniversary-illuminationSTARS.csv",
+          "line_no": 4,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "真乃",
+              "jp": "──『アイドルになってみる気はない？』",
+              "cn": "——“请问你有兴趣成为偶像吗？”",
+              "line_no": 2
+            },
+            {
+              "offset": -1,
+              "speaker": "真乃",
+              "jp": "……私が、アイドルとしてたくさんの経験と、\nたくさんの思いに触れられるのは……",
+              "cn": "……我成为偶像后积累了很多经验，\n还收获了很多回忆……",
+              "line_no": 3
+            },
+            {
+              "offset": 0,
+              "speaker": "真乃",
+              "jp": "あのときのプロデューサーさんの言葉がはじまりだ──って\n……いつも、そう思い返しています……",
+              "cn": "这一切都是因为那时制作人先生的那句话而开始的——\n……我总是如此回忆着……",
+              "line_no": 4
+            },
+            {
+              "offset": 1,
+              "speaker": "灯織",
+              "jp": "プロデューサー、ありがとうございます",
+              "cn": "制作人，谢谢",
+              "line_no": 5
+            },
+            {
+              "offset": 2,
+              "speaker": "灯織",
+              "jp": "特に何かあったわけではないです\nただ、プロデューサーのおかげで今があるのだと──",
+              "cn": "不是因为发生了什么而道谢的\n只是想着托了制作人的福才有了今天的我——",
+              "line_no": 6
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/Detective×Murder/【２日目】13_18-真乃・灯織・めぐる.csv",
+          "line_no": 16,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "弟子",
+              "jp": "『Ａ』は几帳面な方でしたから、人に見えない裏側とはいえ\n傷がつくようなことはしないと思いますが……",
+              "cn": "“A”是个一丝不苟的人，所以就算是别人看不见的背面\n我觉得他也不会做出会留下伤痕的事情……",
+              "line_no": 14
+            },
+            {
+              "offset": -1,
+              "speaker": "めぐる",
+              "jp": "どうしたの、真乃？",
+              "cn": "怎么了，真乃？",
+              "line_no": 15
+            },
+            {
+              "offset": 0,
+              "speaker": "真乃",
+              "jp": "灯織ちゃん、めぐるちゃん、お弟子さんも……っ\nこれを見てください",
+              "cn": "小灯织、小巡，还有弟子先生……",
+              "line_no": 16
+            },
+            {
+              "offset": 1,
+              "speaker": "灯織",
+              "jp": "ゴルフクラブ？\n──これ…………",
+              "cn": "高尔夫球棒？\n——这是…………",
+              "line_no": 17
+            },
+            {
+              "offset": 2,
+              "speaker": "真乃",
+              "jp": "うん",
+              "cn": "嗯",
+              "line_no": 18
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/Detective×Murder/【２日目】17_09-犯人の名は──.csv",
+          "line_no": 3,
+          "context": [
+            {
+              "offset": -1,
+              "speaker": "真乃",
+              "jp": "…………",
+              "cn": "",
+              "line_no": 2
+            },
+            {
+              "offset": 0,
+              "speaker": "真乃",
+              "jp": "あの、お弟子さん……",
+              "cn": "那个，弟子先生……",
+              "line_no": 3
+            },
+            {
+              "offset": 1,
+              "speaker": "真乃",
+              "jp": "今までのお話で、\nどんな風に『Ａ』さんが亡くなったのかはわかりました……",
+              "cn": "根据至今为止说过的话，\n我们已经明白“A”是如何被杀害的了……",
+              "line_no": 4
+            },
+            {
+              "offset": 2,
+              "speaker": "真乃",
+              "jp": "……でも、犯人は……",
+              "cn": "……但是，犯人是谁呢……",
+              "line_no": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "かな",
+      "score": 324,
+      "scene_cooccurrence": 0,
+      "prev_to_target": 0,
+      "target_to_next": 0,
+      "mentions_target": 0,
+      "target_mentions_partner": 324,
+      "samples": [
+        {
+          "file": "283活动剧情/Catch the shiny tail/第2话-思いがけない到着駅.csv",
+          "line_no": 53,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "灯織",
+              "jp": "着いたらちゃんと起こすから",
+              "cn": "到了我会叫你们起来的",
+              "line_no": 51
+            },
+            {
+              "offset": -1,
+              "speaker": "めぐる",
+              "jp": "どうしよう、お言葉に甘えちゃう？",
+              "cn": "怎么办呢，听灯织说的吗？",
+              "line_no": 52
+            },
+            {
+              "offset": 0,
+              "speaker": "真乃",
+              "jp": "ちょっとだけなら、いいかなぁ……",
+              "cn": "稍微一会儿的话，可以吗……",
+              "line_no": 53
+            },
+            {
+              "offset": 1,
+              "speaker": "灯織",
+              "jp": "もちろん\n──署長が許可します",
+              "cn": "当然\n──署长同意哦",
+              "line_no": 54
+            },
+            {
+              "offset": 2,
+              "speaker": "真乃＆めぐる",
+              "jp": "ふふっ",
+              "cn": "呵呵",
+              "line_no": 55
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/Catch the shiny tail/第5话-私の場所.csv",
+          "line_no": 64,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "プロデューサー",
+              "jp": "……",
+              "cn": "",
+              "line_no": 62
+            },
+            {
+              "offset": -1,
+              "speaker": "真乃",
+              "jp": "……\nだから……",
+              "cn": "……\n所以……",
+              "line_no": 63
+            },
+            {
+              "offset": 0,
+              "speaker": "真乃",
+              "jp": "真ん中に立ってて……\nいいのかなって…………",
+              "cn": "在想，我站在中间……\n这样好吗…………",
+              "line_no": 64
+            },
+            {
+              "offset": 1,
+              "speaker": "真乃",
+              "jp": "──すみません…………",
+              "cn": "──对不起…………",
+              "line_no": 65
+            },
+            {
+              "offset": 2,
+              "speaker": "プロデューサー",
+              "jp": "…………",
+              "cn": "",
+              "line_no": 66
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/Catch the shiny tail/第6话-あのね、あるの、悩み事.csv",
+          "line_no": 21,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "プロデューサー",
+              "jp": "『みんな特別だし、みんな普通の女の子だ』",
+              "cn": "“大家都很特别，同时也都是很普通的女孩子”",
+              "line_no": 19
+            },
+            {
+              "offset": -1,
+              "speaker": "真乃",
+              "jp": "…………",
+              "cn": "",
+              "line_no": 20
+            },
+            {
+              "offset": 0,
+              "speaker": "真乃",
+              "jp": "どうしたら……いいのかな……",
+              "cn": "要怎么办……才好呢……",
+              "line_no": 21
+            },
+            {
+              "offset": 1,
+              "speaker": "真乃",
+              "jp": "ねぇ、ピーちゃん……",
+              "cn": "小P……",
+              "line_no": 22
+            },
+            {
+              "offset": 2,
+              "speaker": "真乃",
+              "jp": "…………",
+              "cn": "",
+              "line_no": 23
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "霧子",
+      "score": 185,
+      "scene_cooccurrence": 32,
+      "prev_to_target": 51,
+      "target_to_next": 55,
+      "mentions_target": 9,
+      "target_mentions_partner": 6,
+      "samples": [
+        {
+          "file": "283活动剧情/きよしこの夜、プレゼン・フォー・ユー！/13_15 PM.csv",
+          "line_no": 37,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "千雪",
+              "jp": "そう……そういうルールだってわかってるんだけど、\n絶対行きたい！　届けたい……！",
+              "cn": "对……虽然知道是这样的规则，\n但我想去！ 想把计划书送到制作人手上……！",
+              "line_no": 35
+            },
+            {
+              "offset": -1,
+              "speaker": "結華",
+              "jp": "届けましょう！　──実況もリレーしていくので、\nみなさんどうぞ最後まで、よろしくお付き合いくださいね！",
+              "cn": "那就送去吧！ ——我们实况解说也会进行接力的，\n所以，各位观众还请看到最后哦！",
+              "line_no": 36
+            },
+            {
+              "offset": 0,
+              "speaker": "真乃",
+              "jp": "ふぅ……ふぅ……",
+              "cn": "呼……呼……",
+              "line_no": 37
+            },
+            {
+              "offset": 1,
+              "speaker": "霧子",
+              "jp": "すっ……すっ……",
+              "cn": "咝……咝……",
+              "line_no": 38
+            },
+            {
+              "offset": 2,
+              "speaker": "甜花",
+              "jp": "──はぁっ……はぁー……",
+              "cn": "——哈啊……哈啊……",
+              "line_no": 39
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/きよしこの夜、プレゼン・フォー・ユー！/13_32 PM.csv",
+          "line_no": 24,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "結華",
+              "jp": "みんなで企画を届けたいって気持ち、わかるよ",
+              "cn": "我能明白，大家想把计划书交给制作人的心情",
+              "line_no": 22
+            },
+            {
+              "offset": -1,
+              "speaker": "甜花",
+              "jp": "すっ、すっ……\nはっ、はっ……",
+              "cn": "咝、咝……\n哈、哈……",
+              "line_no": 23
+            },
+            {
+              "offset": 0,
+              "speaker": "真乃",
+              "jp": "すっすっ……\nはっはっ……",
+              "cn": "咝、咝……\n哈、哈……",
+              "line_no": 24
+            },
+            {
+              "offset": 1,
+              "speaker": "霧子",
+              "jp": "すっ……すっ……\nはっ……はっ……",
+              "cn": "咝……咝……\n哈……哈……",
+              "line_no": 25
+            },
+            {
+              "offset": 2,
+              "speaker": "真乃",
+              "jp": "……甜花ちゃん……\n一緒に走ってくれて……ありがとう……っ",
+              "cn": "……甜花……\n谢谢你……能够跟我们一起跑……",
+              "line_no": 26
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/きよしこの夜、プレゼン・フォー・ユー！/15_06 PM.csv",
+          "line_no": 60,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "甜花",
+              "jp": "が、頑張れー……！\nみんな……！　千雪さん……！",
+              "cn": "加，加油……！\n大家……！千雪……！",
+              "line_no": 58
+            },
+            {
+              "offset": -1,
+              "speaker": "霧子",
+              "jp": "風も……強いのに……\nすごい……",
+              "cn": "明明……吹着强风……\n好厉害……",
+              "line_no": 59
+            },
+            {
+              "offset": 0,
+              "speaker": "真乃",
+              "jp": "うんっ\nタイムも、いいみたい……っ",
+              "cn": "嗯\n时间，也很不错……",
+              "line_no": 60
+            },
+            {
+              "offset": 1,
+              "speaker": "真乃",
+              "jp": "それでは、とっても頑張ってる、\nチーム青春ジャージさんたちの紹介VTRをご覧くださいっ",
+              "cn": "那么，接下来\n请看如此努力的青春外套组的介绍VTR",
+              "line_no": 61
+            },
+            {
+              "offset": 2,
+              "speaker": "真乃",
+              "jp": "──お疲れさまです……っ\n画面、切り替わったよっ",
+              "cn": "——辛苦了……\n镜头，已经切掉了",
+              "line_no": 62
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "甜花",
+      "score": 184,
+      "scene_cooccurrence": 32,
+      "prev_to_target": 48,
+      "target_to_next": 50,
+      "mentions_target": 13,
+      "target_mentions_partner": 9,
+      "samples": [
+        {
+          "file": "283活动剧情/きよしこの夜、プレゼン・フォー・ユー！/13_15 PM.csv",
+          "line_no": 48,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "甜花",
+              "jp": "にへへ……うんっ……\nピーちゃんさんみたいに……",
+              "cn": "诶嘿嘿……嗯……\n像小P那样……",
+              "line_no": 46
+            },
+            {
+              "offset": -1,
+              "speaker": "甜花",
+              "jp": "そしたら、きっと……\n６キロ……あっという間……！",
+              "cn": "那样的话，6公里……\n肯定，一下子就……！",
+              "line_no": 47
+            },
+            {
+              "offset": 0,
+              "speaker": "真乃",
+              "jp": "ふふっ。寒いのでピーちゃんはお休みですが、\n３人で頑張ります……っ",
+              "cn": "呵呵。因为天冷所以小P休息了，\n但我们3人会努力的……",
+              "line_no": 48
+            },
+            {
+              "offset": 1,
+              "speaker": "真乃",
+              "jp": "ゴールしようねっ",
+              "cn": "一起到终点吧",
+              "line_no": 49
+            },
+            {
+              "offset": 2,
+              "speaker": "真乃＆霧子＆甜花",
+              "jp": "チームピーちゃん……っ",
+              "cn": "小P组……",
+              "line_no": 50
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/きよしこの夜、プレゼン・フォー・ユー！/13_32 PM.csv",
+          "line_no": 4,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "甜花",
+              "jp": "──はぁ……うぅ……",
+              "cn": "——哈……呜……",
+              "line_no": 2
+            },
+            {
+              "offset": -1,
+              "speaker": "甜花",
+              "jp": "ちょっと……ラクになった、かな……\nうぅ……",
+              "cn": "稍微……好点了……\n呜……",
+              "line_no": 3
+            },
+            {
+              "offset": 0,
+              "speaker": "真乃",
+              "jp": "う、うん……\nでも、まだ苦しそう……",
+              "cn": "嗯，嗯……\n可是，好像还很难受……",
+              "line_no": 4
+            },
+            {
+              "offset": 1,
+              "speaker": "甜花",
+              "jp": "だ……大丈夫……",
+              "cn": "没……没问题……",
+              "line_no": 5
+            },
+            {
+              "offset": 2,
+              "speaker": "甜花",
+              "jp": "あと……２キロ……\n甜花、走れる……！",
+              "cn": "还有……2公里……\n甜花，还能跑……！",
+              "line_no": 6
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/きよしこの夜、プレゼン・フォー・ユー！/15_06 PM.csv",
+          "line_no": 67,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "甜花",
+              "jp": "う、うん……",
+              "cn": "啊，嗯……",
+              "line_no": 65
+            },
+            {
+              "offset": -1,
+              "speaker": "甜花",
+              "jp": "サンタさんから……\n連絡、くる……！",
+              "cn": "圣诞老人……\n会跟我们，联络……！",
+              "line_no": 66
+            },
+            {
+              "offset": 0,
+              "speaker": "真乃",
+              "jp": "き、緊張するね……っ",
+              "cn": "好，好紧张……",
+              "line_no": 67
+            },
+            {
+              "offset": 1,
+              "speaker": "甜花",
+              "jp": "本当に、いる……かな……\nサンタさん……",
+              "cn": "真的，在吗……\n圣诞老人……",
+              "line_no": 68
+            },
+            {
+              "offset": 2,
+              "speaker": "霧子",
+              "jp": "……\nわからないけど……",
+              "cn": "……\n不知道……",
+              "line_no": 69
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "スタッフ",
+      "score": 128,
+      "scene_cooccurrence": 38,
+      "prev_to_target": 27,
+      "target_to_next": 20,
+      "mentions_target": 0,
+      "target_mentions_partner": 5,
+      "samples": [
+        {
+          "file": "283活动剧情/For Your Eyes Only/第1话-めくる.csv",
+          "line_no": 43,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "スタッフ",
+              "jp": "今回はキャストのみなさんのお名前をそのまま、\n役柄の名前とさせていただいております",
+              "cn": "本次角色的名字被安排成\n与各位演员的名字相同",
+              "line_no": 41
+            },
+            {
+              "offset": -1,
+              "speaker": "スタッフ",
+              "jp": "順番にキャラクターの設定と、\n一話の台本をお配りしていきます",
+              "cn": "现在按顺序分发角色设定以及\n一集的剧本",
+              "line_no": 42
+            },
+            {
+              "offset": 0,
+              "speaker": "真乃",
+              "jp": "…………",
+              "cn": "……",
+              "line_no": 43
+            },
+            {
+              "offset": 1,
+              "speaker": "真乃",
+              "jp": "（共感覚の持ち主、高校生漫画家『マノ』……\nSNSのバズがきっかけでブレイク）",
+              "cn": "（通感持有者、高中生漫画家“MANO”……\n由于在SNS上创作的内容而走红）",
+              "line_no": 44
+            },
+            {
+              "offset": 2,
+              "speaker": "真乃",
+              "jp": "（同年代の中では少し浮き気味だが、\n伝えたいものに関しては妥協を見せない）",
+              "cn": "（和同龄人相比略微有些轻浮\n但是在想要表达的东西上面不会妥协）",
+              "line_no": 45
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/For Your Eyes Only/终章-ほどかれる.csv",
+          "line_no": 34,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "ヒオリ",
+              "jp": "秘密だよ",
+              "cn": "记得保密哦",
+              "line_no": 32
+            },
+            {
+              "offset": -1,
+              "speaker": "スタッフ",
+              "jp": "カットです！\nラストシーン、お疲れ様でした……！！",
+              "cn": "停！\n最终幕辛苦了……！！",
+              "line_no": 33
+            },
+            {
+              "offset": 0,
+              "speaker": "真乃",
+              "jp": "…………",
+              "cn": "……",
+              "line_no": 34
+            },
+            {
+              "offset": 1,
+              "speaker": "めぐる",
+              "jp": "真乃！　灯織！　お疲れさまー！\nすっごく！　すーっごく良かったー！",
+              "cn": "真乃！灯织！辛苦了！\n非常、非常地棒！",
+              "line_no": 35
+            },
+            {
+              "offset": 2,
+              "speaker": "真乃",
+              "jp": "ほわ……\nめぐるちゃん……っ",
+              "cn": "呼哇……\n巡……",
+              "line_no": 36
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/Star n dew by me/第1話 ガクエンサイGOGO！.csv",
+          "line_no": 3,
+          "context": [
+            {
+              "offset": -1,
+              "speaker": "スタッフ",
+              "jp": "それでは、撮影開始します！\n５秒前！　４、３────……",
+              "cn": "那咱们就，准备开机了！\n5秒准备！ 4，3——……",
+              "line_no": 2
+            },
+            {
+              "offset": 0,
+              "speaker": "真乃",
+              "jp": "──えっと、それじゃあ\nこの小さな箱が学校の『宝物』……",
+              "cn": "——这个，那\n这个小的箱子就是学校的“宝藏”……",
+              "line_no": 3
+            },
+            {
+              "offset": 1,
+              "speaker": "生徒会長",
+              "jp": "ええ、正確にはその中身……\nですが私も詳しくは知りません",
+              "cn": "嗯，严格来说是里面的东西……\n但是具体的细节我也不知道了",
+              "line_no": 4
+            },
+            {
+              "offset": 2,
+              "speaker": "生徒会長",
+              "jp": "この『宝物』を狙って、\n何人かのオニが追いかけてきます",
+              "cn": "为了得到这个“宝藏”，\n会有鬼去追截",
+              "line_no": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "智代子",
+      "score": 107,
+      "scene_cooccurrence": 28,
+      "prev_to_target": 24,
+      "target_to_next": 17,
+      "mentions_target": 5,
+      "target_mentions_partner": 5,
+      "samples": [
+        {
+          "file": "283活动剧情/アイムベリーベリーソーリー/エンディング-あい.csv",
+          "line_no": 87,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "摩美々",
+              "jp": "『それは恐らく、彼女が言うとおり夏のどこかにある\n────ただし』",
+              "cn": "“恐怕正如她所言，位于夏天的某处\n——只是”",
+              "line_no": 85
+            },
+            {
+              "offset": -1,
+              "speaker": "智代子",
+              "jp": "『この夏ではなく、彼女が失った夏の中に』",
+              "cn": "“不是在这个夏天，而是在她所失去的那个夏天里”",
+              "line_no": 86
+            },
+            {
+              "offset": 0,
+              "speaker": "真乃",
+              "jp": "────そうなんだ……",
+              "cn": "——这样啊……",
+              "line_no": 87
+            },
+            {
+              "offset": 1,
+              "speaker": "霧子",
+              "jp": "うん……",
+              "cn": "嗯……",
+              "line_no": 88
+            },
+            {
+              "offset": 2,
+              "speaker": "店長",
+              "jp": "いつもはね、こうなったお花を\n買っていってくれる人もいるの。全部ではないけど……",
+              "cn": "平常也会有买这样花的人\n虽然不是全买……",
+              "line_no": 89
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/アイムベリーベリーソーリー/オープニング-ふってきたんだ.csv",
+          "line_no": 7,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "智代子",
+              "jp": "ねえ、何を探しているの",
+              "cn": "呐，你在寻找什么呢",
+              "line_no": 5
+            },
+            {
+              "offset": -1,
+              "speaker": "智代子",
+              "jp": "なぜ探しているの",
+              "cn": "为什么而寻找呢",
+              "line_no": 6
+            },
+            {
+              "offset": 0,
+              "speaker": "真乃",
+              "jp": "どう見ても価値のなさそうなものに\nしかし彼女はしばしば驚くような値を付けて買い取った",
+              "cn": "哪怕是怎么看都一文不值的东西\n她也好几次以惊人的价格买了下来",
+              "line_no": 7
+            },
+            {
+              "offset": 1,
+              "speaker": "摩美々",
+              "jp": "答えて、美しい人",
+              "cn": "回答我，美丽的人啊",
+              "line_no": 8
+            },
+            {
+              "offset": 2,
+              "speaker": "霧子",
+              "jp": "それはまだ見つかっていないんだね？",
+              "cn": "还没有找到你想要的吧？",
+              "line_no": 9
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/アイムベリーベリーソーリー/第4話-Crazy Sunday.csv",
+          "line_no": 6,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "霧子",
+              "jp": "『滅多に家の外に出ることはなく』",
+              "cn": "“她很少出门”",
+              "line_no": 4
+            },
+            {
+              "offset": -1,
+              "speaker": "智代子",
+              "jp": "『店に立つ時はいつでも黒いヴェールが目元を覆い\n同じ色のドレスが、明けることのない喪をしるしていた』",
+              "cn": "“待在店里的时候总是用黑色的面纱遮住眼睛\n同色的连衣裙显示着她的服丧期还未满”",
+              "line_no": 5
+            },
+            {
+              "offset": 0,
+              "speaker": "真乃",
+              "jp": "────あ……",
+              "cn": "——啊……",
+              "line_no": 6
+            },
+            {
+              "offset": 1,
+              "speaker": "真乃",
+              "jp": "『渡り鳥たちが短い夏を楽しみ、草木が風と戯れ、\n花と果実が光の祝福を浴びているその庭で』",
+              "cn": "“候鸟享受着短暂的夏天，草木和风嬉戏\n花果沐浴着阳光的祝福，在这样的庭院中”",
+              "line_no": 7
+            },
+            {
+              "offset": 2,
+              "speaker": "霧子",
+              "jp": "『彼女だけが色を持たず、声を持たず』",
+              "cn": "“只有她没有颜色，没有声音”",
+              "line_no": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "摩美々",
+      "score": 97,
+      "scene_cooccurrence": 28,
+      "prev_to_target": 14,
+      "target_to_next": 22,
+      "mentions_target": 1,
+      "target_mentions_partner": 4,
+      "samples": [
+        {
+          "file": "283活动剧情/きよしこの夜、プレゼン・フォー・ユー！/17_46 PM.csv",
+          "line_no": 56,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "社長",
+              "jp": "私も、プレゼントを贈りたかったんだが……──",
+              "cn": "我也，想把礼物送出去……——",
+              "line_no": 54
+            },
+            {
+              "offset": -1,
+              "speaker": "摩美々",
+              "jp": "……？",
+              "cn": "……？",
+              "line_no": 55
+            },
+            {
+              "offset": 0,
+              "speaker": "真乃",
+              "jp": "──普通の参拝の人だったみたい……\nサンタさん……いないのかも……",
+              "cn": "——好像只是来参拜的普通人……\n圣诞老人……可能不在……",
+              "line_no": 56
+            },
+            {
+              "offset": 1,
+              "speaker": "甜花",
+              "jp": "う、うん……",
+              "cn": "呜，嗯……",
+              "line_no": 57
+            },
+            {
+              "offset": 2,
+              "speaker": "霧子",
+              "jp": "10分経ったら……\n報告して……戻らなきゃ……",
+              "cn": "经过10分钟……\n报告给其他人……就得回去……",
+              "line_no": 58
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/アイムベリーベリーソーリー/エンディング-あい.csv",
+          "line_no": 15,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "ダンストレーナー",
+              "jp": "ううん、もちろん必要だった\nこれからも",
+              "cn": "不是，当然有必要\n今后也是",
+              "line_no": 13
+            },
+            {
+              "offset": -1,
+              "speaker": "美琴",
+              "jp": "……同じセット、私もやるから",
+              "cn": "……我也会和你一起做同一组动作",
+              "line_no": 14
+            },
+            {
+              "offset": 0,
+              "speaker": "真乃",
+              "jp": "『何を持っていっても、何度持っていっても\n彼女の心を動かすことはできなかった』",
+              "cn": "“无论带什么东西，无论多少次带去\n都无法撼动她的内心”",
+              "line_no": 15
+            },
+            {
+              "offset": 1,
+              "speaker": "摩美々",
+              "jp": "『しかし大抵の場合、どんなものを持っていこうとも\n突き返されることはなかった』",
+              "cn": "“不过基本上无论带什么东西过去\n都没有被退回过”",
+              "line_no": 16
+            },
+            {
+              "offset": 2,
+              "speaker": "ヒロイン",
+              "jp": "『ありがとう\n素敵な品物ね、頂くわ』",
+              "cn": "“谢谢\n很棒的物品呢，我收下了”",
+              "line_no": 17
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/アイムベリーベリーソーリー/オープニング-ふってきたんだ.csv",
+          "line_no": 2,
+          "context": [
+            {
+              "offset": 0,
+              "speaker": "真乃",
+              "jp": "あの人は、\nどうやら何か探し物をしているらしい",
+              "cn": "那个人\n似乎在寻找着什么",
+              "line_no": 2
+            },
+            {
+              "offset": 1,
+              "speaker": "摩美々",
+              "jp": "静かな海辺の町で\n人々はそう口を揃えた",
+              "cn": "安静的海边小镇上\n人们异口同声地说道",
+              "line_no": 3
+            },
+            {
+              "offset": 2,
+              "speaker": "霧子",
+              "jp": "町の外れで骨董商を営む\nミステリアスな寡婦",
+              "cn": "一位神秘的寡妇\n在小镇的尽头经营着古董店",
+              "line_no": 4
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

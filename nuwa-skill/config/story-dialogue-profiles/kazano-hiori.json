@@ -1,0 +1,24 @@
+{
+  "target": "灯織",
+  "aliases": [
+    "風野灯織",
+    "風野 灯織",
+    "灯織",
+    "灯织",
+    "Hiori",
+    "Kazano Hiori",
+    "Hiori Kazano"
+  ],
+  "mention_aliases": [
+    "風野灯織",
+    "風野 灯織",
+    "灯織",
+    "灯织",
+    "Hiori",
+    "Kazano Hiori",
+    "Hiori Kazano"
+  ],
+  "theme_config": "../story-dialogue-themes/kazano-hiori.json",
+  "voice_config": "../story-dialogue-voice/kazano-hiori.json",
+  "output_dir": "../../283/kazano-hiori-perspective/references/local-dialogue-analysis"
+}

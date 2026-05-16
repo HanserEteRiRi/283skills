@@ -1,0 +1,28 @@
+{
+  "target": "円香",
+  "aliases": [
+    "樋口円香",
+    "樋口 円香",
+    "円香",
+    "圆香",
+    "Madoka",
+    "Higuchi Madoka",
+    "Madoka Higuchi"
+  ],
+  "mention_aliases": [
+    "樋口円香",
+    "樋口 円香",
+    "樋口",
+    "樋口さん",
+    "円香",
+    "円香ちゃん",
+    "円香先輩",
+    "圆香",
+    "Madoka",
+    "Higuchi Madoka",
+    "Madoka Higuchi"
+  ],
+  "theme_config": "../story-dialogue-themes/higuchi-madoka.json",
+  "voice_config": "../story-dialogue-voice/higuchi-madoka.json",
+  "output_dir": "../../283/higuchi-madoka-perspective/references/local-dialogue-analysis"
+}

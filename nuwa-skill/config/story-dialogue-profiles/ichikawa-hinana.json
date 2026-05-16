@@ -1,0 +1,28 @@
+{
+  "target": "雛菜",
+  "aliases": [
+    "市川雛菜",
+    "市川 雛菜",
+    "雛菜",
+    "雏菜",
+    "Hinana",
+    "Ichikawa Hinana",
+    "Hinana Ichikawa"
+  ],
+  "mention_aliases": [
+    "市川雛菜",
+    "市川 雛菜",
+    "市川",
+    "市川さん",
+    "雛菜",
+    "雛菜ちゃん",
+    "雛菜先輩",
+    "雏菜",
+    "Hinana",
+    "Ichikawa Hinana",
+    "Hinana Ichikawa"
+  ],
+  "theme_config": "../story-dialogue-themes/ichikawa-hinana.json",
+  "voice_config": "../story-dialogue-voice/ichikawa-hinana.json",
+  "output_dir": "../../283/ichikawa-hinana-perspective/references/local-dialogue-analysis"
+}
