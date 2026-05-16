@@ -1,0 +1,22 @@
+{
+  "jp": {
+    "laugh_count": "(ふふ|はは|あはは|へへ)",
+    "long_vowel_count": "ー",
+    "pause_count": "(……|────|──)",
+    "casual_interjection_count": "(あー|えー|んー|おー|あ、|え、)",
+    "somehow_count": "なんか",
+    "yeah_count": "うん",
+    "jan_count": "じゃん",
+    "first_person_count": "(私|うちら|うち)"
+  },
+  "cn": {
+    "laugh_count": "(呵呵|哈哈|呼呼)",
+    "long_vowel_count": "(——|—|～|~)",
+    "pause_count": "(……|——)",
+    "casual_interjection_count": "(啊|诶|嗯|哦)",
+    "somehow_count": "(总觉得|好像|莫名)",
+    "yeah_count": "嗯",
+    "jan_count": "(嘛|不是吗|这不是)",
+    "first_person_count": "(我|我们|咱们)"
+  }
+}

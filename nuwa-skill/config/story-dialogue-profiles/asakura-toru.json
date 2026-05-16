@@ -1,0 +1,8 @@
+{
+  "target": "透",
+  "aliases": ["浅倉透", "浅倉 透", "Toru", "Tooru", "Asakura Toru"],
+  "mention_aliases": ["浅倉透", "浅倉 透", "浅仓透", "小透", "Toru", "Tooru", "Asakura Toru"],
+  "theme_config": "../story-dialogue-themes/asakura-toru.json",
+  "voice_config": "../story-dialogue-voice/asakura-toru.json",
+  "output_dir": "../../283/asakura-toru-perspective/references/local-dialogue-analysis"
+}

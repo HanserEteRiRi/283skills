@@ -1,0 +1,7042 @@
+{
+  "metadata": {
+    "story_root": "C:\\project\\SCTranslationData\\data\\story",
+    "target": "甘奈",
+    "aliases": [
+      "甘奈",
+      "大崎甘奈",
+      "大崎 甘奈",
+      "Amana",
+      "Osaki Amana"
+    ],
+    "total_rows": 253411,
+    "total_files": 5603,
+    "total_speakers": 1963
+  },
+  "target_summary": {
+    "target_line_count": 6166,
+    "target_scene_count": 335,
+    "mentioned_by_others_count": 907,
+    "speaker_forms": [
+      [
+        "甘奈",
+        5990
+      ],
+      [
+        "甘奈＆甜花",
+        95
+      ],
+      [
+        "甘奈＆千雪",
+        34
+      ],
+      [
+        "甘奈＆プロデューサー",
+        10
+      ],
+      [
+        "甘奈＆愛依",
+        8
+      ],
+      [
+        "凛世＆甘奈",
+        5
+      ],
+      [
+        "めぐる＆甘奈＆千雪",
+        3
+      ],
+      [
+        "夏葉＆甘奈",
+        3
+      ],
+      [
+        "摩美々＆甘奈",
+        2
+      ],
+      [
+        "果穂＆甘奈",
+        2
+      ],
+      [
+        "甘奈＆甜花＆千雪",
+        2
+      ],
+      [
+        "灯織＆甘奈",
+        2
+      ],
+      [
+        "甘奈＆主人公",
+        1
+      ],
+      [
+        "灯織＆果穂＆甘奈",
+        1
+      ],
+      [
+        "めぐる＆甘奈",
+        1
+      ],
+      [
+        "甘奈＆あさひ",
+        1
+      ],
+      [
+        "果穂＆甘奈＆千雪",
+        1
+      ],
+      [
+        "果穂＆甘奈＆甜花",
+        1
+      ],
+      [
+        "甘奈＆冬優子",
+        1
+      ],
+      [
+        "甘奈＆兎面の少女",
+        1
+      ]
+    ],
+    "top_categories": [
+      [
+        "大崎甘奈",
+        3268
+      ],
+      [
+        "283活动剧情",
+        2073
+      ],
+      [
+        "大崎甜花",
+        600
+      ],
+      [
+        "桑山千雪",
+        181
+      ],
+      [
+        "杜野凛世",
+        40
+      ],
+      [
+        "主页剧情",
+        4
+      ]
+    ],
+    "top_arcs": [
+      [
+        "W.I.N.G.編",
+        321
+      ],
+      [
+        "完録、クエストロメリア！ ～サイコロ編～",
+        260
+      ],
+      [
+        "よっつのものがたり",
+        255
+      ],
+      [
+        "流れ星が消えるまでのジャーニー",
+        242
+      ],
+      [
+        "満開、アルストロメリア流幸福論─つなぐ・まごころ・みっつ─",
+        226
+      ],
+      [
+        "薄桃色にこんがらがって",
+        225
+      ],
+      [
+        "Landing Point編",
+        225
+      ],
+      [
+        "アンカーボルトソング",
+        198
+      ],
+      [
+        "ファン感謝祭編",
+        181
+      ],
+      [
+        "【約束ペタル】大崎甘奈",
+        167
+      ],
+      [
+        "【スタンバイオッケー】大崎甘奈",
+        156
+      ],
+      [
+        "G.R.A.D.編",
+        154
+      ],
+      [
+        "【ゆらゆらアクアリウム】大崎甘奈",
+        154
+      ],
+      [
+        "【お散歩サンライト】大崎甘奈",
+        153
+      ],
+      [
+        "【ないしょのスイーツ】大崎甘奈",
+        150
+      ],
+      [
+        "【雪空セパレート】大崎甘奈",
+        148
+      ],
+      [
+        "【叶えて✰ゴールドフィッシュ】大崎甘奈",
+        143
+      ],
+      [
+        "【longing】大崎甘奈",
+        135
+      ],
+      [
+        "【挑戦アトラクティブ】大崎甘奈",
+        130
+      ],
+      [
+        "ロング・ログ・エンドロール",
+        109
+      ],
+      [
+        "节日剧情",
+        98
+      ],
+      [
+        "【ever-】大崎甘奈",
+        97
+      ],
+      [
+        "【レッツ☆忍び足！】大崎甘奈",
+        90
+      ],
+      [
+        "ミルキィウェイ61-世界と世界がまじわる夜に-",
+        89
+      ],
+      [
+        "【似合うかな？】大崎甘奈",
+        88
+      ],
+      [
+        "【デビルたちの夜会】大崎甘奈",
+        84
+      ],
+      [
+        "【幸せのりんご飴】大崎甘奈",
+        80
+      ],
+      [
+        "【彩りファッションドール】大崎甜花",
+        80
+      ],
+      [
+        "【甜花ちゃんといっしょ☆】大崎甘奈",
+        79
+      ],
+      [
+        "【竜宮城へご招待☆】大崎甘奈",
+        79
+      ]
+    ],
+    "top_scenes": [
+      {
+        "file": "283活动剧情\\よっつのものがたり\\よっつのものがたり07.csv",
+        "target_line_count": 65,
+        "total_line_count": 97,
+        "speakers": [
+          [
+            "甘奈",
+            65
+          ],
+          [
+            "千雪",
+            24
+          ],
+          [
+            "プロデューサー",
+            6
+          ],
+          [
+            "甜花",
+            2
+          ]
+        ],
+        "first_target_line_jp": "『大変なことから 遠ざけるだけで』",
+        "first_target_line_cn": "『只是一心想着让甜花 避免那些麻烦的事情』",
+        "last_target_line_jp": "『変化の物語、です』",
+        "last_target_line_cn": "『是一段关于改变的故事』"
+      },
+      {
+        "file": "大崎甘奈\\【ever-】大崎甘奈\\２回目.csv",
+        "target_line_count": 62,
+        "total_line_count": 97,
+        "speakers": [
+          [
+            "甘奈",
+            62
+          ],
+          [
+            "千雪",
+            33
+          ],
+          [
+            "甜花",
+            2
+          ]
+        ],
+        "first_target_line_jp": "────すぅ…………",
+        "first_target_line_cn": "————呼…………",
+        "last_target_line_jp": "『デビュー！』",
+        "last_target_line_cn": "“出道——！”"
+      },
+      {
+        "file": "283活动剧情\\薄桃色にこんがらがって\\第6話 薄桃色にこんがらがって.csv",
+        "target_line_count": 60,
+        "total_line_count": 160,
+        "speakers": [
+          [
+            "甘奈",
+            60
+          ],
+          [
+            "千雪",
+            49
+          ],
+          [
+            "甜花",
+            27
+          ],
+          [
+            "プロデューサー",
+            24
+          ]
+        ],
+        "first_target_line_jp": "──甘奈ね、いっぱい考えたの 甘奈、千雪さんを応援したい……！",
+        "first_target_line_cn": "——甘奈啊，想了非常多 甘奈，想要支持千雪……！",
+        "last_target_line_jp": "──── 甘奈と戦ってください、千雪さん",
+        "last_target_line_cn": "———— 请和甘奈战斗吧，千雪"
+      },
+      {
+        "file": "283活动剧情\\よっつのものがたり\\よっつのものがたり05.csv",
+        "target_line_count": 55,
+        "total_line_count": 113,
+        "speakers": [
+          [
+            "甘奈",
+            55
+          ],
+          [
+            "千雪",
+            37
+          ],
+          [
+            "甜花",
+            15
+          ],
+          [
+            "プロデューサー",
+            6
+          ],
+          [
+            "？？？",
+            1
+          ],
+          [
+            "店員",
+            1
+          ]
+        ],
+        "first_target_line_jp": "……",
+        "first_target_line_cn": "……",
+        "last_target_line_jp": "──……完成したら、もう１度読んでくれる？",
+        "last_target_line_cn": "——……等写完了之后，可以再请您读一遍吗？"
+      },
+      {
+        "file": "283活动剧情\\よっつのものがたり\\よっつのものがたり06.csv",
+        "target_line_count": 50,
+        "total_line_count": 101,
+        "speakers": [
+          [
+            "甘奈",
+            50
+          ],
+          [
+            "甜花",
+            40
+          ],
+          [
+            "大崎家の母",
+            5
+          ],
+          [
+            "他事務所のアイドル",
+            3
+          ],
+          [
+            "トレーナー",
+            2
+          ],
+          [
+            "千雪",
+            1
+          ]
+        ],
+        "first_target_line_jp": "『甜花ちゃん』",
+        "first_target_line_cn": "『甜花』",
+        "last_target_line_jp": "（……それなら、甘奈のお話は……！）",
+        "last_target_line_cn": "（……这样的话，甘奈要写的就是……！）"
+      },
+      {
+        "file": "283活动剧情\\満開、アルストロメリア流幸福論─つなぐ・まごころ・みっつ─\\第6話-私達の幸福論.csv",
+        "target_line_count": 48,
+        "total_line_count": 89,
+        "speakers": [
+          [
+            "甘奈",
+            48
+          ],
+          [
+            "千雪",
+            25
+          ],
+          [
+            "甜花",
+            15
+          ],
+          [
+            "プロデューサー",
+            2
+          ],
+          [
+            "一同",
+            1
+          ]
+        ],
+        "first_target_line_jp": "甜花ちゃんとプロデューサーさんの分、 これくらい買っていけばいいかな～",
+        "first_target_line_cn": "甜花和制作人的份， 买这么多够了吗～",
+        "last_target_line_jp": "ね？ だからみんなで！ せーの──",
+        "last_target_line_cn": "所以大家一起来！ 预备──"
+      },
+      {
+        "file": "283活动剧情\\完録、クエストロメリア！ ～サイコロ編～\\『プロブレム』.csv",
+        "target_line_count": 47,
+        "total_line_count": 132,
+        "speakers": [
+          [
+            "甘奈",
+            47
+          ],
+          [
+            "甜花",
+            31
+          ],
+          [
+            "千雪",
+            28
+          ],
+          [
+            "プロデューサー",
+            11
+          ],
+          [
+            "テロップ",
+            5
+          ],
+          [
+            "監督",
+            5
+          ],
+          [
+            "ナレーション",
+            2
+          ],
+          [
+            "スタッフ４",
+            2
+          ],
+          [
+            "スタッフ１",
+            1
+          ],
+          [
+            "スタッフ２",
+            1
+          ]
+        ],
+        "first_target_line_jp": "えーっ？ えっと……エッグベネディクトと……",
+        "first_target_line_cn": "诶——？ 那个……火腿蛋松饼和",
+        "last_target_line_jp": "うん……！ 甘奈も、考えたい……！",
+        "last_target_line_cn": "嗯……！ 甘奈也，想要想想……！"
+      },
+      {
+        "file": "283活动剧情\\流れ星が消えるまでのジャーニー\\第4话-近くて遠くてピカピカでキラキラ.csv",
+        "target_line_count": 47,
+        "total_line_count": 93,
+        "speakers": [
+          [
+            "甘奈",
+            47
+          ],
+          [
+            "千雪",
+            22
+          ],
+          [
+            "甜花",
+            9
+          ],
+          [
+            "テレビの字幕",
+            7
+          ],
+          [
+            "プロデューサー",
+            7
+          ],
+          [
+            "通知",
+            1
+          ]
+        ],
+        "first_target_line_jp": "──えへへ、ありがとー、ママ！ でも大丈夫。これ以上ひどくなる感じじゃないから",
+        "first_target_line_cn": "——诶嘿嘿，谢谢妈妈！ 不过没关系。感觉之后不会再变得更糟了",
+        "last_target_line_jp": "──早く治そう！",
+        "last_target_line_cn": "——快点治好吧！"
+      },
+      {
+        "file": "283活动剧情\\完録、クエストロメリア！ ～サイコロ編～\\Happy Ending Story.csv",
+        "target_line_count": 46,
+        "total_line_count": 131,
+        "speakers": [
+          [
+            "甘奈",
+            46
+          ],
+          [
+            "甜花",
+            44
+          ],
+          [
+            "千雪",
+            40
+          ],
+          [
+            "テロップ",
+            2
+          ]
+        ],
+        "first_target_line_jp": "え～っ！ 意味わかんないよー！",
+        "first_target_line_cn": "诶～！完全不明白啊——！",
+        "last_target_line_jp": "そうそう、超幸せの葉っぱ！",
+        "last_target_line_cn": "是啊是啊，是超幸福的草叶！"
+      },
+      {
+        "file": "大崎甘奈\\Landing Point編\\5.Carve !.csv",
+        "target_line_count": 46,
+        "total_line_count": 84,
+        "speakers": [
+          [
+            "甘奈",
+            46
+          ],
+          [
+            "プロデューサー",
+            37
+          ]
+        ],
+        "first_target_line_jp": "プロデューサーさん 靴、履き替えてきたよ",
+        "first_target_line_cn": "制作人先生 我换好鞋子了",
+        "last_target_line_jp": "……ふふ、そうなんだね……！",
+        "last_target_line_cn": "……呵呵，是这样啊……！"
+      },
+      {
+        "file": "283活动剧情\\アンカーボルトソング\\第5話-みんな.csv",
+        "target_line_count": 45,
+        "total_line_count": 139,
+        "speakers": [
+          [
+            "甘奈",
+            45
+          ],
+          [
+            "甜花",
+            37
+          ],
+          [
+            "プロデューサー",
+            24
+          ],
+          [
+            "千雪",
+            22
+          ],
+          [
+            "番組ディレクター",
+            5
+          ],
+          [
+            "駆け出しモデル",
+            5
+          ],
+          [
+            "ツイスタのコメント１",
+            1
+          ],
+          [
+            "ツイスタのコメント２",
+            1
+          ]
+        ],
+        "first_target_line_jp": "────あの……っ 私は、Ａ案がいいなって思ってて……",
+        "first_target_line_cn": "────那个…… 我觉得，按照Ａ方案来做就挺好的……",
+        "last_target_line_jp": "…………３人で みんなで、アルストロメリアだね",
+        "last_target_line_cn": "……三个人一起 大家一起……才是ALSTROEMERIA…………"
+      },
+      {
+        "file": "283活动剧情\\流れ星が消えるまでのジャーニー\\第5话-とろけるおふとん.csv",
+        "target_line_count": 44,
+        "total_line_count": 119,
+        "speakers": [
+          [
+            "甜花",
+            56
+          ],
+          [
+            "甘奈",
+            44
+          ],
+          [
+            "プロデューサー",
+            9
+          ],
+          [
+            "千雪",
+            9
+          ],
+          [
+            "off",
+            2
+          ],
+          [
+            "リビングの声",
+            1
+          ]
+        ],
+        "first_target_line_jp": "あれっ、この食料品……？",
+        "first_target_line_cn": "咦，这个吃的……？",
+        "last_target_line_jp": "すぅ……、すぅ……",
+        "last_target_line_cn": "すぅ……、すぅ……"
+      },
+      {
+        "file": "大崎甘奈\\【レッツ☆忍び足！】大崎甘奈\\抜き足・差し足・起こさない…….csv",
+        "target_line_count": 44,
+        "total_line_count": 80,
+        "speakers": [
+          [
+            "甘奈",
+            44
+          ],
+          [
+            "甜花",
+            36
+          ],
+          [
+            "天気予報",
+            2
+          ]
+        ],
+        "first_target_line_jp": "（大丈夫じゃないよ～！）",
+        "first_target_line_cn": "（才不会没事呢～！）",
+        "last_target_line_jp": "忍び足……",
+        "last_target_line_cn": "蹑手蹑脚……"
+      },
+      {
+        "file": "283活动剧情\\薄桃色にこんがらがって\\第5話 こわい.csv",
+        "target_line_count": 43,
+        "total_line_count": 112,
+        "speakers": [
+          [
+            "甘奈",
+            43
+          ],
+          [
+            "甜花",
+            30
+          ],
+          [
+            "プロデューサー",
+            17
+          ],
+          [
+            "千雪",
+            12
+          ],
+          [
+            "編集長",
+            10
+          ]
+        ],
+        "first_target_line_jp": "…………────",
+        "first_target_line_cn": "…………────",
+        "last_target_line_jp": "『アプリコット』のオーディションを 辞退します……！",
+        "last_target_line_cn": "想要退出 《银杏》的试镜……！"
+      },
+      {
+        "file": "283活动剧情\\満開、アルストロメリア流幸福論─つなぐ・まごころ・みっつ─\\第2話-天と地、屈折.csv",
+        "target_line_count": 43,
+        "total_line_count": 95,
+        "speakers": [
+          [
+            "甘奈",
+            43
+          ],
+          [
+            "千雪",
+            32
+          ],
+          [
+            "甜花",
+            20
+          ]
+        ],
+        "first_target_line_jp": "空いてる席、すぐ見つかって良かったよね☆ 思ったよりゆっくりできそうで嬉しいなー",
+        "first_target_line_cn": "马上就找到了空着的座位，太好了☆ 看来会比想象中的要悠闲，真让人高兴啊",
+        "last_target_line_jp": "今度、続きとあわせて買ってくるから、 一緒に読もう？",
+        "last_target_line_cn": "下次加上续集一起买下， 我们一起看吧？"
+      },
+      {
+        "file": "283活动剧情\\薄桃色にこんがらがって\\第3話 そして彼女はインターホンを鳴らす.csv",
+        "target_line_count": 41,
+        "total_line_count": 119,
+        "speakers": [
+          [
+            "千雪",
+            43
+          ],
+          [
+            "甘奈",
+            41
+          ],
+          [
+            "甜花",
+            30
+          ],
+          [
+            "プロデューサー",
+            12
+          ],
+          [
+            "一同",
+            1
+          ]
+        ],
+        "first_target_line_jp": "──あーあーあーあーあー……",
+        "first_target_line_cn": "——啊——啊——啊——啊——啊——……",
+        "last_target_line_jp": "…………っ",
+        "last_target_line_cn": "…………"
+      },
+      {
+        "file": "283活动剧情\\流れ星が消えるまでのジャーニー\\第2话-ふとなんとなく輪郭に触れ.csv",
+        "target_line_count": 41,
+        "total_line_count": 82,
+        "speakers": [
+          [
+            "甘奈",
+            41
+          ],
+          [
+            "甜花",
+            31
+          ],
+          [
+            "テレビの音声",
+            11
+          ]
+        ],
+        "first_target_line_jp": "ん……",
+        "first_target_line_cn": "嗯……",
+        "last_target_line_jp": "えっ…………",
+        "last_target_line_cn": "诶…………"
+      },
+      {
+        "file": "大崎甘奈\\【約束ペタル】大崎甘奈\\Happy contact.csv",
+        "target_line_count": 41,
+        "total_line_count": 65,
+        "speakers": [
+          [
+            "甘奈",
+            41
+          ],
+          [
+            "プロデューサー",
+            21
+          ]
+        ],
+        "first_target_line_jp": "『スタッフさん、 みんなめっちゃいい人たちだったよ！』",
+        "first_target_line_cn": "“工作人员 都是很好的人！”",
+        "last_target_line_jp": "え！？ そうかな？ そんなことないと思うよ～",
+        "last_target_line_cn": "诶！？ 是吗？ 应该没有吧～"
+      },
+      {
+        "file": "大崎甘奈\\【スタンバイオッケー】大崎甘奈\\Sweet with S.csv",
+        "target_line_count": 41,
+        "total_line_count": 63,
+        "speakers": [
+          [
+            "甘奈",
+            41
+          ],
+          [
+            "プロデューサー",
+            19
+          ]
+        ],
+        "first_target_line_jp": "プロデューサーさん、おつかれさま☆",
+        "first_target_line_cn": "制作人，辛苦了☆",
+        "last_target_line_jp": "なんだか気になっちゃうな☆",
+        "last_target_line_cn": "总觉得有点在意呢☆"
+      },
+      {
+        "file": "杜野凛世\\【をとめ条約】杜野凛世\\わるい時間・下.csv",
+        "target_line_count": 40,
+        "total_line_count": 76,
+        "speakers": [
+          [
+            "甘奈",
+            40
+          ],
+          [
+            "凛世",
+            39
+          ],
+          [
+            "愛依",
+            1
+          ]
+        ],
+        "first_target_line_jp": "えーっ、どこ！？",
+        "first_target_line_cn": "诶～在哪里？",
+        "last_target_line_jp": "念のためピン留めで隠す！",
+        "last_target_line_cn": "以防万一，用发夹遮住痘痘！"
+      },
+      {
+        "file": "283活动剧情\\よっつのものがたり\\よっつのものがたり04.csv",
+        "target_line_count": 39,
+        "total_line_count": 66,
+        "speakers": [
+          [
+            "甘奈",
+            39
+          ],
+          [
+            "プロデューサー",
+            14
+          ],
+          [
+            "甜花",
+            13
+          ]
+        ],
+        "first_target_line_jp": "……",
+        "first_target_line_cn": "……",
+        "last_target_line_jp": "ありがと、プロデューサーさん 心、決まったよ",
+        "last_target_line_cn": "谢谢您，制作人 甘奈决定好了"
+      },
+      {
+        "file": "大崎甘奈\\W.I.N.G.編\\不安な時期.csv",
+        "target_line_count": 39,
+        "total_line_count": 63,
+        "speakers": [
+          [
+            "甘奈",
+            39
+          ],
+          [
+            "プロデューサー",
+            21
+          ]
+        ],
+        "first_target_line_jp": "ワン、ツー、スリー…… ここでターン！",
+        "first_target_line_cn": "1，2，3…… 转身！",
+        "last_target_line_jp": "うん、信じちゃう！ これからめっちゃすごくて めっちゃかわいー双子アイドルになれるよう、がんばるね☆",
+        "last_target_line_cn": "嗯，甘奈相信制作人！今后为了能成为超厉害 超可爱的双胞胎偶像，甘奈会加油的☆"
+      },
+      {
+        "file": "283活动剧情\\完録、クエストロメリア！ ～サイコロ編～\\Keep／Problem／Try.csv",
+        "target_line_count": 38,
+        "total_line_count": 108,
+        "speakers": [
+          [
+            "甘奈",
+            38
+          ],
+          [
+            "千雪",
+            29
+          ],
+          [
+            "甜花",
+            22
+          ],
+          [
+            "テロップ",
+            15
+          ],
+          [
+            "ナレーション",
+            3
+          ],
+          [
+            "プロデューサー",
+            2
+          ],
+          [
+            "一同",
+            1
+          ]
+        ],
+        "first_target_line_jp": "起立",
+        "first_target_line_cn": "起立",
+        "last_target_line_jp": "せっかくサイコーのホームルームだったのに～！！",
+        "last_target_line_cn": "明明难得开完了超棒的班会～！"
+      },
+      {
+        "file": "大崎甘奈\\【冬の日の『贈り物』】大崎甘奈\\冬の日、灯す明.csv",
+        "target_line_count": 38,
+        "total_line_count": 77,
+        "speakers": [
+          [
+            "甘奈",
+            38
+          ],
+          [
+            "甜花",
+            26
+          ],
+          [
+            "千雪",
+            19
+          ]
+        ],
+        "first_target_line_jp": "えっ！ どうしてどうして～！？",
+        "first_target_line_cn": "诶！为什么～！？",
+        "last_target_line_jp": "『そんな日も、明かりが灯る、素敵な一日』",
+        "last_target_line_cn": "“那样的日子，也是灯火亮起的，美好的一天”"
+      },
+      {
+        "file": "大崎甘奈\\【ゆらゆらアクアリウム】大崎甘奈\\Cleaning with me !.csv",
+        "target_line_count": 38,
+        "total_line_count": 63,
+        "speakers": [
+          [
+            "甘奈",
+            38
+          ],
+          [
+            "プロデューサー",
+            22
+          ]
+        ],
+        "first_target_line_jp": "大丈夫！？ なんかすごい音したけど──",
+        "first_target_line_cn": "没事吧！？ 好像出了很大的动静——",
+        "last_target_line_jp": "じゃあ、甘奈ももっと頑張っちゃうね！",
+        "last_target_line_cn": "那，甘奈也会更努力呢！"
+      },
+      {
+        "file": "大崎甘奈\\【お散歩サンライト】大崎甘奈\\『Take care of you』.csv",
+        "target_line_count": 38,
+        "total_line_count": 60,
+        "speakers": [
+          [
+            "甘奈",
+            38
+          ],
+          [
+            "プロデューサー",
+            19
+          ]
+        ],
+        "first_target_line_jp": "測り終わったみたいだね…… ちょっと見せて",
+        "first_target_line_cn": "好像量完了…… 让我看看",
+        "last_target_line_jp": "揚げ物は治ったら作ってあげるっ",
+        "last_target_line_cn": "炸的等病好了再做给你吃"
+      },
+      {
+        "file": "283活动剧情\\Secret×Rose\\ユニット ED 愛らしい少女たち.csv",
+        "target_line_count": 37,
+        "total_line_count": 152,
+        "speakers": [
+          [
+            "主人公",
+            50
+          ],
+          [
+            "甜花",
+            42
+          ],
+          [
+            "甘奈",
+            37
+          ],
+          [
+            "千雪",
+            20
+          ],
+          [
+            "一同",
+            2
+          ]
+        ],
+        "first_target_line_jp": "確かにそうだね……",
+        "first_target_line_cn": "确实是这样……",
+        "last_target_line_jp": "ふふ、 変なセンセー",
+        "last_target_line_cn": "呵呵， 奇怪的老师"
+      },
+      {
+        "file": "大崎甘奈\\【見つけたい、だけど……】大崎甘奈\\寂しく…….csv",
+        "target_line_count": 37,
+        "total_line_count": 45,
+        "speakers": [
+          [
+            "甘奈",
+            37
+          ],
+          [
+            "プロデューサー",
+            8
+          ]
+        ],
+        "first_target_line_jp": "はぁ……",
+        "first_target_line_cn": "哈啊……",
+        "last_target_line_jp": "……",
+        "last_target_line_cn": "……"
+      },
+      {
+        "file": "大崎甘奈\\【叶えて✰ゴールドフィッシュ】大崎甘奈\\Persistence pays off ☆.csv",
+        "target_line_count": 36,
+        "total_line_count": 68,
+        "speakers": [
+          [
+            "甘奈",
+            36
+          ],
+          [
+            "プロデューサー",
+            29
+          ],
+          [
+            "関係者",
+            1
+          ]
+        ],
+        "first_target_line_jp": "よろしくお願いしますっ！",
+        "first_target_line_cn": "请多指教！",
+        "last_target_line_jp": "何がいいかな～☆",
+        "last_target_line_cn": "要吃什么呢～"
+      },
+      {
+        "file": "大崎甘奈\\【似合うかな？】大崎甘奈\\まじめショッピング.csv",
+        "target_line_count": 36,
+        "total_line_count": 59,
+        "speakers": [
+          [
+            "甘奈",
+            36
+          ],
+          [
+            "プロデューサー",
+            20
+          ]
+        ],
+        "first_target_line_jp": "あ、プロデューサーさんだ！",
+        "first_target_line_cn": "啊，制作人！",
+        "last_target_line_jp": "もしかしたら 甘奈がお財布を握ってたほうがいいのかも、ね？",
+        "last_target_line_cn": "说不定 由甘奈来保管钱包会比较好，你觉得呢？"
+      },
+      {
+        "file": "283活动剧情\\完録、クエストロメリア！ ～サイコロ編～\\サイコロツアー、スタート！.csv",
+        "target_line_count": 35,
+        "total_line_count": 114,
+        "speakers": [
+          [
+            "甘奈",
+            35
+          ],
+          [
+            "甜花",
+            30
+          ],
+          [
+            "千雪",
+            22
+          ],
+          [
+            "テロップ",
+            17
+          ],
+          [
+            "ナレーション",
+            5
+          ],
+          [
+            "一同",
+            5
+          ],
+          [
+            "スタッフ",
+            1
+          ],
+          [
+            "沙漏",
+            1
+          ]
+        ],
+        "first_target_line_jp": "おはようございまーす☆",
+        "first_target_line_cn": "早上好——☆",
+        "last_target_line_jp": "あはは、それだと先生の方向けないよー！",
+        "last_target_line_cn": "啊哈哈，那样的话就没法面向老师的方向了——！"
+      },
+      {
+        "file": "283活动剧情\\流れ星が消えるまでのジャーニー\\第6话-静かに、夜が逃げないように.csv",
+        "target_line_count": 35,
+        "total_line_count": 104,
+        "speakers": [
+          [
+            "甘奈",
+            35
+          ],
+          [
+            "甜花",
+            26
+          ],
+          [
+            "女子高生",
+            18
+          ],
+          [
+            "千雪",
+            13
+          ],
+          [
+            "ママ",
+            10
+          ],
+          [
+            "パパ",
+            4
+          ],
+          [
+            "スタッフ",
+            3
+          ],
+          [
+            "一同",
+            1
+          ]
+        ],
+        "first_target_line_jp": "おはようございます！ よろしくおねがいしまーす！",
+        "first_target_line_cn": "早上好！ 请多指教——！",
+        "last_target_line_jp": "…………！！",
+        "last_target_line_cn": "…………！！"
+      },
+      {
+        "file": "大崎甘奈\\G.R.A.D.編\\突き放して（甘やかして）.csv",
+        "target_line_count": 35,
+        "total_line_count": 61,
+        "speakers": [
+          [
+            "甘奈",
+            35
+          ],
+          [
+            "プロデューサー",
+            26
+          ]
+        ],
+        "first_target_line_jp": "────……っ",
+        "first_target_line_cn": "————……",
+        "last_target_line_jp": "……プロデューサーさんは、優しいね……",
+        "last_target_line_cn": "……制作人，真是温柔呢……"
+      },
+      {
+        "file": "大崎甘奈\\【雪空セパレート】大崎甘奈\\Winter fashion☆.csv",
+        "target_line_count": 35,
+        "total_line_count": 58,
+        "speakers": [
+          [
+            "甘奈",
+            35
+          ],
+          [
+            "プロデューサー",
+            20
+          ]
+        ],
+        "first_target_line_jp": "……",
+        "first_target_line_cn": "……",
+        "last_target_line_jp": "えへへ、早速試してみたいから あのお店、行こっ☆",
+        "last_target_line_cn": "诶嘿嘿，好想快点试试看啊 去那边那家店逛逛吧☆"
+      },
+      {
+        "file": "桑山千雪\\【ドゥワッチャラブ】桑山千雪\\食べちゃうから、全部.csv",
+        "target_line_count": 34,
+        "total_line_count": 83,
+        "speakers": [
+          [
+            "千雪",
+            47
+          ],
+          [
+            "甘奈",
+            34
+          ],
+          [
+            "プロデューサー",
+            1
+          ],
+          [
+            "店員",
+            1
+          ]
+        ],
+        "first_target_line_jp": "えっ……ため息！？",
+        "first_target_line_cn": "咦……叹气！？",
+        "last_target_line_jp": "で、大好きっ 甘奈もっ",
+        "last_target_line_cn": "还有，喜欢千雪姐 甘奈也一样"
+      },
+      {
+        "file": "大崎甘奈\\ファン感謝祭編\\いつまでも、いつまでも.csv",
+        "target_line_count": 34,
+        "total_line_count": 80,
+        "speakers": [
+          [
+            "甘奈",
+            34
+          ],
+          [
+            "千雪",
+            20
+          ],
+          [
+            "甜花",
+            17
+          ],
+          [
+            "プロデューサー",
+            8
+          ],
+          [
+            "一同",
+            2
+          ]
+        ],
+        "first_target_line_jp": "……うん！",
+        "first_target_line_cn": "……嗯！",
+        "last_target_line_jp": "『時間を忘れるお喋り』『仲良しのライバル』 『重なる歌声』",
+        "last_target_line_cn": "“忘记时间的聊天”“好对手” “重合的歌声”"
+      },
+      {
+        "file": "大崎甘奈\\【甜花ちゃんといっしょ☆】大崎甘奈\\思い出しちゃったかも…….csv",
+        "target_line_count": 34,
+        "total_line_count": 61,
+        "speakers": [
+          [
+            "甘奈",
+            34
+          ],
+          [
+            "プロデューサー",
+            24
+          ]
+        ],
+        "first_target_line_jp": "はぁ……",
+        "first_target_line_cn": "哈啊……",
+        "last_target_line_jp": "じゃあ、早く行こ、プロデューサーさん！ 甘奈、片づけ手伝っちゃうから☆",
+        "last_target_line_cn": "那就早点走吧，制作人！ 甘奈会帮你收拾的☆"
+      },
+      {
+        "file": "大崎甘奈\\【約束ペタル】大崎甘奈\\Absence makes ….csv",
+        "target_line_count": 34,
+        "total_line_count": 59,
+        "speakers": [
+          [
+            "甘奈",
+            34
+          ],
+          [
+            "プロデューサー",
+            19
+          ],
+          [
+            "トレーナー",
+            1
+          ],
+          [
+            "アナウンス",
+            1
+          ],
+          [
+            "？？？",
+            1
+          ]
+        ],
+        "first_target_line_jp": "わぁ……！ めっちゃ綺麗に咲いてる……！",
+        "first_target_line_cn": "哇…… 开花开得真漂亮……！",
+        "last_target_line_jp": "……！ うん……そうだよねっ……！",
+        "last_target_line_cn": "……！ 嗯……没错……！"
+      },
+      {
+        "file": "大崎甘奈\\【ないしょのスイーツ】大崎甘奈\\dAte with T ☆.csv",
+        "target_line_count": 34,
+        "total_line_count": 56,
+        "speakers": [
+          [
+            "甘奈",
+            34
+          ],
+          [
+            "プロデューサー",
+            17
+          ],
+          [
+            "クラスメイト",
+            1
+          ]
+        ],
+        "first_target_line_jp": "──ていうことしてたんだけどね ……少しは役に立ちそう？",
+        "first_target_line_cn": "──就是做了这样的事情呢 ……有一点帮助吗？",
+        "last_target_line_jp": "ちょっと気を付けよっと☆",
+        "last_target_line_cn": "稍微注意一下吧☆"
+      },
+      {
+        "file": "大崎甘奈\\【ゆらゆらアクアリウム】大崎甘奈\\To the future A.csv",
+        "target_line_count": 34,
+        "total_line_count": 47,
+        "speakers": [
+          [
+            "甘奈",
+            34
+          ],
+          [
+            "プロデューサー",
+            13
+          ]
+        ],
+        "first_target_line_jp": "～～♪",
+        "first_target_line_cn": "～～♪",
+        "last_target_line_jp": "『今と変わらない素敵な笑顔で、笑っていますか？』",
+        "last_target_line_cn": "“是以和现在一样的美好的笑容，在笑着吗？”"
+      },
+      {
+        "file": "大崎甘奈\\【スタンバイオッケー】大崎甘奈\\Sweet with U.csv",
+        "target_line_count": 34,
+        "total_line_count": 44,
+        "speakers": [
+          [
+            "甘奈",
+            34
+          ],
+          [
+            "プロデューサー",
+            10
+          ]
+        ],
+        "first_target_line_jp": "プロデューサーさん、今日もおつかれさま☆",
+        "first_target_line_cn": "制作人，今天也辛苦了☆",
+        "last_target_line_jp": "絶対に、今よりもっと輝くアイドルになってみせるから",
+        "last_target_line_cn": "我绝对，要成为比现在更闪亮的偶像！"
+      },
+      {
+        "file": "283活动剧情\\薄桃色にこんがらがって\\第2話 反対ごっこ.csv",
+        "target_line_count": 33,
+        "total_line_count": 91,
+        "speakers": [
+          [
+            "甘奈",
+            33
+          ],
+          [
+            "甜花",
+            28
+          ],
+          [
+            "千雪",
+            26
+          ],
+          [
+            "プロデューサー",
+            5
+          ]
+        ],
+        "first_target_line_jp": "うぅ……！ 頭の上に置いて歩くとか……１冊で限界だよ～っ",
+        "first_target_line_cn": "唔……！ 放在头上走路……1本就是极限了啦～",
+        "last_target_line_jp": "先に予約してたんだもん！ 明後日は千雪さんが頑張る時間だよっ☆",
+        "last_target_line_cn": "毕竟是你先约的！ 所以后天就是千雪努力的时间了☆"
+      },
+      {
+        "file": "大崎甘奈\\【約束ペタル】大崎甘奈\\Spring talk.csv",
+        "target_line_count": 33,
+        "total_line_count": 70,
+        "speakers": [
+          [
+            "プロデューサー",
+            33
+          ],
+          [
+            "甘奈",
+            33
+          ],
+          [
+            "店員",
+            1
+          ]
+        ],
+        "first_target_line_jp": "おーい、プロデューサーさ～ん！",
+        "first_target_line_cn": "喂——，制作人～！",
+        "last_target_line_jp": "……！",
+        "last_target_line_cn": "……！"
+      },
+      {
+        "file": "大崎甜花\\【アイ・セーブ・ユー】大崎甜花\\世界にひとつの…….csv",
+        "target_line_count": 33,
+        "total_line_count": 65,
+        "speakers": [
+          [
+            "甘奈",
+            33
+          ],
+          [
+            "甜花",
+            32
+          ]
+        ],
+        "first_target_line_jp": "とうちゃーっく☆",
+        "first_target_line_cn": "到达——☆",
+        "last_target_line_jp": "じゃあ…… プレゼントは、これに決定だね！",
+        "last_target_line_cn": "那…… 礼物就决定是这个了！"
+      },
+      {
+        "file": "大崎甘奈\\【スタンバイオッケー】大崎甘奈\\Heart Beat.csv",
+        "target_line_count": 33,
+        "total_line_count": 58,
+        "speakers": [
+          [
+            "甘奈",
+            33
+          ],
+          [
+            "プロデューサー",
+            22
+          ]
+        ],
+        "first_target_line_jp": "今度のお仕事は、まず私服でトークをして その後にミニライブ、って流れなんだね",
+        "first_target_line_cn": "这次的工作是，先穿私服对谈 然后再开迷你演唱会这样的流程，对吧",
+        "last_target_line_jp": "また今度、プロデューサーさんに向けた歌を 聴いてもらいたいかな☆",
+        "last_target_line_cn": "下次，再让制作人听听看适合制作人的歌吧☆"
+      },
+      {
+        "file": "大崎甘奈\\W.I.N.G.編\\growing sweet.csv",
+        "target_line_count": 33,
+        "total_line_count": 57,
+        "speakers": [
+          [
+            "甘奈",
+            33
+          ],
+          [
+            "プロデューサー",
+            21
+          ]
+        ],
+        "first_target_line_jp": "……",
+        "first_target_line_cn": "……",
+        "last_target_line_jp": "思い出せたのは、プロデューサーさんのおかげだよ！ ステージ、サイコーに楽しんでくるね☆",
+        "last_target_line_cn": "能想起来都是多亏了制作人！ 甘奈会好好享受这个舞台的☆"
+      },
+      {
+        "file": "大崎甘奈\\【ないしょのスイーツ】大崎甘奈\\warmiNg heart for ….csv",
+        "target_line_count": 33,
+        "total_line_count": 53,
+        "speakers": [
+          [
+            "甘奈",
+            33
+          ],
+          [
+            "プロデューサー",
+            15
+          ],
+          [
+            "クラスメイト",
+            2
+          ]
+        ],
+        "first_target_line_jp": "ふぅ……",
+        "first_target_line_cn": "呼……",
+        "last_target_line_jp": "……そっか……",
+        "last_target_line_cn": "……是这样啊……"
+      },
+      {
+        "file": "大崎甘奈\\【雪空セパレート】大崎甘奈\\warmth in hand.csv",
+        "target_line_count": 33,
+        "total_line_count": 53,
+        "speakers": [
+          [
+            "甘奈",
+            33
+          ],
+          [
+            "プロデューサー",
+            17
+          ]
+        ],
+        "first_target_line_jp": "は～",
+        "first_target_line_cn": "哈～",
+        "last_target_line_jp": "プロデューサーさん、それ 使わせてもらうよっ！",
+        "last_target_line_cn": "制作人，你刚刚想到的那个tag 就借甘奈一用吧！"
+      },
+      {
+        "file": "大崎甘奈\\【お散歩サンライト】大崎甘奈\\『Sorry have a fever』.csv",
+        "target_line_count": 32,
+        "total_line_count": 61,
+        "speakers": [
+          [
+            "甘奈",
+            32
+          ],
+          [
+            "プロデューサー",
+            26
+          ]
+        ],
+        "first_target_line_jp": "えへへ、そうだね……！ 自分は大切にしないとだもんね",
+        "first_target_line_cn": "诶嘿嘿，说得对……！ 毕竟要好好重视自己呢",
+        "last_target_line_jp": "はい！ よくできました！",
+        "last_target_line_cn": "好！ 做得很好！"
+      },
+      {
+        "file": "大崎甘奈\\【ever-】大崎甘奈\\アマイ永遠.csv",
+        "target_line_count": 31,
+        "total_line_count": 71,
+        "speakers": [
+          [
+            "甘奈",
+            31
+          ],
+          [
+            "甜花",
+            20
+          ],
+          [
+            "甘奈おばあちゃん",
+            13
+          ],
+          [
+            "off",
+            9
+          ]
+        ],
+        "first_target_line_jp": "さくらー 化学のノート、ありがと────",
+        "first_target_line_cn": "樱—— 化学的笔记，谢谢你借给我————",
+        "last_target_line_jp": "YOU",
+        "last_target_line_cn": "YOU"
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "partner": "プロデューサー",
+      "score": 4052,
+      "scene_cooccurrence": 217,
+      "prev_to_target": 1306,
+      "target_to_next": 1293,
+      "mentions_target": 501,
+      "target_mentions_partner": 518,
+      "samples": [
+        {
+          "file": "283活动剧情\\2025ホワイトデー スペシャルコミュ\\25白情甘奈1.csv",
+          "line_no": 2,
+          "context": [
+            {
+              "offset": 0,
+              "speaker": "甘奈",
+              "jp": "わ、すごーい！\nめっちゃ凝ってて綺麗～！",
+              "cn": "哇，好厉害！\n做得好漂亮～！",
+              "line_no": 2
+            },
+            {
+              "offset": 1,
+              "speaker": "プロデューサー",
+              "jp": "はは……あれだけのものをもらったからな\nちょっとだけ、頑張ってみた",
+              "cn": "哈哈……毕竟之前从甘奈那里收到的礼物那么精致\n我只是稍微努力了一下",
+              "line_no": 3
+            },
+            {
+              "offset": 2,
+              "speaker": "甘奈",
+              "jp": "見たらわかるよ～……！\n絶対時間かかったよね……！　ありがと！",
+              "cn": "一看就知道了～……！\n肯定花了不少功夫……！  谢谢啦！",
+              "line_no": 4
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情\\2025ホワイトデー スペシャルコミュ\\25白情甘奈2.csv",
+          "line_no": 2,
+          "context": [
+            {
+              "offset": 0,
+              "speaker": "甘奈",
+              "jp": "わ、すごーい！\nめっちゃ凝ってて綺麗～！",
+              "cn": "哇，好厉害！\n做得好漂亮～！",
+              "line_no": 2
+            },
+            {
+              "offset": 1,
+              "speaker": "プロデューサー",
+              "jp": "はは……あれだけのものをもらったからな\nちょっとだけ、頑張ってみた",
+              "cn": "哈哈……毕竟之前从甘奈那里收到的礼物那么精致\n我只是稍微努力了一下",
+              "line_no": 3
+            },
+            {
+              "offset": 2,
+              "speaker": "甘奈",
+              "jp": "見たらわかるよ～……！\n絶対時間かかったよね……！　ありがと！",
+              "cn": "一看就知道了～……！\n肯定花了不少功夫……！  谢谢啦！",
+              "line_no": 4
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情\\5th Anniversary 当日スペシャルコミュ\\5th Anniversary-アルストロメリア.csv",
+          "line_no": 2,
+          "context": [
+            {
+              "offset": 0,
+              "speaker": "甘奈",
+              "jp": "プロデューサーさん……\nあの……、ありがと……！",
+              "cn": "制作人……\n那个……，谢谢你……！",
+              "line_no": 2
+            },
+            {
+              "offset": 1,
+              "speaker": "甘奈",
+              "jp": "えっとね、今の甘奈の幸せって\nプロデューサーさんがいないと、なかったものだから……",
+              "cn": "话说啊，现在的甘奈的幸福\n是有了制作人先生才能实现的，所以……",
+              "line_no": 3
+            },
+            {
+              "offset": 2,
+              "speaker": "甘奈",
+              "jp": "お礼……言いたくなっちゃったんだ……！",
+              "cn": "不由得就想要……说一些感谢的话语……！",
+              "line_no": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "甜花",
+      "score": 3124,
+      "scene_cooccurrence": 177,
+      "prev_to_target": 1024,
+      "target_to_next": 1094,
+      "mentions_target": 14,
+      "target_mentions_partner": 638,
+      "samples": [
+        {
+          "file": "283活动剧情\\5th Anniversary 当日スペシャルコミュ\\5th Anniversary-アルストロメリア.csv",
+          "line_no": 4,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "甘奈",
+              "jp": "プロデューサーさん……\nあの……、ありがと……！",
+              "cn": "制作人……\n那个……，谢谢你……！",
+              "line_no": 2
+            },
+            {
+              "offset": -1,
+              "speaker": "甘奈",
+              "jp": "えっとね、今の甘奈の幸せって\nプロデューサーさんがいないと、なかったものだから……",
+              "cn": "话说啊，现在的甘奈的幸福\n是有了制作人先生才能实现的，所以……",
+              "line_no": 3
+            },
+            {
+              "offset": 0,
+              "speaker": "甘奈",
+              "jp": "お礼……言いたくなっちゃったんだ……！",
+              "cn": "不由得就想要……说一些感谢的话语……！",
+              "line_no": 4
+            },
+            {
+              "offset": 1,
+              "speaker": "甜花",
+              "jp": "プロデューサーさんのおかげで……\n甜花の、だめだめなとこ……",
+              "cn": "多亏了制作人先生……\n才能让甜花的各种不足……",
+              "line_no": 5
+            },
+            {
+              "offset": 2,
+              "speaker": "甜花",
+              "jp": "いっこずつ……\nちゃんと、なってってるよね……？",
+              "cn": "逐渐……\n一点点被修正吧……？",
+              "line_no": 6
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情\\Detective×Murder\\special_communications_490103204.csv",
+          "line_no": 20,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "弟子",
+              "jp": "ただ、みなさんにご挨拶は\nさせていただくと申しておりました……",
+              "cn": "不过，他曾说过\n自己定会亲自与各位进行寒暄……",
+              "line_no": 18
+            },
+            {
+              "offset": -1,
+              "speaker": "甘奈",
+              "jp": "そうなんだ……",
+              "cn": "是这样吗……",
+              "line_no": 19
+            },
+            {
+              "offset": 0,
+              "speaker": "甘奈",
+              "jp": "誰にも姿を見せなかった『Ａ』だもんね！\n挨拶してもらえるだけでもうれしーな！",
+              "cn": "毕竟那可是从不在任何人面前露脸的“A”嘛！\n哪怕只是露个脸我也很高兴了！",
+              "line_no": 20
+            },
+            {
+              "offset": 1,
+              "speaker": "甜花",
+              "jp": "うん、『Ａ』はすごい……！",
+              "cn": "嗯，“A”很厉害……！",
+              "line_no": 21
+            },
+            {
+              "offset": 2,
+              "speaker": "甜花",
+              "jp": "甜花、台所に行こうと思って、迷っちゃった……",
+              "cn": "甜花本来想去厨房，结果不小心迷路了……",
+              "line_no": 22
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情\\Detective×Murder\\special_communications_490103205.csv",
+          "line_no": 18,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "甘奈",
+              "jp": "そうだね……！",
+              "cn": "是呢……！",
+              "line_no": 16
+            },
+            {
+              "offset": -1,
+              "speaker": "甘奈",
+              "jp": "お弟子さん、本棟の見取り図\n描いてもらっていいかな？",
+              "cn": "弟子先生，能帮我们画一份主楼的布局图吗？",
+              "line_no": 17
+            },
+            {
+              "offset": 0,
+              "speaker": "甘奈",
+              "jp": "当てずっぽうに歩くより、\n何か、指針になるものがあった方がいいと思うんだ",
+              "cn": "我觉得比起到处乱转，\n还是有某种类似指针的东西会比较好",
+              "line_no": 18
+            },
+            {
+              "offset": 1,
+              "speaker": "甜花",
+              "jp": "わ……\nそう……だね……！",
+              "cn": "哇……\n是这样……呢……！",
+              "line_no": 19
+            },
+            {
+              "offset": 2,
+              "speaker": "甜花",
+              "jp": "──あ、あと……\n何か、手がかりも……ないかな……？",
+              "cn": "——还、还有没有什么……别的线索呢……？",
+              "line_no": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "千雪",
+      "score": 2384,
+      "scene_cooccurrence": 146,
+      "prev_to_target": 793,
+      "target_to_next": 753,
+      "mentions_target": 234,
+      "target_mentions_partner": 312,
+      "samples": [
+        {
+          "file": "283活动剧情\\Detective×Murder\\special_communications_490103205.csv",
+          "line_no": 16,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "千雪",
+              "jp": "お弟子さんも\n私たちと情報量がそんなに変わらないのなら……",
+              "cn": "如果弟子先生的情报量和我们没有太大差别……",
+              "line_no": 14
+            },
+            {
+              "offset": -1,
+              "speaker": "千雪",
+              "jp": "まずは『Ａ』の部屋を探すところから始めないと\nいけないのかな……？",
+              "cn": "那么首先，就必须要从寻找“A”的房间开始才行吧……？",
+              "line_no": 15
+            },
+            {
+              "offset": 0,
+              "speaker": "甘奈",
+              "jp": "そうだね……！",
+              "cn": "是呢……！",
+              "line_no": 16
+            },
+            {
+              "offset": 1,
+              "speaker": "甘奈",
+              "jp": "お弟子さん、本棟の見取り図\n描いてもらっていいかな？",
+              "cn": "弟子先生，能帮我们画一份主楼的布局图吗？",
+              "line_no": 17
+            },
+            {
+              "offset": 2,
+              "speaker": "甘奈",
+              "jp": "当てずっぽうに歩くより、\n何か、指針になるものがあった方がいいと思うんだ",
+              "cn": "我觉得比起到处乱转，\n还是有某种类似指针的东西会比较好",
+              "line_no": 18
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情\\Detective×Murder\\special_communications_490103207.csv",
+          "line_no": 12,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "千雪",
+              "jp": "データを集めて犯人を捜すの、とってもいいと思う……！",
+              "cn": "收集情报，从而推断出犯人，\n我觉得这样很好……！",
+              "line_no": 10
+            },
+            {
+              "offset": -1,
+              "speaker": "千雪",
+              "jp": "ただ、死亡推定時刻の偽装トリックには\n気をつけたい、かな……",
+              "cn": "只不过，希望大家能注意一下\n伪装死亡推定时刻的小把戏呢……",
+              "line_no": 11
+            },
+            {
+              "offset": 0,
+              "speaker": "甘奈",
+              "jp": "甘奈が前に関わった事件でも\nそういうのあったよ",
+              "cn": "甘奈之前参与的事件里，\n也出现过类似的情况哦",
+              "line_no": 12
+            },
+            {
+              "offset": 1,
+              "speaker": "甘奈",
+              "jp": "遺体を氷で冷やして\n死亡推定時刻を実際より前に誤認させる、って",
+              "cn": "比如用冰冷却遗体，\n让死亡推定时刻被误认得比实际时间更早",
+              "line_no": 13
+            },
+            {
+              "offset": 2,
+              "speaker": "甜花",
+              "jp": "……冷やす、か……",
+              "cn": "……冷却，吗……",
+              "line_no": 14
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情\\Detective×Murder\\special_communications_490103212.csv",
+          "line_no": 20,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "甜花",
+              "jp": "うん……",
+              "cn": "嗯……",
+              "line_no": 18
+            },
+            {
+              "offset": -1,
+              "speaker": "甜花",
+              "jp": "甜花……そのクッキー……\n千雪さんに、わけてもらった……",
+              "cn": "千雪小姐……也把饼干……\n分给了甜花一些……",
+              "line_no": 19
+            },
+            {
+              "offset": 0,
+              "speaker": "甘奈",
+              "jp": "焼き上がるまで一緒にいたら、\n千雪さんのアリバイ、ちゃんと立証できたのに……",
+              "cn": "明明如果我们一直陪着千雪小姐到饼干烤好，\n就能帮她做不在场证明了……",
+              "line_no": 20
+            },
+            {
+              "offset": 1,
+              "speaker": "千雪",
+              "jp": "ありがとう、甘奈ちゃん、甜花ちゃん",
+              "cn": "谢谢你们，小甘奈、小甜花",
+              "line_no": 21
+            },
+            {
+              "offset": 2,
+              "speaker": "弟子",
+              "jp": "あまりこういうことは言いたくないのですが……",
+              "cn": "虽然我不是很想说这种话……",
+              "line_no": 22
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "制作人",
+      "score": 542,
+      "scene_cooccurrence": 0,
+      "prev_to_target": 0,
+      "target_to_next": 0,
+      "mentions_target": 0,
+      "target_mentions_partner": 542,
+      "samples": [
+        {
+          "file": "283活动剧情\\2025ホワイトデー スペシャルコミュ\\25白情甘奈2.csv",
+          "line_no": 11,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "甘奈",
+              "jp": "…………\nやってもらっても……いい？",
+              "cn": "…………\n可不可以……也像之前那样？",
+              "line_no": 9
+            },
+            {
+              "offset": -1,
+              "speaker": "プロデューサー",
+              "jp": "……？",
+              "cn": "",
+              "line_no": 10
+            },
+            {
+              "offset": 0,
+              "speaker": "甘奈",
+              "jp": "甘奈も、あーんって\nしてもらいたい……かも……！",
+              "cn": "甘奈，也有点\n想要……制作人喂……！",
+              "line_no": 11
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情\\5th Anniversary 当日スペシャルコミュ\\5th Anniversary-アルストロメリア.csv",
+          "line_no": 2,
+          "context": [
+            {
+              "offset": 0,
+              "speaker": "甘奈",
+              "jp": "プロデューサーさん……\nあの……、ありがと……！",
+              "cn": "制作人……\n那个……，谢谢你……！",
+              "line_no": 2
+            },
+            {
+              "offset": 1,
+              "speaker": "甘奈",
+              "jp": "えっとね、今の甘奈の幸せって\nプロデューサーさんがいないと、なかったものだから……",
+              "cn": "话说啊，现在的甘奈的幸福\n是有了制作人先生才能实现的，所以……",
+              "line_no": 3
+            },
+            {
+              "offset": 2,
+              "speaker": "甘奈",
+              "jp": "お礼……言いたくなっちゃったんだ……！",
+              "cn": "不由得就想要……说一些感谢的话语……！",
+              "line_no": 4
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情\\Endless×Loop\\C-2シナリオ-プロデューサーじゃない！.csv",
+          "line_no": 86,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "千雪",
+              "jp": "あら？\nごめんなさい、起こしちゃいましたか……？",
+              "cn": "啊？\n对不起，吵醒你了吗……？",
+              "line_no": 84
+            },
+            {
+              "offset": -1,
+              "speaker": "プロデューサー",
+              "jp": "あ、いや……\nうたたねだったから、すぐに目が覚めたみたいだ",
+              "cn": "啊，不……\n打了个盹儿，好像马上就醒了",
+              "line_no": 85
+            },
+            {
+              "offset": 0,
+              "speaker": "甘奈",
+              "jp": "大丈夫？\nプロデューサーさん、最近働きすぎじゃない……？",
+              "cn": "没事吗？\n制作人，最近没有工作过头吗……？",
+              "line_no": 86
+            },
+            {
+              "offset": 1,
+              "speaker": "甜花",
+              "jp": "プロデューサーさん……\n無理しちゃ……ダメだよ……",
+              "cn": "制作人……\n不能……勉强自己哦……",
+              "line_no": 87
+            },
+            {
+              "offset": 2,
+              "speaker": "プロデューサー",
+              "jp": "はは、ふたりとも、心配してくれてありがとうな\n確かに、ちょっと疲れがたまってたみたいだ",
+              "cn": "哈哈，多谢关心\n好像是积累了一些疲劳",
+              "line_no": 88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "プロデューサーさん",
+      "score": 513,
+      "scene_cooccurrence": 1,
+      "prev_to_target": 0,
+      "target_to_next": 0,
+      "mentions_target": 2,
+      "target_mentions_partner": 509,
+      "samples": [
+        {
+          "file": "283活动剧情\\5th Anniversary 当日スペシャルコミュ\\5th Anniversary-アルストロメリア.csv",
+          "line_no": 2,
+          "context": [
+            {
+              "offset": 0,
+              "speaker": "甘奈",
+              "jp": "プロデューサーさん……\nあの……、ありがと……！",
+              "cn": "制作人……\n那个……，谢谢你……！",
+              "line_no": 2
+            },
+            {
+              "offset": 1,
+              "speaker": "甘奈",
+              "jp": "えっとね、今の甘奈の幸せって\nプロデューサーさんがいないと、なかったものだから……",
+              "cn": "话说啊，现在的甘奈的幸福\n是有了制作人先生才能实现的，所以……",
+              "line_no": 3
+            },
+            {
+              "offset": 2,
+              "speaker": "甘奈",
+              "jp": "お礼……言いたくなっちゃったんだ……！",
+              "cn": "不由得就想要……说一些感谢的话语……！",
+              "line_no": 4
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情\\Endless×Loop\\C-2シナリオ-プロデューサーじゃない！.csv",
+          "line_no": 86,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "千雪",
+              "jp": "あら？\nごめんなさい、起こしちゃいましたか……？",
+              "cn": "啊？\n对不起，吵醒你了吗……？",
+              "line_no": 84
+            },
+            {
+              "offset": -1,
+              "speaker": "プロデューサー",
+              "jp": "あ、いや……\nうたたねだったから、すぐに目が覚めたみたいだ",
+              "cn": "啊，不……\n打了个盹儿，好像马上就醒了",
+              "line_no": 85
+            },
+            {
+              "offset": 0,
+              "speaker": "甘奈",
+              "jp": "大丈夫？\nプロデューサーさん、最近働きすぎじゃない……？",
+              "cn": "没事吗？\n制作人，最近没有工作过头吗……？",
+              "line_no": 86
+            },
+            {
+              "offset": 1,
+              "speaker": "甜花",
+              "jp": "プロデューサーさん……\n無理しちゃ……ダメだよ……",
+              "cn": "制作人……\n不能……勉强自己哦……",
+              "line_no": 87
+            },
+            {
+              "offset": 2,
+              "speaker": "プロデューサー",
+              "jp": "はは、ふたりとも、心配してくれてありがとうな\n確かに、ちょっと疲れがたまってたみたいだ",
+              "cn": "哈哈，多谢关心\n好像是积累了一些疲劳",
+              "line_no": 88
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情\\YOUR MY Love letter\\终章-You are..csv",
+          "line_no": 95,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "甘奈",
+              "jp": "えへへ、走れば大丈夫だよー☆",
+              "cn": "欸嘿嘿，跑起来的话就没问题☆",
+              "line_no": 93
+            },
+            {
+              "offset": -1,
+              "speaker": "甜花",
+              "jp": "あぅ……じゃあ……\nて、甜花も────",
+              "cn": "啊……那么……\n甜、甜花也————",
+              "line_no": 94
+            },
+            {
+              "offset": 0,
+              "speaker": "甘奈",
+              "jp": "これからプロデューサーさんが来るんでしょ？\nじゃあ、甜花ちゃんは家にいなくちゃ！",
+              "cn": "制作人等会要过来吧？\n那么，甜花得在家里才行呢！",
+              "line_no": 95
+            },
+            {
+              "offset": 1,
+              "speaker": "甘奈",
+              "jp": "……大丈夫だから",
+              "cn": "……没关系的",
+              "line_no": 96
+            },
+            {
+              "offset": 2,
+              "speaker": "甘奈",
+              "jp": "……ね？",
+              "cn": "……行吧？",
+              "line_no": 97
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "かな",
+      "score": 352,
+      "scene_cooccurrence": 0,
+      "prev_to_target": 0,
+      "target_to_next": 0,
+      "mentions_target": 0,
+      "target_mentions_partner": 352,
+      "samples": [
+        {
+          "file": "283活动剧情\\Detective×Murder\\special_communications_490103204.csv",
+          "line_no": 5,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "弟子",
+              "jp": "和牛のサーロインステーキとなります──",
+              "cn": "这是和牛的牛腰肉排——",
+              "line_no": 3
+            },
+            {
+              "offset": -1,
+              "speaker": "甘奈",
+              "jp": "お弟子さん、ありがと！\nえへへ、めっちゃ美味しそうだね",
+              "cn": "弟子先生，谢谢你！\n诶嘿嘿，看起来很好吃呢",
+              "line_no": 4
+            },
+            {
+              "offset": 0,
+              "speaker": "甘奈",
+              "jp": "ちなみに……\nこれってメインディッシュかな？",
+              "cn": "顺带一提……\n这个是主菜吗？",
+              "line_no": 5
+            },
+            {
+              "offset": 1,
+              "speaker": "甘奈",
+              "jp": "『Ａ』さんも同席してくれるなら\n食べ終わっちゃうとよくないかなって思って",
+              "cn": "如果“A”先生也会同席，\n我觉得现在就全部吃完不太好吧",
+              "line_no": 6
+            },
+            {
+              "offset": 2,
+              "speaker": "弟子",
+              "jp": "それは──",
+              "cn": "关于这件事——",
+              "line_no": 7
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情\\Detective×Murder\\special_communications_490103205.csv",
+          "line_no": 17,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "千雪",
+              "jp": "まずは『Ａ』の部屋を探すところから始めないと\nいけないのかな……？",
+              "cn": "那么首先，就必须要从寻找“A”的房间开始才行吧……？",
+              "line_no": 15
+            },
+            {
+              "offset": -1,
+              "speaker": "甘奈",
+              "jp": "そうだね……！",
+              "cn": "是呢……！",
+              "line_no": 16
+            },
+            {
+              "offset": 0,
+              "speaker": "甘奈",
+              "jp": "お弟子さん、本棟の見取り図\n描いてもらっていいかな？",
+              "cn": "弟子先生，能帮我们画一份主楼的布局图吗？",
+              "line_no": 17
+            },
+            {
+              "offset": 1,
+              "speaker": "甘奈",
+              "jp": "当てずっぽうに歩くより、\n何か、指針になるものがあった方がいいと思うんだ",
+              "cn": "我觉得比起到处乱转，\n还是有某种类似指针的东西会比较好",
+              "line_no": 18
+            },
+            {
+              "offset": 2,
+              "speaker": "甜花",
+              "jp": "わ……\nそう……だね……！",
+              "cn": "哇……\n是这样……呢……！",
+              "line_no": 19
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情\\Detective×Murder\\【２日目】16_28-凶器について１.csv",
+          "line_no": 23,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "弟子",
+              "jp": "ええ。試薬を使って調べたところ\n血液が検出されました",
+              "cn": "嗯。我使用试剂调查过后，\n从中检测出了血液",
+              "line_no": 21
+            },
+            {
+              "offset": -1,
+              "speaker": "甘奈",
+              "jp": "でも、エコバッグって薄くて軽い……よね？",
+              "cn": "但是，环保袋应该很薄而且很轻……吧？",
+              "line_no": 22
+            },
+            {
+              "offset": 0,
+              "speaker": "甘奈",
+              "jp": "それを凶器にっていうのは\nちょっと難しいんじゃないかな……？",
+              "cn": "要拿它当凶器是不是有点困难呢……？",
+              "line_no": 23
+            },
+            {
+              "offset": 1,
+              "speaker": "甜花",
+              "jp": "う、うん……\nでも……",
+              "cn": "嗯、嗯……\n但是……",
+              "line_no": 24
+            },
+            {
+              "offset": 2,
+              "speaker": "甜花",
+              "jp": "エコバッグの中に……\n何か、入れたりすれば……",
+              "cn": "只要在环保袋里面……\n装上，一些东西……",
+              "line_no": 25
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "果穂",
+      "score": 161,
+      "scene_cooccurrence": 41,
+      "prev_to_target": 24,
+      "target_to_next": 30,
+      "mentions_target": 16,
+      "target_mentions_partner": 9,
+      "samples": [
+        {
+          "file": "283活动剧情\\きよしこの夜、プレゼン・フォー・ユー！\\13_32 PM.csv",
+          "line_no": 95,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "あさひ",
+              "jp": "もしもーし！　もしもーし……！",
+              "cn": "你好——！　你好……！",
+              "line_no": 93
+            },
+            {
+              "offset": -1,
+              "speaker": "果穂",
+              "jp": "『わぁ……っ！』",
+              "cn": "“哇……！”",
+              "line_no": 94
+            },
+            {
+              "offset": 0,
+              "speaker": "甘奈",
+              "jp": "『きゃ……っ！』",
+              "cn": "“呀……！”",
+              "line_no": 95
+            },
+            {
+              "offset": 1,
+              "speaker": "灯織",
+              "jp": "『果穂……！　甘奈……！』",
+              "cn": "“果穗……！　甘奈……！”",
+              "line_no": 96
+            },
+            {
+              "offset": 2,
+              "speaker": "摩美々",
+              "jp": "ちょっとー、そっちは何ー",
+              "cn": "什么啊，那边怎么了——",
+              "line_no": 97
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情\\きよしこの夜、プレゼン・フォー・ユー！\\14_11 PM.csv",
+          "line_no": 7,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "灯織",
+              "jp": "大丈夫、ふたりとも……！",
+              "cn": "你们两个，没事吧……！",
+              "line_no": 5
+            },
+            {
+              "offset": -1,
+              "speaker": "甘奈",
+              "jp": "う、うん……大丈夫……っ\n──スタッフさんも、ありがとうございます……",
+              "cn": "嗯，嗯……没事……\n也谢谢工作人员了……",
+              "line_no": 6
+            },
+            {
+              "offset": 0,
+              "speaker": "甘奈",
+              "jp": "……ごめんなさい、プレゼントが……",
+              "cn": "……对不起，礼物……",
+              "line_no": 7
+            },
+            {
+              "offset": 1,
+              "speaker": "果穂",
+              "jp": "ごめんなさい……っ\n散らばっちゃいました……！",
+              "cn": "对不起……\n礼物散了一地……！",
+              "line_no": 8
+            },
+            {
+              "offset": 2,
+              "speaker": "灯織",
+              "jp": "それは……！\nふたりがなんともないなら、全然……！",
+              "cn": "那是……！\n你们两个没事的话，就没关系……！",
+              "line_no": 9
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情\\きよしこの夜、プレゼン・フォー・ユー！\\16_57 PM.csv",
+          "line_no": 4,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "灯織",
+              "jp": "今、チームまりあに\nプレゼント袋が渡りました！",
+              "cn": "现在，我们已经把礼物袋\n传给了玛利亚组！",
+              "line_no": 2
+            },
+            {
+              "offset": -1,
+              "speaker": "果穂",
+              "jp": "チーム青春ジャージさんっ、\nお疲れ様でしたっ！",
+              "cn": "青春外套组的大家，\n辛苦了！",
+              "line_no": 3
+            },
+            {
+              "offset": 0,
+              "speaker": "甘奈",
+              "jp": "この区間は、空港の目の前まで行くんだよねっ\nやーっとゴールが近づいてきたよー！",
+              "cn": "这个区间，能到机场附近吧\n总算靠近终点了！",
+              "line_no": 4
+            },
+            {
+              "offset": 1,
+              "speaker": "甘奈",
+              "jp": "河が海に流れこむ、\nめーっちゃサイコーなとこ☆",
+              "cn": "河川汇流进大海，\n真的超棒的☆",
+              "line_no": 5
+            },
+            {
+              "offset": 2,
+              "speaker": "灯織",
+              "jp": "はい、ぜひ最後まで見守ってください\nそれでは、カメラを切り替えます！",
+              "cn": "是的，请各位务必看到最后\n那么，切换镜头！",
+              "line_no": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "愛依",
+      "score": 134,
+      "scene_cooccurrence": 28,
+      "prev_to_target": 30,
+      "target_to_next": 34,
+      "mentions_target": 7,
+      "target_mentions_partner": 7,
+      "samples": [
+        {
+          "file": "283活动剧情\\サマー・ミーツ・ワンダーランド\\時の物語.csv",
+          "line_no": 92,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "咲耶",
+              "jp": "おや\n素敵な人魚たちが加わってくれるものと思ったのに",
+              "cn": "唷\n我还以为漂亮的美人鱼们会加入的",
+              "line_no": 90
+            },
+            {
+              "offset": -1,
+              "speaker": "摩美々",
+              "jp": "紫の人魚は休憩中なんでー",
+              "cn": "紫色的美人鱼在休息",
+              "line_no": 91
+            },
+            {
+              "offset": 0,
+              "speaker": "甘奈",
+              "jp": "青の人魚もでーす☆",
+              "cn": "青色的美人鱼也是",
+              "line_no": 92
+            },
+            {
+              "offset": 1,
+              "speaker": "愛依",
+              "jp": "休憩中ならしゃーないかぁ",
+              "cn": "在休息的话就没办法了",
+              "line_no": 93
+            },
+            {
+              "offset": 2,
+              "speaker": "愛依",
+              "jp": "明けたらもっかい誘うとしてー",
+              "cn": "休息好了再邀请一次",
+              "line_no": 94
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情\\シャイニーの日\\シャイニーの日 2025 特別コミュ.csv",
+          "line_no": 27,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "ルカ",
+              "jp": "じゃあ、一緒に",
+              "cn": "那就一起吧",
+              "line_no": 25
+            },
+            {
+              "offset": -1,
+              "speaker": "愛依",
+              "jp": "おっ、甘奈ちゃん、今日のメイクちょい攻めじゃん♪\nちょー似合ってる～",
+              "cn": "哦哦，甘奈的新妆真大胆♪\n超搭你的～",
+              "line_no": 26
+            },
+            {
+              "offset": 0,
+              "speaker": "甘奈",
+              "jp": "ありがと☆　朝の占いで\n『攻め女子スタイルが吉！』って言ってたんだ～",
+              "cn": "谢啦☆　早上我特意看了占卜\n说是『今日女孩子宜主动出击』～",
+              "line_no": 27
+            },
+            {
+              "offset": 1,
+              "speaker": "凛世",
+              "jp": "攻め女子……\nそのようなものが──……",
+              "cn": "主动出击……\n凛世疏忽了——……",
+              "line_no": 28
+            },
+            {
+              "offset": 2,
+              "speaker": "善村記者",
+              "jp": "お話の中からも、２８３プロダクションさんの\n魅力が垣間見えますね",
+              "cn": "想必大家也从采访当中\n窥见各位魅力的冰山一角了",
+              "line_no": 29
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情\\ロング・ログ・エンドロール\\序章-long long ago.csv",
+          "line_no": 6,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "甜花",
+              "jp": "えと……\nどっち……？",
+              "cn": "那个……\n哪边？",
+              "line_no": 4
+            },
+            {
+              "offset": -1,
+              "speaker": "結華",
+              "jp": "あーごめん\n出る前にちゃんと道教えてもらえばよかったね",
+              "cn": "啊，抱歉\n先问好路之后再出来就好了",
+              "line_no": 5
+            },
+            {
+              "offset": 0,
+              "speaker": "甘奈",
+              "jp": "あ、でも……\nんー……右、かな……？",
+              "cn": "啊，但是……\n唔……是右边吗？",
+              "line_no": 6
+            },
+            {
+              "offset": 1,
+              "speaker": "愛依",
+              "jp": "ね！\n右の方から聞こえてくるもんね、ほら、あの──",
+              "cn": "呐！\n从右边能听到点声音，看，那个……",
+              "line_no": 7
+            },
+            {
+              "offset": 2,
+              "speaker": "愛依",
+              "jp": "お祭りの音！",
+              "cn": "祭典的声音！",
+              "line_no": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "先生",
+      "score": 130,
+      "scene_cooccurrence": 0,
+      "prev_to_target": 0,
+      "target_to_next": 0,
+      "mentions_target": 0,
+      "target_mentions_partner": 130,
+      "samples": [
+        {
+          "file": "283活动剧情\\5th Anniversary 当日スペシャルコミュ\\5th Anniversary-アルストロメリア.csv",
+          "line_no": 3,
+          "context": [
+            {
+              "offset": -1,
+              "speaker": "甘奈",
+              "jp": "プロデューサーさん……\nあの……、ありがと……！",
+              "cn": "制作人……\n那个……，谢谢你……！",
+              "line_no": 2
+            },
+            {
+              "offset": 0,
+              "speaker": "甘奈",
+              "jp": "えっとね、今の甘奈の幸せって\nプロデューサーさんがいないと、なかったものだから……",
+              "cn": "话说啊，现在的甘奈的幸福\n是有了制作人先生才能实现的，所以……",
+              "line_no": 3
+            },
+            {
+              "offset": 1,
+              "speaker": "甘奈",
+              "jp": "お礼……言いたくなっちゃったんだ……！",
+              "cn": "不由得就想要……说一些感谢的话语……！",
+              "line_no": 4
+            },
+            {
+              "offset": 2,
+              "speaker": "甜花",
+              "jp": "プロデューサーさんのおかげで……\n甜花の、だめだめなとこ……",
+              "cn": "多亏了制作人先生……\n才能让甜花的各种不足……",
+              "line_no": 5
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情\\Detective×Murder\\special_communications_490103204.csv",
+          "line_no": 4,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "",
+              "jp": "20XX年 XX月 XX日 19:40",
+              "cn": "",
+              "line_no": 2
+            },
+            {
+              "offset": -1,
+              "speaker": "弟子",
+              "jp": "和牛のサーロインステーキとなります──",
+              "cn": "这是和牛的牛腰肉排——",
+              "line_no": 3
+            },
+            {
+              "offset": 0,
+              "speaker": "甘奈",
+              "jp": "お弟子さん、ありがと！\nえへへ、めっちゃ美味しそうだね",
+              "cn": "弟子先生，谢谢你！\n诶嘿嘿，看起来很好吃呢",
+              "line_no": 4
+            },
+            {
+              "offset": 1,
+              "speaker": "甘奈",
+              "jp": "ちなみに……\nこれってメインディッシュかな？",
+              "cn": "顺带一提……\n这个是主菜吗？",
+              "line_no": 5
+            },
+            {
+              "offset": 2,
+              "speaker": "甘奈",
+              "jp": "『Ａ』さんも同席してくれるなら\n食べ終わっちゃうとよくないかなって思って",
+              "cn": "如果“A”先生也会同席，\n我觉得现在就全部吃完不太好吧",
+              "line_no": 6
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情\\Detective×Murder\\special_communications_490103205.csv",
+          "line_no": 17,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "千雪",
+              "jp": "まずは『Ａ』の部屋を探すところから始めないと\nいけないのかな……？",
+              "cn": "那么首先，就必须要从寻找“A”的房间开始才行吧……？",
+              "line_no": 15
+            },
+            {
+              "offset": -1,
+              "speaker": "甘奈",
+              "jp": "そうだね……！",
+              "cn": "是呢……！",
+              "line_no": 16
+            },
+            {
+              "offset": 0,
+              "speaker": "甘奈",
+              "jp": "お弟子さん、本棟の見取り図\n描いてもらっていいかな？",
+              "cn": "弟子先生，能帮我们画一份主楼的布局图吗？",
+              "line_no": 17
+            },
+            {
+              "offset": 1,
+              "speaker": "甘奈",
+              "jp": "当てずっぽうに歩くより、\n何か、指針になるものがあった方がいいと思うんだ",
+              "cn": "我觉得比起到处乱转，\n还是有某种类似指针的东西会比较好",
+              "line_no": 18
+            },
+            {
+              "offset": 2,
+              "speaker": "甜花",
+              "jp": "わ……\nそう……だね……！",
+              "cn": "哇……\n是这样……呢……！",
+              "line_no": 19
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "灯織",
+      "score": 119,
+      "scene_cooccurrence": 27,
+      "prev_to_target": 30,
+      "target_to_next": 22,
+      "mentions_target": 9,
+      "target_mentions_partner": 4,
+      "samples": [
+        {
+          "file": "283活动剧情\\きよしこの夜、プレゼン・フォー・ユー！\\13_32 PM.csv",
+          "line_no": 95,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "あさひ",
+              "jp": "もしもーし！　もしもーし……！",
+              "cn": "你好——！　你好……！",
+              "line_no": 93
+            },
+            {
+              "offset": -1,
+              "speaker": "果穂",
+              "jp": "『わぁ……っ！』",
+              "cn": "“哇……！”",
+              "line_no": 94
+            },
+            {
+              "offset": 0,
+              "speaker": "甘奈",
+              "jp": "『きゃ……っ！』",
+              "cn": "“呀……！”",
+              "line_no": 95
+            },
+            {
+              "offset": 1,
+              "speaker": "灯織",
+              "jp": "『果穂……！　甘奈……！』",
+              "cn": "“果穗……！　甘奈……！”",
+              "line_no": 96
+            },
+            {
+              "offset": 2,
+              "speaker": "摩美々",
+              "jp": "ちょっとー、そっちは何ー",
+              "cn": "什么啊，那边怎么了——",
+              "line_no": 97
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情\\きよしこの夜、プレゼン・フォー・ユー！\\14_11 PM.csv",
+          "line_no": 4,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "灯織",
+              "jp": "果穂……！　甘奈……！",
+              "cn": "果穗……！　甘奈……！",
+              "line_no": 2
+            },
+            {
+              "offset": -1,
+              "speaker": "灯織",
+              "jp": "──そちらのトラック！\nここは徐行場所です！　待って────",
+              "cn": "——那边的卡车！\n这里是缓行区！　请等————",
+              "line_no": 3
+            },
+            {
+              "offset": 0,
+              "speaker": "甘奈",
+              "jp": "────いたた……",
+              "cn": "————痛痛痛……",
+              "line_no": 4
+            },
+            {
+              "offset": 1,
+              "speaker": "灯織",
+              "jp": "大丈夫、ふたりとも……！",
+              "cn": "你们两个，没事吧……！",
+              "line_no": 5
+            },
+            {
+              "offset": 2,
+              "speaker": "甘奈",
+              "jp": "う、うん……大丈夫……っ\n──スタッフさんも、ありがとうございます……",
+              "cn": "嗯，嗯……没事……\n也谢谢工作人员了……",
+              "line_no": 6
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情\\きよしこの夜、プレゼン・フォー・ユー！\\16_57 PM.csv",
+          "line_no": 5,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "果穂",
+              "jp": "チーム青春ジャージさんっ、\nお疲れ様でしたっ！",
+              "cn": "青春外套组的大家，\n辛苦了！",
+              "line_no": 3
+            },
+            {
+              "offset": -1,
+              "speaker": "甘奈",
+              "jp": "この区間は、空港の目の前まで行くんだよねっ\nやーっとゴールが近づいてきたよー！",
+              "cn": "这个区间，能到机场附近吧\n总算靠近终点了！",
+              "line_no": 4
+            },
+            {
+              "offset": 0,
+              "speaker": "甘奈",
+              "jp": "河が海に流れこむ、\nめーっちゃサイコーなとこ☆",
+              "cn": "河川汇流进大海，\n真的超棒的☆",
+              "line_no": 5
+            },
+            {
+              "offset": 1,
+              "speaker": "灯織",
+              "jp": "はい、ぜひ最後まで見守ってください\nそれでは、カメラを切り替えます！",
+              "cn": "是的，请各位务必看到最后\n那么，切换镜头！",
+              "line_no": 6
+            },
+            {
+              "offset": 2,
+              "speaker": "摩美々",
+              "jp": "18時までにー……\n鳥居ー……っ",
+              "cn": "18点前……\n要到鸟居……",
+              "line_no": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "夏葉",
+      "score": 110,
+      "scene_cooccurrence": 34,
+      "prev_to_target": 20,
+      "target_to_next": 17,
+      "mentions_target": 3,
+      "target_mentions_partner": 2,
+      "samples": [
+        {
+          "file": "283活动剧情\\オペレーション・サンタ！～包囲せよ２８３プロ～\\终章-サンタさんつかまえた.csv",
+          "line_no": 107,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "甜花",
+              "jp": "……あ、雪",
+              "cn": "……啊，雪",
+              "line_no": 105
+            },
+            {
+              "offset": -1,
+              "speaker": "夏葉",
+              "jp": "え？",
+              "cn": "诶",
+              "line_no": 106
+            },
+            {
+              "offset": 0,
+              "speaker": "甘奈",
+              "jp": "わぁ、ほんとだ！　雪～！",
+              "cn": "哇，真的！是雪~！",
+              "line_no": 107
+            },
+            {
+              "offset": 1,
+              "speaker": "咲耶",
+              "jp": "フフ、なかなかロマンチックじゃないか",
+              "cn": "呵呵，这不是很浪漫吗",
+              "line_no": 108
+            },
+            {
+              "offset": 2,
+              "speaker": "果穂",
+              "jp": "すっ、スゴいですっ！\nお空も、きっとあたしたちをお祝いしてくれてるんですっ！",
+              "cn": "好，好厉害！\n一定是，天空也在为我们庆祝！",
+              "line_no": 109
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情\\サマー・ミーツ・ワンダーランド\\時の物語.csv",
+          "line_no": 88,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "霧子",
+              "jp": "白鳥さんに……\n乗せてもらえるんだ……",
+              "cn": "可以让天鹅……\n载着你们……",
+              "line_no": 86
+            },
+            {
+              "offset": -1,
+              "speaker": "夏葉",
+              "jp": "ええ！　私、スワンフロートを持ってきてるの\nぜひ楽しんでちょうだい！",
+              "cn": "没错！我带来了天鹅漂浮垫\n请开心地玩吧！",
+              "line_no": 87
+            },
+            {
+              "offset": 0,
+              "speaker": "摩美々＆甘奈",
+              "jp": "……",
+              "cn": "",
+              "line_no": 88
+            },
+            {
+              "offset": 1,
+              "speaker": "摩美々＆甘奈",
+              "jp": "今は遠慮しまぁす",
+              "cn": "现在就不必了",
+              "line_no": 89
+            },
+            {
+              "offset": 2,
+              "speaker": "咲耶",
+              "jp": "おや\n素敵な人魚たちが加わってくれるものと思ったのに",
+              "cn": "唷\n我还以为漂亮的美人鱼们会加入的",
+              "line_no": 90
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情\\ミルキィウェイ61-世界と世界がまじわる夜に-\\第5话-鳴かないでベイビー.csv",
+          "line_no": 43,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "甜花",
+              "jp": "こ、仔馬さん……！　待って……────",
+              "cn": "小，小马……！ 等等……——",
+              "line_no": 41
+            },
+            {
+              "offset": -1,
+              "speaker": "甜花",
+              "jp": "────……っ\nなーちゃん……千雪さん……！",
+              "cn": "————……\n小奈……千雪……！",
+              "line_no": 42
+            },
+            {
+              "offset": 0,
+              "speaker": "甘奈＆千雪",
+              "jp": "甜花ちゃん……！",
+              "cn": "甜花……！",
+              "line_no": 43
+            },
+            {
+              "offset": 1,
+              "speaker": "夏葉",
+              "jp": "……なるほど\nアナタたちは天の川見物に来ていた……と",
+              "cn": "……原来如此\n你们是来参观银河的",
+              "line_no": 44
+            },
+            {
+              "offset": 2,
+              "speaker": "夏葉",
+              "jp": "それで、ふたりが切符を買いにいって\nアナタがしばらくひとりになって──",
+              "cn": "然后，她们两个去买车票\n你就暂时成了一个人——",
+              "line_no": 45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "凛世",
+      "score": 109,
+      "scene_cooccurrence": 25,
+      "prev_to_target": 27,
+      "target_to_next": 27,
+      "mentions_target": 3,
+      "target_mentions_partner": 2,
+      "samples": [
+        {
+          "file": "283活动剧情\\きよしこの夜、プレゼン・フォー・ユー！\\14_11 PM.csv",
+          "line_no": 31,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "摩美々",
+              "jp": "……",
+              "cn": "……",
+              "line_no": 29
+            },
+            {
+              "offset": -1,
+              "speaker": "凛世",
+              "jp": "……",
+              "cn": "……",
+              "line_no": 30
+            },
+            {
+              "offset": 0,
+              "speaker": "甘奈",
+              "jp": "無線かな？\n──あれ、消えちゃったね",
+              "cn": "无线电吗？\n——咦，消失了",
+              "line_no": 31
+            },
+            {
+              "offset": 1,
+              "speaker": "あさひ",
+              "jp": "サンタっす……",
+              "cn": "是圣诞老人……",
+              "line_no": 32
+            },
+            {
+              "offset": 2,
+              "speaker": "灯織",
+              "jp": "……？",
+              "cn": "……？",
+              "line_no": 33
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情\\きよしこの夜、プレゼン・フォー・ユー！\\17_46 PM.csv",
+          "line_no": 84,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "社長",
+              "jp": "迷える者に、\n過去、現在、未来を見せる幽霊……",
+              "cn": "向迷茫之人，\n展现过去，现在，未来的幽灵……",
+              "line_no": 82
+            },
+            {
+              "offset": -1,
+              "speaker": "灯織",
+              "jp": "──よかった！\nチームまりあのみんなが、見えてきました！",
+              "cn": "——太好了！\n我们已经能看到玛利亚组的各位了！",
+              "line_no": 83
+            },
+            {
+              "offset": 0,
+              "speaker": "甘奈",
+              "jp": "頑張ってー！\nもうちょっと、もうちょっとだよー！",
+              "cn": "加油！\n就差一点，就差一点了！",
+              "line_no": 84
+            },
+            {
+              "offset": 1,
+              "speaker": "凛世",
+              "jp": "遅れ……３分キープです……",
+              "cn": "迟到……控制在了三分钟内……",
+              "line_no": 85
+            },
+            {
+              "offset": 2,
+              "speaker": "摩美々",
+              "jp": "……はぁっ……\n遅れの……遅れだケドー……",
+              "cn": "……哈……\n反正……都迟到好久了……",
+              "line_no": 86
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情\\シャイニーの日\\2020年4月12日-シャイニーの日 2020 特別コミュ.csv",
+          "line_no": 18,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "摩美々",
+              "jp": "あ、はづきさんー。恋鐘が来たら『経費』って────\n──そうですかぁ。みんなお節介ですねー",
+              "cn": "啊，叶月——。恋钟来了的话帮忙跟她说一声“经费”——\n——是吗。大家真是爱操心呢",
+              "line_no": 16
+            },
+            {
+              "offset": -1,
+              "speaker": "凛世",
+              "jp": "一日一善……レッスンまで、電話番を……\n──はい、２８３プロダクションでございます……",
+              "cn": "一日一善……训练之前，帮忙接电话……\n——您好，这里是283事务所……",
+              "line_no": 17
+            },
+            {
+              "offset": 0,
+              "speaker": "甘奈",
+              "jp": "──えっへへ～、昨日冷蔵庫に入れといたご褒美スイーツ☆\n食べちゃお、甜花ちゃん",
+              "cn": "——诶嘿嘿～昨天放进冰箱里当做奖赏的甜点☆\n来吃吧，甜花",
+              "line_no": 18
+            },
+            {
+              "offset": 1,
+              "speaker": "甜花",
+              "jp": "うん……！　──あ、あれ……\nな、中身……昨日と、違う…………？",
+              "cn": "嗯……！——咦……\n里面装的甜点……和昨天的……不一样…………？",
+              "line_no": 19
+            },
+            {
+              "offset": 2,
+              "speaker": "恋鐘",
+              "jp": "ん～なんやったやろ～～……なんか……なんか……\nうち、ここば来んといけんかったと～……",
+              "cn": "嗯～为什么呢～～……总感觉……总感觉……\n我，不来这里一趟不行～……",
+              "line_no": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "結華",
+      "score": 86,
+      "scene_cooccurrence": 30,
+      "prev_to_target": 14,
+      "target_to_next": 10,
+      "mentions_target": 2,
+      "target_mentions_partner": 0,
+      "samples": [
+        {
+          "file": "283活动剧情\\オペレーション・サンタ！～包囲せよ２８３プロ～\\第6话-観念せよ！トナカイ.csv",
+          "line_no": 87,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "プロデューサー",
+              "jp": "お、落ち着くんだ、みんな……！\nよくわからないが、焦って動くのは良くない",
+              "cn": "冷，冷静一点，大家……！\n虽然不太清楚情况，但是不能着急行动",
+              "line_no": 85
+            },
+            {
+              "offset": -1,
+              "speaker": "プロデューサー",
+              "jp": "とりあえず、甘奈たちはこっちに来てくれ",
+              "cn": "总之，甘奈你们过来这里",
+              "line_no": 86
+            },
+            {
+              "offset": 0,
+              "speaker": "甘奈",
+              "jp": "な、なになに！？\nプロデューサーさんもみんなもどうしたの……？",
+              "cn": "怎，怎么了！？\n制作人先生，还有大家都怎么了……？",
+              "line_no": 87
+            },
+            {
+              "offset": 1,
+              "speaker": "結華",
+              "jp": "三峰たち以外に誰かいるかもしれないの\nだから早く！",
+              "cn": "可能有我们之外的什么人在\n所以快点！",
+              "line_no": 88
+            },
+            {
+              "offset": 2,
+              "speaker": "甘奈",
+              "jp": "う、うん……！",
+              "cn": "嗯，嗯……！",
+              "line_no": 89
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情\\オペレーション・サンタ！～包囲せよ２８３プロ～\\终章-サンタさんつかまえた.csv",
+          "line_no": 86,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "樹里",
+              "jp": "あーっ、なんでもねーよ\nみんな、たっぷり食えよな！",
+              "cn": "啊——什么事都没有\n大家多吃点啊！",
+              "line_no": 84
+            },
+            {
+              "offset": -1,
+              "speaker": "結華",
+              "jp": "うんうん、美味しいねぇ\nなっかなかに筋肉がつきそうな味だぁ",
+              "cn": "嗯嗯，很美味呢\n有一种肌肉相当发达的味道呢",
+              "line_no": 85
+            },
+            {
+              "offset": 0,
+              "speaker": "甘奈",
+              "jp": "うん！\nそれ甘奈も思ったー☆",
+              "cn": "嗯！\n甘奈也这么觉得——☆",
+              "line_no": 86
+            },
+            {
+              "offset": 1,
+              "speaker": "樹里",
+              "jp": "なっ……おい……！　チョコにはそのこと──",
+              "cn": "什……喂……！这件事不要告诉巧可——",
+              "line_no": 87
+            },
+            {
+              "offset": 2,
+              "speaker": "結華",
+              "jp": "んー？　何か聞かれちゃまずいことでもある？",
+              "cn": "嗯——？有什么被听到会很麻烦的东西吗？",
+              "line_no": 88
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情\\ロング・ログ・エンドロール\\序章-long long ago.csv",
+          "line_no": 6,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "甜花",
+              "jp": "えと……\nどっち……？",
+              "cn": "那个……\n哪边？",
+              "line_no": 4
+            },
+            {
+              "offset": -1,
+              "speaker": "結華",
+              "jp": "あーごめん\n出る前にちゃんと道教えてもらえばよかったね",
+              "cn": "啊，抱歉\n先问好路之后再出来就好了",
+              "line_no": 5
+            },
+            {
+              "offset": 0,
+              "speaker": "甘奈",
+              "jp": "あ、でも……\nんー……右、かな……？",
+              "cn": "啊，但是……\n唔……是右边吗？",
+              "line_no": 6
+            },
+            {
+              "offset": 1,
+              "speaker": "愛依",
+              "jp": "ね！\n右の方から聞こえてくるもんね、ほら、あの──",
+              "cn": "呐！\n从右边能听到点声音，看，那个……",
+              "line_no": 7
+            },
+            {
+              "offset": 2,
+              "speaker": "愛依",
+              "jp": "お祭りの音！",
+              "cn": "祭典的声音！",
+              "line_no": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "摩美々",
+      "score": 82,
+      "scene_cooccurrence": 26,
+      "prev_to_target": 17,
+      "target_to_next": 11,
+      "mentions_target": 0,
+      "target_mentions_partner": 2,
+      "samples": [
+        {
+          "file": "283活动剧情\\きよしこの夜、プレゼン・フォー・ユー！\\14_11 PM.csv",
+          "line_no": 14,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "凛世",
+              "jp": "無線の……ことは……──",
+              "cn": "无线电……的事……——",
+              "line_no": 12
+            },
+            {
+              "offset": -1,
+              "speaker": "摩美々",
+              "jp": "んー。間違いかなんかでしょー\n──車、急いでもらえますかぁ",
+              "cn": "嗯——。应该是搞错了吧——\n——车子，能快点开过去吗",
+              "line_no": 13
+            },
+            {
+              "offset": 0,
+              "speaker": "甘奈",
+              "jp": "──んしょ……\nそっちは10個で……──",
+              "cn": "——好……\n那边有10个……——",
+              "line_no": 14
+            },
+            {
+              "offset": 1,
+              "speaker": "甘奈",
+              "jp": "──あ、あれ……？\nプレゼントって、いくつだっけ",
+              "cn": "——咦，咦……？\n礼物，到底有几个",
+              "line_no": 15
+            },
+            {
+              "offset": 2,
+              "speaker": "果穂",
+              "jp": "えっと、あたしたちのプレゼント19個と、\nプレゼン資料の入った包みで、20個ですっ！",
+              "cn": "唔，有我们的19个礼物，\n和放了计划书的包裹，一共20个！",
+              "line_no": 16
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情\\オペレーション・サンタ！～包囲せよ２８３プロ～\\第3话-キラキラノンシュガートラップ.csv",
+          "line_no": 107,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "咲耶",
+              "jp": "摩美々、ほどほどにね？",
+              "cn": "摩美美，适可而止哦？",
+              "line_no": 105
+            },
+            {
+              "offset": -1,
+              "speaker": "摩美々",
+              "jp": "善処しまぁす",
+              "cn": "我会妥善处理的",
+              "line_no": 106
+            },
+            {
+              "offset": 0,
+              "speaker": "甘奈",
+              "jp": "あれ？　今なんか音しなかった？\nドタドターって",
+              "cn": "咦？刚才有什么声音吗？\n「咚咚咚」的",
+              "line_no": 107
+            },
+            {
+              "offset": 1,
+              "speaker": "千雪",
+              "jp": "あら、そう……？",
+              "cn": "哎呀，是吗……？",
+              "line_no": 108
+            },
+            {
+              "offset": 2,
+              "speaker": "甘奈",
+              "jp": "……んー、勘違いかなぁ……\nごめんね！　千雪さん",
+              "cn": "……嗯——可能是我搞错了吧……\n抱歉！千雪姐",
+              "line_no": 109
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情\\サマー・ミーツ・ワンダーランド\\時の物語.csv",
+          "line_no": 56,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "灯織",
+              "jp": "──っ、待って果穂！\nひとりで行動するのはルール違反だから──！",
+              "cn": "——果穗等等！\n单独行动是违反规定的——！",
+              "line_no": 54
+            },
+            {
+              "offset": -1,
+              "speaker": "摩美々",
+              "jp": "……元気だよねー",
+              "cn": "……真有朝气呢",
+              "line_no": 55
+            },
+            {
+              "offset": 0,
+              "speaker": "甘奈",
+              "jp": "えっ？",
+              "cn": "诶？",
+              "line_no": 56
+            },
+            {
+              "offset": 1,
+              "speaker": "摩美々",
+              "jp": "泳いでる組ー",
+              "cn": "游泳组",
+              "line_no": 57
+            },
+            {
+              "offset": 2,
+              "speaker": "甘奈",
+              "jp": "──ああ……うん！　そうだね！\nみんなもうずっと泳いでるもんね～",
+              "cn": "——啊啊……嗯！没错！\n大家已经游了很久了呢～",
+              "line_no": 58
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "主人公",
+      "score": 72,
+      "scene_cooccurrence": 4,
+      "prev_to_target": 33,
+      "target_to_next": 26,
+      "mentions_target": 4,
+      "target_mentions_partner": 1,
+      "samples": [
+        {
+          "file": "283活动剧情\\Secret×Rose\\シナリオB カウンセラー室にて.csv",
+          "line_no": 52,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "主人公",
+              "jp": "……さて、一通りは終わったかな",
+              "cn": "……那么，就做到这里",
+              "line_no": 50
+            },
+            {
+              "offset": -1,
+              "speaker": "主人公",
+              "jp": "おっ……\nはい、どうぞ──！",
+              "cn": "哦……\n请进——！",
+              "line_no": 51
+            },
+            {
+              "offset": 0,
+              "speaker": "甘奈",
+              "jp": "失礼しま～す……",
+              "cn": "打扰～了……",
+              "line_no": 52
+            },
+            {
+              "offset": 1,
+              "speaker": "甘奈",
+              "jp": "……！\nカウンセラー室ってこうなってるんだ……",
+              "cn": "……！辅导室原来是这样的啊……",
+              "line_no": 53
+            },
+            {
+              "offset": 2,
+              "speaker": "主人公",
+              "jp": "はは、いらっしゃい\nはじめて来てくれたのかな？",
+              "cn": "哈哈，欢迎\n是第一次来吗？",
+              "line_no": 54
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情\\Secret×Rose\\シークレット Secret×Fragrance.csv",
+          "line_no": 9,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "off",
+              "jp": "『窓辺に薔薇を一輪、置いておいて』",
+              "cn": "“在窗边，放一枝蔷薇”",
+              "line_no": 7
+            },
+            {
+              "offset": -1,
+              "speaker": "off",
+              "jp": "『僕はそれを目印に──……』",
+              "cn": "“我会将它作为标记——……”",
+              "line_no": 8
+            },
+            {
+              "offset": 0,
+              "speaker": "甘奈",
+              "jp": "…………",
+              "cn": "…………",
+              "line_no": 9
+            },
+            {
+              "offset": 1,
+              "speaker": "主人公",
+              "jp": "君……は……",
+              "cn": "你……是……",
+              "line_no": 10
+            },
+            {
+              "offset": 2,
+              "speaker": "甘奈",
+              "jp": "あぁ……やっと逢えた……\nこの時を、ずっと待ちわびていたの……",
+              "cn": "……终于见到你了……\n我一直，都在等待这一刻……",
+              "line_no": 11
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情\\Secret×Rose\\ユニット ED 仲間たる少女たち.csv",
+          "line_no": 3,
+          "context": [
+            {
+              "offset": -1,
+              "speaker": "主人公",
+              "jp": "懺悔室を調べてみるよ",
+              "cn": "去调查忏悔室吧",
+              "line_no": 2
+            },
+            {
+              "offset": 0,
+              "speaker": "甘奈",
+              "jp": "本当？\nよかった……！",
+              "cn": "真的吗？\n太好啦……！",
+              "line_no": 3
+            },
+            {
+              "offset": 1,
+              "speaker": "主人公",
+              "jp": "何かわかったら\nすぐに連絡させてもらうよ",
+              "cn": "发现了什么的话\n会通知你的",
+              "line_no": 4
+            },
+            {
+              "offset": 2,
+              "speaker": "甘奈",
+              "jp": "うん！\nありがとう、センセー！",
+              "cn": "嗯！\n谢谢您，老师！",
+              "line_no": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "アイ",
+      "score": 67,
+      "scene_cooccurrence": 0,
+      "prev_to_target": 0,
+      "target_to_next": 0,
+      "mentions_target": 0,
+      "target_mentions_partner": 67,
+      "samples": [
+        {
+          "file": "283活动剧情\\よっつのものがたり\\よっつのものがたり04.csv",
+          "line_no": 41,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "プロデューサー",
+              "jp": "もちろんだ",
+              "cn": "当然了",
+              "line_no": 39
+            },
+            {
+              "offset": -1,
+              "speaker": "プロデューサー",
+              "jp": "甘奈は最初からよく頑張ってたし\nしっかり者だったよな",
+              "cn": "甘奈从一开始就很努力，\n而且也很可靠",
+              "line_no": 40
+            },
+            {
+              "offset": 0,
+              "speaker": "甘奈",
+              "jp": "『自分がアイドルになりたいわけじゃなかった』\nって言ったのは、覚えてない……？",
+              "cn": "『甘奈未必真的想当偶像』这句话……\n您应该不记得了吧……？",
+              "line_no": 41
+            },
+            {
+              "offset": 1,
+              "speaker": "プロデューサー",
+              "jp": "いや、覚えてるよ",
+              "cn": "不不，我当然记得啊",
+              "line_no": 42
+            },
+            {
+              "offset": 2,
+              "speaker": "プロデューサー",
+              "jp": "……でも、目的を探しながら\n頑張る子は普通にいるだろう",
+              "cn": "……但是，一边寻找目标一边努力的孩子，\n不是很常见吗？",
+              "line_no": 43
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情\\よっつのものがたり\\よっつのものがたり05.csv",
+          "line_no": 6,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "甘奈",
+              "jp": "（綺麗に書こうって……\n思ったらダメ……）",
+              "cn": "（不能一个劲地只想着……\n怎样才能写得好看……）",
+              "line_no": 4
+            },
+            {
+              "offset": -1,
+              "speaker": "甘奈",
+              "jp": "（手を……\n動かすんだ……！）",
+              "cn": "（总之……\n先写点什么……！）",
+              "line_no": 5
+            },
+            {
+              "offset": 0,
+              "speaker": "甘奈",
+              "jp": "『アイドルを始めた頃の自分を\nひと言で表すと』",
+              "cn": "『如果要用一个词来描述\n刚刚成为偶像的自己』",
+              "line_no": 6
+            },
+            {
+              "offset": 1,
+              "speaker": "甘奈",
+              "jp": "『空っぽ、です』",
+              "cn": "『那便是，一片空白』",
+              "line_no": 7
+            },
+            {
+              "offset": 2,
+              "speaker": "甘奈",
+              "jp": "『表向きは\nちゃんとやっているように見えても』",
+              "cn": "『虽然表面上看起来很认真』",
+              "line_no": 8
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情\\よっつのものがたり\\よっつのものがたり07.csv",
+          "line_no": 64,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "甘奈",
+              "jp": "『昔の甘奈のことも、許してくれて』",
+              "cn": "『请原谅过去的甘奈』",
+              "line_no": 62
+            },
+            {
+              "offset": -1,
+              "speaker": "甘奈",
+              "jp": "『そして、甜花ちゃん』",
+              "cn": "『还有就是，甜花』",
+              "line_no": 63
+            },
+            {
+              "offset": 0,
+              "speaker": "甘奈",
+              "jp": "『アイドルになろうって話した時\nいいよ、って言ってくれて』",
+              "cn": "『谢谢你在甘奈建议\n一起做偶像的时候答应』",
+              "line_no": 64
+            },
+            {
+              "offset": 1,
+              "speaker": "甘奈",
+              "jp": "『ユニットを組むお話があった時\n勇気を出してくれて』",
+              "cn": "『谢谢你在要成立组合的时候给了甘奈勇气』",
+              "line_no": 65
+            },
+            {
+              "offset": 2,
+              "speaker": "甘奈",
+              "jp": "『いつも背中を押してくれて』",
+              "cn": "『谢谢你一直支持着甘奈』",
+              "line_no": 66
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "冬優子",
+      "score": 65,
+      "scene_cooccurrence": 24,
+      "prev_to_target": 8,
+      "target_to_next": 9,
+      "mentions_target": 0,
+      "target_mentions_partner": 0,
+      "samples": [
+        {
+          "file": "283活动剧情\\Detective×Murder\\special_communications_490103207.csv",
+          "line_no": 16,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "甜花",
+              "jp": "……冷やす、か……",
+              "cn": "……冷却，吗……",
+              "line_no": 14
+            },
+            {
+              "offset": -1,
+              "speaker": "冬優子",
+              "jp": "すみませーん……！\n誰か、行動表書くのを手伝ってもらえますかー？",
+              "cn": "对不起——……！\n有没有人能帮我一起来写行动表呢——？",
+              "line_no": 15
+            },
+            {
+              "offset": 0,
+              "speaker": "甘奈",
+              "jp": "あ、はーい！\n甜花ちゃん、千雪さん、行こう？",
+              "cn": "啊，来了——！\n小甜花，千雪小姐，我们走吧？",
+              "line_no": 16
+            },
+            {
+              "offset": 1,
+              "speaker": "咲耶",
+              "jp": "それじゃあ、私たちも現場に向かおう",
+              "cn": "那么，我们也去现场吧",
+              "line_no": 17
+            },
+            {
+              "offset": 2,
+              "speaker": "咲耶",
+              "jp": "お弟子さん、案内を頼むよ",
+              "cn": "弟子先生，就拜托你带路了",
+              "line_no": 18
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情\\ロング・ログ・エンドロール\\序章-long long ago.csv",
+          "line_no": 90,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "プロデューサー",
+              "jp": "ああ\nちょっと諸注意だけしにな",
+              "cn": "啊\n来说下注意事项",
+              "line_no": 88
+            },
+            {
+              "offset": -1,
+              "speaker": "夏葉",
+              "jp": "ふふ\nどうぞ、入って",
+              "cn": "呼呼\n请进",
+              "line_no": 89
+            },
+            {
+              "offset": 0,
+              "speaker": "甘奈",
+              "jp": "甘奈たちのお部屋にようこそー！",
+              "cn": "欢迎来到我们的小屋",
+              "line_no": 90
+            },
+            {
+              "offset": 1,
+              "speaker": "冬優子",
+              "jp": "ふふ、お邪魔しまーす♡",
+              "cn": "呵呵，打扰了",
+              "line_no": 91
+            },
+            {
+              "offset": 2,
+              "speaker": "愛依",
+              "jp": "いや～、さっきうちらの部屋見たばっかだけど……\n何度でもビビれるわ、スイート……！",
+              "cn": "哎呀～才看过我们自己的房间\n又被你们房间惊到了，毕竟商务套房啊",
+              "line_no": 92
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情\\ロング・ログ・エンドロール\\第2话-１日目 夜.csv",
+          "line_no": 55,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "一同",
+              "jp": "……ふふふっ",
+              "cn": "……呵呵呵",
+              "line_no": 53
+            },
+            {
+              "offset": -1,
+              "speaker": "結華",
+              "jp": "記念に撮っとく？",
+              "cn": "拍个纪念照？",
+              "line_no": 54
+            },
+            {
+              "offset": 0,
+              "speaker": "甘奈",
+              "jp": "うーん……",
+              "cn": "嗯……",
+              "line_no": 55
+            },
+            {
+              "offset": 1,
+              "speaker": "冬優子",
+              "jp": "この格好は出せないよね……",
+              "cn": "这种装扮不太好出境呀",
+              "line_no": 56
+            },
+            {
+              "offset": 2,
+              "speaker": "結華",
+              "jp": "だよねー",
+              "cn": "也对喔",
+              "line_no": 57
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "めぐる",
+      "score": 63,
+      "scene_cooccurrence": 23,
+      "prev_to_target": 4,
+      "target_to_next": 12,
+      "mentions_target": 0,
+      "target_mentions_partner": 1,
+      "samples": [
+        {
+          "file": "283活动剧情\\Detective×Murder\\【２日目】午前-甘奈・甜花・千雪.csv",
+          "line_no": 5,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "千雪",
+              "jp": "だったら、お屋敷の中にも\n何かヒントが残っているかもしれません",
+              "cn": "那么，洋房里面或许也留有某种线索",
+              "line_no": 3
+            },
+            {
+              "offset": -1,
+              "speaker": "甘奈",
+              "jp": "だね",
+              "cn": "是啊",
+              "line_no": 4
+            },
+            {
+              "offset": 0,
+              "speaker": "甘奈",
+              "jp": "それに、みんな現場を見にいくんだったら\n少し時間をずらした方がよさそうかも",
+              "cn": "而且，如果大家都去查看现场了\n还是稍微错开一下时间会比较好吧",
+              "line_no": 5
+            },
+            {
+              "offset": 1,
+              "speaker": "めぐる",
+              "jp": "なるほど、なるほど",
+              "cn": "原来如此，原来如此",
+              "line_no": 6
+            },
+            {
+              "offset": 2,
+              "speaker": "めぐる",
+              "jp": "わたしも気になることがあるし……\n屋敷の中を調べてみようかな──",
+              "cn": "我也有在意的事情……\n那就去调查一下洋房内部吧——",
+              "line_no": 7
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情\\アジェンダ２８３\\第6话-つながるがつながる.csv",
+          "line_no": 8,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "千雪",
+              "jp": "……？",
+              "cn": "",
+              "line_no": 6
+            },
+            {
+              "offset": -1,
+              "speaker": "甜花",
+              "jp": "も、もえ……るい……！",
+              "cn": "可，可……不燃……！",
+              "line_no": 7
+            },
+            {
+              "offset": 0,
+              "speaker": "めぐる＆甘奈＆千雪",
+              "jp": "────！",
+              "cn": "",
+              "line_no": 8
+            },
+            {
+              "offset": 1,
+              "speaker": "めぐる＆甘奈＆千雪",
+              "jp": "ふふふっ……",
+              "cn": "呵呵呵……",
+              "line_no": 9
+            },
+            {
+              "offset": 2,
+              "speaker": "めぐる",
+              "jp": "ごめんごめーん！\nなんか、難しいこと手伝ってもらっちゃってるよね！",
+              "cn": "抱歉抱歉！\n是不是让你们帮忙做麻烦事了！",
+              "line_no": 10
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情\\オペレーション・サンタ！～包囲せよ２８３プロ～\\终章-サンタさんつかまえた.csv",
+          "line_no": 64,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "真乃",
+              "jp": "え、えっと……\n……みんな、メリー・クリスマスっ",
+              "cn": "那，那个……\n……大家，圣诞快乐",
+              "line_no": 62
+            },
+            {
+              "offset": -1,
+              "speaker": "真乃",
+              "jp": "そして、甜花ちゃん甘奈ちゃん、\nお誕生日おめでとうございますっ",
+              "cn": "还有，甜花和甘奈\n祝你们生日快乐",
+              "line_no": 63
+            },
+            {
+              "offset": 0,
+              "speaker": "甘奈＆甜花",
+              "jp": "えへへ☆",
+              "cn": "诶嘿嘿☆",
+              "line_no": 64
+            },
+            {
+              "offset": 1,
+              "speaker": "めぐる",
+              "jp": "うんっ。真乃、いいよ、その調子！",
+              "cn": "嗯。真乃，对，就是这样！",
+              "line_no": 65
+            },
+            {
+              "offset": 2,
+              "speaker": "灯織",
+              "jp": "うん……！",
+              "cn": "嗯……！",
+              "line_no": 66
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "樹里",
+      "score": 63,
+      "scene_cooccurrence": 24,
+      "prev_to_target": 8,
+      "target_to_next": 6,
+      "mentions_target": 1,
+      "target_mentions_partner": 0,
+      "samples": [
+        {
+          "file": "283活动剧情\\きよしこの夜、プレゼン・フォー・ユー！\\added time アマクナイヨル.csv",
+          "line_no": 74,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "一同",
+              "jp": "プロデューサー！",
+              "cn": "制作人！",
+              "line_no": 72
+            },
+            {
+              "offset": -1,
+              "speaker": "一同",
+              "jp": "プロデューサーさん……！",
+              "cn": "制作人先生……！",
+              "line_no": 73
+            },
+            {
+              "offset": 0,
+              "speaker": "甘奈",
+              "jp": "いってらっしゃい……！",
+              "cn": "一路顺风……！",
+              "line_no": 74
+            },
+            {
+              "offset": 1,
+              "speaker": "樹里",
+              "jp": "はぁっ…………はぁっ………………\n行っちまった……かぁ…………っ",
+              "cn": "哈…………哈………………\n走了……吗…………",
+              "line_no": 75
+            },
+            {
+              "offset": 2,
+              "speaker": "咲耶",
+              "jp": "────っ……はぁっ……\n冬優……よく頑張ったね…………",
+              "cn": "————……哈……\n冬优……你很努力了…………",
+              "line_no": 76
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情\\オペレーション・サンタ！～包囲せよ２８３プロ～\\第6话-観念せよ！トナカイ.csv",
+          "line_no": 65,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "夏葉",
+              "jp": "え……？",
+              "cn": "诶……？",
+              "line_no": 63
+            },
+            {
+              "offset": -1,
+              "speaker": "樹里",
+              "jp": "じゃあ、誰が……",
+              "cn": "那么，是谁……",
+              "line_no": 64
+            },
+            {
+              "offset": 0,
+              "speaker": "甘奈",
+              "jp": "あれっ、みんな揃ってる！？\n甜花ちゃん千雪さん、早く早くっ",
+              "cn": "咦，大家聚在一起！？\n甜花酱，千雪姐，快点快点",
+              "line_no": 65
+            },
+            {
+              "offset": 1,
+              "speaker": "千雪",
+              "jp": "すみません、もう集合時間でしたか……？",
+              "cn": "对不起，已经到集合时间了吗……？",
+              "line_no": 66
+            },
+            {
+              "offset": 2,
+              "speaker": "甜花",
+              "jp": "わ……！　ツリーの、コスプレ……！",
+              "cn": "哇……！圣诞树的，cosplay……！",
+              "line_no": 67
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情\\オペレーション・サンタ！～包囲せよ２８３プロ～\\终章-サンタさんつかまえた.csv",
+          "line_no": 86,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "樹里",
+              "jp": "あーっ、なんでもねーよ\nみんな、たっぷり食えよな！",
+              "cn": "啊——什么事都没有\n大家多吃点啊！",
+              "line_no": 84
+            },
+            {
+              "offset": -1,
+              "speaker": "結華",
+              "jp": "うんうん、美味しいねぇ\nなっかなかに筋肉がつきそうな味だぁ",
+              "cn": "嗯嗯，很美味呢\n有一种肌肉相当发达的味道呢",
+              "line_no": 85
+            },
+            {
+              "offset": 0,
+              "speaker": "甘奈",
+              "jp": "うん！\nそれ甘奈も思ったー☆",
+              "cn": "嗯！\n甘奈也这么觉得——☆",
+              "line_no": 86
+            },
+            {
+              "offset": 1,
+              "speaker": "樹里",
+              "jp": "なっ……おい……！　チョコにはそのこと──",
+              "cn": "什……喂……！这件事不要告诉巧可——",
+              "line_no": 87
+            },
+            {
+              "offset": 2,
+              "speaker": "結華",
+              "jp": "んー？　何か聞かれちゃまずいことでもある？",
+              "cn": "嗯——？有什么被听到会很麻烦的东西吗？",
+              "line_no": 88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "自分",
+      "score": 60,
+      "scene_cooccurrence": 3,
+      "prev_to_target": 0,
+      "target_to_next": 0,
+      "mentions_target": 0,
+      "target_mentions_partner": 54,
+      "samples": [
+        {
+          "file": "283活动剧情\\YOUR MY Love letter\\第4话-off stage.csv",
+          "line_no": 137,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "甘奈",
+              "jp": "それに甘えちゃうから",
+              "cn": "因为会不自觉的变得想去撒娇",
+              "line_no": 135
+            },
+            {
+              "offset": -1,
+              "speaker": "甘奈",
+              "jp": "今の甘奈は────",
+              "cn": "现在的甘奈————",
+              "line_no": 136
+            },
+            {
+              "offset": 0,
+              "speaker": "甘奈",
+              "jp": "……自分で",
+              "cn": "……自己",
+              "line_no": 137
+            },
+            {
+              "offset": 1,
+              "speaker": "甘奈",
+              "jp": "……自分を褒められるように、なりたい",
+              "cn": "……能鼓励自己的人，想变成这样",
+              "line_no": 138
+            },
+            {
+              "offset": 2,
+              "speaker": "甘奈",
+              "jp": "………………",
+              "cn": "",
+              "line_no": 139
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情\\よっつのものがたり\\よっつのものがたり04.csv",
+          "line_no": 41,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "プロデューサー",
+              "jp": "もちろんだ",
+              "cn": "当然了",
+              "line_no": 39
+            },
+            {
+              "offset": -1,
+              "speaker": "プロデューサー",
+              "jp": "甘奈は最初からよく頑張ってたし\nしっかり者だったよな",
+              "cn": "甘奈从一开始就很努力，\n而且也很可靠",
+              "line_no": 40
+            },
+            {
+              "offset": 0,
+              "speaker": "甘奈",
+              "jp": "『自分がアイドルになりたいわけじゃなかった』\nって言ったのは、覚えてない……？",
+              "cn": "『甘奈未必真的想当偶像』这句话……\n您应该不记得了吧……？",
+              "line_no": 41
+            },
+            {
+              "offset": 1,
+              "speaker": "プロデューサー",
+              "jp": "いや、覚えてるよ",
+              "cn": "不不，我当然记得啊",
+              "line_no": 42
+            },
+            {
+              "offset": 2,
+              "speaker": "プロデューサー",
+              "jp": "……でも、目的を探しながら\n頑張る子は普通にいるだろう",
+              "cn": "……但是，一边寻找目标一边努力的孩子，\n不是很常见吗？",
+              "line_no": 43
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情\\よっつのものがたり\\よっつのものがたり05.csv",
+          "line_no": 6,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "甘奈",
+              "jp": "（綺麗に書こうって……\n思ったらダメ……）",
+              "cn": "（不能一个劲地只想着……\n怎样才能写得好看……）",
+              "line_no": 4
+            },
+            {
+              "offset": -1,
+              "speaker": "甘奈",
+              "jp": "（手を……\n動かすんだ……！）",
+              "cn": "（总之……\n先写点什么……！）",
+              "line_no": 5
+            },
+            {
+              "offset": 0,
+              "speaker": "甘奈",
+              "jp": "『アイドルを始めた頃の自分を\nひと言で表すと』",
+              "cn": "『如果要用一个词来描述\n刚刚成为偶像的自己』",
+              "line_no": 6
+            },
+            {
+              "offset": 1,
+              "speaker": "甘奈",
+              "jp": "『空っぽ、です』",
+              "cn": "『那便是，一片空白』",
+              "line_no": 7
+            },
+            {
+              "offset": 2,
+              "speaker": "甘奈",
+              "jp": "『表向きは\nちゃんとやっているように見えても』",
+              "cn": "『虽然表面上看起来很认真』",
+              "line_no": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "霧子",
+      "score": 59,
+      "scene_cooccurrence": 26,
+      "prev_to_target": 3,
+      "target_to_next": 3,
+      "mentions_target": 1,
+      "target_mentions_partner": 0,
+      "samples": []
+    },
+    {
+      "partner": "はづき",
+      "score": 58,
+      "scene_cooccurrence": 24,
+      "prev_to_target": 3,
+      "target_to_next": 3,
+      "mentions_target": 2,
+      "target_mentions_partner": 2,
+      "samples": []
+    },
+    {
+      "partner": "スタッフ",
+      "score": 57,
+      "scene_cooccurrence": 15,
+      "prev_to_target": 10,
+      "target_to_next": 9,
+      "mentions_target": 2,
+      "target_mentions_partner": 6,
+      "samples": []
+    },
+    {
+      "partner": "真乃",
+      "score": 57,
+      "scene_cooccurrence": 25,
+      "prev_to_target": 4,
+      "target_to_next": 2,
+      "mentions_target": 1,
+      "target_mentions_partner": 0,
+      "samples": []
+    },
+    {
+      "partner": "アイドル",
+      "score": 56,
+      "scene_cooccurrence": 1,
+      "prev_to_target": 0,
+      "target_to_next": 0,
+      "mentions_target": 0,
+      "target_mentions_partner": 54,
+      "samples": []
+    },
+    {
+      "partner": "智代子",
+      "score": 52,
+      "scene_cooccurrence": 24,
+      "prev_to_target": 3,
+      "target_to_next": 1,
+      "mentions_target": 0,
+      "target_mentions_partner": 0,
+      "samples": []
+    },
+    {
+      "partner": "ふたり",
+      "score": 52,
+      "scene_cooccurrence": 0,
+      "prev_to_target": 0,
+      "target_to_next": 0,
+      "mentions_target": 0,
+      "target_mentions_partner": 52,
+      "samples": []
+    },
+    {
+      "partner": "テロップ",
+      "score": 51,
+      "scene_cooccurrence": 6,
+      "prev_to_target": 20,
+      "target_to_next": 13,
+      "mentions_target": 6,
+      "target_mentions_partner": 0,
+      "samples": []
+    },
+    {
+      "partner": "咲耶",
+      "score": 51,
+      "scene_cooccurrence": 23,
+      "prev_to_target": 1,
+      "target_to_next": 4,
+      "mentions_target": 0,
+      "target_mentions_partner": 0,
+      "samples": []
+    },
+    {
+      "partner": "あさひ",
+      "score": 49,
+      "scene_cooccurrence": 23,
+      "prev_to_target": 1,
+      "target_to_next": 1,
+      "mentions_target": 0,
+      "target_mentions_partner": 1,
+      "samples": []
+    },
+    {
+      "partner": "恋鐘",
+      "score": 49,
+      "scene_cooccurrence": 24,
+      "prev_to_target": 0,
+      "target_to_next": 1,
+      "mentions_target": 0,
+      "target_mentions_partner": 0,
+      "samples": []
+    },
+    {
+      "partner": "大崎家の母",
+      "score": 48,
+      "scene_cooccurrence": 7,
+      "prev_to_target": 16,
+      "target_to_next": 13,
+      "mentions_target": 5,
+      "target_mentions_partner": 0,
+      "samples": []
+    },
+    {
+      "partner": "トレーナー",
+      "score": 43,
+      "scene_cooccurrence": 10,
+      "prev_to_target": 10,
+      "target_to_next": 7,
+      "mentions_target": 5,
+      "target_mentions_partner": 1,
+      "samples": []
+    },
+    {
+      "partner": "弟子",
+      "score": 41,
+      "scene_cooccurrence": 9,
+      "prev_to_target": 10,
+      "target_to_next": 9,
+      "mentions_target": 0,
+      "target_mentions_partner": 4,
+      "samples": []
+    },
+    {
+      "partner": "ママ",
+      "score": 39,
+      "scene_cooccurrence": 5,
+      "prev_to_target": 7,
+      "target_to_next": 7,
+      "mentions_target": 2,
+      "target_mentions_partner": 13,
+      "samples": []
+    },
+    {
+      "partner": "パパ",
+      "score": 37,
+      "scene_cooccurrence": 5,
+      "prev_to_target": 9,
+      "target_to_next": 7,
+      "mentions_target": 4,
+      "target_mentions_partner": 7,
+      "samples": []
+    },
+    {
+      "partner": "デザイナー",
+      "score": 35,
+      "scene_cooccurrence": 3,
+      "prev_to_target": 9,
+      "target_to_next": 10,
+      "mentions_target": 5,
+      "target_mentions_partner": 5,
+      "samples": []
+    },
+    {
+      "partner": "社長",
+      "score": 33,
+      "scene_cooccurrence": 14,
+      "prev_to_target": 0,
+      "target_to_next": 0,
+      "mentions_target": 0,
+      "target_mentions_partner": 5,
+      "samples": []
+    },
+    {
+      "partner": "妈妈",
+      "score": 32,
+      "scene_cooccurrence": 1,
+      "prev_to_target": 5,
+      "target_to_next": 3,
+      "mentions_target": 1,
+      "target_mentions_partner": 21,
+      "samples": []
+    },
+    {
+      "partner": "店員",
+      "score": 31,
+      "scene_cooccurrence": 7,
+      "prev_to_target": 7,
+      "target_to_next": 5,
+      "mentions_target": 0,
+      "target_mentions_partner": 5,
+      "samples": []
+    },
+    {
+      "partner": "クラスメイト",
+      "score": 30,
+      "scene_cooccurrence": 5,
+      "prev_to_target": 9,
+      "target_to_next": 7,
+      "mentions_target": 3,
+      "target_mentions_partner": 1,
+      "samples": []
+    },
+    {
+      "partner": "大崎家の父",
+      "score": 30,
+      "scene_cooccurrence": 3,
+      "prev_to_target": 12,
+      "target_to_next": 9,
+      "mentions_target": 3,
+      "target_mentions_partner": 0,
+      "samples": []
+    },
+    {
+      "partner": "小糸",
+      "score": 25,
+      "scene_cooccurrence": 12,
+      "prev_to_target": 0,
+      "target_to_next": 1,
+      "mentions_target": 0,
+      "target_mentions_partner": 0,
+      "samples": []
+    },
+    {
+      "partner": "アルストロメリア",
+      "score": 24,
+      "scene_cooccurrence": 1,
+      "prev_to_target": 0,
+      "target_to_next": 0,
+      "mentions_target": 0,
+      "target_mentions_partner": 22,
+      "samples": []
+    },
+    {
+      "partner": "雛菜",
+      "score": 24,
+      "scene_cooccurrence": 12,
+      "prev_to_target": 0,
+      "target_to_next": 0,
+      "mentions_target": 0,
+      "target_mentions_partner": 0,
+      "samples": []
+    },
+    {
+      "partner": "カメラマン",
+      "score": 24,
+      "scene_cooccurrence": 4,
+      "prev_to_target": 7,
+      "target_to_next": 5,
+      "mentions_target": 4,
+      "target_mentions_partner": 0,
+      "samples": []
+    },
+    {
+      "partner": "テレビの音声",
+      "score": 23,
+      "scene_cooccurrence": 6,
+      "prev_to_target": 5,
+      "target_to_next": 6,
+      "mentions_target": 0,
+      "target_mentions_partner": 0,
+      "samples": []
+    },
+    {
+      "partner": "監督",
+      "score": 23,
+      "scene_cooccurrence": 4,
+      "prev_to_target": 6,
+      "target_to_next": 4,
+      "mentions_target": 0,
+      "target_mentions_partner": 5,
+      "samples": []
+    },
+    {
+      "partner": "円香",
+      "score": 22,
+      "scene_cooccurrence": 11,
+      "prev_to_target": 0,
+      "target_to_next": 0,
+      "mentions_target": 0,
+      "target_mentions_partner": 0,
+      "samples": []
+    },
+    {
+      "partner": "ファン",
+      "score": 20,
+      "scene_cooccurrence": 1,
+      "prev_to_target": 0,
+      "target_to_next": 0,
+      "mentions_target": 0,
+      "target_mentions_partner": 18,
+      "samples": []
+    }
+  ],
+  "voice_stats": {
+    "jp": {
+      "line_length": {
+        "count": 6166,
+        "avg": 18.87,
+        "median": 18.0,
+        "max": 53
+      },
+      "question_marks": 1139,
+      "exclamation_marks": 3148,
+      "ellipsis_lines": 250,
+      "tilde_count": 828,
+      "star_count": 531,
+      "ssu_count": 8,
+      "laugh_count": 398,
+      "again_count": 3,
+      "unknown_count": 19,
+      "first_person_count": 865
+    },
+    "cn": {
+      "line_length": {
+        "count": 5874,
+        "avg": 14.81,
+        "median": 14.0,
+        "max": 53
+      },
+      "question_marks": 1099,
+      "exclamation_marks": 3004,
+      "ellipsis_lines": 87,
+      "tilde_count": 777,
+      "star_count": 501,
+      "laugh_count": 405,
+      "again_count": 4,
+      "unknown_count": 35,
+      "first_person_count": 1521
+    }
+  },
+  "themes": {
+    "interest_fun": {
+      "jp": {
+        "line_count": 177,
+        "top_phrases": [
+          [
+            "楽し",
+            115
+          ],
+          [
+            "すごい",
+            45
+          ],
+          [
+            "楽しい",
+            27
+          ],
+          [
+            "面白",
+            10
+          ],
+          [
+            "気になる",
+            7
+          ],
+          [
+            "ワクワク",
+            5
+          ]
+        ],
+        "samples": [
+          {
+            "file": "283活动剧情\\よっつのものがたり\\よっつのものがたり01.csv",
+            "line_no": 15,
+            "speaker": "甘奈",
+            "jp": "『すごい！ 甘奈、合格できちゃった！ めっちゃ嬉しい！』",
+            "cn": "『好耶！ 甘奈合格了！ 真是太开心了！』"
+          },
+          {
+            "file": "283活动剧情\\よっつのものがたり\\よっつのものがたり01.csv",
+            "line_no": 19,
+            "speaker": "甘奈",
+            "jp": "『想像しただけでワクワクしちゃうなぁ』",
+            "cn": "『光想想就好兴奋』"
+          },
+          {
+            "file": "283活动剧情\\よっつのものがたり\\よっつのものがたり01.csv",
+            "line_no": 24,
+            "speaker": "甘奈",
+            "jp": "『とかかなぁ！ 楽しみ！』",
+            "cn": "『会是这样的名字吗！ 好期待！』"
+          },
+          {
+            "file": "283活动剧情\\よっつのものがたり\\よっつのものがたり05.csv",
+            "line_no": 72,
+            "speaker": "甘奈",
+            "jp": "社会人さんなんですか！ 甜花ちゃん、すごいねっ！",
+            "cn": "原来已经是社会人了啊！ 好厉害，是吧甜花！"
+          },
+          {
+            "file": "283活动剧情\\よっつのものがたり\\よっつのものがたり07.csv",
+            "line_no": 30,
+            "speaker": "甘奈",
+            "jp": "本当に、お仕事が好きで 楽しまれてたんですね……！",
+            "cn": "您真的是很喜欢这份工作啊 这才真叫乐在其中呢……！"
+          },
+          {
+            "file": "283活动剧情\\アジェンダ２８３\\第6话-つながるがつながる.csv",
+            "line_no": 12,
+            "speaker": "甘奈",
+            "jp": "えへへっ 楽しいから大丈夫だよ☆",
+            "cn": "诶嘿嘿 很好玩，没关系"
+          },
+          {
+            "file": "283活动剧情\\アンカーボルトソング\\第1話-かわった.csv",
+            "line_no": 48,
+            "speaker": "甘奈",
+            "jp": "……！ す、すごいすごい……すごーい……！",
+            "cn": "……！ 好，好厉害好厉害……好厉害……！"
+          },
+          {
+            "file": "283活动剧情\\アンカーボルトソング\\第2話-ひとりずつ３人.csv",
+            "line_no": 34,
+            "speaker": "甘奈",
+            "jp": "……すごい、リップなのに めーっちゃ、本格的…………！",
+            "cn": "……好厉害，只是唇膏 但是感觉非常的，硬核…………！"
+          },
+          {
+            "file": "283活动剧情\\アンカーボルトソング\\第2話-ひとりずつ３人.csv",
+            "line_no": 60,
+            "speaker": "甘奈",
+            "jp": "自分でも不思議なの……！ 色んなお仕事全部全部、めーっちゃ楽しいんだけど────",
+            "cn": "自己也感觉很不可思议……！ 虽然感觉各种各样的工作全部全部，都很有趣的样子────"
+          },
+          {
+            "file": "283活动剧情\\アンカーボルトソング\\第3話-memory.csv",
+            "line_no": 8,
+            "speaker": "甘奈",
+            "jp": "うん！ 偉くて、すごい人！",
+            "cn": "嗯！ 了不起，而且很厉害的人！"
+          },
+          {
+            "file": "283活动剧情\\アンカーボルトソング\\第5話-みんな.csv",
+            "line_no": 122,
+            "speaker": "甘奈",
+            "jp": "ファンのみんなが話題にしてたのだよね すごい……",
+            "cn": "在粉丝里还挺火的 好棒……"
+          },
+          {
+            "file": "283活动剧情\\アンカーボルトソング\\第5話-みんな.csv",
+            "line_no": 138,
+            "speaker": "甘奈",
+            "jp": "甘奈も、甜花ちゃんのこと…… すごいって思ってるよ……",
+            "cn": "甘奈也觉得，甜花…… 也是非常厉害的……"
+          }
+        ]
+      },
+      "cn": {
+        "line_count": 186,
+        "top_phrases": [
+          [
+            "开心",
+            89
+          ],
+          [
+            "厉害",
+            57
+          ],
+          [
+            "期待",
+            33
+          ],
+          [
+            "有意思",
+            6
+          ],
+          [
+            "激动",
+            3
+          ],
+          [
+            "好玩",
+            2
+          ]
+        ],
+        "samples": [
+          {
+            "file": "283活动剧情\\2025ホワイトデー スペシャルコミュ\\25白情甘奈1.csv",
+            "line_no": 2,
+            "speaker": "甘奈",
+            "jp": "わ、すごーい！ めっちゃ凝ってて綺麗～！",
+            "cn": "哇，好厉害！ 做得好漂亮～！"
+          },
+          {
+            "file": "283活动剧情\\2025ホワイトデー スペシャルコミュ\\25白情甘奈2.csv",
+            "line_no": 2,
+            "speaker": "甘奈",
+            "jp": "わ、すごーい！ めっちゃ凝ってて綺麗～！",
+            "cn": "哇，好厉害！ 做得好漂亮～！"
+          },
+          {
+            "file": "283活动剧情\\YOUR MY Love letter\\第6话-present.csv",
+            "line_no": 54,
+            "speaker": "甘奈",
+            "jp": "『だから、名無しさんに見守ってもらえて 娘さんもうれしいと思うな』",
+            "cn": "“所以，能被无名先生守望着 女儿一定也很开心吧”"
+          },
+          {
+            "file": "283活动剧情\\よっつのものがたり\\よっつのものがたり01.csv",
+            "line_no": 15,
+            "speaker": "甘奈",
+            "jp": "『すごい！ 甘奈、合格できちゃった！ めっちゃ嬉しい！』",
+            "cn": "『好耶！ 甘奈合格了！ 真是太开心了！』"
+          },
+          {
+            "file": "283活动剧情\\よっつのものがたり\\よっつのものがたり01.csv",
+            "line_no": 17,
+            "speaker": "甘奈",
+            "jp": "『でも、もっと嬉しいのは…… 甜花ちゃんも一緒なこと！』",
+            "cn": "『不过，更令人开心的是…… 甜花也合格了！』"
+          },
+          {
+            "file": "283活动剧情\\よっつのものがたり\\よっつのものがたり01.csv",
+            "line_no": 24,
+            "speaker": "甘奈",
+            "jp": "『とかかなぁ！ 楽しみ！』",
+            "cn": "『会是这样的名字吗！ 好期待！』"
+          },
+          {
+            "file": "283活动剧情\\よっつのものがたり\\よっつのものがたり05.csv",
+            "line_no": 72,
+            "speaker": "甘奈",
+            "jp": "社会人さんなんですか！ 甜花ちゃん、すごいねっ！",
+            "cn": "原来已经是社会人了啊！ 好厉害，是吧甜花！"
+          },
+          {
+            "file": "283活动剧情\\アジェンダ２８３\\第6话-つながるがつながる.csv",
+            "line_no": 12,
+            "speaker": "甘奈",
+            "jp": "えへへっ 楽しいから大丈夫だよ☆",
+            "cn": "诶嘿嘿 很好玩，没关系"
+          },
+          {
+            "file": "283活动剧情\\アンカーボルトソング\\第1話-かわった.csv",
+            "line_no": 10,
+            "speaker": "甘奈",
+            "jp": "えっ、すごーい……！",
+            "cn": "欸、好厉害……！"
+          },
+          {
+            "file": "283活动剧情\\アンカーボルトソング\\第1話-かわった.csv",
+            "line_no": 48,
+            "speaker": "甘奈",
+            "jp": "……！ す、すごいすごい……すごーい……！",
+            "cn": "……！ 好，好厉害好厉害……好厉害……！"
+          },
+          {
+            "file": "283活动剧情\\アンカーボルトソング\\第1話-かわった.csv",
+            "line_no": 72,
+            "speaker": "甘奈",
+            "jp": "────それでね、すっ……ごいんだよ！ 香りの成分とかも甘奈が決めていいみたい！",
+            "cn": "────然后呢，非……常厉害的呢！ 连香味的成分都可以让甘奈来决定呢！"
+          },
+          {
+            "file": "283活动剧情\\アンカーボルトソング\\第2話-ひとりずつ３人.csv",
+            "line_no": 34,
+            "speaker": "甘奈",
+            "jp": "……すごい、リップなのに めーっちゃ、本格的…………！",
+            "cn": "……好厉害，只是唇膏 但是感觉非常的，硬核…………！"
+          }
+        ]
+      }
+    },
+    "try_action": {
+      "jp": {
+        "line_count": 101,
+        "top_phrases": [
+          [
+            "やって",
+            40
+          ],
+          [
+            "やる",
+            17
+          ],
+          [
+            "行く",
+            16
+          ],
+          [
+            "練習",
+            12
+          ],
+          [
+            "挑戦",
+            5
+          ],
+          [
+            "走",
+            4
+          ],
+          [
+            "試",
+            4
+          ],
+          [
+            "飛",
+            3
+          ],
+          [
+            "もう一回",
+            3
+          ]
+        ],
+        "samples": [
+          {
+            "file": "283活动剧情\\2025ホワイトデー スペシャルコミュ\\25白情甘奈2.csv",
+            "line_no": 9,
+            "speaker": "甘奈",
+            "jp": "………… やってもらっても……いい？",
+            "cn": "………… 可不可以……也像之前那样？"
+          },
+          {
+            "file": "283活动剧情\\YOUR MY Love letter\\终章-You are..csv",
+            "line_no": 93,
+            "speaker": "甘奈",
+            "jp": "えへへ、走れば大丈夫だよー☆",
+            "cn": "欸嘿嘿，跑起来的话就没问题☆"
+          },
+          {
+            "file": "283活动剧情\\きよしこの夜、プレゼン・フォー・ユー！\\14_11 PM.csv",
+            "line_no": 41,
+            "speaker": "甘奈",
+            "jp": "後を走るみんなの道を ぴーっかぴかに照らしたいの☆",
+            "cn": "我想把之后的大家要跑的路 照耀地亮亮晶晶的☆"
+          },
+          {
+            "file": "283活动剧情\\きよしこの夜、プレゼン・フォー・ユー！\\14_11 PM.csv",
+            "line_no": 56,
+            "speaker": "甘奈",
+            "jp": "わかった！ 走ろうっ",
+            "cn": "知道了！ 跑吧"
+          },
+          {
+            "file": "283活动剧情\\きよしこの夜、プレゼン・フォー・ユー！\\16_57 PM.csv",
+            "line_no": 4,
+            "speaker": "甘奈",
+            "jp": "この区間は、空港の目の前まで行くんだよねっ やーっとゴールが近づいてきたよー！",
+            "cn": "这个区间，能到机场附近吧 总算靠近终点了！"
+          },
+          {
+            "file": "283活动剧情\\よっつのものがたり\\よっつのものがたり05.csv",
+            "line_no": 8,
+            "speaker": "甘奈",
+            "jp": "『表向きは ちゃんとやっているように見えても』",
+            "cn": "『虽然表面上看起来很认真』"
+          },
+          {
+            "file": "283活动剧情\\よっつのものがたり\\よっつのものがたり07.csv",
+            "line_no": 60,
+            "speaker": "甘奈",
+            "jp": "『こうやって、考え方を変えた時 扉が開きました』",
+            "cn": "『也就是思考方式发生改变这一时刻，那扇大门才终于向甘奈打开』"
+          },
+          {
+            "file": "283活动剧情\\アンカーボルトソング\\第2話-ひとりずつ３人.csv",
+            "line_no": 42,
+            "speaker": "甘奈",
+            "jp": "私も、こうやってお勉強させてもらえるの、 本当にうれしいんです！",
+            "cn": "我也，能像这样学习到这么多， 真的非常高兴！"
+          },
+          {
+            "file": "283活动剧情\\アンカーボルトソング\\第2話-ひとりずつ３人.csv",
+            "line_no": 58,
+            "speaker": "甘奈",
+            "jp": "なんか、甘奈 やるぞーって、なってて",
+            "cn": "就感觉，是甘奈 要上啦，的样子"
+          },
+          {
+            "file": "283活动剧情\\アンカーボルトソング\\第3話-memory.csv",
+            "line_no": 10,
+            "speaker": "甘奈",
+            "jp": "えー？ あははっ、調べるのー？ やってないと思うよー────あっ",
+            "cn": "欸──？ 啊哈哈，在找他吗？ 我觉得应该没在用吧────啊"
+          },
+          {
+            "file": "283活动剧情\\アンカーボルトソング\\第3話-memory.csv",
+            "line_no": 11,
+            "speaker": "甘奈",
+            "jp": "この人ならやってるかも……！",
+            "cn": "这个人的话可能在用吧……！"
+          },
+          {
+            "file": "283活动剧情\\アンカーボルトソング\\第4話-ダメだった.csv",
+            "line_no": 12,
+            "speaker": "甘奈",
+            "jp": "宿題やってる暇なんてないよー……",
+            "cn": "根本没有做作业的空闲──……"
+          }
+        ]
+      },
+      "cn": {
+        "line_count": 299,
+        "top_phrases": [
+          [
+            "做",
+            194
+          ],
+          [
+            "试",
+            67
+          ],
+          [
+            "练",
+            38
+          ],
+          [
+            "跳",
+            18
+          ],
+          [
+            "跑",
+            10
+          ],
+          [
+            "挑战",
+            8
+          ],
+          [
+            "再来一次",
+            4
+          ]
+        ],
+        "samples": [
+          {
+            "file": "283活动剧情\\2025ホワイトデー スペシャルコミュ\\25白情甘奈1.csv",
+            "line_no": 2,
+            "speaker": "甘奈",
+            "jp": "わ、すごーい！ めっちゃ凝ってて綺麗～！",
+            "cn": "哇，好厉害！ 做得好漂亮～！"
+          },
+          {
+            "file": "283活动剧情\\2025ホワイトデー スペシャルコミュ\\25白情甘奈2.csv",
+            "line_no": 2,
+            "speaker": "甘奈",
+            "jp": "わ、すごーい！ めっちゃ凝ってて綺麗～！",
+            "cn": "哇，好厉害！ 做得好漂亮～！"
+          },
+          {
+            "file": "283活动剧情\\Detective×Murder\\special_communications_490103212.csv",
+            "line_no": 20,
+            "speaker": "甘奈",
+            "jp": "焼き上がるまで一緒にいたら、 千雪さんのアリバイ、ちゃんと立証できたのに……",
+            "cn": "明明如果我们一直陪着千雪小姐到饼干烤好， 就能帮她做不在场证明了……"
+          },
+          {
+            "file": "283活动剧情\\Detective×Murder\\【２日目】16_05-推理開始.csv",
+            "line_no": 10,
+            "speaker": "甘奈",
+            "jp": "お弟子さん…… そんなことができた、犯人って一体……？",
+            "cn": "弟子先生…… 做了那种事情的犯人，到底是……？"
+          },
+          {
+            "file": "283活动剧情\\Detective×Murder\\【２日目】16_28-凶器について２.csv",
+            "line_no": 10,
+            "speaker": "甘奈",
+            "jp": "千雪さんが作ったの さくさくで軽かったけど……",
+            "cn": "虽然千雪小姐做的饼干 确实很脆很轻盈，但……"
+          },
+          {
+            "file": "283活动剧情\\Detective×Murder\\【２日目】18_36-理由.csv",
+            "line_no": 5,
+            "speaker": "甘奈",
+            "jp": "一番先に『Ａ』の元にたどり着いて 実力を証明したんだから殺す必要なんて……",
+            "cn": "你已经最早抵达了“A”的房间 并证明了自己的实力，所以完全没有这么做的必要……"
+          },
+          {
+            "file": "283活动剧情\\Endless×Loop\\C-2シナリオ-プロデューサーじゃない！.csv",
+            "line_no": 47,
+            "speaker": "甘奈",
+            "jp": "よかったね、甜花ちゃん 頑張って作った甲斐あったね",
+            "cn": "太好了呢，甜花 努力做出来没有白费苦心"
+          },
+          {
+            "file": "283活动剧情\\Endless×Loop\\C-2シナリオ-プロデューサーじゃない！.csv",
+            "line_no": 129,
+            "speaker": "甘奈",
+            "jp": "甘奈も、何か作ってくる！",
+            "cn": "甘奈也要做些什么！"
+          },
+          {
+            "file": "283活动剧情\\Endless×Loop\\C-2シナリオ-プロデューサーじゃない！.csv",
+            "line_no": 131,
+            "speaker": "甘奈",
+            "jp": "お兄ちゃん……甘奈の料理だけ、食べられないの……？",
+            "cn": "哥哥……就只吃不下甘奈做的菜吗……？"
+          },
+          {
+            "file": "283活动剧情\\Endless×Loop\\C-2シナリオ-プロデューサーじゃない！.csv",
+            "line_no": 134,
+            "speaker": "甘奈",
+            "jp": "でも～…… 甘奈だけ、食べてもらってない……",
+            "cn": "可是～…… 只有甘奈没请哥哥吃自己做的菜……"
+          },
+          {
+            "file": "283活动剧情\\Endless×Loop\\C-2シナリオ-プロデューサーじゃない！.csv",
+            "line_no": 138,
+            "speaker": "甘奈",
+            "jp": "うん！ 明日の朝は とびっきり美味しいの作ってあげるからね、お兄ちゃん！",
+            "cn": "嗯！明天早上 会做非常好吃的菜哦，哥哥！"
+          },
+          {
+            "file": "283活动剧情\\Secret×Rose\\シナリオB カウンセラー室にて.csv",
+            "line_no": 55,
+            "speaker": "甘奈",
+            "jp": "あ……いきなり来て 自己紹介もしないでごめんなさい",
+            "cn": "啊……突然到访 很抱歉我还没做自我介绍"
+          }
+        ]
+      }
+    },
+    "question_unknown": {
+      "jp": {
+        "line_count": 1114,
+        "top_phrases": [
+          [
+            "？",
+            1139
+          ],
+          [
+            "どう",
+            159
+          ],
+          [
+            "なんで",
+            33
+          ],
+          [
+            "わから",
+            12
+          ],
+          [
+            "知らない",
+            7
+          ]
+        ],
+        "samples": [
+          {
+            "file": "283活动剧情\\2025ホワイトデー スペシャルコミュ\\25白情甘奈2.csv",
+            "line_no": 9,
+            "speaker": "甘奈",
+            "jp": "………… やってもらっても……いい？",
+            "cn": "………… 可不可以……也像之前那样？"
+          },
+          {
+            "file": "283活动剧情\\Detective×Murder\\special_communications_490103204.csv",
+            "line_no": 5,
+            "speaker": "甘奈",
+            "jp": "ちなみに…… これってメインディッシュかな？",
+            "cn": "顺带一提…… 这个是主菜吗？"
+          },
+          {
+            "file": "283活动剧情\\Detective×Murder\\special_communications_490103205.csv",
+            "line_no": 17,
+            "speaker": "甘奈",
+            "jp": "お弟子さん、本棟の見取り図 描いてもらっていいかな？",
+            "cn": "弟子先生，能帮我们画一份主楼的布局图吗？"
+          },
+          {
+            "file": "283活动剧情\\Detective×Murder\\special_communications_490103207.csv",
+            "line_no": 16,
+            "speaker": "甘奈",
+            "jp": "あ、はーい！ 甜花ちゃん、千雪さん、行こう？",
+            "cn": "啊，来了——！ 小甜花，千雪小姐，我们走吧？"
+          },
+          {
+            "file": "283活动剧情\\Detective×Murder\\【２日目】16_05-推理開始.csv",
+            "line_no": 10,
+            "speaker": "甘奈",
+            "jp": "お弟子さん…… そんなことができた、犯人って一体……？",
+            "cn": "弟子先生…… 做了那种事情的犯人，到底是……？"
+          },
+          {
+            "file": "283活动剧情\\Detective×Murder\\【２日目】16_28-凶器について１.csv",
+            "line_no": 22,
+            "speaker": "甘奈",
+            "jp": "でも、エコバッグって薄くて軽い……よね？",
+            "cn": "但是，环保袋应该很薄而且很轻……吧？"
+          },
+          {
+            "file": "283活动剧情\\Detective×Murder\\【２日目】16_28-凶器について１.csv",
+            "line_no": 23,
+            "speaker": "甘奈",
+            "jp": "それを凶器にっていうのは ちょっと難しいんじゃないかな……？",
+            "cn": "要拿它当凶器是不是有点困难呢……？"
+          },
+          {
+            "file": "283活动剧情\\Detective×Murder\\【２日目】16_28-凶器について２.csv",
+            "line_no": 34,
+            "speaker": "甘奈",
+            "jp": "でも、それで…… 犯人はいつ、どんな風に『Ａ』を……？",
+            "cn": "但是，那样的话…… 犯人是在什么时候，怎样杀害了“A”的呢……？"
+          },
+          {
+            "file": "283活动剧情\\Detective×Murder\\【２日目】18_36-理由.csv",
+            "line_no": 4,
+            "speaker": "甘奈",
+            "jp": "ねえ、千雪さん…… どうして……？",
+            "cn": "呐，千雪小姐…… 为什么……？"
+          },
+          {
+            "file": "283活动剧情\\Detective×Murder\\【２日目】午前-甘奈・甜花・千雪.csv",
+            "line_no": 22,
+            "speaker": "甘奈",
+            "jp": "もしかすると『Ａ』の遺体はしばらく、 雨に打たれてたんじゃないかな？ って……",
+            "cn": "“A”的遗体，是不是被雨淋过一段时间呢……？"
+          },
+          {
+            "file": "283活动剧情\\Detective×Murder\\【２日目】午前-甘奈・甜花・千雪.csv",
+            "line_no": 30,
+            "speaker": "甘奈",
+            "jp": "えっとね、甘奈、 『Ａ』は即死だって聞いた気がするかな？",
+            "cn": "嗯，甘奈好像听说过“A”是当即死亡的？"
+          },
+          {
+            "file": "283活动剧情\\Detective×Murder\\【２日目】午前-甘奈・甜花・千雪.csv",
+            "line_no": 31,
+            "speaker": "甘奈",
+            "jp": "『Ａ』の遺体、 最初は天窓の下にあったのかも？",
+            "cn": "“A”的遗体，可能一开始在天窗下面？"
+          }
+        ]
+      },
+      "cn": {
+        "line_count": 1195,
+        "top_phrases": [
+          [
+            "？",
+            1092
+          ],
+          [
+            "什么",
+            261
+          ],
+          [
+            "怎么",
+            141
+          ],
+          [
+            "为什么",
+            36
+          ],
+          [
+            "不知道",
+            29
+          ],
+          [
+            "?",
+            7
+          ],
+          [
+            "不明白",
+            6
+          ]
+        ],
+        "samples": [
+          {
+            "file": "283活动剧情\\2025ホワイトデー スペシャルコミュ\\25白情甘奈2.csv",
+            "line_no": 9,
+            "speaker": "甘奈",
+            "jp": "………… やってもらっても……いい？",
+            "cn": "………… 可不可以……也像之前那样？"
+          },
+          {
+            "file": "283活动剧情\\Detective×Murder\\special_communications_490103204.csv",
+            "line_no": 5,
+            "speaker": "甘奈",
+            "jp": "ちなみに…… これってメインディッシュかな？",
+            "cn": "顺带一提…… 这个是主菜吗？"
+          },
+          {
+            "file": "283活动剧情\\Detective×Murder\\special_communications_490103205.csv",
+            "line_no": 17,
+            "speaker": "甘奈",
+            "jp": "お弟子さん、本棟の見取り図 描いてもらっていいかな？",
+            "cn": "弟子先生，能帮我们画一份主楼的布局图吗？"
+          },
+          {
+            "file": "283活动剧情\\Detective×Murder\\special_communications_490103207.csv",
+            "line_no": 16,
+            "speaker": "甘奈",
+            "jp": "あ、はーい！ 甜花ちゃん、千雪さん、行こう？",
+            "cn": "啊，来了——！ 小甜花，千雪小姐，我们走吧？"
+          },
+          {
+            "file": "283活动剧情\\Detective×Murder\\【２日目】16_05-推理開始.csv",
+            "line_no": 10,
+            "speaker": "甘奈",
+            "jp": "お弟子さん…… そんなことができた、犯人って一体……？",
+            "cn": "弟子先生…… 做了那种事情的犯人，到底是……？"
+          },
+          {
+            "file": "283活动剧情\\Detective×Murder\\【２日目】16_28-凶器について１.csv",
+            "line_no": 22,
+            "speaker": "甘奈",
+            "jp": "でも、エコバッグって薄くて軽い……よね？",
+            "cn": "但是，环保袋应该很薄而且很轻……吧？"
+          },
+          {
+            "file": "283活动剧情\\Detective×Murder\\【２日目】16_28-凶器について１.csv",
+            "line_no": 23,
+            "speaker": "甘奈",
+            "jp": "それを凶器にっていうのは ちょっと難しいんじゃないかな……？",
+            "cn": "要拿它当凶器是不是有点困难呢……？"
+          },
+          {
+            "file": "283活动剧情\\Detective×Murder\\【２日目】16_28-凶器について２.csv",
+            "line_no": 34,
+            "speaker": "甘奈",
+            "jp": "でも、それで…… 犯人はいつ、どんな風に『Ａ』を……？",
+            "cn": "但是，那样的话…… 犯人是在什么时候，怎样杀害了“A”的呢……？"
+          },
+          {
+            "file": "283活动剧情\\Detective×Murder\\【２日目】18_36-理由.csv",
+            "line_no": 4,
+            "speaker": "甘奈",
+            "jp": "ねえ、千雪さん…… どうして……？",
+            "cn": "呐，千雪小姐…… 为什么……？"
+          },
+          {
+            "file": "283活动剧情\\Detective×Murder\\【２日目】午前-甘奈・甜花・千雪.csv",
+            "line_no": 22,
+            "speaker": "甘奈",
+            "jp": "もしかすると『Ａ』の遺体はしばらく、 雨に打たれてたんじゃないかな？ って……",
+            "cn": "“A”的遗体，是不是被雨淋过一段时间呢……？"
+          },
+          {
+            "file": "283活动剧情\\Detective×Murder\\【２日目】午前-甘奈・甜花・千雪.csv",
+            "line_no": 30,
+            "speaker": "甘奈",
+            "jp": "えっとね、甘奈、 『Ａ』は即死だって聞いた気がするかな？",
+            "cn": "嗯，甘奈好像听说过“A”是当即死亡的？"
+          },
+          {
+            "file": "283活动剧情\\Detective×Murder\\【２日目】午前-甘奈・甜花・千雪.csv",
+            "line_no": 31,
+            "speaker": "甘奈",
+            "jp": "『Ａ』の遺体、 最初は天窓の下にあったのかも？",
+            "cn": "“A”的遗体，可能一开始在天窗下面？"
+          }
+        ]
+      }
+    },
+    "performance_body": {
+      "jp": {
+        "line_count": 83,
+        "top_phrases": [
+          [
+            "レッスン",
+            29
+          ],
+          [
+            "体",
+            27
+          ],
+          [
+            "ステージ",
+            14
+          ],
+          [
+            "歌",
+            12
+          ],
+          [
+            "身体",
+            6
+          ],
+          [
+            "カメラ",
+            2
+          ],
+          [
+            "ダンス",
+            2
+          ]
+        ],
+        "samples": [
+          {
+            "file": "283活动剧情\\Detective×Murder\\special_communications_490103207.csv",
+            "line_no": 13,
+            "speaker": "甘奈",
+            "jp": "遺体を氷で冷やして 死亡推定時刻を実際より前に誤認させる、って",
+            "cn": "比如用冰冷却遗体， 让死亡推定时刻被误认得比实际时间更早"
+          },
+          {
+            "file": "283活动剧情\\Detective×Murder\\【２日目】16_05-推理開始.csv",
+            "line_no": 10,
+            "speaker": "甘奈",
+            "jp": "お弟子さん…… そんなことができた、犯人って一体……？",
+            "cn": "弟子先生…… 做了那种事情的犯人，到底是……？"
+          },
+          {
+            "file": "283活动剧情\\Detective×Murder\\【２日目】午前-甘奈・甜花・千雪.csv",
+            "line_no": 20,
+            "speaker": "甘奈",
+            "jp": "絨毯も本も、遺体のそばのだけが濡れてた",
+            "cn": "绒毯和书都只有靠近遗体旁边的部分湿了"
+          },
+          {
+            "file": "283活动剧情\\Detective×Murder\\【２日目】午前-甘奈・甜花・千雪.csv",
+            "line_no": 22,
+            "speaker": "甘奈",
+            "jp": "もしかすると『Ａ』の遺体はしばらく、 雨に打たれてたんじゃないかな？ って……",
+            "cn": "“A”的遗体，是不是被雨淋过一段时间呢……？"
+          },
+          {
+            "file": "283活动剧情\\Detective×Murder\\【２日目】午前-甘奈・甜花・千雪.csv",
+            "line_no": 31,
+            "speaker": "甘奈",
+            "jp": "『Ａ』の遺体、 最初は天窓の下にあったのかも？",
+            "cn": "“A”的遗体，可能一开始在天窗下面？"
+          },
+          {
+            "file": "283活动剧情\\Detective×Murder\\【２日目】午前-甘奈・甜花・千雪.csv",
+            "line_no": 34,
+            "speaker": "甘奈",
+            "jp": "ドアからだと、カメラに映っちゃいそうだし…… 血痕や道具の後始末も大変そう",
+            "cn": "如果是从门进来的，就会被摄像头拍到…… 收拾血痕和道具应该也会很麻烦"
+          },
+          {
+            "file": "283活动剧情\\Detective×Murder\\【２日目】午前-甘奈・甜花・千雪.csv",
+            "line_no": 38,
+            "speaker": "甘奈",
+            "jp": "『Ａ』の遺体は 最初は雨が降り込む、天窓の下にあったのかも……？",
+            "cn": "“A”的遗体，有可能一开始是在 有雨落进来的天窗下面的……？"
+          },
+          {
+            "file": "283活动剧情\\Detective×Murder\\【２日目】午前-甘奈・甜花・千雪.csv",
+            "line_no": 40,
+            "speaker": "甘奈",
+            "jp": "『Ａ』の遺体は元々 天窓の下にあったのかも……",
+            "cn": "“A”的遗体有可能一开始是在天窗下面的……"
+          },
+          {
+            "file": "283活动剧情\\Detective×Murder\\【２日目】午前-甘奈・甜花・千雪.csv",
+            "line_no": 44,
+            "speaker": "甘奈",
+            "jp": "身体を冷やせば、 死亡推定時刻をずらせそうな気がするよね……",
+            "cn": "如果冷却了身体， 应该就能引导我们误算死亡推定时刻了吧……"
+          },
+          {
+            "file": "283活动剧情\\YOUR MY Love letter\\第4话-off stage.csv",
+            "line_no": 113,
+            "speaker": "甘奈",
+            "jp": "『レッスン室ついた～！』",
+            "cn": "“到练习室了～！”"
+          },
+          {
+            "file": "283活动剧情\\よっつのものがたり\\よっつのものがたり01.csv",
+            "line_no": 18,
+            "speaker": "甘奈",
+            "jp": "『ふたりで綺麗な衣装を着て ふたりで歌って踊って……』",
+            "cn": "『两个人一起穿上漂亮的衣服 两个人一起在舞台上唱歌跳舞』"
+          },
+          {
+            "file": "283活动剧情\\よっつのものがたり\\よっつのものがたり07.csv",
+            "line_no": 52,
+            "speaker": "甘奈",
+            "jp": "甜花ちゃん、今日のレッスンで わからないところ、あったかな？",
+            "cn": "甜花，今天的课 有什么不明白的地方吗？"
+          }
+        ]
+      },
+      "cn": {
+        "line_count": 77,
+        "top_phrases": [
+          [
+            "舞",
+            26
+          ],
+          [
+            "练习",
+            25
+          ],
+          [
+            "唱",
+            24
+          ],
+          [
+            "舞台",
+            21
+          ],
+          [
+            "身体",
+            11
+          ],
+          [
+            "摄像",
+            1
+          ]
+        ],
+        "samples": [
+          {
+            "file": "283活动剧情\\Detective×Murder\\【２日目】午前-甘奈・甜花・千雪.csv",
+            "line_no": 34,
+            "speaker": "甘奈",
+            "jp": "ドアからだと、カメラに映っちゃいそうだし…… 血痕や道具の後始末も大変そう",
+            "cn": "如果是从门进来的，就会被摄像头拍到…… 收拾血痕和道具应该也会很麻烦"
+          },
+          {
+            "file": "283活动剧情\\Detective×Murder\\【２日目】午前-甘奈・甜花・千雪.csv",
+            "line_no": 44,
+            "speaker": "甘奈",
+            "jp": "身体を冷やせば、 死亡推定時刻をずらせそうな気がするよね……",
+            "cn": "如果冷却了身体， 应该就能引导我们误算死亡推定时刻了吧……"
+          },
+          {
+            "file": "283活动剧情\\YOUR MY Love letter\\第4话-off stage.csv",
+            "line_no": 113,
+            "speaker": "甘奈",
+            "jp": "『レッスン室ついた～！』",
+            "cn": "“到练习室了～！”"
+          },
+          {
+            "file": "283活动剧情\\よっつのものがたり\\よっつのものがたり01.csv",
+            "line_no": 18,
+            "speaker": "甘奈",
+            "jp": "『ふたりで綺麗な衣装を着て ふたりで歌って踊って……』",
+            "cn": "『两个人一起穿上漂亮的衣服 两个人一起在舞台上唱歌跳舞』"
+          },
+          {
+            "file": "283活动剧情\\アンカーボルトソング\\第6話-のびる、びる.csv",
+            "line_no": 8,
+            "speaker": "甘奈",
+            "jp": "えへへっ 久しぶりだけど、勝手に身体が動いちゃうよね！",
+            "cn": "欸嘿嘿 虽然已经很久没跳舞了，但是身体还是会自己跳起来！"
+          },
+          {
+            "file": "283活动剧情\\アンカーボルトソング\\第6話-のびる、びる.csv",
+            "line_no": 32,
+            "speaker": "甘奈",
+            "jp": "プロデューサーさんが言ってたこと…… カラオケが正解なのか、わかんないけど……",
+            "cn": "制作人说的事…… 虽然不知道，是不是唱卡拉OK……"
+          },
+          {
+            "file": "283活动剧情\\オペレーション・サンタ！～包囲せよ２８３プロ～\\终章-サンタさんつかまえた.csv",
+            "line_no": 48,
+            "speaker": "甘奈",
+            "jp": "うんっ！ みーんなでステージってことだよ、果穂ちゃん☆",
+            "cn": "嗯！ 是大家一起站上舞台哦，果穗☆"
+          },
+          {
+            "file": "283活动剧情\\明るい部屋\\第4话-サンタ・クローズド.csv",
+            "line_no": 92,
+            "speaker": "甘奈",
+            "jp": "コーラスって め～っちゃ大変だね～～！",
+            "cn": "合唱 可真难啊～～！"
+          },
+          {
+            "file": "283活动剧情\\明るい部屋\\第6话-消防士.csv",
+            "line_no": 151,
+            "speaker": "甘奈",
+            "jp": "練習の時みたいにする？",
+            "cn": "要像练习那样排吗？"
+          },
+          {
+            "file": "283活动剧情\\満開、アルストロメリア流幸福論─つなぐ・まごころ・みっつ─\\エンディング-花ざかり、これからも。.csv",
+            "line_no": 8,
+            "speaker": "甘奈",
+            "jp": "おはよう千雪さん えっと、その傘……射撃の練習？",
+            "cn": "早上好千雪姐 那个，那把伞……是在练习射击吗？"
+          },
+          {
+            "file": "283活动剧情\\薄桃色にこんがらがって\\第5話 こわい.csv",
+            "line_no": 64,
+            "speaker": "甘奈",
+            "jp": "うん……お仕事も、レッスンも…… お泊りとかも……全部楽しくて……",
+            "cn": "嗯……工作，还有练习…… 还有住宿……全都很开心……"
+          },
+          {
+            "file": "大崎甘奈\\G.R.A.D.編\\こわいものはなに？.csv",
+            "line_no": 2,
+            "speaker": "甘奈",
+            "jp": "ありがとうございましたーっ！ みなさんのおかげで、サイコーのステージになりました☆",
+            "cn": "非常感谢——！ 多亏了大家才有了最棒的舞台呢☆"
+          }
+        ]
+      }
+    },
+    "relationships": {
+      "jp": {
+        "line_count": 1498,
+        "top_phrases": [
+          [
+            "甜花",
+            614
+          ],
+          [
+            "プロデューサー",
+            521
+          ],
+          [
+            "千雪",
+            310
+          ],
+          [
+            "一緒",
+            112
+          ],
+          [
+            "みんな",
+            101
+          ],
+          [
+            "アルストロメリア",
+            24
+          ]
+        ],
+        "samples": [
+          {
+            "file": "283活动剧情\\5th Anniversary 当日スペシャルコミュ\\5th Anniversary-アルストロメリア.csv",
+            "line_no": 2,
+            "speaker": "甘奈",
+            "jp": "プロデューサーさん…… あの……、ありがと……！",
+            "cn": "制作人…… 那个……，谢谢你……！"
+          },
+          {
+            "file": "283活动剧情\\5th Anniversary 当日スペシャルコミュ\\5th Anniversary-アルストロメリア.csv",
+            "line_no": 3,
+            "speaker": "甘奈",
+            "jp": "えっとね、今の甘奈の幸せって プロデューサーさんがいないと、なかったものだから……",
+            "cn": "话说啊，现在的甘奈的幸福 是有了制作人先生才能实现的，所以……"
+          },
+          {
+            "file": "283活动剧情\\Detective×Murder\\special_communications_490103207.csv",
+            "line_no": 16,
+            "speaker": "甘奈",
+            "jp": "あ、はーい！ 甜花ちゃん、千雪さん、行こう？",
+            "cn": "啊，来了——！ 小甜花，千雪小姐，我们走吧？"
+          },
+          {
+            "file": "283活动剧情\\Detective×Murder\\special_communications_490103212.csv",
+            "line_no": 20,
+            "speaker": "甘奈",
+            "jp": "焼き上がるまで一緒にいたら、 千雪さんのアリバイ、ちゃんと立証できたのに……",
+            "cn": "明明如果我们一直陪着千雪小姐到饼干烤好， 就能帮她做不在场证明了……"
+          },
+          {
+            "file": "283活动剧情\\Detective×Murder\\【２日目】16_28-凶器について２.csv",
+            "line_no": 10,
+            "speaker": "甘奈",
+            "jp": "千雪さんが作ったの さくさくで軽かったけど……",
+            "cn": "虽然千雪小姐做的饼干 确实很脆很轻盈，但……"
+          },
+          {
+            "file": "283活动剧情\\Detective×Murder\\【２日目】18_36-理由.csv",
+            "line_no": 4,
+            "speaker": "甘奈",
+            "jp": "ねえ、千雪さん…… どうして……？",
+            "cn": "呐，千雪小姐…… 为什么……？"
+          },
+          {
+            "file": "283活动剧情\\Detective×Murder\\【２日目】午前-甘奈・甜花・千雪.csv",
+            "line_no": 5,
+            "speaker": "甘奈",
+            "jp": "それに、みんな現場を見にいくんだったら 少し時間をずらした方がよさそうかも",
+            "cn": "而且，如果大家都去查看现场了 还是稍微错开一下时间会比较好吧"
+          },
+          {
+            "file": "283活动剧情\\Detective×Murder\\【２日目】午前-甘奈・甜花・千雪.csv",
+            "line_no": 13,
+            "speaker": "甘奈",
+            "jp": "ちょうどよかった！ 今、千雪さんに状況を伝えてたところだったんだよ",
+            "cn": "你来得正好！ 我们刚才正好在向千雪小姐传达状况"
+          },
+          {
+            "file": "283活动剧情\\Detective×Murder\\【２日目】午前-甘奈・甜花・千雪.csv",
+            "line_no": 15,
+            "speaker": "甘奈",
+            "jp": "千雪さん、ロビーであさひちゃんたちとお話してたから その間にちょっとね……！",
+            "cn": "千雪小姐当时正在大堂和小朝日她们说话 所以，我们就趁着那段时间去了一趟……！"
+          },
+          {
+            "file": "283活动剧情\\Detective×Murder\\【２日目】午前-甘奈・甜花・千雪.csv",
+            "line_no": 51,
+            "speaker": "甘奈",
+            "jp": "昨日の夜、９時半ごろと10時半過ぎに、 甘奈たちは千雪さんと台所で会ってたの",
+            "cn": "昨天晚上，在9点半左右还有10点半之后， 甘奈我们都在厨房见到了千雪小姐"
+          },
+          {
+            "file": "283活动剧情\\Detective×Murder\\【２日目】午前-甘奈・甜花・千雪.csv",
+            "line_no": 58,
+            "speaker": "甘奈",
+            "jp": "ミルクも甘奈と甜花ちゃんの服にかかって、 大変だったんだよね",
+            "cn": "牛奶也洒到了甘奈和小甜花的衣服上， 真的很不得了呢"
+          },
+          {
+            "file": "283活动剧情\\Detective×Murder\\【２日目】午前-甘奈・甜花・千雪.csv",
+            "line_no": 59,
+            "speaker": "甘奈",
+            "jp": "でも、千雪さんが『あとで一緒に片づけておくから 大丈夫』って言ってくれて……",
+            "cn": "但是，千雪小姐对我们说 “我之后会一起收拾的所以没关系”……"
+          }
+        ]
+      },
+      "cn": {
+        "line_count": 1576,
+        "top_phrases": [
+          [
+            "甜花",
+            654
+          ],
+          [
+            "制作人",
+            548
+          ],
+          [
+            "千雪",
+            305
+          ],
+          [
+            "一起",
+            190
+          ],
+          [
+            "大家",
+            107
+          ],
+          [
+            "Alstroemeria",
+            1
+          ]
+        ],
+        "samples": [
+          {
+            "file": "283活动剧情\\2025ホワイトデー スペシャルコミュ\\25白情甘奈2.csv",
+            "line_no": 11,
+            "speaker": "甘奈",
+            "jp": "甘奈も、あーんって してもらいたい……かも……！",
+            "cn": "甘奈，也有点 想要……制作人喂……！"
+          },
+          {
+            "file": "283活动剧情\\5th Anniversary 当日スペシャルコミュ\\5th Anniversary-アルストロメリア.csv",
+            "line_no": 2,
+            "speaker": "甘奈",
+            "jp": "プロデューサーさん…… あの……、ありがと……！",
+            "cn": "制作人…… 那个……，谢谢你……！"
+          },
+          {
+            "file": "283活动剧情\\5th Anniversary 当日スペシャルコミュ\\5th Anniversary-アルストロメリア.csv",
+            "line_no": 3,
+            "speaker": "甘奈",
+            "jp": "えっとね、今の甘奈の幸せって プロデューサーさんがいないと、なかったものだから……",
+            "cn": "话说啊，现在的甘奈的幸福 是有了制作人先生才能实现的，所以……"
+          },
+          {
+            "file": "283活动剧情\\Detective×Murder\\special_communications_490103207.csv",
+            "line_no": 16,
+            "speaker": "甘奈",
+            "jp": "あ、はーい！ 甜花ちゃん、千雪さん、行こう？",
+            "cn": "啊，来了——！ 小甜花，千雪小姐，我们走吧？"
+          },
+          {
+            "file": "283活动剧情\\Detective×Murder\\special_communications_490103212.csv",
+            "line_no": 20,
+            "speaker": "甘奈",
+            "jp": "焼き上がるまで一緒にいたら、 千雪さんのアリバイ、ちゃんと立証できたのに……",
+            "cn": "明明如果我们一直陪着千雪小姐到饼干烤好， 就能帮她做不在场证明了……"
+          },
+          {
+            "file": "283活动剧情\\Detective×Murder\\【２日目】16_28-凶器について２.csv",
+            "line_no": 10,
+            "speaker": "甘奈",
+            "jp": "千雪さんが作ったの さくさくで軽かったけど……",
+            "cn": "虽然千雪小姐做的饼干 确实很脆很轻盈，但……"
+          },
+          {
+            "file": "283活动剧情\\Detective×Murder\\【２日目】18_36-理由.csv",
+            "line_no": 4,
+            "speaker": "甘奈",
+            "jp": "ねえ、千雪さん…… どうして……？",
+            "cn": "呐，千雪小姐…… 为什么……？"
+          },
+          {
+            "file": "283活动剧情\\Detective×Murder\\【２日目】午前-甘奈・甜花・千雪.csv",
+            "line_no": 5,
+            "speaker": "甘奈",
+            "jp": "それに、みんな現場を見にいくんだったら 少し時間をずらした方がよさそうかも",
+            "cn": "而且，如果大家都去查看现场了 还是稍微错开一下时间会比较好吧"
+          },
+          {
+            "file": "283活动剧情\\Detective×Murder\\【２日目】午前-甘奈・甜花・千雪.csv",
+            "line_no": 13,
+            "speaker": "甘奈",
+            "jp": "ちょうどよかった！ 今、千雪さんに状況を伝えてたところだったんだよ",
+            "cn": "你来得正好！ 我们刚才正好在向千雪小姐传达状况"
+          },
+          {
+            "file": "283活动剧情\\Detective×Murder\\【２日目】午前-甘奈・甜花・千雪.csv",
+            "line_no": 15,
+            "speaker": "甘奈",
+            "jp": "千雪さん、ロビーであさひちゃんたちとお話してたから その間にちょっとね……！",
+            "cn": "千雪小姐当时正在大堂和小朝日她们说话 所以，我们就趁着那段时间去了一趟……！"
+          },
+          {
+            "file": "283活动剧情\\Detective×Murder\\【２日目】午前-甘奈・甜花・千雪.csv",
+            "line_no": 51,
+            "speaker": "甘奈",
+            "jp": "昨日の夜、９時半ごろと10時半過ぎに、 甘奈たちは千雪さんと台所で会ってたの",
+            "cn": "昨天晚上，在9点半左右还有10点半之后， 甘奈我们都在厨房见到了千雪小姐"
+          },
+          {
+            "file": "283活动剧情\\Detective×Murder\\【２日目】午前-甘奈・甜花・千雪.csv",
+            "line_no": 54,
+            "speaker": "甘奈",
+            "jp": "９時半にキッチンに行ったのは ふたりでココアを飲もうと思ったからなんだけど",
+            "cn": "9点半左右，我们想一起喝点热可可， 所以就去了厨房"
+          }
+        ]
+      }
+    },
+    "care_support": {
+      "jp": {
+        "line_count": 342,
+        "top_phrases": [
+          [
+            "大丈夫",
+            141
+          ],
+          [
+            "一緒",
+            112
+          ],
+          [
+            "ありがとう",
+            50
+          ],
+          [
+            "心配",
+            22
+          ],
+          [
+            "手伝",
+            14
+          ],
+          [
+            "応援",
+            14
+          ],
+          [
+            "守",
+            7
+          ]
+        ],
+        "samples": [
+          {
+            "file": "283活动剧情\\Detective×Murder\\special_communications_490103212.csv",
+            "line_no": 20,
+            "speaker": "甘奈",
+            "jp": "焼き上がるまで一緒にいたら、 千雪さんのアリバイ、ちゃんと立証できたのに……",
+            "cn": "明明如果我们一直陪着千雪小姐到饼干烤好， 就能帮她做不在场证明了……"
+          },
+          {
+            "file": "283活动剧情\\Detective×Murder\\【２日目】午前-甘奈・甜花・千雪.csv",
+            "line_no": 59,
+            "speaker": "甘奈",
+            "jp": "でも、千雪さんが『あとで一緒に片づけておくから 大丈夫』って言ってくれて……",
+            "cn": "但是，千雪小姐对我们说 “我之后会一起收拾的所以没关系”……"
+          },
+          {
+            "file": "283活动剧情\\Detective×Murder\\【２日目】午前-甘奈・甜花・千雪.csv",
+            "line_no": 62,
+            "speaker": "甘奈",
+            "jp": "夜のうちに洗っておいたよ！ 心配してくれてありがと、千雪さん！",
+            "cn": "我们已经趁着晚上洗好了哦！ 谢谢你担心我们，千雪小姐！"
+          },
+          {
+            "file": "283活动剧情\\Endless×Loop\\C-2シナリオ-プロデューサーじゃない！.csv",
+            "line_no": 86,
+            "speaker": "甘奈",
+            "jp": "大丈夫？ プロデューサーさん、最近働きすぎじゃない……？",
+            "cn": "没事吗？ 制作人，最近没有工作过头吗……？"
+          },
+          {
+            "file": "283活动剧情\\Secret×Rose\\シナリオB カウンセラー室にて.csv",
+            "line_no": 59,
+            "speaker": "甘奈",
+            "jp": "あのね……甘奈、甜花ちゃんのことが すごく心配で……",
+            "cn": "那个……甘奈，很担心 甜花……"
+          },
+          {
+            "file": "283活动剧情\\Secret×Rose\\シナリオB カウンセラー室にて.csv",
+            "line_no": 68,
+            "speaker": "甘奈",
+            "jp": "本当になんとなくなんだけど 一緒にいるといつもと違うなって感じがするの……",
+            "cn": "只是隐隐约约的 在一起的时候感觉和往常不一样……"
+          },
+          {
+            "file": "283活动剧情\\Secret×Rose\\シークレット Secret×Fragrance.csv",
+            "line_no": 22,
+            "speaker": "甘奈",
+            "jp": "はい……あなたと一緒に……",
+            "cn": "好……我会和你一起……"
+          },
+          {
+            "file": "283活动剧情\\Secret×Rose\\ユニット ED 仲間たる少女たち.csv",
+            "line_no": 5,
+            "speaker": "甘奈",
+            "jp": "うん！ ありがとう、センセー！",
+            "cn": "嗯！ 谢谢您，老师！"
+          },
+          {
+            "file": "283活动剧情\\Secret×Rose\\ユニット ED 愛らしい少女たち.csv",
+            "line_no": 8,
+            "speaker": "甘奈",
+            "jp": "安心して、甜花ちゃん センセーはきっと大丈夫だから",
+            "cn": "放心吧，甜花 老师的话没问题的"
+          },
+          {
+            "file": "283活动剧情\\World×Code\\屋敷で×軍人×敵対-敵対ロマンス（甘奈）.csv",
+            "line_no": 14,
+            "speaker": "甘奈",
+            "jp": "……ずーっと ……一緒だよ",
+            "cn": "……要一直 ……在一起哦"
+          },
+          {
+            "file": "283活动剧情\\YOUR MY Love letter\\第4话-off stage.csv",
+            "line_no": 119,
+            "speaker": "甘奈",
+            "jp": "『さっきパワーサラダ食べたから大丈夫！』",
+            "cn": "“刚才吃了能量沙拉没问题！”"
+          },
+          {
+            "file": "283活动剧情\\YOUR MY Love letter\\第6话-present.csv",
+            "line_no": 52,
+            "speaker": "甘奈",
+            "jp": "『心配させたくないから、 今は連絡しないのかもだし……』",
+            "cn": "“因为不想被担心，所以现在可能没怎么联络……”"
+          }
+        ]
+      },
+      "cn": {
+        "line_count": 501,
+        "top_phrases": [
+          [
+            "谢谢",
+            214
+          ],
+          [
+            "一起",
+            190
+          ],
+          [
+            "没关系",
+            64
+          ],
+          [
+            "担心",
+            25
+          ],
+          [
+            "支持",
+            15
+          ],
+          [
+            "帮忙",
+            15
+          ],
+          [
+            "保护",
+            2
+          ]
+        ],
+        "samples": [
+          {
+            "file": "283活动剧情\\2025ホワイトデー スペシャルコミュ\\25白情甘奈1.csv",
+            "line_no": 4,
+            "speaker": "甘奈",
+            "jp": "見たらわかるよ～……！ 絶対時間かかったよね……！ ありがと！",
+            "cn": "一看就知道了～……！ 肯定花了不少功夫……！ 谢谢啦！"
+          },
+          {
+            "file": "283活动剧情\\2025ホワイトデー スペシャルコミュ\\25白情甘奈2.csv",
+            "line_no": 4,
+            "speaker": "甘奈",
+            "jp": "見たらわかるよ～……！ 絶対時間かかったよね……！ ありがと！",
+            "cn": "一看就知道了～……！ 肯定花了不少功夫……！ 谢谢啦！"
+          },
+          {
+            "file": "283活动剧情\\5th Anniversary 当日スペシャルコミュ\\5th Anniversary-アルストロメリア.csv",
+            "line_no": 2,
+            "speaker": "甘奈",
+            "jp": "プロデューサーさん…… あの……、ありがと……！",
+            "cn": "制作人…… 那个……，谢谢你……！"
+          },
+          {
+            "file": "283活动剧情\\Detective×Murder\\special_communications_490103204.csv",
+            "line_no": 4,
+            "speaker": "甘奈",
+            "jp": "お弟子さん、ありがと！ えへへ、めっちゃ美味しそうだね",
+            "cn": "弟子先生，谢谢你！ 诶嘿嘿，看起来很好吃呢"
+          },
+          {
+            "file": "283活动剧情\\Detective×Murder\\【２日目】午前-甘奈・甜花・千雪.csv",
+            "line_no": 54,
+            "speaker": "甘奈",
+            "jp": "９時半にキッチンに行ったのは ふたりでココアを飲もうと思ったからなんだけど",
+            "cn": "9点半左右，我们想一起喝点热可可， 所以就去了厨房"
+          },
+          {
+            "file": "283活动剧情\\Detective×Murder\\【２日目】午前-甘奈・甜花・千雪.csv",
+            "line_no": 59,
+            "speaker": "甘奈",
+            "jp": "でも、千雪さんが『あとで一緒に片づけておくから 大丈夫』って言ってくれて……",
+            "cn": "但是，千雪小姐对我们说 “我之后会一起收拾的所以没关系”……"
+          },
+          {
+            "file": "283活动剧情\\Detective×Murder\\【２日目】午前-甘奈・甜花・千雪.csv",
+            "line_no": 62,
+            "speaker": "甘奈",
+            "jp": "夜のうちに洗っておいたよ！ 心配してくれてありがと、千雪さん！",
+            "cn": "我们已经趁着晚上洗好了哦！ 谢谢你担心我们，千雪小姐！"
+          },
+          {
+            "file": "283活动剧情\\Endless×Loop\\C-2シナリオ-プロデューサーじゃない！.csv",
+            "line_no": 144,
+            "speaker": "甘奈",
+            "jp": "そうだね、甜花ちゃん お兄ちゃんには、明日また思いっきり遊んでもらおう！",
+            "cn": "是啊，甜花 明天再跟哥哥一起尽情地玩耍吧！"
+          },
+          {
+            "file": "283活动剧情\\Secret×Rose\\シナリオB カウンセラー室にて.csv",
+            "line_no": 59,
+            "speaker": "甘奈",
+            "jp": "あのね……甘奈、甜花ちゃんのことが すごく心配で……",
+            "cn": "那个……甘奈，很担心 甜花……"
+          },
+          {
+            "file": "283活动剧情\\Secret×Rose\\シナリオB カウンセラー室にて.csv",
+            "line_no": 68,
+            "speaker": "甘奈",
+            "jp": "本当になんとなくなんだけど 一緒にいるといつもと違うなって感じがするの……",
+            "cn": "只是隐隐约约的 在一起的时候感觉和往常不一样……"
+          },
+          {
+            "file": "283活动剧情\\Secret×Rose\\シークレット Secret×Fragrance.csv",
+            "line_no": 20,
+            "speaker": "甘奈",
+            "jp": "これからの時間はずっとずっと……",
+            "cn": "从今以后要一直在一起……"
+          },
+          {
+            "file": "283活动剧情\\Secret×Rose\\シークレット Secret×Fragrance.csv",
+            "line_no": 22,
+            "speaker": "甘奈",
+            "jp": "はい……あなたと一緒に……",
+            "cn": "好……我会和你一起……"
+          }
+        ]
+      }
+    },
+    "fashion_cute": {
+      "jp": {
+        "line_count": 79,
+        "top_phrases": [
+          [
+            "服",
+            48
+          ],
+          [
+            "雑誌",
+            19
+          ],
+          [
+            "コーデ",
+            13
+          ],
+          [
+            "メイク",
+            3
+          ],
+          [
+            "オシャレ",
+            1
+          ]
+        ],
+        "samples": [
+          {
+            "file": "283活动剧情\\Detective×Murder\\【２日目】午前-甘奈・甜花・千雪.csv",
+            "line_no": 58,
+            "speaker": "甘奈",
+            "jp": "ミルクも甘奈と甜花ちゃんの服にかかって、 大変だったんだよね",
+            "cn": "牛奶也洒到了甘奈和小甜花的衣服上， 真的很不得了呢"
+          },
+          {
+            "file": "283活动剧情\\よっつのものがたり\\よっつのものがたり01.csv",
+            "line_no": 5,
+            "speaker": "甘奈",
+            "jp": "ううん！ 雑誌の片付けとかあるから平気！",
+            "cn": "不不！ 还有杂志什么的要整理所以没关系！"
+          },
+          {
+            "file": "283活动剧情\\よっつのものがたり\\よっつのものがたり08.csv",
+            "line_no": 20,
+            "speaker": "甘奈",
+            "jp": "でも、もしそうなれたら メイクさんのおかげです！",
+            "cn": "不过，如果真能拿第一的话 那也是您的功劳！"
+          },
+          {
+            "file": "283活动剧情\\完録、クエストロメリア！ ～サイコロ編～\\『プロブレム』.csv",
+            "line_no": 73,
+            "speaker": "甘奈",
+            "jp": "甘奈、お洋服が……",
+            "cn": "甘奈的、衣服……"
+          },
+          {
+            "file": "283活动剧情\\完録、クエストロメリア！ ～サイコロ編～\\にっこりまで.csv",
+            "line_no": 3,
+            "speaker": "甘奈",
+            "jp": "お洋服を汚しちゃったこと、 さっきの撮影をふたりに任せちゃったこと",
+            "cn": "是我把衣服弄脏了的事， 是我把刚才的摄影全部拜托给你们两个的事"
+          },
+          {
+            "file": "283活动剧情\\流れ星が消えるまでのジャーニー\\第3话-小さな記憶のピルエット.csv",
+            "line_no": 57,
+            "speaker": "甘奈",
+            "jp": "甘奈はお洋服とアクセサリーが見たい……！ あとコスメ……！",
+            "cn": "甘奈想去看衣服和饰品……！ 还有化妆品……！"
+          },
+          {
+            "file": "283活动剧情\\流れ星が消えるまでのジャーニー\\终章-シャンテ、これからも.csv",
+            "line_no": 6,
+            "speaker": "甘奈",
+            "jp": "服が２着、違うもの",
+            "cn": "衣服，是2件不一样的"
+          },
+          {
+            "file": "283活动剧情\\薄桃色にこんがらがって\\エンディング エンドロールは流れない.csv",
+            "line_no": 3,
+            "speaker": "甘奈",
+            "jp": "──趣味は、お洋服探しやデザインを考えることです 御誌のことは、今回初めて勉強させていただきましたが──",
+            "cn": "——兴趣是，挑选衣服和思考衣服设计 关于贵刊，这次是我第一次学习——"
+          },
+          {
+            "file": "283活动剧情\\薄桃色にこんがらがって\\オープニング 予感.csv",
+            "line_no": 32,
+            "speaker": "甘奈",
+            "jp": "そうそう！ 新しい雑誌だって言ってたから、 どんな感じかはまだわからないんだけど……",
+            "cn": "对对！ 因为说是新杂志， 所以我也不知道是什么感觉……"
+          },
+          {
+            "file": "283活动剧情\\薄桃色にこんがらがって\\第1話 アプリコット.csv",
+            "line_no": 22,
+            "speaker": "甘奈",
+            "jp": "そう！ お洋服も小物も、全部全部めっちゃかわいーの！",
+            "cn": "对！ 不管是衣服还是小饰品，全部都很可爱！"
+          },
+          {
+            "file": "283活动剧情\\薄桃色にこんがらがって\\第2話 反対ごっこ.csv",
+            "line_no": 34,
+            "speaker": "甘奈",
+            "jp": "『新しい雑誌だって言ってたから、 どんな感じかはまだわからないんだけど……』",
+            "cn": "“因为说是新的杂志， 也不知道是什么风格的……”"
+          },
+          {
+            "file": "大崎甘奈\\G.R.A.D.編\\無理にでも浮かび上がる.csv",
+            "line_no": 44,
+            "speaker": "甘奈",
+            "jp": "……甘奈って お洋服のこと、得意分野だったんだ",
+            "cn": "……甘奈 原来很擅长服装啊"
+          }
+        ]
+      },
+      "cn": {
+        "line_count": 206,
+        "top_phrases": [
+          [
+            "可爱",
+            103
+          ],
+          [
+            "衣服",
+            63
+          ],
+          [
+            "杂志",
+            24
+          ],
+          [
+            "化妆",
+            16
+          ],
+          [
+            "搭配",
+            15
+          ],
+          [
+            "时尚",
+            8
+          ]
+        ],
+        "samples": [
+          {
+            "file": "283活动剧情\\Detective×Murder\\【２日目】午前-甘奈・甜花・千雪.csv",
+            "line_no": 58,
+            "speaker": "甘奈",
+            "jp": "ミルクも甘奈と甜花ちゃんの服にかかって、 大変だったんだよね",
+            "cn": "牛奶也洒到了甘奈和小甜花的衣服上， 真的很不得了呢"
+          },
+          {
+            "file": "283活动剧情\\Secret×Rose\\シナリオB カウンセラー室にて.csv",
+            "line_no": 61,
+            "speaker": "甘奈",
+            "jp": "甘奈の双子のお姉ちゃん！ すっごくかわいーんだ──",
+            "cn": "是甘奈的双胞胎姐姐！ 超可爱的——"
+          },
+          {
+            "file": "283活动剧情\\World×Code\\大泥棒×町人の喧嘩×悪者を成敗-時代劇（甘奈）.csv",
+            "line_no": 9,
+            "speaker": "甘奈",
+            "jp": "──ねぇねぇ、それより……！ さっきその子のこと『かわいー』って言ってくれたよね！？",
+            "cn": "——比起这个……！ 你们刚刚说这孩子“可爱”对吧！？"
+          },
+          {
+            "file": "283活动剧情\\World×Code\\大泥棒×町人の喧嘩×悪者を成敗-時代劇（甘奈）.csv",
+            "line_no": 11,
+            "speaker": "甘奈",
+            "jp": "だよね！ 甜花ちゃん！ めーっちゃかわいーよね！",
+            "cn": "对吧！甜花！ 超可爱的——！"
+          },
+          {
+            "file": "283活动剧情\\よっつのものがたり\\よっつのものがたり01.csv",
+            "line_no": 5,
+            "speaker": "甘奈",
+            "jp": "ううん！ 雑誌の片付けとかあるから平気！",
+            "cn": "不不！ 还有杂志什么的要整理所以没关系！"
+          },
+          {
+            "file": "283活动剧情\\よっつのものがたり\\よっつのものがたり01.csv",
+            "line_no": 13,
+            "speaker": "甘奈",
+            "jp": "『どんな組み合わせにしよっかなー』",
+            "cn": "『要怎么搭配好呢—』"
+          },
+          {
+            "file": "283活动剧情\\よっつのものがたり\\よっつのものがたり01.csv",
+            "line_no": 18,
+            "speaker": "甘奈",
+            "jp": "『ふたりで綺麗な衣装を着て ふたりで歌って踊って……』",
+            "cn": "『两个人一起穿上漂亮的衣服 两个人一起在舞台上唱歌跳舞』"
+          },
+          {
+            "file": "283活动剧情\\よっつのものがたり\\よっつのものがたり04.csv",
+            "line_no": 47,
+            "speaker": "甘奈",
+            "jp": "甜花ちゃんのかわいさを みんなに伝えたいって、言ってたのに",
+            "cn": "自己明明说过 想把甜花的可爱之处展现给所有人……"
+          },
+          {
+            "file": "283活动剧情\\よっつのものがたり\\よっつのものがたり08.csv",
+            "line_no": 30,
+            "speaker": "甘奈",
+            "jp": "『ファッションや今回のお仕事、 たくさんの好きなことに出会うことができました』",
+            "cn": "『甘奈才有机会喜欢上这么多事物 不论是时尚，还是这次的工作』"
+          },
+          {
+            "file": "283活动剧情\\アンカーボルトソング\\第1話-かわった.csv",
+            "line_no": 52,
+            "speaker": "甘奈",
+            "jp": "リップと、コスメポーチ……",
+            "cn": "唇膏和，化妆品袋……"
+          },
+          {
+            "file": "283活动剧情\\アンカーボルトソング\\第2話-ひとりずつ３人.csv",
+            "line_no": 11,
+            "speaker": "甘奈",
+            "jp": "あ、はい……！ 今日のは私物だし、もうこのまま出ちゃいます！",
+            "cn": "啊，是的……！ 今天的衣服是私物，这样就可以出去了！"
+          },
+          {
+            "file": "283活动剧情\\アンカーボルトソング\\第4話-ダメだった.csv",
+            "line_no": 23,
+            "speaker": "甘奈",
+            "jp": "かわいー甜花ちゃんを もっとみんなに見てもらわないとダメなんだから！",
+            "cn": "可爱的甜花 不让大家多看看可是不行的！"
+          }
+        ]
+      }
+    },
+    "boredom_rejection": {
+      "jp": {
+        "line_count": 12,
+        "top_phrases": [
+          [
+            "嫌",
+            8
+          ],
+          [
+            "だめ",
+            3
+          ],
+          [
+            "飽",
+            1
+          ]
+        ],
+        "samples": [
+          {
+            "file": "283活动剧情\\アジェンダ２８３\\第3话-つながりを考えましょう.csv",
+            "line_no": 92,
+            "speaker": "甘奈",
+            "jp": "だ、だめー！ 鳥さんーっ！",
+            "cn": "不，不可以！ 小鸟——！"
+          },
+          {
+            "file": "283活动剧情\\ロング・ログ・エンドロール\\第4话-２日目 朝早く.csv",
+            "line_no": 32,
+            "speaker": "甘奈",
+            "jp": "…………明日には帰らなきゃなの、嫌だなぁ",
+            "cn": "明天就要回去了 真讨厌"
+          },
+          {
+            "file": "大崎甘奈\\G.R.A.D.編\\決勝前コミュ.csv",
+            "line_no": 6,
+            "speaker": "甘奈",
+            "jp": "もしかしたら、それで、 見る前から『嫌だ』って言われるかもしれない",
+            "cn": "也许， 会有人看都不看就对甘奈说“不要”"
+          },
+          {
+            "file": "大崎甘奈\\G.R.A.D.編\\突き放して（甘やかして）.csv",
+            "line_no": 48,
+            "speaker": "甘奈",
+            "jp": "甘奈はきっと──…… そうじゃなきゃ甘奈が嫌われちゃうからって……",
+            "cn": "甘奈一定是想着——…… 不这么做的话甘奈会被讨厌的……"
+          },
+          {
+            "file": "大崎甘奈\\【longing】大崎甘奈\\my selfishness.csv",
+            "line_no": 28,
+            "speaker": "甘奈",
+            "jp": "だから、みんなを遠く感じちゃうのは嫌だ、寂しい って思うのは",
+            "cn": "所以，讨厌和大家远离的感觉，感觉很寂寞 像这样的想法"
+          },
+          {
+            "file": "大崎甘奈\\【お散歩サンライト】大崎甘奈\\『Thank you A』.csv",
+            "line_no": 25,
+            "speaker": "甘奈",
+            "jp": "病み上がりのプロデューサーさんを ひとりにしておくの、嫌だもん",
+            "cn": "甘奈不想让病刚好的制作人先生 一个人待着"
+          },
+          {
+            "file": "大崎甘奈\\【ふたつの雨】大崎甘奈\\あ！　雨☆.csv",
+            "line_no": 36,
+            "speaker": "甘奈",
+            "jp": "うん！ 一回濡れちゃったくらいで 雨の日が嫌いになったらもったいないもん☆",
+            "cn": "嗯！ 要是因为淋湿了一次 变得讨厌雨天的话就会错过很多了呢☆"
+          },
+          {
+            "file": "大崎甘奈\\【ゆらゆらアクアリウム】大崎甘奈\\Aquarium white.csv",
+            "line_no": 4,
+            "speaker": "甘奈",
+            "jp": "ね～！ あ、こっちのもかわいー！ えへへ、見てて飽きないな～",
+            "cn": "是吧～？ 啊，这个也好可爱！ 诶嘿嘿，怎么看都不够呢～"
+          },
+          {
+            "file": "大崎甘奈\\【ゆらゆらアクアリウム】大崎甘奈\\Aquarium white.csv",
+            "line_no": 28,
+            "speaker": "甘奈",
+            "jp": "でもね……まだちょっと……ここにいたいな…… だめ……？",
+            "cn": "不过啊……再待一会……想在这里再待一会…… 不可以么……？"
+          },
+          {
+            "file": "大崎甘奈\\【見つけたい、だけど……】大崎甘奈\\寂しく…….csv",
+            "line_no": 29,
+            "speaker": "甘奈",
+            "jp": "そんな寂しそうな声…… 出しちゃ……だめだよ……",
+            "cn": "不能发出…… 这么寂寞的……声音哦……"
+          },
+          {
+            "file": "大崎甜花\\【見果てぬ先のアヴァロン】大崎甜花\\ワタシ・タチハ・ドコマデモ.csv",
+            "line_no": 27,
+            "speaker": "甘奈",
+            "jp": "えへへ、ご機嫌よう☆ 千雪さん！ 千雪さんもお散歩？",
+            "cn": "诶嘿嘿，贵安☆ 千雪！ 千雪也在散步吗？"
+          },
+          {
+            "file": "桑山千雪\\【ドゥワッチャラブ】桑山千雪\\食べちゃうから、全部.csv",
+            "line_no": 10,
+            "speaker": "甘奈",
+            "jp": "ため息なんてついたら、 恋人に嫌われちゃわない……？",
+            "cn": "要是叹了气， 不会被恋人嫌弃吗……？"
+          }
+        ]
+      },
+      "cn": {
+        "line_count": 109,
+        "top_phrases": [
+          [
+            "不行",
+            55
+          ],
+          [
+            "不要",
+            37
+          ],
+          [
+            "麻烦",
+            25
+          ],
+          [
+            "无聊",
+            1
+          ]
+        ],
+        "samples": [
+          {
+            "file": "283活动剧情\\Detective×Murder\\【２日目】午前-甘奈・甜花・千雪.csv",
+            "line_no": 34,
+            "speaker": "甘奈",
+            "jp": "ドアからだと、カメラに映っちゃいそうだし…… 血痕や道具の後始末も大変そう",
+            "cn": "如果是从门进来的，就会被摄像头拍到…… 收拾血痕和道具应该也会很麻烦"
+          },
+          {
+            "file": "283活动剧情\\Endless×Loop\\C-2シナリオ-プロデューサーじゃない！.csv",
+            "line_no": 51,
+            "speaker": "甘奈",
+            "jp": "あっ！ お兄ちゃん、お箸が止まってるよ？ 甘奈、もらっちゃおうかなー",
+            "cn": "啊！哥哥，筷子停下来了哦？ 甘奈，要不要替你吃掉呢"
+          },
+          {
+            "file": "283活动剧情\\Endless×Loop\\C-2シナリオ-プロデューサーじゃない！.csv",
+            "line_no": 64,
+            "speaker": "甘奈",
+            "jp": "え……お兄ちゃん、どっか行っちゃうの……？ やだよ……",
+            "cn": "诶……哥哥，要出去吗……？ 不要啊……"
+          },
+          {
+            "file": "283活动剧情\\きよしこの夜、プレゼン・フォー・ユー！\\14_11 PM.csv",
+            "line_no": 83,
+            "speaker": "甘奈",
+            "jp": "だっ……ダメダメっ……！ このままっ……！",
+            "cn": "不……不行不行……！ 这样的话……！"
+          },
+          {
+            "file": "283活动剧情\\よっつのものがたり\\よっつのものがたり06.csv",
+            "line_no": 19,
+            "speaker": "甘奈",
+            "jp": "『大変なことから 遠ざけるだけで』",
+            "cn": "『只是一心想着让甜花 避免那些麻烦的事情』"
+          },
+          {
+            "file": "283活动剧情\\よっつのものがたり\\よっつのものがたり06.csv",
+            "line_no": 51,
+            "speaker": "甘奈",
+            "jp": "……っ ダメ……書かなきゃいけないのに……",
+            "cn": "……呜 不行……必须要写下去……"
+          },
+          {
+            "file": "283活动剧情\\よっつのものがたり\\よっつのものがたり07.csv",
+            "line_no": 2,
+            "speaker": "甘奈",
+            "jp": "『大変なことから 遠ざけるだけで』",
+            "cn": "『只是一心想着让甜花 避免那些麻烦的事情』"
+          },
+          {
+            "file": "283活动剧情\\よっつのものがたり\\よっつのものがたり07.csv",
+            "line_no": 54,
+            "speaker": "甘奈",
+            "jp": "じゃあ、甘奈と一緒に 映像に撮って確認してみない？",
+            "cn": "那，要不要和甘奈一起 看看录像确认一下？"
+          },
+          {
+            "file": "283活动剧情\\よっつのものがたり\\よっつのものがたり07.csv",
+            "line_no": 57,
+            "speaker": "甘奈",
+            "jp": "『遠ざけるんじゃなくて 近くで一緒に悩む』",
+            "cn": "『不是靠远离来避免麻烦，而是拉近身边一起烦恼』"
+          },
+          {
+            "file": "283活动剧情\\アンカーボルトソング\\第2話-ひとりずつ３人.csv",
+            "line_no": 12,
+            "speaker": "甘奈",
+            "jp": "────あ、えへへっ いけない、バングルとリング、甘奈のじゃなかった",
+            "cn": "────啊，欸嘿嘿 不行，手环，并不是甘奈的"
+          },
+          {
+            "file": "283活动剧情\\アンカーボルトソング\\第4話-ダメだった.csv",
+            "line_no": 18,
+            "speaker": "甘奈",
+            "jp": "あー……！ ダメ、やること多くて集中できない…… 睡眠もとらなきゃなのに…………！",
+            "cn": "啊──……！ 不行，要做的事情太多了集中不了注意力…… 明明睡眠时间也要确保的…………！"
+          },
+          {
+            "file": "283活动剧情\\アンカーボルトソング\\第4話-ダメだった.csv",
+            "line_no": 23,
+            "speaker": "甘奈",
+            "jp": "かわいー甜花ちゃんを もっとみんなに見てもらわないとダメなんだから！",
+            "cn": "可爱的甜花 不让大家多看看可是不行的！"
+          }
+        ]
+      }
+    }
+  },
+  "sample_target_lines": [
+    {
+      "file": "283活动剧情\\2025ホワイトデー スペシャルコミュ\\25白情甘奈1.csv",
+      "line_no": 2,
+      "speaker": "甘奈",
+      "jp": "わ、すごーい！\nめっちゃ凝ってて綺麗～！",
+      "cn": "哇，好厉害！\n做得好漂亮～！"
+    },
+    {
+      "file": "283活动剧情\\2025ホワイトデー スペシャルコミュ\\25白情甘奈1.csv",
+      "line_no": 4,
+      "speaker": "甘奈",
+      "jp": "見たらわかるよ～……！\n絶対時間かかったよね……！　ありがと！",
+      "cn": "一看就知道了～……！\n肯定花了不少功夫……！  谢谢啦！"
+    },
+    {
+      "file": "283活动剧情\\2025ホワイトデー スペシャルコミュ\\25白情甘奈2.csv",
+      "line_no": 2,
+      "speaker": "甘奈",
+      "jp": "わ、すごーい！\nめっちゃ凝ってて綺麗～！",
+      "cn": "哇，好厉害！\n做得好漂亮～！"
+    },
+    {
+      "file": "283活动剧情\\2025ホワイトデー スペシャルコミュ\\25白情甘奈2.csv",
+      "line_no": 4,
+      "speaker": "甘奈",
+      "jp": "見たらわかるよ～……！\n絶対時間かかったよね……！　ありがと！",
+      "cn": "一看就知道了～……！\n肯定花了不少功夫……！  谢谢啦！"
+    },
+    {
+      "file": "283活动剧情\\2025ホワイトデー スペシャルコミュ\\25白情甘奈2.csv",
+      "line_no": 5,
+      "speaker": "甘奈",
+      "jp": "……",
+      "cn": ""
+    },
+    {
+      "file": "283活动剧情\\2025ホワイトデー スペシャルコミュ\\25白情甘奈2.csv",
+      "line_no": 7,
+      "speaker": "甘奈",
+      "jp": "えへへ……\n気付かれちゃった……",
+      "cn": "诶嘿嘿……\n被你发现了……"
+    },
+    {
+      "file": "283活动剧情\\2025ホワイトデー スペシャルコミュ\\25白情甘奈2.csv",
+      "line_no": 8,
+      "speaker": "甘奈",
+      "jp": "…………",
+      "cn": ""
+    },
+    {
+      "file": "283活动剧情\\2025ホワイトデー スペシャルコミュ\\25白情甘奈2.csv",
+      "line_no": 9,
+      "speaker": "甘奈",
+      "jp": "…………\nやってもらっても……いい？",
+      "cn": "…………\n可不可以……也像之前那样？"
+    },
+    {
+      "file": "283活动剧情\\2025ホワイトデー スペシャルコミュ\\25白情甘奈2.csv",
+      "line_no": 11,
+      "speaker": "甘奈",
+      "jp": "甘奈も、あーんって\nしてもらいたい……かも……！",
+      "cn": "甘奈，也有点\n想要……制作人喂……！"
+    },
+    {
+      "file": "283活动剧情\\5th Anniversary 当日スペシャルコミュ\\5th Anniversary-アルストロメリア.csv",
+      "line_no": 2,
+      "speaker": "甘奈",
+      "jp": "プロデューサーさん……\nあの……、ありがと……！",
+      "cn": "制作人……\n那个……，谢谢你……！"
+    },
+    {
+      "file": "283活动剧情\\5th Anniversary 当日スペシャルコミュ\\5th Anniversary-アルストロメリア.csv",
+      "line_no": 3,
+      "speaker": "甘奈",
+      "jp": "えっとね、今の甘奈の幸せって\nプロデューサーさんがいないと、なかったものだから……",
+      "cn": "话说啊，现在的甘奈的幸福\n是有了制作人先生才能实现的，所以……"
+    },
+    {
+      "file": "283活动剧情\\5th Anniversary 当日スペシャルコミュ\\5th Anniversary-アルストロメリア.csv",
+      "line_no": 4,
+      "speaker": "甘奈",
+      "jp": "お礼……言いたくなっちゃったんだ……！",
+      "cn": "不由得就想要……说一些感谢的话语……！"
+    },
+    {
+      "file": "283活动剧情\\Detective×Murder\\special_communications_490103204.csv",
+      "line_no": 4,
+      "speaker": "甘奈",
+      "jp": "お弟子さん、ありがと！\nえへへ、めっちゃ美味しそうだね",
+      "cn": "弟子先生，谢谢你！\n诶嘿嘿，看起来很好吃呢"
+    },
+    {
+      "file": "283活动剧情\\Detective×Murder\\special_communications_490103204.csv",
+      "line_no": 5,
+      "speaker": "甘奈",
+      "jp": "ちなみに……\nこれってメインディッシュかな？",
+      "cn": "顺带一提……\n这个是主菜吗？"
+    },
+    {
+      "file": "283活动剧情\\Detective×Murder\\special_communications_490103204.csv",
+      "line_no": 6,
+      "speaker": "甘奈",
+      "jp": "『Ａ』さんも同席してくれるなら\n食べ終わっちゃうとよくないかなって思って",
+      "cn": "如果“A”先生也会同席，\n我觉得现在就全部吃完不太好吧"
+    },
+    {
+      "file": "283活动剧情\\Detective×Murder\\special_communications_490103204.csv",
+      "line_no": 19,
+      "speaker": "甘奈",
+      "jp": "そうなんだ……",
+      "cn": "是这样吗……"
+    },
+    {
+      "file": "283活动剧情\\Detective×Murder\\special_communications_490103204.csv",
+      "line_no": 20,
+      "speaker": "甘奈",
+      "jp": "誰にも姿を見せなかった『Ａ』だもんね！\n挨拶してもらえるだけでもうれしーな！",
+      "cn": "毕竟那可是从不在任何人面前露脸的“A”嘛！\n哪怕只是露个脸我也很高兴了！"
+    },
+    {
+      "file": "283活动剧情\\Detective×Murder\\special_communications_490103205.csv",
+      "line_no": 16,
+      "speaker": "甘奈",
+      "jp": "そうだね……！",
+      "cn": "是呢……！"
+    },
+    {
+      "file": "283活动剧情\\Detective×Murder\\special_communications_490103205.csv",
+      "line_no": 17,
+      "speaker": "甘奈",
+      "jp": "お弟子さん、本棟の見取り図\n描いてもらっていいかな？",
+      "cn": "弟子先生，能帮我们画一份主楼的布局图吗？"
+    },
+    {
+      "file": "283活动剧情\\Detective×Murder\\special_communications_490103205.csv",
+      "line_no": 18,
+      "speaker": "甘奈",
+      "jp": "当てずっぽうに歩くより、\n何か、指針になるものがあった方がいいと思うんだ",
+      "cn": "我觉得比起到处乱转，\n还是有某种类似指针的东西会比较好"
+    },
+    {
+      "file": "283活动剧情\\Detective×Murder\\special_communications_490103207.csv",
+      "line_no": 12,
+      "speaker": "甘奈",
+      "jp": "甘奈が前に関わった事件でも\nそういうのあったよ",
+      "cn": "甘奈之前参与的事件里，\n也出现过类似的情况哦"
+    },
+    {
+      "file": "283活动剧情\\Detective×Murder\\special_communications_490103207.csv",
+      "line_no": 13,
+      "speaker": "甘奈",
+      "jp": "遺体を氷で冷やして\n死亡推定時刻を実際より前に誤認させる、って",
+      "cn": "比如用冰冷却遗体，\n让死亡推定时刻被误认得比实际时间更早"
+    },
+    {
+      "file": "283活动剧情\\Detective×Murder\\special_communications_490103207.csv",
+      "line_no": 16,
+      "speaker": "甘奈",
+      "jp": "あ、はーい！\n甜花ちゃん、千雪さん、行こう？",
+      "cn": "啊，来了——！\n小甜花，千雪小姐，我们走吧？"
+    },
+    {
+      "file": "283活动剧情\\Detective×Murder\\special_communications_490103212.csv",
+      "line_no": 20,
+      "speaker": "甘奈",
+      "jp": "焼き上がるまで一緒にいたら、\n千雪さんのアリバイ、ちゃんと立証できたのに……",
+      "cn": "明明如果我们一直陪着千雪小姐到饼干烤好，\n就能帮她做不在场证明了……"
+    },
+    {
+      "file": "283活动剧情\\Detective×Murder\\【２日目】16_05-推理開始.csv",
+      "line_no": 10,
+      "speaker": "甘奈",
+      "jp": "お弟子さん……\nそんなことができた、犯人って一体……？",
+      "cn": "弟子先生……\n做了那种事情的犯人，到底是……？"
+    },
+    {
+      "file": "283活动剧情\\Detective×Murder\\【２日目】16_28-凶器について１.csv",
+      "line_no": 20,
+      "speaker": "甘奈",
+      "jp": "ガムシロップがついたエコバッグが凶器……",
+      "cn": "沾上了树胶糖浆的环保袋就是凶器……"
+    },
+    {
+      "file": "283活动剧情\\Detective×Murder\\【２日目】16_28-凶器について１.csv",
+      "line_no": 22,
+      "speaker": "甘奈",
+      "jp": "でも、エコバッグって薄くて軽い……よね？",
+      "cn": "但是，环保袋应该很薄而且很轻……吧？"
+    },
+    {
+      "file": "283活动剧情\\Detective×Murder\\【２日目】16_28-凶器について１.csv",
+      "line_no": 23,
+      "speaker": "甘奈",
+      "jp": "それを凶器にっていうのは\nちょっと難しいんじゃないかな……？",
+      "cn": "要拿它当凶器是不是有点困难呢……？"
+    },
+    {
+      "file": "283活动剧情\\Detective×Murder\\【２日目】16_28-凶器について２.csv",
+      "line_no": 10,
+      "speaker": "甘奈",
+      "jp": "千雪さんが作ったの\nさくさくで軽かったけど……",
+      "cn": "虽然千雪小姐做的饼干\n确实很脆很轻盈，但……"
+    },
+    {
+      "file": "283活动剧情\\Detective×Murder\\【２日目】16_28-凶器について２.csv",
+      "line_no": 34,
+      "speaker": "甘奈",
+      "jp": "でも、それで……\n犯人はいつ、どんな風に『Ａ』を……？",
+      "cn": "但是，那样的话……\n犯人是在什么时候，怎样杀害了“A”的呢……？"
+    },
+    {
+      "file": "283活动剧情\\Detective×Murder\\【２日目】18_36-理由.csv",
+      "line_no": 4,
+      "speaker": "甘奈",
+      "jp": "ねえ、千雪さん……\nどうして……？",
+      "cn": "呐，千雪小姐……\n为什么……？"
+    },
+    {
+      "file": "283活动剧情\\Detective×Murder\\【２日目】18_36-理由.csv",
+      "line_no": 5,
+      "speaker": "甘奈",
+      "jp": "一番先に『Ａ』の元にたどり着いて\n実力を証明したんだから殺す必要なんて……",
+      "cn": "你已经最早抵达了“A”的房间\n并证明了自己的实力，所以完全没有这么做的必要……"
+    },
+    {
+      "file": "283活动剧情\\Detective×Murder\\【２日目】午前-甘奈・甜花・千雪.csv",
+      "line_no": 4,
+      "speaker": "甘奈",
+      "jp": "だね",
+      "cn": "是啊"
+    },
+    {
+      "file": "283活动剧情\\Detective×Murder\\【２日目】午前-甘奈・甜花・千雪.csv",
+      "line_no": 5,
+      "speaker": "甘奈",
+      "jp": "それに、みんな現場を見にいくんだったら\n少し時間をずらした方がよさそうかも",
+      "cn": "而且，如果大家都去查看现场了\n还是稍微错开一下时间会比较好吧"
+    },
+    {
+      "file": "283活动剧情\\Detective×Murder\\【２日目】午前-甘奈・甜花・千雪.csv",
+      "line_no": 12,
+      "speaker": "甘奈",
+      "jp": "あ、お弟子さん！",
+      "cn": "啊、弟子先生！"
+    },
+    {
+      "file": "283活动剧情\\Detective×Murder\\【２日目】午前-甘奈・甜花・千雪.csv",
+      "line_no": 13,
+      "speaker": "甘奈",
+      "jp": "ちょうどよかった！\n今、千雪さんに状況を伝えてたところだったんだよ",
+      "cn": "你来得正好！\n我们刚才正好在向千雪小姐传达状况"
+    },
+    {
+      "file": "283活动剧情\\Detective×Murder\\【２日目】午前-甘奈・甜花・千雪.csv",
+      "line_no": 15,
+      "speaker": "甘奈",
+      "jp": "千雪さん、ロビーであさひちゃんたちとお話してたから\nその間にちょっとね……！",
+      "cn": "千雪小姐当时正在大堂和小朝日她们说话\n所以，我们就趁着那段时间去了一趟……！"
+    },
+    {
+      "file": "283活动剧情\\Detective×Murder\\【２日目】午前-甘奈・甜花・千雪.csv",
+      "line_no": 16,
+      "speaker": "甘奈",
+      "jp": "……『Ａ』のジャケットを調べてたら、\n中にあったメモの字が、にじんでることに気がついたの",
+      "cn": "……我调查了“A”的夹克，\n发现里面的便条上的字都渗开了"
+    },
+    {
+      "file": "283活动剧情\\Detective×Murder\\【２日目】午前-甘奈・甜花・千雪.csv",
+      "line_no": 20,
+      "speaker": "甘奈",
+      "jp": "絨毯も本も、遺体のそばのだけが濡れてた",
+      "cn": "绒毯和书都只有靠近遗体旁边的部分湿了"
+    },
+    {
+      "file": "283活动剧情\\Detective×Murder\\【２日目】午前-甘奈・甜花・千雪.csv",
+      "line_no": 21,
+      "speaker": "甘奈",
+      "jp": "だからね、甘奈たち言ってたの",
+      "cn": "所以，甘奈我们在想"
+    },
+    {
+      "file": "283活动剧情\\Detective×Murder\\【２日目】午前-甘奈・甜花・千雪.csv",
+      "line_no": 22,
+      "speaker": "甘奈",
+      "jp": "もしかすると『Ａ』の遺体はしばらく、\n雨に打たれてたんじゃないかな？　って……",
+      "cn": "“A”的遗体，是不是被雨淋过一段时间呢……？"
+    },
+    {
+      "file": "283活动剧情\\Detective×Murder\\【２日目】午前-甘奈・甜花・千雪.csv",
+      "line_no": 30,
+      "speaker": "甘奈",
+      "jp": "えっとね、甘奈、\n『Ａ』は即死だって聞いた気がするかな？",
+      "cn": "嗯，甘奈好像听说过“A”是当即死亡的？"
+    },
+    {
+      "file": "283活动剧情\\Detective×Murder\\【２日目】午前-甘奈・甜花・千雪.csv",
+      "line_no": 31,
+      "speaker": "甘奈",
+      "jp": "『Ａ』の遺体、\n最初は天窓の下にあったのかも？",
+      "cn": "“A”的遗体，可能一开始在天窗下面？"
+    },
+    {
+      "file": "283活动剧情\\Detective×Murder\\【２日目】午前-甘奈・甜花・千雪.csv",
+      "line_no": 34,
+      "speaker": "甘奈",
+      "jp": "ドアからだと、カメラに映っちゃいそうだし……\n血痕や道具の後始末も大変そう",
+      "cn": "如果是从门进来的，就会被摄像头拍到……\n收拾血痕和道具应该也会很麻烦"
+    },
+    {
+      "file": "283活动剧情\\Detective×Murder\\【２日目】午前-甘奈・甜花・千雪.csv",
+      "line_no": 37,
+      "speaker": "甘奈",
+      "jp": "うん……",
+      "cn": "嗯……"
+    },
+    {
+      "file": "283活动剧情\\Detective×Murder\\【２日目】午前-甘奈・甜花・千雪.csv",
+      "line_no": 38,
+      "speaker": "甘奈",
+      "jp": "『Ａ』の遺体は\n最初は雨が降り込む、天窓の下にあったのかも……？",
+      "cn": "“A”的遗体，有可能一开始是在\n有雨落进来的天窗下面的……？"
+    },
+    {
+      "file": "283活动剧情\\Detective×Murder\\【２日目】午前-甘奈・甜花・千雪.csv",
+      "line_no": 39,
+      "speaker": "甘奈",
+      "jp": "うん……",
+      "cn": "嗯……"
+    },
+    {
+      "file": "283活动剧情\\Detective×Murder\\【２日目】午前-甘奈・甜花・千雪.csv",
+      "line_no": 40,
+      "speaker": "甘奈",
+      "jp": "『Ａ』の遺体は元々\n天窓の下にあったのかも……",
+      "cn": "“A”的遗体有可能一开始是在天窗下面的……"
+    },
+    {
+      "file": "283活动剧情\\Detective×Murder\\【２日目】午前-甘奈・甜花・千雪.csv",
+      "line_no": 44,
+      "speaker": "甘奈",
+      "jp": "身体を冷やせば、\n死亡推定時刻をずらせそうな気がするよね……",
+      "cn": "如果冷却了身体，\n应该就能引导我们误算死亡推定时刻了吧……"
+    },
+    {
+      "file": "283活动剧情\\Detective×Murder\\【２日目】午前-甘奈・甜花・千雪.csv",
+      "line_no": 51,
+      "speaker": "甘奈",
+      "jp": "昨日の夜、９時半ごろと10時半過ぎに、\n甘奈たちは千雪さんと台所で会ってたの",
+      "cn": "昨天晚上，在9点半左右还有10点半之后，\n甘奈我们都在厨房见到了千雪小姐"
+    }
+  ],
+  "mention_samples": [
+    {
+      "file": "283活动剧情\\2025ホワイトデー スペシャルコミュ\\25白情甘奈1.csv",
+      "line_no": 3,
+      "speaker": "プロデューサー",
+      "jp": "はは……あれだけのものをもらったからな\nちょっとだけ、頑張ってみた",
+      "cn": "哈哈……毕竟之前从甘奈那里收到的礼物那么精致\n我只是稍微努力了一下"
+    },
+    {
+      "file": "283活动剧情\\2025ホワイトデー スペシャルコミュ\\25白情甘奈2.csv",
+      "line_no": 3,
+      "speaker": "プロデューサー",
+      "jp": "はは……あれだけのものをもらったからな\nちょっとだけ、頑張ってみた",
+      "cn": "哈哈……毕竟之前从甘奈那里收到的礼物那么精致\n我只是稍微努力了一下"
+    },
+    {
+      "file": "283活动剧情\\Detective×Murder\\special_communications_490103212.csv",
+      "line_no": 21,
+      "speaker": "千雪",
+      "jp": "ありがとう、甘奈ちゃん、甜花ちゃん",
+      "cn": "谢谢你们，小甘奈、小甜花"
+    },
+    {
+      "file": "283活动剧情\\Detective×Murder\\【２日目】午前-甘奈・甜花・千雪.csv",
+      "line_no": 11,
+      "speaker": "千雪",
+      "jp": "教えてくれてありがとう\n甘奈ちゃん、甜花ちゃん",
+      "cn": "谢谢你们告诉我\n小甘奈、小甜花"
+    },
+    {
+      "file": "283活动剧情\\Endless×Loop\\C-2シナリオ-プロデューサーじゃない！.csv",
+      "line_no": 19,
+      "speaker": "千雪",
+      "jp": "……甘奈ちゃん、甜花ちゃん\n兄さんどうかしたの？",
+      "cn": "……甘奈，甜花\n哥哥怎么了？"
+    },
+    {
+      "file": "283活动剧情\\Endless×Loop\\C-2シナリオ-プロデューサーじゃない！.csv",
+      "line_no": 52,
+      "speaker": "プロデューサー",
+      "jp": "な……！　これは味わって食べてるんだ\nたとえ甘奈にだろうと甜花のハンバーグはわけてやれないぞ",
+      "cn": "什……！这是在品味\n就算是甘奈，我也不会把甜花的汉堡分给你哦"
+    },
+    {
+      "file": "283活动剧情\\Endless×Loop\\C-2シナリオ-プロデューサーじゃない！.csv",
+      "line_no": 74,
+      "speaker": "千雪",
+      "jp": "甘奈ちゃんも甜花ちゃんも、こんなに悲しんでるのに？\nそれに、私だって……",
+      "cn": "明明甘奈和甜花都这么伤心你也要走吗？\n而且，我也……"
+    },
+    {
+      "file": "283活动剧情\\Endless×Loop\\C-2シナリオ-プロデューサーじゃない！.csv",
+      "line_no": 76,
+      "speaker": "千雪",
+      "jp": "そこまで言うなら……わかりました\n甘奈ちゃんも甜花ちゃんも、お兄ちゃんを困らせちゃダメよ",
+      "cn": "既然你都这么说了……我知道了\n甘奈，甜花，不能让哥哥为难哦"
+    },
+    {
+      "file": "283活动剧情\\Endless×Loop\\C-2シナリオ-プロデューサーじゃない！.csv",
+      "line_no": 130,
+      "speaker": "プロデューサー",
+      "jp": "え……！？\nあ、甘奈、さすがにこれ以上はお腹が……",
+      "cn": "诶……！？\n甘、甘奈，再怎么说我也吃不下……"
+    },
+    {
+      "file": "283活动剧情\\Endless×Loop\\C-2シナリオ-プロデューサーじゃない！.csv",
+      "line_no": 133,
+      "speaker": "千雪",
+      "jp": "甘奈ちゃん、あんまり兄さんを困らせちゃダメよ",
+      "cn": "甘奈，不能让哥哥为难哦"
+    },
+    {
+      "file": "283活动剧情\\Endless×Loop\\C-2シナリオ-プロデューサーじゃない！.csv",
+      "line_no": 135,
+      "speaker": "プロデューサー",
+      "jp": "そうだな……じゃあ明日の朝ごはんは\n甘奈に作ってもらうっていうのはどうだ？",
+      "cn": "是啊……那明天的早饭\n就由甘奈来做怎么样？"
+    },
+    {
+      "file": "283活动剧情\\Endless×Loop\\C-2シナリオ-プロデューサーじゃない！.csv",
+      "line_no": 137,
+      "speaker": "千雪",
+      "jp": "ふふ……良かったわね、甘奈ちゃん",
+      "cn": "哈哈……太好了呢，甘奈"
+    },
+    {
+      "file": "283活动剧情\\Secret×Rose\\シナリオB カウンセラー室にて.csv",
+      "line_no": 57,
+      "speaker": "主人公",
+      "jp": "甘奈さんだね、どうぞよろしく\nよかったら座って",
+      "cn": "甘奈同学啊，请多指教\n先坐下吧"
+    },
+    {
+      "file": "283活动剧情\\Secret×Rose\\シナリオB カウンセラー室にて.csv",
+      "line_no": 72,
+      "speaker": "主人公",
+      "jp": "（甘奈さんの説明は要領を得ないが……\n表情から真剣なことは伝わってくる）",
+      "cn": "（虽然不是很明白甘奈同学在说什么……\n但她的表情很认真）"
+    },
+    {
+      "file": "283活动剧情\\Secret×Rose\\シークレット Secret×Fragrance.csv",
+      "line_no": 2,
+      "speaker": "",
+      "jp": "甘奈",
+      "cn": ""
+    },
+    {
+      "file": "283活动剧情\\Secret×Rose\\シークレット Secret×Root.csv",
+      "line_no": 35,
+      "speaker": "",
+      "jp": "甘奈・甜花・千雪",
+      "cn": "甘奈・甜花・千雪"
+    },
+    {
+      "file": "283活动剧情\\Secret×Rose\\ユニット ED 愛らしい少女たち.csv",
+      "line_no": 6,
+      "speaker": "甜花",
+      "jp": "あっ、なーちゃん……と……",
+      "cn": "啊，甘奈……和……"
+    },
+    {
+      "file": "283活动剧情\\Secret×Rose\\ユニット ED 愛らしい少女たち.csv",
+      "line_no": 13,
+      "speaker": "主人公",
+      "jp": "甘奈さんから、自慢のお姉さんがいるって聞いてね",
+      "cn": "我听甘奈同学说，你是她引以为傲的姐姐"
+    },
+    {
+      "file": "283活动剧情\\Secret×Rose\\ユニット ED 愛らしい少女たち.csv",
+      "line_no": 15,
+      "speaker": "甜花",
+      "jp": "なーちゃんのほうが、すごいし……",
+      "cn": "甘奈她，比我更加了不起……"
+    },
+    {
+      "file": "283活动剧情\\Secret×Rose\\ユニット ED 愛らしい少女たち.csv",
+      "line_no": 35,
+      "speaker": "千雪",
+      "jp": "わ、甘奈ちゃん\nそんなに慌てて──",
+      "cn": "哇，是甘奈\n怎这么慌张——"
+    },
+    {
+      "file": "283活动剧情\\Secret×Rose\\ユニット ED 愛らしい少女たち.csv",
+      "line_no": 43,
+      "speaker": "千雪",
+      "jp": "……甘奈ちゃんも、感じてたんだ",
+      "cn": "……甘奈也是这么认为的吗"
+    },
+    {
+      "file": "283活动剧情\\Secret×Rose\\ユニット ED 愛らしい少女たち.csv",
+      "line_no": 57,
+      "speaker": "甜花",
+      "jp": "なーちゃんを心配させちゃったみたいで……\nごめんね……",
+      "cn": "但似乎让甘奈担心了……\n对不起……"
+    },
+    {
+      "file": "283活动剧情\\Secret×Rose\\ユニット ED 愛らしい少女たち.csv",
+      "line_no": 150,
+      "speaker": "主人公",
+      "jp": "（甘奈さんも甜花さんも、嘘をついたり、\nからかっている様子はなく、本気でわからないようだった）",
+      "cn": "（甘奈和甜花看起来都不像是在说谎\n或开玩笑，而是真的不知道）"
+    },
+    {
+      "file": "283活动剧情\\World×Code\\屋敷で×軍人×敵対-敵対ロマンス（甘奈）.csv",
+      "line_no": 2,
+      "speaker": "男",
+      "jp": "俺の部隊は全滅……か……\nさすが甘奈……見事な作戦だったよ……",
+      "cn": "我的部队全灭了吗……\n不愧是甘奈……真是漂亮的作战……"
+    },
+    {
+      "file": "283活动剧情\\World×Code\\屋敷で×軍人×敵対-敵対ロマンス（甘奈）.csv",
+      "line_no": 9,
+      "speaker": "男",
+      "jp": "もう行くんだ、甘奈\nここが崩れ落ちる前に",
+      "cn": "快走吧，甘奈\n在这里崩塌之前"
+    },
+    {
+      "file": "283活动剧情\\YOUR MY Love letter\\序章-I am..csv",
+      "line_no": 65,
+      "speaker": "バラエティ司会",
+      "jp": "『えーと、今日のゲストは\n甘奈ちゃんが連れてきてくれた大切な人なんだって？』",
+      "cn": "“那么，今天的嘉宾是\n甘奈带来的重要之人哦？”"
+    },
+    {
+      "file": "283活动剧情\\YOUR MY Love letter\\序章-I am..csv",
+      "line_no": 77,
+      "speaker": "一同",
+      "jp": "『甘奈！　甜花！　千雪！』",
+      "cn": "“甘奈！　甜花！　千雪！”"
+    },
+    {
+      "file": "283活动剧情\\YOUR MY Love letter\\序章-I am..csv",
+      "line_no": 86,
+      "speaker": "千雪",
+      "jp": "『私たち、甘奈ちゃんが頑張ってる番組に\n呼んでいただいたので』",
+      "cn": "“我们，因为被甘奈叫到\n出场的节目来”"
+    },
+    {
+      "file": "283活动剧情\\YOUR MY Love letter\\第2话-voice for Someone.csv",
+      "line_no": 67,
+      "speaker": "高校教師",
+      "jp": "（脇役だった甘奈ちゃんもちゃんと出してくれたし……）",
+      "cn": "（作为配角的甘奈也好好的出场了……）"
+    },
+    {
+      "file": "283活动剧情\\YOUR MY Love letter\\第3话-color for Someone.csv",
+      "line_no": 18,
+      "speaker": "バイト仲間",
+      "jp": "誰が推しなんだよ\n甘奈か？　甜花か？　千雪か？",
+      "cn": "你推的是谁呢\n甘奈？　甜花？　千雪？"
+    },
+    {
+      "file": "283活动剧情\\YOUR MY Love letter\\第5话-good night.csv",
+      "line_no": 12,
+      "speaker": "バラエティ司会",
+      "jp": "『ガイドの甘奈ちゃんが風邪気味ということでね』",
+      "cn": "“我们的解说员甘奈因为感冒休息了”"
+    },
+    {
+      "file": "283活动剧情\\YOUR MY Love letter\\第5话-good night.csv",
+      "line_no": 13,
+      "speaker": "雛壇芸人",
+      "jp": "『甘奈ちゃんのコーナーがないなんてやだやだ～！』",
+      "cn": "“才不要没有甘奈的环节呢～！”"
+    },
+    {
+      "file": "283活动剧情\\YOUR MY Love letter\\第5话-good night.csv",
+      "line_no": 16,
+      "speaker": "バラエティ司会",
+      "jp": "『ああ、甘奈ちゃんの双子の甜花ちゃんね』",
+      "cn": "“啊，我甘奈的姐姐甜花呢”"
+    },
+    {
+      "file": "283活动剧情\\YOUR MY Love letter\\第5话-good night.csv",
+      "line_no": 24,
+      "speaker": "バラエティ司会",
+      "jp": "『甘奈ちゃんの様子はどう？』",
+      "cn": "“甘奈还好吗？”"
+    },
+    {
+      "file": "283活动剧情\\YOUR MY Love letter\\第5话-good night.csv",
+      "line_no": 36,
+      "speaker": "バラエティ司会",
+      "jp": "『甘奈ちゃんのコーナー、回してほしいんだけど！』",
+      "cn": "“甘奈的那个环节，需要甜花来搞定！”"
+    },
+    {
+      "file": "283活动剧情\\YOUR MY Love letter\\终章-You are..csv",
+      "line_no": 62,
+      "speaker": "彼方",
+      "jp": "甘奈ちゃん……推し？",
+      "cn": "甘奈推？"
+    },
+    {
+      "file": "283活动剧情\\YOUR MY Love letter\\终章-You are..csv",
+      "line_no": 105,
+      "speaker": "店員連絡ノート",
+      "jp": "『大崎甘奈に激似の子、発見。本人かも！？』",
+      "cn": "“发现了超像大崎甘奈的人。难道是本人！？”"
+    },
+    {
+      "file": "283活动剧情\\YOUR MY Love letter\\终章-You are..csv",
+      "line_no": 108,
+      "speaker": "銀之介",
+      "jp": "甘奈…………",
+      "cn": ""
+    },
+    {
+      "file": "283活动剧情\\きよしこの夜、プレゼン・フォー・ユー！\\13_32 PM.csv",
+      "line_no": 96,
+      "speaker": "灯織",
+      "jp": "『果穂……！　甘奈……！』",
+      "cn": "“果穗……！　甘奈……！”"
+    },
+    {
+      "file": "283活动剧情\\きよしこの夜、プレゼン・フォー・ユー！\\14_11 PM.csv",
+      "line_no": 2,
+      "speaker": "灯織",
+      "jp": "果穂……！　甘奈……！",
+      "cn": "果穗……！　甘奈……！"
+    },
+    {
+      "file": "283活动剧情\\きよしこの夜、プレゼン・フォー・ユー！\\14_11 PM.csv",
+      "line_no": 85,
+      "speaker": "灯織",
+      "jp": "甘奈……",
+      "cn": "甘奈……"
+    },
+    {
+      "file": "283活动剧情\\きよしこの夜、プレゼン・フォー・ユー！\\14_11 PM.csv",
+      "line_no": 87,
+      "speaker": "果穂",
+      "jp": "甘奈さんっ……！",
+      "cn": "甘奈……！"
+    },
+    {
+      "file": "283活动剧情\\きよしこの夜、プレゼン・フォー・ユー！\\14_11 PM.csv",
+      "line_no": 89,
+      "speaker": "果穂",
+      "jp": "甘奈さんっ、後ろに入ってくださいっ！",
+      "cn": "甘奈，请到我后面来！"
+    },
+    {
+      "file": "283活动剧情\\きよしこの夜、プレゼン・フォー・ユー！\\14_11 PM.csv",
+      "line_no": 95,
+      "speaker": "灯織",
+      "jp": "ナイス……甘奈……っ",
+      "cn": "干得好……甘奈……"
+    },
+    {
+      "file": "283活动剧情\\よっつのものがたり\\よっつのものがたり01.csv",
+      "line_no": 51,
+      "speaker": "千雪",
+      "jp": "甘奈ちゃんは、どんなこと書く？",
+      "cn": "甘奈想写些什么呢？"
+    },
+    {
+      "file": "283活动剧情\\よっつのものがたり\\よっつのものがたり04.csv",
+      "line_no": 40,
+      "speaker": "プロデューサー",
+      "jp": "甘奈は最初からよく頑張ってたし\nしっかり者だったよな",
+      "cn": "甘奈从一开始就很努力，\n而且也很可靠"
+    },
+    {
+      "file": "283活动剧情\\よっつのものがたり\\よっつのものがたり04.csv",
+      "line_no": 59,
+      "speaker": "プロデューサー",
+      "jp": "甘奈……",
+      "cn": "甘奈……"
+    },
+    {
+      "file": "283活动剧情\\よっつのものがたり\\よっつのものがたり04.csv",
+      "line_no": 63,
+      "speaker": "プロデューサー",
+      "jp": "でも、甘奈が申し訳ないと思ってくれてるんだったら",
+      "cn": "但如果你心里过意不去的话"
+    },
+    {
+      "file": "283活动剧情\\よっつのものがたり\\よっつのものがたり05.csv",
+      "line_no": 46,
+      "speaker": "千雪",
+      "jp": "甘奈ちゃん\nこちらこそ",
+      "cn": "甘奈\n也请你多指教了"
+    },
+    {
+      "file": "283活动剧情\\よっつのものがたり\\よっつのものがたり05.csv",
+      "line_no": 47,
+      "speaker": "プロデューサー",
+      "jp": "もう気付いてるかもしれないけど\n甘奈と甜花は双子なんだよ",
+      "cn": "你可能也注意到了\n甘奈和甜花是双胞胎哦"
+    }
+  ]
+}

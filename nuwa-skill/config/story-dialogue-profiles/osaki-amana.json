@@ -1,0 +1,7 @@
+{
+  "target": "甘奈",
+  "aliases": ["大崎甘奈", "大崎 甘奈", "Amana", "Osaki Amana"],
+  "theme_config": "../story-dialogue-themes/osaki-amana.json",
+  "voice_config": "../story-dialogue-voice/osaki-amana.json",
+  "output_dir": "../../283/osaki-amana-perspective/references/local-dialogue-analysis"
+}

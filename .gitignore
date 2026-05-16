@@ -1,0 +1,17 @@
+# Local backups of the original nested repositories.
+git-history-backup/
+
+# Python/runtime cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Editor/OS noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Temporary archives or local export scratch files
+*.tmp
+*.bak

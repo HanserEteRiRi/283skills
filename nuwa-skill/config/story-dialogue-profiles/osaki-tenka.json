@@ -1,0 +1,7 @@
+{
+  "target": "甜花",
+  "aliases": ["大崎甜花", "大崎 甜花", "Tenka", "Osaki Tenka"],
+  "theme_config": "../story-dialogue-themes/osaki-tenka.json",
+  "voice_config": "../story-dialogue-voice/osaki-tenka.json",
+  "output_dir": "../../283/osaki-tenka-perspective/references/local-dialogue-analysis"
+}

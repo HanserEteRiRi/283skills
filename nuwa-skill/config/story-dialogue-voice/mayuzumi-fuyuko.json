@@ -1,0 +1,20 @@
+{
+  "jp": {
+    "self_fuyu_count": "(ふゆ|冬優子)",
+    "rough_second_person_count": "あんた",
+    "anger_count": "(バカ|何考えて|信じられない|いい加減|ふざけ|やめなさい|なさいよ)",
+    "cute_polite_count": "(です|ます|ですよ|ですね|ください|みなさん|プロデューサーさん)",
+    "laugh_count": "(あはは|ふふ|ふふっ|うふふ)",
+    "ellipsis_count": "…",
+    "question_soft_count": "(かしら|かな|？|\\?)"
+  },
+  "cn": {
+    "self_fuyu_count": "(冬优|冬優|冬优子|我)",
+    "rough_second_person_count": "(你|你这|笨蛋)",
+    "anger_count": "(笨蛋|想什么|真是|够了|适可而止|开什么玩笑|不许)",
+    "cute_polite_count": "(大家|请|制作人|可爱|好好|谢谢)",
+    "laugh_count": "(哈哈|呵呵|哼哼)",
+    "ellipsis_count": "…",
+    "question_count": "(？|\\?)"
+  }
+}

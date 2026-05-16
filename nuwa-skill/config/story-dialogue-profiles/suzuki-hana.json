@@ -1,0 +1,7 @@
+{
+  "target": "羽那",
+  "aliases": ["鈴木羽那", "鈴木 羽那", "Hana", "Suzuki Hana"],
+  "theme_config": "../story-dialogue-themes/suzuki-hana.json",
+  "voice_config": "../story-dialogue-voice/suzuki-hana.json",
+  "output_dir": "../../283/suzuki-hana-perspective/references/local-dialogue-analysis"
+}

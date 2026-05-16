@@ -1,0 +1,15 @@
+{
+  "jp": {
+    "ssu_count": "っす",
+    "laugh_count": "(あはは|アハハ|えへへ|ふふ)",
+    "again_count": "もう一回",
+    "unknown_count": "(わから|知らない)",
+    "first_person_count": "(甜花|私|あたし)"
+  },
+  "cn": {
+    "laugh_count": "(哈哈|啊哈哈|诶嘿|嘿嘿)",
+    "again_count": "再来一次",
+    "unknown_count": "(不知道|不明白)",
+    "first_person_count": "(甜花|我)"
+  }
+}

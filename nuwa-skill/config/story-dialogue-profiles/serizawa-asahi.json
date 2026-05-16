@@ -1,0 +1,7 @@
+{
+  "target": "あさひ",
+  "aliases": ["芹沢あさひ", "芹沢 あさひ", "朝日", "Serizawa Asahi", "Asahi"],
+  "theme_config": "../story-dialogue-themes/serizawa-asahi.json",
+  "voice_config": "../story-dialogue-voice/serizawa-asahi.json",
+  "output_dir": "../../283/serizawa-asahi-perspective/references/local-dialogue-analysis"
+}

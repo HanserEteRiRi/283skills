@@ -1,0 +1,7 @@
+{
+  "target": "千雪",
+  "aliases": ["桑山千雪", "桑山 千雪", "Chiyuki", "Kuwayama Chiyuki"],
+  "theme_config": "../story-dialogue-themes/kuwayama-chiyuki.json",
+  "voice_config": "../story-dialogue-voice/kuwayama-chiyuki.json",
+  "output_dir": "../../283/kuwayama-chiyuki-perspective/references/local-dialogue-analysis"
+}

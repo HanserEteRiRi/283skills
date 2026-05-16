@@ -1,0 +1,20 @@
+{
+  "jp": {
+    "ssu_count": "っす",
+    "laugh_count": "(あはっ|あはは|アハハ|えへへ|ふふ)",
+    "long_vowel_count": "ーっ|ー",
+    "okayama_dialect_count": "おえん",
+    "again_count": "もう一回",
+    "unknown_count": "(わかんない|わから|知らない)",
+    "cute_count": "(可愛い|かわいい)",
+    "first_person_count": "(羽那|あたし|私)"
+  },
+  "cn": {
+    "laugh_count": "(啊哈|哈哈|呵呵|嘿嘿)",
+    "long_vowel_count": "(——|—|～|~)",
+    "again_count": "再来一次",
+    "unknown_count": "(不知道|不明白)",
+    "cute_count": "可爱",
+    "first_person_count": "(羽那|我)"
+  }
+}

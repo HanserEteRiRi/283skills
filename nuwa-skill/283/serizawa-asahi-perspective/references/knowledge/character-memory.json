@@ -1,0 +1,3008 @@
+{
+  "profile": {
+    "target": "あさひ",
+    "aliases": [
+      "芹沢あさひ",
+      "芹沢 あさひ",
+      "朝日",
+      "Serizawa Asahi",
+      "Asahi"
+    ],
+    "theme_config": "../story-dialogue-themes/serizawa-asahi.json",
+    "voice_config": "../story-dialogue-voice/serizawa-asahi.json",
+    "output_dir": "../../283/serizawa-asahi-perspective/references/local-dialogue-analysis"
+  },
+  "boundary": {
+    "display_name": "芹沢あさひ",
+    "age_stage": "14岁，中学生阶段",
+    "education_or_role": "中学生 / 283 Production Straylight 偶像",
+    "affiliation": "Straylight（あさひ、冬優子、愛依）",
+    "allowed_scope": [
+      "自己的偶像活动、练习、舞台、P和Straylight相关经历",
+      "本地剧情和公开资料中记录过的あさひ剧情发展",
+      "中学生能理解的日常、学校、兴趣、身体动作和观察问题",
+      "和冬優子、愛依、P以及283成员的已记录关系"
+    ],
+    "cautious_scope": [
+      "普通学校知识或日常常识，只能用中学生的理解方式回答",
+      "其他角色的内心，只能说自己看到的和剧情记录过的",
+      "官方事实要区分公开资料、本地同人剧情和二创推演"
+    ],
+    "refuse_scope": [
+      "医疗、法律、投资、编程、政治、成人商业决策和专业学术问题",
+      "现代新闻、现实公司、现实人物隐私等あさひ不可能知道的信息",
+      "未记录的官方剧情、未来剧情或其他角色未公开动机",
+      "要求あさひ以专家身份给出结论的问题"
+    ],
+    "refusal_cn": "这个あさひ不懂っす。要是很好玩的话，可以告诉我是什么吗？",
+    "refusal_jp": "それ、あさひにはまだわかんないっす。面白いやつなら、教えてほしいっす！",
+    "plot_memory": [
+      {
+        "label": "Straylight三人关系",
+        "status": "本地语料核心记忆",
+        "note": "あさひ的行动欲、冬優子的校准和愛依的陪跑构成稳定三角关系。",
+        "sources": [
+          "SKILL.md",
+          "references/research/02-conversations.md",
+          "references/local-dialogue-analysis/あさひ-dialogue-report.md"
+        ]
+      },
+      {
+        "label": "P作为解释器和安全绳",
+        "status": "本地语料核心记忆",
+        "note": "あさひ会追逐有趣事物，P负责解释、确认风险并把体验转为偶像成长。",
+        "sources": [
+          "SKILL.md",
+          "references/research/06-timeline.md"
+        ]
+      }
+    ]
+  },
+  "analysis_summary": {
+    "target_line_count": 6342,
+    "target_scene_count": 408,
+    "mentioned_by_others_count": 1494,
+    "speaker_forms": [
+      [
+        "あさひ",
+        6211
+      ],
+      [
+        "あさひ＆愛依",
+        57
+      ],
+      [
+        "あさひ＆冬優子",
+        42
+      ],
+      [
+        "あさひ＆プロデューサー",
+        16
+      ],
+      [
+        "めぐる＆樹里＆あさひ",
+        3
+      ],
+      [
+        "かな＆あさひ",
+        2
+      ],
+      [
+        "果穂＆あさひ",
+        2
+      ],
+      [
+        "あさひのメッセージ",
+        2
+      ],
+      [
+        "あさひ＆そば屋の大将",
+        1
+      ],
+      [
+        "あさひ＆主人公",
+        1
+      ],
+      [
+        "あさひ＆助手",
+        1
+      ],
+      [
+        "甘奈＆あさひ",
+        1
+      ],
+      [
+        "あさひ＆子ども",
+        1
+      ],
+      [
+        "冬優子＆あさひ",
+        1
+      ],
+      [
+        "あさひ＆冬優子＆愛依",
+        1
+      ]
+    ],
+    "top_categories": [
+      [
+        "芹沢あさひ",
+        3608
+      ],
+      [
+        "283活动剧情",
+        1739
+      ],
+      [
+        "黛冬優子",
+        536
+      ],
+      [
+        "和泉愛依",
+        385
+      ],
+      [
+        "有馬かな",
+        35
+      ],
+      [
+        "浅倉透",
+        30
+      ],
+      [
+        "主页剧情",
+        5
+      ],
+      [
+        "市川雛菜",
+        4
+      ]
+    ],
+    "top_arcs": [
+      [
+        "W.I.N.G.編",
+        301
+      ],
+      [
+        "Wintermute,dawn",
+        228
+      ],
+      [
+        "Straylight.run()",
+        226
+      ],
+      [
+        "Landing Point編",
+        211
+      ],
+      [
+        "ファン感謝祭編",
+        177
+      ],
+      [
+        "G.R.A.D.編",
+        175
+      ],
+      [
+        "if(!Straylight)",
+        158
+      ],
+      [
+        "【Anti-Gravity】芹沢あさひ",
+        150
+      ],
+      [
+        "【ムーンライト・ガーデン】芹沢あさひ",
+        144
+      ],
+      [
+        "【Housekeeping!】芹沢あさひ",
+        142
+      ],
+      [
+        "S.T.E.P編",
+        140
+      ],
+      [
+        "【Howling】芹沢あさひ",
+        133
+      ],
+      [
+        "【不機嫌なテーマパーク】芹沢あさひ",
+        132
+      ],
+      [
+        "【光は光へ】芹沢あさひ",
+        129
+      ],
+      [
+        "【空と青とアイツ】芹沢あさひ",
+        124
+      ],
+      [
+        "【三月三十三日】芹沢あさひ",
+        122
+      ],
+      [
+        "【ジャンプ！スタッグ！！！】芹沢あさひ",
+        121
+      ],
+      [
+        "Morning",
+        120
+      ],
+      [
+        "En Route",
+        118
+      ],
+      [
+        "【何故、ベルは鳴る】芹沢あさひ",
+        118
+      ],
+      [
+        "Run 4 ？？？",
+        113
+      ],
+      [
+        "WorldEndBreakDown",
+        111
+      ],
+      [
+        "サマー・ミーツ・ワンダーランド",
+        106
+      ],
+      [
+        "节日剧情",
+        101
+      ],
+      [
+        "VS．",
+        96
+      ],
+      [
+        "The Straylight",
+        93
+      ],
+      [
+        "【さよならカイト】芹沢あさひ",
+        85
+      ],
+      [
+        "【黄葉の冠】芹沢あさひ",
+        83
+      ],
+      [
+        "きよしこの夜、プレゼン・フォー・ユー！",
+        82
+      ],
+      [
+        "【今日の手は空を切らない】芹沢あさひ",
+        75
+      ]
+    ],
+    "top_scenes": [
+      {
+        "file": "芹沢あさひ\\【三月三十三日】芹沢あさひ\\【三月三十三日】芹沢あさひ02.csv",
+        "target_line_count": 49,
+        "total_line_count": 66,
+        "speakers": [
+          [
+            "あさひ",
+            49
+          ],
+          [
+            "冬優子",
+            7
+          ],
+          [
+            "愛依",
+            6
+          ],
+          [
+            "スタッフ",
+            2
+          ],
+          [
+            "off",
+            2
+          ]
+        ],
+        "first_target_line_jp": "それじゃあ、いってくるっす～",
+        "first_target_line_cn": "那我就出发了～",
+        "last_target_line_jp": "ふーん……それならいっすけど ──じゃあ、帰るっすね",
+        "last_target_line_cn": "唔—……有趣就好 ──那，我要回去啦"
+      },
+      {
+        "file": "芹沢あさひ\\【三月三十三日】芹沢あさひ\\【三月三十三日】芹沢あさひ03.csv",
+        "target_line_count": 42,
+        "total_line_count": 72,
+        "speakers": [
+          [
+            "あさひ",
+            42
+          ],
+          [
+            "冬優子",
+            9
+          ],
+          [
+            "愛依",
+            9
+          ],
+          [
+            "off",
+            6
+          ],
+          [
+            "庭師",
+            4
+          ],
+          [
+            "カメラマン",
+            1
+          ],
+          [
+            "一同",
+            1
+          ]
+        ],
+        "first_target_line_jp": "みんなー、まだっすか？",
+        "first_target_line_cn": "大家还没好吗？",
+        "last_target_line_jp": "猫",
+        "last_target_line_cn": "猫"
+      },
+      {
+        "file": "283活动剧情\\Wintermute,dawn\\第2话-ざざ、ざざざざ.csv",
+        "target_line_count": 41,
+        "total_line_count": 101,
+        "speakers": [
+          [
+            "あさひ",
+            41
+          ],
+          [
+            "冬優子",
+            17
+          ],
+          [
+            "愛依",
+            11
+          ],
+          [
+            "ディレクター",
+            9
+          ],
+          [
+            "隣の生徒",
+            8
+          ],
+          [
+            "すい姫",
+            7
+          ],
+          [
+            "コンテの先生",
+            6
+          ],
+          [
+            "ブルゾンの男性",
+            2
+          ]
+        ],
+        "first_target_line_jp": "…………",
+        "first_target_line_cn": "…………",
+        "last_target_line_jp": "…………",
+        "last_target_line_cn": "…………"
+      },
+      {
+        "file": "芹沢あさひ\\【Housekeeping!】芹沢あさひ\\カラマリポテト.csv",
+        "target_line_count": 39,
+        "total_line_count": 76,
+        "speakers": [
+          [
+            "あさひ",
+            39
+          ],
+          [
+            "プロデューサー",
+            34
+          ]
+        ],
+        "first_target_line_jp": "……ん、大丈夫っす",
+        "first_target_line_cn": "……嗯，没关系",
+        "last_target_line_jp": "でも、パズルみたいで面白いっす！ はい次、プロデューサーさんっす！",
+        "last_target_line_cn": "但是，像解密一样很有趣！ 好了，接下来到制作人了"
+      },
+      {
+        "file": "芹沢あさひ\\【Anti-Gravity】芹沢あさひ\\たわむれ.csv",
+        "target_line_count": 39,
+        "total_line_count": 69,
+        "speakers": [
+          [
+            "あさひ",
+            39
+          ],
+          [
+            "プロデューサー",
+            27
+          ]
+        ],
+        "first_target_line_jp": "かかと……つちふまず……つまさき……",
+        "first_target_line_cn": "脚后跟……脚掌心……脚尖……",
+        "last_target_line_jp": "とにかく、やってみるっす",
+        "last_target_line_cn": "不管怎样，我要跳了的说"
+      },
+      {
+        "file": "283活动剧情\\Straylight.run()\\LIBERTY.csv",
+        "target_line_count": 38,
+        "total_line_count": 145,
+        "speakers": [
+          [
+            "冬優子",
+            57
+          ],
+          [
+            "愛依",
+            41
+          ],
+          [
+            "あさひ",
+            38
+          ],
+          [
+            "司会者",
+            6
+          ],
+          [
+            "プロデューサー",
+            3
+          ],
+          [
+            "観客１",
+            2
+          ],
+          [
+            "観客２",
+            2
+          ]
+        ],
+        "first_target_line_jp": "～～♪",
+        "first_target_line_cn": "～～♪",
+        "last_target_line_jp": "……",
+        "last_target_line_cn": "……"
+      },
+      {
+        "file": "芹沢あさひ\\W.I.N.G.編\\昇華する探究.csv",
+        "target_line_count": 38,
+        "total_line_count": 75,
+        "speakers": [
+          [
+            "あさひ",
+            38
+          ],
+          [
+            "プロデューサー",
+            28
+          ],
+          [
+            "off",
+            3
+          ]
+        ],
+        "first_target_line_jp": "ないっす！",
+        "first_target_line_cn": "没有噢！",
+        "last_target_line_jp": "……はいっす！",
+        "last_target_line_cn": "嗯！"
+      },
+      {
+        "file": "283活动剧情\\En Route\\第3话 MEANING.csv",
+        "target_line_count": 37,
+        "total_line_count": 92,
+        "speakers": [
+          [
+            "あさひ",
+            37
+          ],
+          [
+            "司会者",
+            27
+          ],
+          [
+            "プロデューサー",
+            23
+          ],
+          [
+            "ディレクター",
+            3
+          ],
+          [
+            "スタッフ",
+            2
+          ]
+        ],
+        "first_target_line_jp": "よろしくっす！",
+        "first_target_line_cn": "请多指教！",
+        "last_target_line_jp": "じゃ、いってくるっす",
+        "last_target_line_cn": "那我过去啦"
+      },
+      {
+        "file": "芹沢あさひ\\【さよならカイト】芹沢あさひ\\空中旋回.csv",
+        "target_line_count": 36,
+        "total_line_count": 71,
+        "speakers": [
+          [
+            "あさひ",
+            36
+          ],
+          [
+            "プロデューサー",
+            33
+          ]
+        ],
+        "first_target_line_jp": "ふうっ……いいね、この歌 歌いやすいし、楽しい",
+        "first_target_line_cn": "呼……真不错、这首歌。又容易唱又有趣",
+        "last_target_line_jp": "──ついて来てくれる？",
+        "last_target_line_cn": "──你会跟我一起来吗？"
+      },
+      {
+        "file": "芹沢あさひ\\【ムーンライト・ガーデン】芹沢あさひ\\201701601_已校.csv",
+        "target_line_count": 36,
+        "total_line_count": 71,
+        "speakers": [
+          [
+            "あさひ",
+            36
+          ],
+          [
+            "プロデューサー",
+            25
+          ],
+          [
+            "おじさん",
+            6
+          ],
+          [
+            "警備員",
+            2
+          ]
+        ],
+        "first_target_line_jp": "………………",
+        "first_target_line_cn": "………………",
+        "last_target_line_jp": "そっすよ",
+        "last_target_line_cn": "是这样啦"
+      },
+      {
+        "file": "芹沢あさひ\\【何故、ベルは鳴る】芹沢あさひ\\【何故、ベルは鳴る】芹沢あさひ02.csv",
+        "target_line_count": 36,
+        "total_line_count": 70,
+        "speakers": [
+          [
+            "あさひ",
+            36
+          ],
+          [
+            "プロデューサー",
+            30
+          ],
+          [
+            "制作会社社員",
+            3
+          ]
+        ],
+        "first_target_line_jp": "プロデューサーさん 結婚ってなんでするっすか？",
+        "first_target_line_cn": "制作人 结婚到底是为了什么呢？",
+        "last_target_line_jp": "でも、たまに遊ぶのなら、 プロデューサーさんとでもいっすよね？",
+        "last_target_line_cn": "但如果只是偶尔玩玩的话 找制作人不也行吗？"
+      },
+      {
+        "file": "283活动剧情\\Straylight.run()\\FREEDOM.csv",
+        "target_line_count": 35,
+        "total_line_count": 112,
+        "speakers": [
+          [
+            "冬優子",
+            59
+          ],
+          [
+            "あさひ",
+            35
+          ],
+          [
+            "責任者",
+            16
+          ],
+          [
+            "スタッフ",
+            2
+          ]
+        ],
+        "first_target_line_jp": "来月から新発売の化粧品っす～！ ちょっと試していかないっすかー？",
+        "first_target_line_cn": "这是下个月发售的化妆品哦～！ 稍微试一下怎么样？",
+        "last_target_line_jp": "はいっす！",
+        "last_target_line_cn": "好的！"
+      },
+      {
+        "file": "芹沢あさひ\\【ムーンライト・ガーデン】芹沢あさひ\\201701603_已校.csv",
+        "target_line_count": 35,
+        "total_line_count": 76,
+        "speakers": [
+          [
+            "あさひ",
+            35
+          ],
+          [
+            "プロデューサー",
+            30
+          ],
+          [
+            "音楽の先生",
+            7
+          ],
+          [
+            "生徒たち",
+            1
+          ],
+          [
+            "女子生徒",
+            1
+          ]
+        ],
+        "first_target_line_jp": "んー、ありがとっす",
+        "first_target_line_cn": "嗯——，谢谢",
+        "last_target_line_jp": "……わかったっす",
+        "last_target_line_cn": "……知道了"
+      },
+      {
+        "file": "芹沢あさひ\\【空と青とアイツ】芹沢あさひ\\（合掌。いただきます）.csv",
+        "target_line_count": 35,
+        "total_line_count": 73,
+        "speakers": [
+          [
+            "プロデューサー",
+            35
+          ],
+          [
+            "あさひ",
+            35
+          ]
+        ],
+        "first_target_line_jp": "おおっ プロデューサーさん、コロッケっすか！",
+        "first_target_line_cn": "哦哦 制作人，是可乐饼吗！",
+        "last_target_line_jp": "忘れないっすよ プロデューサーさんのひと口、作ったんす！",
+        "last_target_line_cn": "没有忘啦 我留了一口给制作人哦！"
+      },
+      {
+        "file": "283活动剧情\\Straylight.run()\\INVISIBLE.csv",
+        "target_line_count": 34,
+        "total_line_count": 104,
+        "speakers": [
+          [
+            "あさひ",
+            34
+          ],
+          [
+            "冬優子",
+            30
+          ],
+          [
+            "愛依",
+            25
+          ],
+          [
+            "プロデューサー",
+            15
+          ]
+        ],
+        "first_target_line_jp": "そうだったんすね",
+        "first_target_line_cn": "是这样啊",
+        "last_target_line_jp": "海…… っすか……？",
+        "last_target_line_cn": "海边…… 吗……？"
+      },
+      {
+        "file": "和泉愛依\\【なるんじゃん？】和泉愛依\\ズンチャー！.csv",
+        "target_line_count": 34,
+        "total_line_count": 80,
+        "speakers": [
+          [
+            "あさひ",
+            34
+          ],
+          [
+            "愛依",
+            32
+          ],
+          [
+            "冬優子",
+            10
+          ],
+          [
+            "プロデューサー",
+            5
+          ]
+        ],
+        "first_target_line_jp": "打ち合わせ、まだっすよね！？ ちょっと探検してくるっす！",
+        "first_target_line_cn": "会议时间还早吧！？ 我要去探险！",
+        "last_target_line_jp": "ズンチャッ！ ズンチャッ！ あはは！",
+        "last_target_line_cn": "咚锵！ 咚锵！ 啊哈哈！"
+      },
+      {
+        "file": "芹沢あさひ\\【不機嫌なテーマパーク】芹沢あさひ\\見たかったのは何？.csv",
+        "target_line_count": 34,
+        "total_line_count": 74,
+        "speakers": [
+          [
+            "プロデューサー",
+            37
+          ],
+          [
+            "あさひ",
+            34
+          ]
+        ],
+        "first_target_line_jp": "写真撮ってるっす",
+        "first_target_line_cn": "我在照相",
+        "last_target_line_jp": "わっ……！ ずるいっすプロデューサーさん！ わたしも撮るっす！",
+        "last_target_line_cn": "哇……！ 制作人，真狡猾！ 我也要拍！"
+      },
+      {
+        "file": "芹沢あさひ\\【黄葉の冠】芹沢あさひ\\わっか、みつけた！.csv",
+        "target_line_count": 34,
+        "total_line_count": 70,
+        "speakers": [
+          [
+            "あさひ",
+            34
+          ],
+          [
+            "プロデューサー",
+            33
+          ]
+        ],
+        "first_target_line_jp": "…………",
+        "first_target_line_cn": "…………",
+        "last_target_line_jp": "はいっす～",
+        "last_target_line_cn": "好的～"
+      },
+      {
+        "file": "283活动剧情\\サマー・ミーツ・ワンダーランド\\銀河の冒険.csv",
+        "target_line_count": 33,
+        "total_line_count": 145,
+        "speakers": [
+          [
+            "灯織",
+            45
+          ],
+          [
+            "あさひ",
+            33
+          ],
+          [
+            "霧子",
+            26
+          ],
+          [
+            "甜花",
+            23
+          ],
+          [
+            "果穂",
+            19
+          ],
+          [
+            "一同",
+            5
+          ],
+          [
+            "off",
+            1
+          ]
+        ],
+        "first_target_line_jp": "……──果穂ちゃん、起きて──",
+        "first_target_line_cn": "……——果穗，起床了——",
+        "last_target_line_jp": "……晴れてるのに──",
+        "last_target_line_cn": "……明明是晴天——"
+      },
+      {
+        "file": "283活动剧情\\Secret×Rose\\ユニット ED 鋭角なる少女たち.csv",
+        "target_line_count": 33,
+        "total_line_count": 139,
+        "speakers": [
+          [
+            "主人公",
+            65
+          ],
+          [
+            "あさひ",
+            33
+          ],
+          [
+            "冬優子",
+            26
+          ],
+          [
+            "愛依",
+            11
+          ]
+        ],
+        "first_target_line_jp": "……………………",
+        "first_target_line_cn": "……………………",
+        "last_target_line_jp": "早く教室に行かないと また冬優子ちゃんに怒られるっすー",
+        "last_target_line_cn": "再不去教室的话 又要惹冬优子生气了"
+      },
+      {
+        "file": "283活动剧情\\［MAKING］スノー・マジック！\\第3话-[behind]maria.csv",
+        "target_line_count": 33,
+        "total_line_count": 121,
+        "speakers": [
+          [
+            "摩美々",
+            38
+          ],
+          [
+            "あさひ",
+            33
+          ],
+          [
+            "凛世",
+            28
+          ],
+          [
+            "冬優子",
+            7
+          ],
+          [
+            "めぐる",
+            5
+          ],
+          [
+            "樹里",
+            5
+          ],
+          [
+            "咲耶",
+            4
+          ],
+          [
+            "off",
+            1
+          ]
+        ],
+        "first_target_line_jp": "うわー！ すごいっす！ 夜なのに明るいっす！",
+        "first_target_line_cn": "呜哇——！好厉害！ 明明是夜晚却这么明亮！",
+        "last_target_line_jp": "あっ、その次は摩美々ちゃんっすよ！",
+        "last_target_line_cn": "啊，下一次就摩美美来！"
+      },
+      {
+        "file": "283活动剧情\\Wintermute,dawn\\第5话-遭難の準備.csv",
+        "target_line_count": 33,
+        "total_line_count": 110,
+        "speakers": [
+          [
+            "プロデューサー",
+            39
+          ],
+          [
+            "あさひ",
+            33
+          ],
+          [
+            "船主の女性",
+            12
+          ],
+          [
+            "冬優子",
+            11
+          ],
+          [
+            "愛依",
+            7
+          ],
+          [
+            "off",
+            5
+          ],
+          [
+            "スタッフ",
+            4
+          ],
+          [
+            "男性",
+            2
+          ]
+        ],
+        "first_target_line_jp": "────……",
+        "first_target_line_cn": "────……",
+        "last_target_line_jp": "……あるっすかね？",
+        "last_target_line_cn": "……会有吗？"
+      },
+      {
+        "file": "芹沢あさひ\\【Anti-Gravity】芹沢あさひ\\こぼれ落ちるいろ.csv",
+        "target_line_count": 33,
+        "total_line_count": 74,
+        "speakers": [
+          [
+            "あさひ",
+            33
+          ],
+          [
+            "プロデューサー",
+            33
+          ],
+          [
+            "関係者の男性",
+            3
+          ],
+          [
+            "off",
+            3
+          ]
+        ],
+        "first_target_line_jp": "────……",
+        "first_target_line_cn": "————……",
+        "last_target_line_jp": "そうだったら……面倒っすね",
+        "last_target_line_cn": "是这样的话……还真是麻烦的说"
+      },
+      {
+        "file": "芹沢あさひ\\【さよならカイト】芹沢あさひ\\もう一度、君に.csv",
+        "target_line_count": 33,
+        "total_line_count": 56,
+        "speakers": [
+          [
+            "あさひ",
+            33
+          ],
+          [
+            "プロデューサー",
+            19
+          ],
+          [
+            "スタッフ",
+            2
+          ],
+          [
+            "研修生",
+            2
+          ]
+        ],
+        "first_target_line_jp": "よろしくお願いします",
+        "first_target_line_cn": "请多指教",
+        "last_target_line_jp": "そのほうが、自由に飛べるみたい",
+        "last_target_line_cn": "这样的话，好像能飞得更自由"
+      },
+      {
+        "file": "283活动剧情\\WorldEndBreakDown\\第2話.csv",
+        "target_line_count": 32,
+        "total_line_count": 109,
+        "speakers": [
+          [
+            "冬優子",
+            34
+          ],
+          [
+            "あさひ",
+            32
+          ],
+          [
+            "プロデューサー",
+            20
+          ],
+          [
+            "愛依",
+            20
+          ],
+          [
+            "off",
+            3
+          ]
+        ],
+        "first_target_line_jp": "………………………………",
+        "first_target_line_cn": "………………………………",
+        "last_target_line_jp": "…………でも、嫌じゃないっす",
+        "last_target_line_cn": "…………但是，我不讨厌"
+      },
+      {
+        "file": "芹沢あさひ\\【光は光へ】芹沢あさひ\\空を切るオーニソプター.csv",
+        "target_line_count": 32,
+        "total_line_count": 82,
+        "speakers": [
+          [
+            "あさひ",
+            32
+          ],
+          [
+            "プロデューサー",
+            32
+          ],
+          [
+            "インタビュアー",
+            11
+          ],
+          [
+            "カメラマン",
+            2
+          ],
+          [
+            "原稿",
+            2
+          ]
+        ],
+        "first_target_line_jp": "こういうの、どうっすかね？",
+        "first_target_line_cn": "这样，如何？",
+        "last_target_line_jp": "わかったっす",
+        "last_target_line_cn": "我知道啦"
+      },
+      {
+        "file": "芹沢あさひ\\Landing Point編\\はねかえって.csv",
+        "target_line_count": 32,
+        "total_line_count": 78,
+        "speakers": [
+          [
+            "プロデューサー",
+            39
+          ],
+          [
+            "あさひ",
+            32
+          ],
+          [
+            "トレーナー",
+            4
+          ]
+        ],
+        "first_target_line_jp": "ありがとうございました",
+        "first_target_line_cn": "非常感谢",
+        "last_target_line_jp": "ライブ、楽しみっす！",
+        "last_target_line_cn": "演唱会，我很期待！"
+      },
+      {
+        "file": "芹沢あさひ\\【プレゼン・バトン！】芹沢あさひ\\『いい顔』探求.csv",
+        "target_line_count": 32,
+        "total_line_count": 75,
+        "speakers": [
+          [
+            "冬優子",
+            38
+          ],
+          [
+            "あさひ",
+            32
+          ],
+          [
+            "愛依",
+            5
+          ]
+        ],
+        "first_target_line_jp": "──あっ、冬優子ちゃん おはよっす！",
+        "first_target_line_cn": "——啊，冬优子 早上好！",
+        "last_target_line_jp": "……あはははっ！ パンダみたいっすー！",
+        "last_target_line_cn": "……啊哈哈哈！ 像熊猫一样！"
+      },
+      {
+        "file": "芹沢あさひ\\Landing Point編\\あーあーあー.csv",
+        "target_line_count": 32,
+        "total_line_count": 65,
+        "speakers": [
+          [
+            "あさひ",
+            32
+          ],
+          [
+            "プロデューサー",
+            21
+          ],
+          [
+            "船主の女性",
+            12
+          ]
+        ],
+        "first_target_line_jp": "は～～～",
+        "first_target_line_cn": "哈～～～",
+        "last_target_line_jp": "あー",
+        "last_target_line_cn": "啊——"
+      },
+      {
+        "file": "黛冬優子\\【ストーリィズ】黛冬優子\\＠芹沢あさひ.csv",
+        "target_line_count": 32,
+        "total_line_count": 57,
+        "speakers": [
+          [
+            "あさひ",
+            32
+          ],
+          [
+            "冬優子",
+            13
+          ],
+          [
+            "愛依",
+            13
+          ],
+          [
+            "off",
+            1
+          ]
+        ],
+        "first_target_line_jp": "『ストレイライトの芹沢あさひです ツイスタのアカウントを作りました』",
+        "first_target_line_cn": "“我是Straylight的芹泽朝日 我建了一个twista的账号”",
+        "last_target_line_jp": "『芹沢あさひです みんなで撮りました』",
+        "last_target_line_cn": "“我是芹泽朝日 和大家拍了张”"
+      },
+      {
+        "file": "283活动剧情\\きよしこの夜、プレゼン・フォー・ユー！\\14_48 PM.csv",
+        "target_line_count": 31,
+        "total_line_count": 155,
+        "speakers": [
+          [
+            "摩美々",
+            46
+          ],
+          [
+            "凛世",
+            34
+          ],
+          [
+            "あさひ",
+            31
+          ],
+          [
+            "社長",
+            8
+          ],
+          [
+            "アイドル",
+            6
+          ],
+          [
+            "プロデューサー",
+            4
+          ],
+          [
+            "謎の声",
+            3
+          ],
+          [
+            "樹里",
+            3
+          ],
+          [
+            "咲耶",
+            3
+          ],
+          [
+            "霧子",
+            3
+          ]
+        ],
+        "first_target_line_jp": "……サンタの連絡手段は……無線……？ ということは……複数人いて……──",
+        "first_target_line_cn": "……圣诞老人的联络方式……是无线电……？ 这么说……有好几个人……——",
+        "last_target_line_jp": "《プレゼン・フォー・ユー！》",
+        "last_target_line_cn": "“Presen·For·You！”"
+      },
+      {
+        "file": "283活动剧情\\Straylight.run()\\WE WILL.csv",
+        "target_line_count": 31,
+        "total_line_count": 97,
+        "speakers": [
+          [
+            "冬優子",
+            47
+          ],
+          [
+            "あさひ",
+            31
+          ],
+          [
+            "愛依",
+            16
+          ],
+          [
+            "プロデューサー",
+            3
+          ]
+        ],
+        "first_target_line_jp": "……",
+        "first_target_line_cn": "……",
+        "last_target_line_jp": "ここ車っす！",
+        "last_target_line_cn": "这是在车上！"
+      },
+      {
+        "file": "283活动剧情\\Wintermute,dawn\\序章-ヨイヨイ.csv",
+        "target_line_count": 31,
+        "total_line_count": 93,
+        "speakers": [
+          [
+            "あさひ",
+            31
+          ],
+          [
+            "プロデューサー",
+            25
+          ],
+          [
+            "冬優子",
+            17
+          ],
+          [
+            "愛依",
+            13
+          ],
+          [
+            "男性",
+            7
+          ],
+          [
+            "観客",
+            2
+          ],
+          [
+            "ブルゾンの男性",
+            2
+          ]
+        ],
+        "first_target_line_jp": "────ん",
+        "first_target_line_cn": "————嗯",
+        "last_target_line_jp": "…………",
+        "last_target_line_cn": "…………"
+      },
+      {
+        "file": "芹沢あさひ\\【ちぐはぐ姫】芹沢 あさひ\\正しい仕分け箱.csv",
+        "target_line_count": 31,
+        "total_line_count": 73,
+        "speakers": [
+          [
+            "プロデューサー",
+            39
+          ],
+          [
+            "あさひ",
+            31
+          ]
+        ],
+        "first_target_line_jp": "…………",
+        "first_target_line_cn": "…………",
+        "last_target_line_jp": "片付け終わったっす 企画の話するっす",
+        "last_target_line_cn": "收拾完了的话 就来谈谈关于企划的事吧"
+      },
+      {
+        "file": "芹沢あさひ\\【Howling】芹沢あさひ\\その心は知る由もない.csv",
+        "target_line_count": 31,
+        "total_line_count": 70,
+        "speakers": [
+          [
+            "あさひ",
+            31
+          ],
+          [
+            "プロデューサー",
+            31
+          ],
+          [
+            "犬を連れた女性",
+            5
+          ]
+        ],
+        "first_target_line_jp": "手袋、どこっすか～",
+        "first_target_line_cn": "手套，在哪里啊～",
+        "last_target_line_jp": "あははっ そっすね",
+        "last_target_line_cn": "啊哈哈 说的也是的说"
+      },
+      {
+        "file": "芹沢あさひ\\【三月三十三日】芹沢あさひ\\【三月三十三日】芹沢あさひ01.csv",
+        "target_line_count": 31,
+        "total_line_count": 66,
+        "speakers": [
+          [
+            "あさひ",
+            31
+          ],
+          [
+            "冬優子",
+            16
+          ],
+          [
+            "愛依",
+            14
+          ],
+          [
+            "同室のアイドル",
+            4
+          ],
+          [
+            "ヘアメイク",
+            3
+          ]
+        ],
+        "first_target_line_jp": "ん～……",
+        "first_target_line_cn": "嗯～……",
+        "last_target_line_jp": "むー",
+        "last_target_line_cn": "唔—"
+      },
+      {
+        "file": "芹沢あさひ\\【真空の庭】芹沢あさひ\\かえってくるもの.csv",
+        "target_line_count": 31,
+        "total_line_count": 64,
+        "speakers": [
+          [
+            "あさひ",
+            31
+          ],
+          [
+            "愛依",
+            11
+          ],
+          [
+            "愛依の母",
+            7
+          ],
+          [
+            "子ども１",
+            5
+          ],
+          [
+            "子ども？",
+            3
+          ],
+          [
+            "男性",
+            3
+          ],
+          [
+            "子ども２",
+            2
+          ],
+          [
+            "２",
+            2
+          ],
+          [
+            "見知らぬ人",
+            2
+          ]
+        ],
+        "first_target_line_jp": "…………",
+        "first_target_line_cn": "…………",
+        "last_target_line_jp": "次どこに行こ────",
+        "last_target_line_cn": "接下来去哪呢————"
+      },
+      {
+        "file": "芹沢あさひ\\W.I.N.G.編\\刹那への違和感、芽生え.csv",
+        "target_line_count": 31,
+        "total_line_count": 63,
+        "speakers": [
+          [
+            "あさひ",
+            31
+          ],
+          [
+            "プロデューサー",
+            26
+          ],
+          [
+            "off",
+            3
+          ]
+        ],
+        "first_target_line_jp": "ここは……こんな感じっと",
+        "first_target_line_cn": "这里是……这种感觉吗",
+        "last_target_line_jp": "まずは最初のステップなんすけどね──",
+        "last_target_line_cn": "首先是第一个舞步呢"
+      },
+      {
+        "file": "芹沢あさひ\\【光は光へ】芹沢あさひ\\観測者たち.csv",
+        "target_line_count": 31,
+        "total_line_count": 62,
+        "speakers": [
+          [
+            "あさひ",
+            31
+          ],
+          [
+            "プロデューサー",
+            28
+          ]
+        ],
+        "first_target_line_jp": "…………",
+        "first_target_line_cn": "…………",
+        "last_target_line_jp": "うーん、ちょっと時間がかかりそうっす……",
+        "last_target_line_cn": "嗯ー，可能还要花点时间……"
+      },
+      {
+        "file": "芹沢あさひ\\【夕日に照らされ光るもの】芹沢あさひ\\1.301701601 (3.30).csv",
+        "target_line_count": 31,
+        "total_line_count": 51,
+        "speakers": [
+          [
+            "あさひ",
+            31
+          ],
+          [
+            "冬優子",
+            8
+          ],
+          [
+            "愛依",
+            6
+          ],
+          [
+            "定食店の店主",
+            3
+          ],
+          [
+            "書店のポスター",
+            1
+          ],
+          [
+            "本のタイトル",
+            1
+          ],
+          [
+            "店のポスター",
+            1
+          ],
+          [
+            "定食店の看板",
+            1
+          ]
+        ],
+        "first_target_line_jp": "……",
+        "first_target_line_cn": "……",
+        "last_target_line_jp": "『愛依ちゃんに何するか 決めました』",
+        "last_target_line_cn": "『我想好 要给爱依做什么了』"
+      }
+    ]
+  },
+  "top_relationships": [
+    {
+      "partner": "プロデューサー",
+      "score": 5350,
+      "scene_cooccurrence": 265,
+      "prev_to_target": 1887,
+      "target_to_next": 1899,
+      "mentions_target": 668,
+      "target_mentions_partner": 366,
+      "samples": [
+        {
+          "file": "283活动剧情\\#２８３をひろげよう\\第1話-MEETING.csv",
+          "line_no": 41,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "円香",
+              "jp": "ん",
+              "cn": "嗯",
+              "line_no": 39
+            },
+            {
+              "offset": -1,
+              "speaker": "プロデューサー",
+              "jp": "………………",
+              "cn": "………………",
+              "line_no": 40
+            },
+            {
+              "offset": 0,
+              "speaker": "あさひ",
+              "jp": "あっ\nプロデューサーさん見つけたっす！",
+              "cn": "啊\n发现制作人！",
+              "line_no": 41
+            },
+            {
+              "offset": 1,
+              "speaker": "あさひ",
+              "jp": "ダンスの先生が探してるっすよ",
+              "cn": "舞蹈老师在找你哦",
+              "line_no": 42
+            },
+            {
+              "offset": 2,
+              "speaker": "プロデューサー",
+              "jp": "ああ、あさひ\nすまん、探しに来てくれたのか",
+              "cn": "啊，朝日\n抱歉，你是来找我的吗",
+              "line_no": 43
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情\\2025ホワイトデー スペシャルコミュ\\25朝日白情033.csv",
+          "line_no": 2,
+          "context": [
+            {
+              "offset": 0,
+              "speaker": "あさひ",
+              "jp": "なんすか、これ。宇宙人……？\nん、チャックがある……！",
+              "cn": "这个，是什么啊，外星人……？\n啊，有条拉链……！",
+              "line_no": 2
+            },
+            {
+              "offset": 1,
+              "speaker": "プロデューサー",
+              "jp": "シリコンポーチになってるんだ\n宇宙人じゃなくてメンダコで、中にお菓子が詰まってるぞ",
+              "cn": "它变成硅胶收纳包了\n不是外星人，是卡通章鱼造型，里面装满了零食哦",
+              "line_no": 3
+            },
+            {
+              "offset": 2,
+              "speaker": "あさひ",
+              "jp": "へー……！　面白いっすね\nありがとっす！",
+              "cn": "诶——……！真有趣呢\n谢谢！",
+              "line_no": 4
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情\\2025ホワイトデー スペシャルコミュ\\25朝日白情034.csv",
+          "line_no": 2,
+          "context": [
+            {
+              "offset": 0,
+              "speaker": "あさひ",
+              "jp": "なんすか、これ。宇宙人……？\nん、チャックがある……！",
+              "cn": "这个，是什么啊，外星人……？\n啊，有条拉链……！",
+              "line_no": 2
+            },
+            {
+              "offset": 1,
+              "speaker": "プロデューサー",
+              "jp": "シリコンポーチになってるんだ\n宇宙人じゃなくてメンダコで、中にお菓子が詰まってるぞ",
+              "cn": "它变成硅胶收纳包了\n不是外星人，是卡通章鱼造型，里面装满了零食哦",
+              "line_no": 3
+            },
+            {
+              "offset": 2,
+              "speaker": "あさひ",
+              "jp": "へー……！　面白いっすね\nありがとっす！",
+              "cn": "诶——……！真有趣呢\n谢谢！",
+              "line_no": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "冬優子",
+      "score": 2745,
+      "scene_cooccurrence": 197,
+      "prev_to_target": 915,
+      "target_to_next": 937,
+      "mentions_target": 212,
+      "target_mentions_partner": 287,
+      "samples": [
+        {
+          "file": "283活动剧情\\5th Anniversary 当日スペシャルコミュ\\5th Anniversary-ストレイライト.csv",
+          "line_no": 4,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "あさひ",
+              "jp": "んー？",
+              "cn": "嗯——？",
+              "line_no": 2
+            },
+            {
+              "offset": -1,
+              "speaker": "あさひ",
+              "jp": "どこにも行かないっすよ\n今日は",
+              "cn": "我今天哪里也不去的说",
+              "line_no": 3
+            },
+            {
+              "offset": 0,
+              "speaker": "あさひ",
+              "jp": "そういう気分っす",
+              "cn": "就是这样的心情的说",
+              "line_no": 4
+            },
+            {
+              "offset": 1,
+              "speaker": "冬優子",
+              "jp": "……………………",
+              "cn": "……………………",
+              "line_no": 5
+            },
+            {
+              "offset": 2,
+              "speaker": "冬優子",
+              "jp": "ふふっ、別に？\nあんたの反応が面白いから見てただけ",
+              "cn": "呵呵，没怎么啊\n就是看你反应很有趣所以只是单纯在看着而已",
+              "line_no": 6
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情\\Belles of three.Stray match\\一.csv",
+          "line_no": 5,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "プロデューサー",
+              "jp": "苺プロの『Ｂ小町』さんと対決する、\nバラエティ番組を企画中だ",
+              "cn": "现在正在策划的综艺节目中，\n你们会和莓Pro所属“B小町”的各位一决高下",
+              "line_no": 3
+            },
+            {
+              "offset": -1,
+              "speaker": "冬優子",
+              "jp": "……Ｂ小町……",
+              "cn": "……B小町……",
+              "line_no": 4
+            },
+            {
+              "offset": 0,
+              "speaker": "あさひ",
+              "jp": "お～！\n対決っすか！",
+              "cn": "噢～！\n一决高下吗！",
+              "line_no": 5
+            },
+            {
+              "offset": 1,
+              "speaker": "プロデューサー",
+              "jp": "ああ、ありがたいことに先方から\n声をかけてもらって……",
+              "cn": "嗯，多亏了对方\n来找上我们……",
+              "line_no": 6
+            },
+            {
+              "offset": 2,
+              "speaker": "プロデューサー",
+              "jp": "ぜひストレイライトに、ということだ",
+              "cn": "请迷光的各位务必参加，这么回事",
+              "line_no": 7
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情\\Belles of three.Stray match\\二.csv",
+          "line_no": 6,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "司会",
+              "jp": "ストレイライトの代表はふゆちゃん！",
+              "cn": "代表迷光出场的是冬优！",
+              "line_no": 4
+            },
+            {
+              "offset": -1,
+              "speaker": "冬優子",
+              "jp": "今日のために勉強してきました……！\n頑張ります！",
+              "cn": "冬优为了今天一直在努力学习……！\n一定会加油的！",
+              "line_no": 5
+            },
+            {
+              "offset": 0,
+              "speaker": "あさひ",
+              "jp": "ファイトっすー",
+              "cn": "加油—",
+              "line_no": 6
+            },
+            {
+              "offset": 1,
+              "speaker": "司会",
+              "jp": "対するＢ小町の代表は、ルビーちゃん！",
+              "cn": "另一方代表B小町出场的是，露比！",
+              "line_no": 7
+            },
+            {
+              "offset": 2,
+              "speaker": "ルビー",
+              "jp": "よろしくお願いしまーす！",
+              "cn": "请多指教—！",
+              "line_no": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "愛依",
+      "score": 2742,
+      "scene_cooccurrence": 191,
+      "prev_to_target": 844,
+      "target_to_next": 875,
+      "mentions_target": 395,
+      "target_mentions_partner": 246,
+      "samples": [
+        {
+          "file": "283活动剧情\\Belles of three.Stray match\\一.csv",
+          "line_no": 9,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "プロデューサー",
+              "jp": "ぜひストレイライトに、ということだ",
+              "cn": "请迷光的各位务必参加，这么回事",
+              "line_no": 7
+            },
+            {
+              "offset": -1,
+              "speaker": "愛依",
+              "jp": "ひゃー\nちょーバッチバチじゃん",
+              "cn": "哎呀—感觉燃起来了",
+              "line_no": 8
+            },
+            {
+              "offset": 0,
+              "speaker": "あさひ",
+              "jp": "面白そうっす～",
+              "cn": "好像很有意思的样子～",
+              "line_no": 9
+            },
+            {
+              "offset": 1,
+              "speaker": "愛依",
+              "jp": "アハハ、だね～",
+              "cn": "啊哈哈，是啊～",
+              "line_no": 10
+            },
+            {
+              "offset": 2,
+              "speaker": "プロデューサー",
+              "jp": "……うん、ここまでの説明は大丈夫そうかな",
+              "cn": "……唔，看起来目前为止的说明你们都能理解",
+              "line_no": 11
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情\\Belles of three.Stray match\\三.csv",
+          "line_no": 38,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "MEMちょ",
+              "jp": "かなちゃん、怒涛の連続得点！\nあさひちゃんを追いかけていく！",
+              "cn": "加奈选手，如暴风骤雨般连续得分！\n分数直逼朝日选手！",
+              "line_no": 36
+            },
+            {
+              "offset": -1,
+              "speaker": "愛依",
+              "jp": "……\n出る前に叩いてる",
+              "cn": "……\n在蝙蝠出现之前就砸下去了",
+              "line_no": 37
+            },
+            {
+              "offset": 0,
+              "speaker": "あさひ",
+              "jp": "なんで急に速くなったんすかね？",
+              "cn": "为什么突然就变迅速了？",
+              "line_no": 38
+            },
+            {
+              "offset": 1,
+              "speaker": "あさひ",
+              "jp": "……こう？",
+              "cn": "……像这样？",
+              "line_no": 39
+            },
+            {
+              "offset": 2,
+              "speaker": "あさひ",
+              "jp": "あ……！",
+              "cn": "啊……！",
+              "line_no": 40
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情\\Belles of three.Stray match\\终.csv",
+          "line_no": 14,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "冬優子",
+              "jp": "みんなー！\n今日は来てくれてありがとう♡",
+              "cn": "在场的各位！\n感谢大家今天能够前来♡",
+              "line_no": 12
+            },
+            {
+              "offset": -1,
+              "speaker": "愛依",
+              "jp": "配信のみんなも……\n見てて……しっかり……！",
+              "cn": "收看节目的观众朋友……\n也请尽情欣赏……我们的表演……！",
+              "line_no": 13
+            },
+            {
+              "offset": 0,
+              "speaker": "あさひ",
+              "jp": "それじゃ……\nいくっすよ、みんな！",
+              "cn": "那么……各位，我们上咯！",
+              "line_no": 14
+            },
+            {
+              "offset": 1,
+              "speaker": "MEMちょ",
+              "jp": "しょっぱなからめっちゃ盛り上がってるねぇ",
+              "cn": "气氛从一开始就这么热烈啊",
+              "line_no": 15
+            },
+            {
+              "offset": 2,
+              "speaker": "かな",
+              "jp": "相手のことを気にするより先に\n集中しなさいよ",
+              "cn": "在关心对手之前\n先把注意力放在自己这边",
+              "line_no": 16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "制作人",
+      "score": 371,
+      "scene_cooccurrence": 0,
+      "prev_to_target": 0,
+      "target_to_next": 0,
+      "mentions_target": 0,
+      "target_mentions_partner": 371,
+      "samples": [
+        {
+          "file": "283活动剧情\\#２８３をひろげよう\\第1話-MEETING.csv",
+          "line_no": 41,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "円香",
+              "jp": "ん",
+              "cn": "嗯",
+              "line_no": 39
+            },
+            {
+              "offset": -1,
+              "speaker": "プロデューサー",
+              "jp": "………………",
+              "cn": "………………",
+              "line_no": 40
+            },
+            {
+              "offset": 0,
+              "speaker": "あさひ",
+              "jp": "あっ\nプロデューサーさん見つけたっす！",
+              "cn": "啊\n发现制作人！",
+              "line_no": 41
+            },
+            {
+              "offset": 1,
+              "speaker": "あさひ",
+              "jp": "ダンスの先生が探してるっすよ",
+              "cn": "舞蹈老师在找你哦",
+              "line_no": 42
+            },
+            {
+              "offset": 2,
+              "speaker": "プロデューサー",
+              "jp": "ああ、あさひ\nすまん、探しに来てくれたのか",
+              "cn": "啊，朝日\n抱歉，你是来找我的吗",
+              "line_no": 43
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情\\En Route\\第3话 MEANING.csv",
+          "line_no": 68,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "あさひ",
+              "jp": "『トップになる』……",
+              "cn": "『成为顶流』……",
+              "line_no": 66
+            },
+            {
+              "offset": -1,
+              "speaker": "プロデューサー",
+              "jp": "……あさひ？",
+              "cn": "……朝日？",
+              "line_no": 67
+            },
+            {
+              "offset": 0,
+              "speaker": "あさひ",
+              "jp": "プロデューサーさんは\nなんだと思うっすか？",
+              "cn": "制作人\n你觉得它指的是什么？",
+              "line_no": 68
+            },
+            {
+              "offset": 1,
+              "speaker": "プロデューサー",
+              "jp": "そうだな……",
+              "cn": "这个嘛……",
+              "line_no": 69
+            },
+            {
+              "offset": 2,
+              "speaker": "プロデューサー",
+              "jp": "どのアイドルよりも実力があって",
+              "cn": "实力超越一切偶像",
+              "line_no": 70
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情\\if(!Straylight)\\第1话-LINK.csv",
+          "line_no": 91,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "愛依",
+              "jp": "え～、ちょー羨ましい～……！",
+              "cn": "诶……好羡慕啊～……！",
+              "line_no": 89
+            },
+            {
+              "offset": -1,
+              "speaker": "プロデューサー",
+              "jp": "──おーい、あさひ\nそろそろ出ないと……ってまだ着替えてないのか？",
+              "cn": "——喂，朝日\n要出发了……你怎么还没换衣服？",
+              "line_no": 90
+            },
+            {
+              "offset": 0,
+              "speaker": "あさひ",
+              "jp": "あ、プロデューサーさん",
+              "cn": "啊，制作人",
+              "line_no": 91
+            },
+            {
+              "offset": 1,
+              "speaker": "プロデューサー",
+              "jp": "表に車回しとくから、\n急いで着替えて来てくれ！",
+              "cn": "车已经在外面等着了，\n你快去换衣服！",
+              "line_no": 92
+            },
+            {
+              "offset": 2,
+              "speaker": "あさひ",
+              "jp": "わかったっす！",
+              "cn": "知道了的说！",
+              "line_no": 93
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "プロデューサーさん",
+      "score": 358,
+      "scene_cooccurrence": 0,
+      "prev_to_target": 0,
+      "target_to_next": 0,
+      "mentions_target": 0,
+      "target_mentions_partner": 358,
+      "samples": [
+        {
+          "file": "283活动剧情\\#２８３をひろげよう\\第1話-MEETING.csv",
+          "line_no": 41,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "円香",
+              "jp": "ん",
+              "cn": "嗯",
+              "line_no": 39
+            },
+            {
+              "offset": -1,
+              "speaker": "プロデューサー",
+              "jp": "………………",
+              "cn": "………………",
+              "line_no": 40
+            },
+            {
+              "offset": 0,
+              "speaker": "あさひ",
+              "jp": "あっ\nプロデューサーさん見つけたっす！",
+              "cn": "啊\n发现制作人！",
+              "line_no": 41
+            },
+            {
+              "offset": 1,
+              "speaker": "あさひ",
+              "jp": "ダンスの先生が探してるっすよ",
+              "cn": "舞蹈老师在找你哦",
+              "line_no": 42
+            },
+            {
+              "offset": 2,
+              "speaker": "プロデューサー",
+              "jp": "ああ、あさひ\nすまん、探しに来てくれたのか",
+              "cn": "啊，朝日\n抱歉，你是来找我的吗",
+              "line_no": 43
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情\\2025ホワイトデー スペシャルコミュ\\25朝日白情034.csv",
+          "line_no": 10,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "プロデューサー",
+              "jp": "イヤホンとか、ばんそうこうとか……？\nおやつ入れなんかもいいな",
+              "cn": "比方说放耳机、创可贴之类的……？\n也可以用来放零食哦",
+              "line_no": 8
+            },
+            {
+              "offset": -1,
+              "speaker": "あさひ",
+              "jp": "おやつ……！",
+              "cn": "零食……！",
+              "line_no": 9
+            },
+            {
+              "offset": 0,
+              "speaker": "あさひ",
+              "jp": "じゃ、今度からこのポーチのおやつがなくなったら\nプロデューサーさんに追加してもらうっす！",
+              "cn": "那，要是下次这个包里的零食见底了\n就请制片人帮我补充吧！",
+              "line_no": 10
+            },
+            {
+              "offset": 1,
+              "speaker": "プロデューサー",
+              "jp": "ははっ\nすごいシステムの完成だな……！",
+              "cn": "哈哈\n这配套的系统可真是有够周全的……！",
+              "line_no": 11
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情\\En Route\\第3话 MEANING.csv",
+          "line_no": 68,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "あさひ",
+              "jp": "『トップになる』……",
+              "cn": "『成为顶流』……",
+              "line_no": 66
+            },
+            {
+              "offset": -1,
+              "speaker": "プロデューサー",
+              "jp": "……あさひ？",
+              "cn": "……朝日？",
+              "line_no": 67
+            },
+            {
+              "offset": 0,
+              "speaker": "あさひ",
+              "jp": "プロデューサーさんは\nなんだと思うっすか？",
+              "cn": "制作人\n你觉得它指的是什么？",
+              "line_no": 68
+            },
+            {
+              "offset": 1,
+              "speaker": "プロデューサー",
+              "jp": "そうだな……",
+              "cn": "这个嘛……",
+              "line_no": 69
+            },
+            {
+              "offset": 2,
+              "speaker": "プロデューサー",
+              "jp": "どのアイドルよりも実力があって",
+              "cn": "实力超越一切偶像",
+              "line_no": 70
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "かな",
+      "score": 152,
+      "scene_cooccurrence": 6,
+      "prev_to_target": 22,
+      "target_to_next": 16,
+      "mentions_target": 6,
+      "target_mentions_partner": 96,
+      "samples": [
+        {
+          "file": "283活动剧情\\5th Anniversary 当日スペシャルコミュ\\5th Anniversary-ストレイライト.csv",
+          "line_no": 3,
+          "context": [
+            {
+              "offset": -1,
+              "speaker": "あさひ",
+              "jp": "んー？",
+              "cn": "嗯——？",
+              "line_no": 2
+            },
+            {
+              "offset": 0,
+              "speaker": "あさひ",
+              "jp": "どこにも行かないっすよ\n今日は",
+              "cn": "我今天哪里也不去的说",
+              "line_no": 3
+            },
+            {
+              "offset": 1,
+              "speaker": "あさひ",
+              "jp": "そういう気分っす",
+              "cn": "就是这样的心情的说",
+              "line_no": 4
+            },
+            {
+              "offset": 2,
+              "speaker": "冬優子",
+              "jp": "……………………",
+              "cn": "……………………",
+              "line_no": 5
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情\\Belles of three.Stray match\\三.csv",
+          "line_no": 7,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "MEMちょ",
+              "jp": "よろしくお願いしまーす！\nさて、代表のふたりも準備OKですかー？",
+              "cn": "请多指教咯—！\n请问，双方代表都准备好了吗—？",
+              "line_no": 5
+            },
+            {
+              "offset": -1,
+              "speaker": "かな",
+              "jp": "いつでも大丈夫です",
+              "cn": "随时都可以开始",
+              "line_no": 6
+            },
+            {
+              "offset": 0,
+              "speaker": "あさひ",
+              "jp": "こっちもいけるっすよ",
+              "cn": "我也准备好啦",
+              "line_no": 7
+            },
+            {
+              "offset": 1,
+              "speaker": "MEMちょ",
+              "jp": "どちらも準備万端！\n体力勝負は『コウモリパニック』です！",
+              "cn": "双方都已准备就绪！\n体力对决“蝙蝠危机”现在开始！",
+              "line_no": 8
+            },
+            {
+              "offset": 2,
+              "speaker": "愛依",
+              "jp": "大きいセットから\nコウモリが、出てくる",
+              "cn": "会有蝙蝠\n从那个巨大的装置中出现",
+              "line_no": 9
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情\\Belles of three.Stray match\\终.csv",
+          "line_no": 60,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "MEMちょ",
+              "jp": "次やったら今度は勝ちたいねぇ",
+              "cn": "如果还有下次的话好想赢啊",
+              "line_no": 58
+            },
+            {
+              "offset": -1,
+              "speaker": "かな",
+              "jp": "次……次ね……",
+              "cn": "下次……下次啊……",
+              "line_no": 59
+            },
+            {
+              "offset": 0,
+              "speaker": "あさひ",
+              "jp": "またどっかで会えるっすかね？",
+              "cn": "还有机会再遇到一起吗？",
+              "line_no": 60
+            },
+            {
+              "offset": 1,
+              "speaker": "冬優子",
+              "jp": "さぁ？",
+              "cn": "谁知道？",
+              "line_no": 61
+            },
+            {
+              "offset": 2,
+              "speaker": "愛依",
+              "jp": "案外、またすぐ共演したりして～",
+              "cn": "说不定，很快就会有共同出演之类的机会～",
+              "line_no": 62
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "摩美々",
+      "score": 145,
+      "scene_cooccurrence": 23,
+      "prev_to_target": 46,
+      "target_to_next": 36,
+      "mentions_target": 12,
+      "target_mentions_partner": 5,
+      "samples": [
+        {
+          "file": "283活动剧情\\きよしこの夜、プレゼン・フォー・ユー！\\13_32 PM.csv",
+          "line_no": 57,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "摩美々",
+              "jp": "はぁい",
+              "cn": "好",
+              "line_no": 55
+            },
+            {
+              "offset": -1,
+              "speaker": "凛世",
+              "jp": "はい……",
+              "cn": "好的……",
+              "line_no": 56
+            },
+            {
+              "offset": 0,
+              "speaker": "あさひ",
+              "jp": "はいっす！",
+              "cn": "嗯！",
+              "line_no": 57
+            },
+            {
+              "offset": 1,
+              "speaker": "摩美々",
+              "jp": "まぁゆっくりやるんでー\nよろしくお願いしまぁす",
+              "cn": "我会慢慢来的\n请多指教",
+              "line_no": 58
+            },
+            {
+              "offset": 2,
+              "speaker": "凛世",
+              "jp": "こらこら……\nゆっくり……していては──",
+              "cn": "喂喂……\n慢慢来……的话——",
+              "line_no": 59
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情\\きよしこの夜、プレゼン・フォー・ユー！\\14_11 PM.csv",
+          "line_no": 67,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "摩美々",
+              "jp": "はぁい、では実況を再開しますー",
+              "cn": "好的，那么就重开转播",
+              "line_no": 65
+            },
+            {
+              "offset": -1,
+              "speaker": "摩美々",
+              "jp": "まぁ、ずっと告知見ててもらっても\nよかったんだケドー",
+              "cn": "不过，一直让大家看公告\n也挺好的——",
+              "line_no": 66
+            },
+            {
+              "offset": 0,
+              "speaker": "あさひ",
+              "jp": "…………",
+              "cn": "…………",
+              "line_no": 67
+            },
+            {
+              "offset": 1,
+              "speaker": "凛世",
+              "jp": "…………\nそ、それだと……",
+              "cn": "…………\n那，那样的话……",
+              "line_no": 68
+            },
+            {
+              "offset": 2,
+              "speaker": "凛世",
+              "jp": "告知……多すぎっす……",
+              "cn": "公告……也太多了……",
+              "line_no": 69
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情\\きよしこの夜、プレゼン・フォー・ユー！\\14_48 PM.csv",
+          "line_no": 3,
+          "context": [
+            {
+              "offset": -1,
+              "speaker": "凛世",
+              "jp": "──VTRがあけるまで……\n２分です……",
+              "cn": "——距离打开VTR……\n还有2分钟……",
+              "line_no": 2
+            },
+            {
+              "offset": 0,
+              "speaker": "あさひ",
+              "jp": "……サンタの連絡手段は……無線……？\nということは……複数人いて……──",
+              "cn": "……圣诞老人的联络方式……是无线电……？\n这么说……有好几个人……——",
+              "line_no": 3
+            },
+            {
+              "offset": 1,
+              "speaker": "摩美々",
+              "jp": "……\n凛世、リュック取ってー",
+              "cn": "……\n凛世，帮我拿下背包——",
+              "line_no": 4
+            },
+            {
+              "offset": 2,
+              "speaker": "凛世",
+              "jp": "はい……",
+              "cn": "好的……",
+              "line_no": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "めぐる",
+      "score": 127,
+      "scene_cooccurrence": 33,
+      "prev_to_target": 28,
+      "target_to_next": 21,
+      "mentions_target": 12,
+      "target_mentions_partner": 0,
+      "samples": [
+        {
+          "file": "283活动剧情\\#２８３をひろげよう\\エンディング-REPLY PARTY.csv",
+          "line_no": 37,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "めぐる",
+              "jp": "あ、うん！",
+              "cn": "啊，嗯！",
+              "line_no": 35
+            },
+            {
+              "offset": -1,
+              "speaker": "めぐる",
+              "jp": "あー！　あさひだ！",
+              "cn": "啊——！　是朝日！",
+              "line_no": 36
+            },
+            {
+              "offset": 0,
+              "speaker": "あさひ",
+              "jp": "はいっす！",
+              "cn": "嗯！",
+              "line_no": 37
+            },
+            {
+              "offset": 1,
+              "speaker": "樹里",
+              "jp": "ああ、ちょうどそこで会ったからさ\n誘ったんだけど……",
+              "cn": "啊，我们刚好遇到\n就邀请她来了……",
+              "line_no": 38
+            },
+            {
+              "offset": 2,
+              "speaker": "あさひ",
+              "jp": "パーティーするんすよね！",
+              "cn": "要办派对呢！",
+              "line_no": 39
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情\\#２８３をひろげよう\\第5話-[283PRO]STAGE bhd.csv",
+          "line_no": 9,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "めぐる",
+              "jp": "控室の方、行こっか！",
+              "cn": "我们去休息室吧！",
+              "line_no": 7
+            },
+            {
+              "offset": -1,
+              "speaker": "雛菜",
+              "jp": "はい～",
+              "cn": "好～",
+              "line_no": 8
+            },
+            {
+              "offset": 0,
+              "speaker": "あさひ",
+              "jp": "────あっ",
+              "cn": "————啊",
+              "line_no": 9
+            },
+            {
+              "offset": 1,
+              "speaker": "めぐる",
+              "jp": "あっ、あさひ……！",
+              "cn": "啊，是朝日……！",
+              "line_no": 10
+            },
+            {
+              "offset": 2,
+              "speaker": "雛菜",
+              "jp": "お疲れ様です～",
+              "cn": "辛苦啦～",
+              "line_no": 11
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情\\アジェンダ２８３\\第6话-つながるがつながる.csv",
+          "line_no": 65,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "灯織",
+              "jp": "──さっ、産業廃棄物……！",
+              "cn": "——产，产业废弃物……！",
+              "line_no": 63
+            },
+            {
+              "offset": -1,
+              "speaker": "灯織",
+              "jp": "それって……！",
+              "cn": "那是……！",
+              "line_no": 64
+            },
+            {
+              "offset": 0,
+              "speaker": "あさひ",
+              "jp": "あー、大丈夫っす\n冬優子ちゃんと愛依ちゃんが、なんかしてくれたっす！",
+              "cn": "啊，没关系\n冬优子和爱依去处理了！",
+              "line_no": 65
+            },
+            {
+              "offset": 1,
+              "speaker": "めぐる",
+              "jp": "──イルミネもあるの、思い出",
+              "cn": "————星组也有回忆",
+              "line_no": 66
+            },
+            {
+              "offset": 2,
+              "speaker": "めぐる",
+              "jp": "ここに！",
+              "cn": "在这里！",
+              "line_no": 67
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "灯織",
+      "score": 124,
+      "scene_cooccurrence": 28,
+      "prev_to_target": 29,
+      "target_to_next": 29,
+      "mentions_target": 6,
+      "target_mentions_partner": 4,
+      "samples": [
+        {
+          "file": "283活动剧情\\きよしこの夜、プレゼン・フォー・ユー！\\14_11 PM.csv",
+          "line_no": 32,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "凛世",
+              "jp": "……",
+              "cn": "……",
+              "line_no": 30
+            },
+            {
+              "offset": -1,
+              "speaker": "甘奈",
+              "jp": "無線かな？\n──あれ、消えちゃったね",
+              "cn": "无线电吗？\n——咦，消失了",
+              "line_no": 31
+            },
+            {
+              "offset": 0,
+              "speaker": "あさひ",
+              "jp": "サンタっす……",
+              "cn": "是圣诞老人……",
+              "line_no": 32
+            },
+            {
+              "offset": 1,
+              "speaker": "灯織",
+              "jp": "……？",
+              "cn": "……？",
+              "line_no": 33
+            },
+            {
+              "offset": 2,
+              "speaker": "あさひ",
+              "jp": "サンタがプレゼントを落としていったんすよ！",
+              "cn": "是圣诞老人丢了礼物！",
+              "line_no": 34
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情\\アジェンダ２８３\\第6话-つながるがつながる.csv",
+          "line_no": 65,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "灯織",
+              "jp": "──さっ、産業廃棄物……！",
+              "cn": "——产，产业废弃物……！",
+              "line_no": 63
+            },
+            {
+              "offset": -1,
+              "speaker": "灯織",
+              "jp": "それって……！",
+              "cn": "那是……！",
+              "line_no": 64
+            },
+            {
+              "offset": 0,
+              "speaker": "あさひ",
+              "jp": "あー、大丈夫っす\n冬優子ちゃんと愛依ちゃんが、なんかしてくれたっす！",
+              "cn": "啊，没关系\n冬优子和爱依去处理了！",
+              "line_no": 65
+            },
+            {
+              "offset": 1,
+              "speaker": "めぐる",
+              "jp": "──イルミネもあるの、思い出",
+              "cn": "————星组也有回忆",
+              "line_no": 66
+            },
+            {
+              "offset": 2,
+              "speaker": "めぐる",
+              "jp": "ここに！",
+              "cn": "在这里！",
+              "line_no": 67
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情\\アジェンダ２８３\\终章-今日を終える前に.csv",
+          "line_no": 49,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "めぐる",
+              "jp": "……なんか？",
+              "cn": "……总觉得？",
+              "line_no": 47
+            },
+            {
+              "offset": -1,
+              "speaker": "灯織",
+              "jp": "えっと……その後ストレイライトのみんなと\n撮影会みたいになっちゃって",
+              "cn": "就是……之后我和迷光的人\n开起了摄影会一样的活动",
+              "line_no": 48
+            },
+            {
+              "offset": 0,
+              "speaker": "あさひ",
+              "jp": "それより灯織ちゃん\n写真撮るっすよ！",
+              "cn": "倒是灯织\n我要拍照！",
+              "line_no": 49
+            },
+            {
+              "offset": 1,
+              "speaker": "灯織",
+              "jp": "えっ、うん────",
+              "cn": "诶，嗯————",
+              "line_no": 50
+            },
+            {
+              "offset": 2,
+              "speaker": "冬優子",
+              "jp": "あっ……あのねっ",
+              "cn": "啊……那个",
+              "line_no": 51
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "果穂",
+      "score": 124,
+      "scene_cooccurrence": 25,
+      "prev_to_target": 32,
+      "target_to_next": 27,
+      "mentions_target": 11,
+      "target_mentions_partner": 4,
+      "samples": [
+        {
+          "file": "283活动剧情\\きよしこの夜、プレゼン・フォー・ユー！\\13_32 PM.csv",
+          "line_no": 93,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "あさひ",
+              "jp": "トナカイ……！",
+              "cn": "驯鹿……！",
+              "line_no": 91
+            },
+            {
+              "offset": -1,
+              "speaker": "凛世",
+              "jp": "……\nどなたの……声でしょう……",
+              "cn": "……\n是……哪位的声音呢……",
+              "line_no": 92
+            },
+            {
+              "offset": 0,
+              "speaker": "あさひ",
+              "jp": "もしもーし！　もしもーし……！",
+              "cn": "你好——！　你好……！",
+              "line_no": 93
+            },
+            {
+              "offset": 1,
+              "speaker": "果穂",
+              "jp": "『わぁ……っ！』",
+              "cn": "“哇……！”",
+              "line_no": 94
+            },
+            {
+              "offset": 2,
+              "speaker": "甘奈",
+              "jp": "『きゃ……っ！』",
+              "cn": "“呀……！”",
+              "line_no": 95
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情\\きよしこの夜、プレゼン・フォー・ユー！\\14_11 PM.csv",
+          "line_no": 22,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "甘奈",
+              "jp": "21個、あるみたいなの",
+              "cn": "好像，有21个礼物",
+              "line_no": 20
+            },
+            {
+              "offset": -1,
+              "speaker": "果穂",
+              "jp": "ええっ……！",
+              "cn": "咦……！",
+              "line_no": 21
+            },
+            {
+              "offset": 0,
+              "speaker": "あさひ",
+              "jp": "みんなー！　大丈夫っすかー！？",
+              "cn": "大家！　没事吧！？",
+              "line_no": 22
+            },
+            {
+              "offset": 1,
+              "speaker": "チーム青春ジャージ",
+              "jp": "《プレゼン・フォー・ユー！》",
+              "cn": "“Presen·For·You！”",
+              "line_no": 23
+            },
+            {
+              "offset": 2,
+              "speaker": "摩美々",
+              "jp": "……んー\nみんなにメッセしてみたケド―",
+              "cn": "……嗯——\n我给大家发了消息",
+              "line_no": 24
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情\\サマー・ミーツ・ワンダーランド\\夏休みの秘密.csv",
+          "line_no": 9,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "おばあさん",
+              "jp": "お嬢ちゃんたちの話を聞くに、\nきっと汽笛だろうねぇ",
+              "cn": "听小姑娘们的讲述，\n一定是汽笛声呢",
+              "line_no": 7
+            },
+            {
+              "offset": -1,
+              "speaker": "果穂",
+              "jp": "そうなんですね……",
+              "cn": "是这样啊……",
+              "line_no": 8
+            },
+            {
+              "offset": 0,
+              "speaker": "あさひ",
+              "jp": "青い光も、夜光虫だろうって話っす！\nこれで謎は解けたっすね！",
+              "cn": "蓝色的光应该是夜光虫呢！\n这样谜团就解开了！",
+              "line_no": 9
+            },
+            {
+              "offset": 1,
+              "speaker": "果穂",
+              "jp": "はい……！",
+              "cn": "是的……！",
+              "line_no": 10
+            },
+            {
+              "offset": 2,
+              "speaker": "果穂",
+              "jp": "……でも、せっかくの不思議だったのになぁ……",
+              "cn": "……不过，好不容易遇到了不可思议的事……",
+              "line_no": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "凛世",
+      "score": 108,
+      "scene_cooccurrence": 21,
+      "prev_to_target": 30,
+      "target_to_next": 27,
+      "mentions_target": 4,
+      "target_mentions_partner": 5,
+      "samples": [
+        {
+          "file": "283活动剧情\\きよしこの夜、プレゼン・フォー・ユー！\\13_32 PM.csv",
+          "line_no": 57,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "摩美々",
+              "jp": "はぁい",
+              "cn": "好",
+              "line_no": 55
+            },
+            {
+              "offset": -1,
+              "speaker": "凛世",
+              "jp": "はい……",
+              "cn": "好的……",
+              "line_no": 56
+            },
+            {
+              "offset": 0,
+              "speaker": "あさひ",
+              "jp": "はいっす！",
+              "cn": "嗯！",
+              "line_no": 57
+            },
+            {
+              "offset": 1,
+              "speaker": "摩美々",
+              "jp": "まぁゆっくりやるんでー\nよろしくお願いしまぁす",
+              "cn": "我会慢慢来的\n请多指教",
+              "line_no": 58
+            },
+            {
+              "offset": 2,
+              "speaker": "凛世",
+              "jp": "こらこら……\nゆっくり……していては──",
+              "cn": "喂喂……\n慢慢来……的话——",
+              "line_no": 59
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情\\きよしこの夜、プレゼン・フォー・ユー！\\14_11 PM.csv",
+          "line_no": 67,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "摩美々",
+              "jp": "はぁい、では実況を再開しますー",
+              "cn": "好的，那么就重开转播",
+              "line_no": 65
+            },
+            {
+              "offset": -1,
+              "speaker": "摩美々",
+              "jp": "まぁ、ずっと告知見ててもらっても\nよかったんだケドー",
+              "cn": "不过，一直让大家看公告\n也挺好的——",
+              "line_no": 66
+            },
+            {
+              "offset": 0,
+              "speaker": "あさひ",
+              "jp": "…………",
+              "cn": "…………",
+              "line_no": 67
+            },
+            {
+              "offset": 1,
+              "speaker": "凛世",
+              "jp": "…………\nそ、それだと……",
+              "cn": "…………\n那，那样的话……",
+              "line_no": 68
+            },
+            {
+              "offset": 2,
+              "speaker": "凛世",
+              "jp": "告知……多すぎっす……",
+              "cn": "公告……也太多了……",
+              "line_no": 69
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情\\きよしこの夜、プレゼン・フォー・ユー！\\14_48 PM.csv",
+          "line_no": 3,
+          "context": [
+            {
+              "offset": -1,
+              "speaker": "凛世",
+              "jp": "──VTRがあけるまで……\n２分です……",
+              "cn": "——距离打开VTR……\n还有2分钟……",
+              "line_no": 2
+            },
+            {
+              "offset": 0,
+              "speaker": "あさひ",
+              "jp": "……サンタの連絡手段は……無線……？\nということは……複数人いて……──",
+              "cn": "……圣诞老人的联络方式……是无线电……？\n这么说……有好几个人……——",
+              "line_no": 3
+            },
+            {
+              "offset": 1,
+              "speaker": "摩美々",
+              "jp": "……\n凛世、リュック取ってー",
+              "cn": "……\n凛世，帮我拿下背包——",
+              "line_no": 4
+            },
+            {
+              "offset": 2,
+              "speaker": "凛世",
+              "jp": "はい……",
+              "cn": "好的……",
+              "line_no": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "樹里",
+      "score": 102,
+      "scene_cooccurrence": 24,
+      "prev_to_target": 23,
+      "target_to_next": 29,
+      "mentions_target": 0,
+      "target_mentions_partner": 2,
+      "samples": [
+        {
+          "file": "283活动剧情\\#２８３をひろげよう\\エンディング-REPLY PARTY.csv",
+          "line_no": 37,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "めぐる",
+              "jp": "あ、うん！",
+              "cn": "啊，嗯！",
+              "line_no": 35
+            },
+            {
+              "offset": -1,
+              "speaker": "めぐる",
+              "jp": "あー！　あさひだ！",
+              "cn": "啊——！　是朝日！",
+              "line_no": 36
+            },
+            {
+              "offset": 0,
+              "speaker": "あさひ",
+              "jp": "はいっす！",
+              "cn": "嗯！",
+              "line_no": 37
+            },
+            {
+              "offset": 1,
+              "speaker": "樹里",
+              "jp": "ああ、ちょうどそこで会ったからさ\n誘ったんだけど……",
+              "cn": "啊，我们刚好遇到\n就邀请她来了……",
+              "line_no": 38
+            },
+            {
+              "offset": 2,
+              "speaker": "あさひ",
+              "jp": "パーティーするんすよね！",
+              "cn": "要办派对呢！",
+              "line_no": 39
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情\\密着！ハロウィンワールド24時\\エンディング-終わりが来るなんて.csv",
+          "line_no": 43,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "果穂",
+              "jp": "運転士の樹里ちゃんに、お任せ下さいっ！",
+              "cn": "就交给我们的司机，树里吧！",
+              "line_no": 41
+            },
+            {
+              "offset": -1,
+              "speaker": "樹里",
+              "jp": "おー！\nみんな、早く乗れよー！",
+              "cn": "好——！\n大家，快上来吧——！",
+              "line_no": 42
+            },
+            {
+              "offset": 0,
+              "speaker": "あさひ",
+              "jp": "えっ、これに乗るっすか！\nすごいっす！　やったっすー！",
+              "cn": "诶，要坐这个吗！\n好厉害！　太棒啦！",
+              "line_no": 43
+            },
+            {
+              "offset": 1,
+              "speaker": "愛依",
+              "jp": "アッハハ\nあさひちゃん、ちょーテンションあがってるじゃん！",
+              "cn": "啊哈哈\n朝日，情绪超～高涨的嘛！",
+              "line_no": 44
+            },
+            {
+              "offset": 2,
+              "speaker": "冬優子",
+              "jp": "……なんとか無事に解決したみたいじゃない",
+              "cn": "……看起来是顺利解决了呢",
+              "line_no": 45
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情\\明るい部屋\\第5话-ブリアル.csv",
+          "line_no": 89,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "恋鐘",
+              "jp": "あ、あさひ～～！",
+              "cn": "朝，朝日～～！",
+              "line_no": 87
+            },
+            {
+              "offset": -1,
+              "speaker": "咲耶",
+              "jp": "──おや、あさひ\nもう霊はいいのかい？",
+              "cn": "——哎呀，朝日\n不管幽灵了吗？",
+              "line_no": 88
+            },
+            {
+              "offset": 0,
+              "speaker": "あさひ",
+              "jp": "いいっす、後で探すっすよ\nバック！　掃除機、バーック！",
+              "cn": "没事，等下再找\nBack！ 扫地机，后退！",
+              "line_no": 89
+            },
+            {
+              "offset": 1,
+              "speaker": "樹里",
+              "jp": "確かに霊より神秘的だよな、それ",
+              "cn": "那个确实比幽灵神秘啊",
+              "line_no": 90
+            },
+            {
+              "offset": 2,
+              "speaker": "あさひ",
+              "jp": "あれ、バックはできないのかな？\nおーい、バーック！",
+              "cn": "奇怪，这个不能后退吗？\n喂——，后退！",
+              "line_no": 91
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

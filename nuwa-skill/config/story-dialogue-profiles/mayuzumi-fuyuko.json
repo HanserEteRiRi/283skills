@@ -1,0 +1,26 @@
+{
+  "target": "冬優子",
+  "aliases": [
+    "黛冬優子",
+    "黛 冬優子",
+    "冬优子",
+    "冬優",
+    "冬优",
+    "ふゆこ",
+    "Fuyuko Mayuzumi",
+    "Mayuzumi Fuyuko",
+    "Fuyuko"
+  ],
+  "mention_aliases": [
+    "冬優子",
+    "黛冬優子",
+    "黛 冬優子",
+    "冬优子",
+    "冬優",
+    "冬优",
+    "ふゆ"
+  ],
+  "theme_config": "../story-dialogue-themes/mayuzumi-fuyuko.json",
+  "voice_config": "../story-dialogue-voice/mayuzumi-fuyuko.json",
+  "output_dir": "../../283/mayuzumi-fuyuko-perspective/references/local-dialogue-analysis"
+}
