@@ -1,0 +1,2698 @@
+{
+  "profile": {
+    "target": "はるき",
+    "aliases": [
+      "郁田はるき",
+      "郁田 はるき",
+      "はるき",
+      "阳希",
+      "Haruki",
+      "Ikuta Haruki",
+      "Haruki Ikuta"
+    ],
+    "mention_aliases": [
+      "郁田はるき",
+      "郁田 はるき",
+      "はるき",
+      "阳希",
+      "Haruki",
+      "Ikuta Haruki",
+      "Haruki Ikuta"
+    ],
+    "theme_config": "../story-dialogue-themes/ikuta-haruki.json",
+    "voice_config": "../story-dialogue-voice/ikuta-haruki.json",
+    "output_dir": "../../283/ikuta-haruki-perspective/references/local-dialogue-analysis"
+  },
+  "boundary": {
+    "display_name": "郁田はるき",
+    "age_stage": "17岁，高中2年级",
+    "education_or_role": "高中生 / 283 Production CoMETIK 偶像",
+    "affiliation": "CoMETIK（斑鳩ルカ、鈴木羽那、郁田はるき）",
+    "allowed_scope": [
+      "自己的偶像活动、学校生活、绘画与创作、灵感、风景、记忆和感受",
+      "本地剧情和公开资料中记录过的はるき剧情发展",
+      "17岁高中生和年轻偶像能理解的日常、人际、工作现场、舞台和粉丝问题",
+      "和P、ルカ、羽那以及CoMETIK相关关系"
+    ],
+    "cautious_scope": [
+      "创作建议只能以自身经验和感受回应，不做专业美术教学或职业规划结论",
+      "ルカ和羽那的内心不能替她们下结论，只能基于剧情、台词和关系距离推断",
+      "官方事实要区分公开资料、本地同人剧情和二创推演"
+    ],
+    "refuse_scope": [
+      "医疗、法律、投资、编程、政治、专业学术和高风险决策问题",
+      "现代新闻、现实公司、现实人物隐私等はるき不可能知道的信息",
+      "未记录的官方剧情、未来剧情或其他角色未公开动机",
+      "要求はるき以专家身份给出结论的问题"
+    ],
+    "refusal_cn": "嗯……这个我也不太知道。不能把没有见过的颜色，说成自己画过的样子呢。",
+    "refusal_jp": "うん……それは、わたしもよくわからないです。見たことのない色を、描いたふりはできないから。",
+    "plot_memory": [
+      {
+        "label": "创作与感受的入口",
+        "status": "官方与本地语料核心记忆",
+        "note": "はるき容易被景色、颜色、记忆和灵感牵动，会把感受到的东西转向绘画、表达和偶像活动。",
+        "sources": [
+          "SKILL.md",
+          "references/research/01-writings.md"
+        ]
+      },
+      {
+        "label": "CoMETIK三人关系",
+        "status": "本地语料核心记忆",
+        "note": "はるき常在ルカ的痛感与羽那的柔软之间寻找能一起前进的方式，但不能替两人宣布她们已经完全和解或完全理解彼此。",
+        "sources": [
+          "references/research/02-conversations.md",
+          "references/local-dialogue-analysis/はるき-dialogue-report.md"
+        ]
+      }
+    ]
+  },
+  "analysis_summary": {
+    "target_line_count": 2834,
+    "target_scene_count": 165,
+    "mentioned_by_others_count": 457,
+    "speaker_forms": [
+      [
+        "はるき",
+        2696
+      ],
+      [
+        "羽那＆はるき",
+        120
+      ],
+      [
+        "はるき＆プロデューサー",
+        8
+      ],
+      [
+        "ルカ＆はるき",
+        4
+      ],
+      [
+        "はるき＆兄",
+        3
+      ],
+      [
+        "はるき＆友人",
+        2
+      ],
+      [
+        "はるき＆女性タレント",
+        1
+      ]
+    ],
+    "top_categories": [
+      [
+        "郁田はるき",
+        1859
+      ],
+      [
+        "283活动剧情",
+        397
+      ],
+      [
+        "斑鳩ルカ",
+        308
+      ],
+      [
+        "鈴木羽那",
+        237
+      ],
+      [
+        "有栖川夏葉",
+        33
+      ]
+    ],
+    "top_arcs": [
+      [
+        "W.I.N.G.編",
+        341
+      ],
+      [
+        "郁田はるき G.R.A.D.編",
+        241
+      ],
+      [
+        "郁田阳希 Landing Point篇,共通→斑鳩ルカ",
+        228
+      ],
+      [
+        "郁田はるき S.T.E.P.編",
+        173
+      ],
+      [
+        "【Hopeland】郁田はるき",
+        172
+      ],
+      [
+        "斑鳩ルカ ファン感謝祭編 含共通",
+        165
+      ],
+      [
+        "黑色彗星",
+        134
+      ],
+      [
+        "ロード・トゥ・ハッピーホリデー！",
+        126
+      ],
+      [
+        "【song for you】郁田はるき",
+        115
+      ],
+      [
+        "THE（CoMETIK）EPISODE",
+        114
+      ],
+      [
+        "【遠き明滅】郁田はるき",
+        93
+      ],
+      [
+        "【漂白花火】郁田はるき",
+        92
+      ],
+      [
+        "【流星パレット】郁田はるき",
+        88
+      ],
+      [
+        "【猫と犬みたいな】郁田はるき",
+        81
+      ],
+      [
+        "【創彗星】郁田はるき",
+        76
+      ],
+      [
+        "【283プロのヒナ】郁田はるき",
+        61
+      ],
+      [
+        "郁田はるき ファン感謝祭編",
+        59
+      ],
+      [
+        "【Colorless Mirror】鈴木羽那",
+        59
+      ],
+      [
+        "【ダブルホワイト】鈴木羽那",
+        57
+      ],
+      [
+        "【283プロのヒナ】鈴木羽那",
+        47
+      ],
+      [
+        "【she sees】斑鳩ルカ",
+        42
+      ],
+      [
+        "【聖なれ】鈴木羽那",
+        40
+      ],
+      [
+        "【黑色彗星】鈴木羽那",
+        34
+      ],
+      [
+        "【ヒイラギの窓辺に】有栖川夏葉",
+        33
+      ],
+      [
+        "【JUNK STAR】斑鳩ルカ",
+        31
+      ],
+      [
+        "【※CAUTION※】斑鳩 ルカ",
+        31
+      ],
+      [
+        "郁田はるき 2024圣诞",
+        22
+      ],
+      [
+        "路加Landing Point",
+        17
+      ],
+      [
+        "【夜になって】斑鳩 ルカ",
+        16
+      ],
+      [
+        "PiCNiC BASKET！",
+        11
+      ]
+    ],
+    "top_scenes": [
+      {
+        "file": "283活动剧情/黑色彗星/400106905.csv",
+        "target_line_count": 49,
+        "total_line_count": 133,
+        "speakers": [
+          [
+            "はるき",
+            49
+          ],
+          [
+            "プロデューサー",
+            38
+          ],
+          [
+            "ルカ",
+            26
+          ],
+          [
+            "スタッフ",
+            5
+          ],
+          [
+            "ファンの声援",
+            5
+          ],
+          [
+            "客席のアイドル２",
+            4
+          ],
+          [
+            "ルカのSNS投稿",
+            3
+          ],
+          [
+            "客席のアイドル１",
+            3
+          ]
+        ],
+        "first_target_line_jp": "…………",
+        "first_target_line_cn": "…………",
+        "last_target_line_jp": "それじゃ──おやすみなさい プロデューサーさん",
+        "last_target_line_cn": "那么——晚安啦 制作人"
+      },
+      {
+        "file": "郁田はるき/【猫と犬みたいな】郁田はるき/02雨につらぬかれて (3).csv",
+        "target_line_count": 45,
+        "total_line_count": 74,
+        "speakers": [
+          [
+            "はるき",
+            45
+          ],
+          [
+            "ルカ",
+            9
+          ],
+          [
+            "羽那",
+            8
+          ],
+          [
+            "監督",
+            7
+          ],
+          [
+            "電話の友人",
+            3
+          ],
+          [
+            "一同",
+            2
+          ],
+          [
+            "スタッフ",
+            1
+          ]
+        ],
+        "first_target_line_jp": "…………静か",
+        "first_target_line_cn": "…………好安静",
+        "last_target_line_jp": "描かずにはいられない",
+        "last_target_line_cn": "所以才会忍不住画下来"
+      },
+      {
+        "file": "郁田はるき/【Hopeland】郁田はるき/202800404.csv",
+        "target_line_count": 43,
+        "total_line_count": 74,
+        "speakers": [
+          [
+            "はるき",
+            43
+          ],
+          [
+            "プロデューサー",
+            28
+          ],
+          [
+            "スタッフ",
+            1
+          ]
+        ],
+        "first_target_line_jp": "えっ……もうですか……？ すごいですねぇ……！",
+        "first_target_line_cn": "诶……这就满了……？ 好厉害……！",
+        "last_target_line_jp": "ふふ～、ね……！",
+        "last_target_line_cn": "哼哼～，对吧……！"
+      },
+      {
+        "file": "郁田はるき/郁田はるき G.R.A.D.編/5決壊.csv",
+        "target_line_count": 42,
+        "total_line_count": 79,
+        "speakers": [
+          [
+            "はるき",
+            42
+          ],
+          [
+            "プロデューサー",
+            20
+          ],
+          [
+            "off",
+            7
+          ],
+          [
+            "ボイストレーナー",
+            3
+          ],
+          [
+            "スタッフ",
+            2
+          ],
+          [
+            "ドアの外",
+            1
+          ],
+          [
+            "アートスクール講師",
+            1
+          ]
+        ],
+        "first_target_line_jp": "やっぱりいいな 朝の光は────",
+        "first_target_line_cn": "果然早晨的阳光 很令人惬意呢————",
+        "last_target_line_jp": "わたしの輪郭なんてなくなっちゃうくらいに",
+        "last_target_line_cn": "直至自己的轮廓……都在其中消失殆尽"
+      },
+      {
+        "file": "郁田はるき/郁田阳希 Landing Point篇,共通→斑鳩ルカ/郁田阳希 Landing Point篇05.csv",
+        "target_line_count": 42,
+        "total_line_count": 79,
+        "speakers": [
+          [
+            "はるき",
+            42
+          ],
+          [
+            "プロデューサー",
+            27
+          ],
+          [
+            "トレーナー",
+            4
+          ],
+          [
+            "off",
+            3
+          ]
+        ],
+        "first_target_line_jp": "声がする",
+        "first_target_line_cn": "有人在说话",
+        "last_target_line_jp": "だから、これからも一緒にいてもいいですか",
+        "last_target_line_cn": "所以，今后也请你陪我 继续前进"
+      },
+      {
+        "file": "郁田はるき/【遠き明滅】郁田はるき/【遠き明滅】郁田はるき02 (1).csv",
+        "target_line_count": 42,
+        "total_line_count": 66,
+        "speakers": [
+          [
+            "はるき",
+            42
+          ],
+          [
+            "ルカ",
+            14
+          ],
+          [
+            "スタッフ",
+            10
+          ]
+        ],
+        "first_target_line_jp": "はい……！ すみません、今日は別件で……",
+        "first_target_line_cn": "是的……！ 抱歉，今天她有其他事情……",
+        "last_target_line_jp": "それだけでもかけがえのないものだって思うよ",
+        "last_target_line_cn": "光是这样我也已经觉得弥足珍贵了"
+      },
+      {
+        "file": "郁田はるき/【song for you】郁田はるき/01.観測者の見る夢は【song for you】郁田はるき.csv",
+        "target_line_count": 41,
+        "total_line_count": 74,
+        "speakers": [
+          [
+            "はるき",
+            41
+          ],
+          [
+            "プロデューサー",
+            30
+          ]
+        ],
+        "first_target_line_jp": "え！ えっと、これは──",
+        "first_target_line_cn": "欸！ 那个，这是──",
+        "last_target_line_jp": "ふふっ……はい────",
+        "last_target_line_cn": "呵呵……好的────"
+      },
+      {
+        "file": "郁田はるき/【創彗星】郁田はるき/【創彗星】郁田はるき01.まっしろなわたしたち.csv",
+        "target_line_count": 40,
+        "total_line_count": 55,
+        "speakers": [
+          [
+            "はるき",
+            40
+          ],
+          [
+            "羽那",
+            6
+          ],
+          [
+            "雑誌スタッフ",
+            4
+          ],
+          [
+            "友人",
+            4
+          ],
+          [
+            "ルカ",
+            3
+          ]
+        ],
+        "first_target_line_jp": "わーっ──！",
+        "first_target_line_cn": "哇──！",
+        "last_target_line_jp": "わたしたちが、やりたいことは────",
+        "last_target_line_cn": "我们想实现的愿望就是────"
+      },
+      {
+        "file": "郁田はるき/【漂白花火】郁田はるき/【漂白花火】郁田 はるき01.csv",
+        "target_line_count": 39,
+        "total_line_count": 70,
+        "speakers": [
+          [
+            "はるき",
+            39
+          ],
+          [
+            "プロデューサー",
+            26
+          ],
+          [
+            "撮影スタッフ",
+            1
+          ],
+          [
+            "off",
+            1
+          ]
+        ],
+        "first_target_line_jp": "ふふっ…… できたっ……！",
+        "first_target_line_cn": "哼哼…… 成功啦……！",
+        "last_target_line_jp": "嘘のない形で",
+        "last_target_line_cn": "——以毫无虚假的方式"
+      },
+      {
+        "file": "郁田はるき/【Hopeland】郁田はるき/202800401.csv",
+        "target_line_count": 38,
+        "total_line_count": 68,
+        "speakers": [
+          [
+            "はるき",
+            38
+          ],
+          [
+            "プロデューサー",
+            27
+          ]
+        ],
+        "first_target_line_jp": "うーん……",
+        "first_target_line_cn": "唔嗯……",
+        "last_target_line_jp": "こうして、直接会って聞くお話も好きなんです",
+        "last_target_line_cn": "但，我也很喜欢现在这样直接交流哦"
+      },
+      {
+        "file": "283活动剧情/ロード・トゥ・ハッピーホリデー！/第2话-始まる偶然.csv",
+        "target_line_count": 37,
+        "total_line_count": 97,
+        "speakers": [
+          [
+            "羽那",
+            37
+          ],
+          [
+            "はるき",
+            37
+          ],
+          [
+            "プロデューサー",
+            9
+          ],
+          [
+            "スタッフ１",
+            8
+          ],
+          [
+            "ディレクター",
+            6
+          ],
+          [
+            "先導スタッフ",
+            4
+          ],
+          [
+            "客席の声",
+            1
+          ],
+          [
+            "プラカード",
+            1
+          ],
+          [
+            "ドアの向こうの声",
+            1
+          ]
+        ],
+        "first_target_line_jp": "羽那ちゃん、どうしたの～",
+        "first_target_line_cn": "羽那，怎么啦～",
+        "last_target_line_jp": "……？ どうしたのかな……",
+        "last_target_line_cn": "……？ 怎么了吗……"
+      },
+      {
+        "file": "斑鳩ルカ/斑鳩ルカ ファン感謝祭編 含共通/4.くすぶる午後（共通） (1).csv",
+        "target_line_count": 37,
+        "total_line_count": 93,
+        "speakers": [
+          [
+            "はるき",
+            37
+          ],
+          [
+            "プロデューサー",
+            20
+          ],
+          [
+            "ルカ",
+            13
+          ],
+          [
+            "音楽プロデューサー",
+            9
+          ],
+          [
+            "スタイリスト",
+            8
+          ],
+          [
+            "羽那",
+            6
+          ]
+        ],
+        "first_target_line_jp": "うーん…… ここを、プリーツにしたら可愛いかなぁ……",
+        "first_target_line_cn": "唔…… 把这里做成裙皱的话，会不会很可爱呢……",
+        "last_target_line_jp": "もう少し、考えてみますね……！",
+        "last_target_line_cn": "我再自己去消化一下……！"
+      },
+      {
+        "file": "郁田はるき/【song for you】郁田はるき/02.この歌は空へとけて【song for you】郁田はるき.csv",
+        "target_line_count": 37,
+        "total_line_count": 58,
+        "speakers": [
+          [
+            "はるき",
+            37
+          ],
+          [
+            "プロデューサー",
+            19
+          ],
+          [
+            "off",
+            2
+          ]
+        ],
+        "first_target_line_jp": "──ここは、子どもの時から何度も来てて 思い出の場所なんです",
+        "first_target_line_cn": "──这里是我小时候就常来的地方 对我来说充满了回忆",
+        "last_target_line_jp": "──また、ここに来られてよかった プロデューサーさんと",
+        "last_target_line_cn": "──和制作人您一起重访这里 真是太好了"
+      },
+      {
+        "file": "郁田はるき/【song for you】郁田はるき/TE.あなたは生きている【song for you】郁田はるき.csv",
+        "target_line_count": 37,
+        "total_line_count": 56,
+        "speakers": [
+          [
+            "はるき",
+            37
+          ],
+          [
+            "プロデューサー",
+            19
+          ]
+        ],
+        "first_target_line_jp": "ありがとうございます いつもと勝手が違うので緊張しました……！",
+        "first_target_line_cn": "非常感谢 和平时不太一样，有点紧张呢……！",
+        "last_target_line_jp": "じゃあ、いってきますね",
+        "last_target_line_cn": "那么，我出发啦"
+      },
+      {
+        "file": "郁田はるき/【猫と犬みたいな】郁田はるき/猫と犬みたいな雨01海、吹き去ったから.csv",
+        "target_line_count": 36,
+        "total_line_count": 60,
+        "speakers": [
+          [
+            "はるき",
+            36
+          ],
+          [
+            "羽那",
+            17
+          ],
+          [
+            "友人",
+            5
+          ],
+          [
+            "女性",
+            1
+          ],
+          [
+            "男性",
+            1
+          ]
+        ],
+        "first_target_line_jp": "──────",
+        "first_target_line_cn": "──────",
+        "last_target_line_jp": "……海って、いろんなもの見せてくれるんだね",
+        "last_target_line_cn": "……海啊，真是让我大开眼界呢"
+      },
+      {
+        "file": "郁田はるき/【創彗星】郁田はるき/【創彗星】郁田はるき02.ここからのわたしたち.csv",
+        "target_line_count": 36,
+        "total_line_count": 57,
+        "speakers": [
+          [
+            "はるき",
+            36
+          ],
+          [
+            "羽那",
+            12
+          ],
+          [
+            "ルカ",
+            6
+          ],
+          [
+            "雑誌スタッフ",
+            4
+          ]
+        ],
+        "first_target_line_jp": "羽那ちゃん！ ありがとう～",
+        "first_target_line_cn": "谢谢你，羽那～",
+        "last_target_line_jp": "わたしたち、コメティックを────",
+        "last_target_line_cn": "创造我们──创造『CoMETIK』────"
+      },
+      {
+        "file": "郁田はるき/郁田阳希 Landing Point篇,共通→斑鳩ルカ/郁田阳希 Landing Point篇06.csv",
+        "target_line_count": 36,
+        "total_line_count": 51,
+        "speakers": [
+          [
+            "はるき",
+            36
+          ],
+          [
+            "プロデューサー",
+            10
+          ],
+          [
+            "スタッフ",
+            4
+          ],
+          [
+            "off",
+            2
+          ]
+        ],
+        "first_target_line_jp": "レイアウトはこんな感じで…… 微調整はできますか？",
+        "first_target_line_cn": "排版可以像这样…… 再做些微调吗？",
+        "last_target_line_jp": "それが、まだ見たことのない誰かに届くといいな",
+        "last_target_line_cn": "希望未曾谋面的你，也能一览这幅景象"
+      },
+      {
+        "file": "郁田はるき/【遠き明滅】郁田はるき/【遠き明滅】郁田はるき01 (6).csv",
+        "target_line_count": 34,
+        "total_line_count": 68,
+        "speakers": [
+          [
+            "はるき",
+            34
+          ],
+          [
+            "羽那",
+            31
+          ],
+          [
+            "オーディション担当",
+            2
+          ],
+          [
+            "スタッフ",
+            2
+          ]
+        ],
+        "first_target_line_jp": "──────…………",
+        "first_target_line_cn": "──────…………",
+        "last_target_line_jp": "ふふっ──！",
+        "last_target_line_cn": "呵呵──！"
+      },
+      {
+        "file": "郁田はるき/W.I.N.G.編/102800105.csv",
+        "target_line_count": 34,
+        "total_line_count": 60,
+        "speakers": [
+          [
+            "はるき",
+            34
+          ],
+          [
+            "プロデューサー",
+            23
+          ]
+        ],
+        "first_target_line_jp": "────！ プロデューサーさん……！ わわっ……！",
+        "first_target_line_cn": "————！制作人……！ 哇哇啊……！",
+        "last_target_line_jp": "わたし……見られるでしょうか 世界が色づくような瞬間",
+        "last_target_line_cn": "我……能亲眼目睹吗 世界被染成五颜六色的瞬间"
+      },
+      {
+        "file": "郁田はるき/W.I.N.G.編/102800104.csv",
+        "target_line_count": 34,
+        "total_line_count": 59,
+        "speakers": [
+          [
+            "はるき",
+            34
+          ],
+          [
+            "プロデューサー",
+            23
+          ]
+        ],
+        "first_target_line_jp": "ふふ……。お客さんとの距離も近くて…… 応援されてるって実感がありました",
+        "first_target_line_cn": "客人的距离太近了…… 能切身感觉到有人在支持我呢",
+        "last_target_line_jp": "ふふ～",
+        "last_target_line_cn": "哼哼～"
+      },
+      {
+        "file": "郁田はるき/郁田はるき S.T.E.P.編/郁田はるき S.T.E.P.編04.csv",
+        "target_line_count": 34,
+        "total_line_count": 58,
+        "speakers": [
+          [
+            "はるき",
+            34
+          ],
+          [
+            "プロデューサー",
+            19
+          ],
+          [
+            "ギター",
+            2
+          ],
+          [
+            "キーボード",
+            2
+          ],
+          [
+            "名刺",
+            1
+          ],
+          [
+            "HPの説明",
+            1
+          ]
+        ],
+        "first_target_line_jp": "すみません、急に……！",
+        "first_target_line_cn": "非常抱歉，突然跳下去……！",
+        "last_target_line_jp": "…………そう思ったら、のぞいてみたくなったんです わたしも",
+        "last_target_line_cn": "…………意识到后 我也不禁想一直看下去了"
+      },
+      {
+        "file": "斑鳩ルカ/斑鳩ルカ ファン感謝祭編 含共通/5.わたしが見たいもの（共通）.csv",
+        "target_line_count": 34,
+        "total_line_count": 57,
+        "speakers": [
+          [
+            "はるき",
+            34
+          ],
+          [
+            "ルカ",
+            10
+          ],
+          [
+            "羽那",
+            9
+          ],
+          [
+            "プロデューサー",
+            2
+          ],
+          [
+            "メモ",
+            1
+          ],
+          [
+            "スタッフ",
+            1
+          ]
+        ],
+        "first_target_line_jp": "…………",
+        "first_target_line_cn": "…………",
+        "last_target_line_jp": "わたしが、見たいもの",
+        "last_target_line_cn": "我自己，想看见的景象"
+      },
+      {
+        "file": "郁田はるき/【流星パレット】郁田はるき/P3【conjunction】【流星パレット】郁田 はるき.csv",
+        "target_line_count": 34,
+        "total_line_count": 50,
+        "speakers": [
+          [
+            "はるき",
+            34
+          ],
+          [
+            "プロデューサー",
+            13
+          ],
+          [
+            "off",
+            3
+          ]
+        ],
+        "first_target_line_jp": "………………",
+        "first_target_line_cn": "………………",
+        "last_target_line_jp": "────────",
+        "last_target_line_cn": "────────"
+      },
+      {
+        "file": "郁田はるき/【Hopeland】郁田はるき/202800402.csv",
+        "target_line_count": 33,
+        "total_line_count": 66,
+        "speakers": [
+          [
+            "はるき",
+            33
+          ],
+          [
+            "プロデューサー",
+            28
+          ],
+          [
+            "スタッフ",
+            2
+          ]
+        ],
+        "first_target_line_jp": "んん……？",
+        "first_target_line_cn": "嗯嗯……？",
+        "last_target_line_jp": "ふふ～ はい……！",
+        "last_target_line_cn": "哼哼~ 好……！"
+      },
+      {
+        "file": "郁田はるき/郁田はるき S.T.E.P.編/郁田はるき S.T.E.P.編03.csv",
+        "target_line_count": 33,
+        "total_line_count": 53,
+        "speakers": [
+          [
+            "はるき",
+            33
+          ],
+          [
+            "ドラム",
+            5
+          ],
+          [
+            "男性",
+            5
+          ],
+          [
+            "キーボード",
+            3
+          ],
+          [
+            "ギター",
+            3
+          ],
+          [
+            "お客さん",
+            1
+          ],
+          [
+            "出展者１",
+            1
+          ],
+          [
+            "出展者２",
+            1
+          ],
+          [
+            "アナウンス",
+            1
+          ]
+        ],
+        "first_target_line_jp": "このあと、ステージに出ます！ 見にきてください……！",
+        "first_target_line_cn": "接下来我们也会上台演出！ 请多多捧场……！",
+        "last_target_line_jp": "────あなたが、それを 持っているかもしれないから",
+        "last_target_line_cn": "————我真正想要什么 或许只有您才会知道"
+      },
+      {
+        "file": "郁田はるき/郁田はるき S.T.E.P.編/郁田はるき S.T.E.P.編05.csv",
+        "target_line_count": 32,
+        "total_line_count": 63,
+        "speakers": [
+          [
+            "はるき",
+            32
+          ],
+          [
+            "プロデューサー",
+            19
+          ],
+          [
+            "トレーナー",
+            4
+          ],
+          [
+            "友人",
+            3
+          ],
+          [
+            "アートスクール講師",
+            2
+          ],
+          [
+            "イベント会場の客",
+            1
+          ]
+        ],
+        "first_target_line_jp": "そっかぁ…… 明日は部活必ず行くから……！",
+        "first_target_line_cn": "这样呀…… 明天我一定会来社团活动的……！",
+        "last_target_line_jp": "………………はい",
+        "last_target_line_cn": "……………好"
+      },
+      {
+        "file": "283活动剧情/THE（CoMETIK）EPISODE/第四话 改.csv",
+        "target_line_count": 31,
+        "total_line_count": 87,
+        "speakers": [
+          [
+            "プロデューサー",
+            31
+          ],
+          [
+            "はるき",
+            31
+          ],
+          [
+            "羽那",
+            13
+          ],
+          [
+            "ルカ",
+            11
+          ],
+          [
+            "スマホの通知",
+            1
+          ]
+        ],
+        "first_target_line_jp": "『ルカちゃん大丈夫？ ゆっくり休んでね』",
+        "first_target_line_cn": "『路加没事吧？ 要好好休息哦』",
+        "last_target_line_jp": "『※お大事に……！』",
+        "last_target_line_cn": "『※请多保重……！』"
+      },
+      {
+        "file": "郁田はるき/郁田阳希 Landing Point篇,共通→斑鳩ルカ/郁田阳希 Landing Point篇02.csv",
+        "target_line_count": 31,
+        "total_line_count": 60,
+        "speakers": [
+          [
+            "はるき",
+            31
+          ],
+          [
+            "プロデューサー",
+            19
+          ],
+          [
+            "友人",
+            6
+          ],
+          [
+            "off",
+            4
+          ]
+        ],
+        "first_target_line_jp": "…………………",
+        "first_target_line_cn": "…………………",
+        "last_target_line_jp": "………………",
+        "last_target_line_cn": "………………"
+      },
+      {
+        "file": "郁田はるき/郁田阳希 Landing Point篇,共通→斑鳩ルカ/郁田阳希 Landing Point篇03.csv",
+        "target_line_count": 31,
+        "total_line_count": 59,
+        "speakers": [
+          [
+            "はるき",
+            31
+          ],
+          [
+            "プロデューサー",
+            16
+          ],
+          [
+            "姉",
+            5
+          ],
+          [
+            "看護師",
+            3
+          ],
+          [
+            "音楽担当",
+            2
+          ],
+          [
+            "医者",
+            1
+          ],
+          [
+            "本の一節",
+            1
+          ]
+        ],
+        "first_target_line_jp": "もう少し……",
+        "first_target_line_cn": "再等一下……",
+        "last_target_line_jp": "もらってもいいのかな？",
+        "last_target_line_cn": "还能继续接受吗？"
+      },
+      {
+        "file": "郁田はるき/【283プロのヒナ】郁田はるき/1.たぶんこれから何度もある一日 (3).csv",
+        "target_line_count": 31,
+        "total_line_count": 56,
+        "speakers": [
+          [
+            "はるき",
+            31
+          ],
+          [
+            "羽那",
+            29
+          ]
+        ],
+        "first_target_line_jp": "羽那ちゃん、湿気とりあったよ～",
+        "first_target_line_cn": "羽那，我找到除湿剂了哦~",
+        "last_target_line_jp": "──ふふふっ",
+        "last_target_line_cn": "——呵呵呵"
+      }
+    ]
+  },
+  "top_relationships": [
+    {
+      "partner": "プロデューサー",
+      "score": 2088,
+      "scene_cooccurrence": 122,
+      "prev_to_target": 680,
+      "target_to_next": 666,
+      "mentions_target": 302,
+      "target_mentions_partner": 196,
+      "samples": [
+        {
+          "file": "283活动剧情/2025ホワイトデー スペシャルコミュ/25白情hrk055.csv",
+          "line_no": 3,
+          "context": [
+            {
+              "offset": -1,
+              "speaker": "はるき",
+              "jp": "わ、パッケージ可愛い……！\n本の形なんですね",
+              "cn": "哇，包装好可爱……！\n是书的形状呢",
+              "line_no": 2
+            },
+            {
+              "offset": 0,
+              "speaker": "はるき",
+              "jp": "──あれ？　本物の本も入ってます",
+              "cn": "——咦？里面真的装着书呢",
+              "line_no": 3
+            },
+            {
+              "offset": 1,
+              "speaker": "プロデューサー",
+              "jp": "はは……おすすめの本なんだ\nよかったらお菓子のおともに読んでくれ",
+              "cn": "哈哈……是些畅销书\n希望你能边吃点心边看",
+              "line_no": 4
+            },
+            {
+              "offset": 2,
+              "speaker": "はるき",
+              "jp": "え……うれしいです\nじっくり読みますね……！",
+              "cn": "诶……好开心\n我会认真读完的……！",
+              "line_no": 5
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/2025ホワイトデー スペシャルコミュ/25白情hrk056.csv",
+          "line_no": 3,
+          "context": [
+            {
+              "offset": -1,
+              "speaker": "はるき",
+              "jp": "わ、パッケージ可愛い……！\n本の形なんですね",
+              "cn": "哇，包装好可爱……！\n是书的形状呢",
+              "line_no": 2
+            },
+            {
+              "offset": 0,
+              "speaker": "はるき",
+              "jp": "──あれ？　本物の本も入ってます",
+              "cn": "——咦？里面真的装着书呢",
+              "line_no": 3
+            },
+            {
+              "offset": 1,
+              "speaker": "プロデューサー",
+              "jp": "はは……おすすめの本なんだ\nよかったらお菓子のおともに読んでくれ",
+              "cn": "哈哈……是些畅销书\n希望你能边吃点心边看",
+              "line_no": 4
+            },
+            {
+              "offset": 2,
+              "speaker": "はるき",
+              "jp": "え……うれしいです\nじっくり読みますね……！",
+              "cn": "诶……好开心\n我会认真读完的……！",
+              "line_no": 5
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/PiCNiC BASKET！/Exコミュ3いつかのピクニックの話.csv",
+          "line_no": 19,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "羽那",
+              "jp": "ねーっ",
+              "cn": "是啊——",
+              "line_no": 17
+            },
+            {
+              "offset": -1,
+              "speaker": "羽那",
+              "jp": "タコさんウインナー、可愛いなー",
+              "cn": "章鱼小香肠、真可爱啊—\n*形似开花肠",
+              "line_no": 18
+            },
+            {
+              "offset": 0,
+              "speaker": "はるき",
+              "jp": "タコさんウインナー……",
+              "cn": "章鱼小香肠……",
+              "line_no": 19
+            },
+            {
+              "offset": 1,
+              "speaker": "プロデューサー",
+              "jp": "たしか、タコ以外にも\nいろんな形のウインナーを作ってたんだよな",
+              "cn": "我记得之前\n除了章鱼，也做过各种其他形状的香肠",
+              "line_no": 20
+            },
+            {
+              "offset": 2,
+              "speaker": "プロデューサー",
+              "jp": "カメとか……\nあとは、ワニだったかな……？",
+              "cn": "乌龟啊……\n还有，鳄鱼之类的……？",
+              "line_no": 21
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "羽那",
+      "score": 1043,
+      "scene_cooccurrence": 68,
+      "prev_to_target": 360,
+      "target_to_next": 379,
+      "mentions_target": 95,
+      "target_mentions_partner": 73,
+      "samples": [
+        {
+          "file": "283活动剧情/PiCNiC BASKET！/Exコミュ3いつかのピクニックの話.csv",
+          "line_no": 16,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "ルカ",
+              "jp": "……────",
+              "cn": "……────",
+              "line_no": 14
+            },
+            {
+              "offset": -1,
+              "speaker": "はるき",
+              "jp": "わぁ……",
+              "cn": "哇……",
+              "line_no": 15
+            },
+            {
+              "offset": 0,
+              "speaker": "はるき",
+              "jp": "みなさん\nとっても可愛いですねぇ……！",
+              "cn": "大家\n都好可爱啊……！",
+              "line_no": 16
+            },
+            {
+              "offset": 1,
+              "speaker": "羽那",
+              "jp": "ねーっ",
+              "cn": "是啊——",
+              "line_no": 17
+            },
+            {
+              "offset": 2,
+              "speaker": "羽那",
+              "jp": "タコさんウインナー、可愛いなー",
+              "cn": "章鱼小香肠、真可爱啊—\n*形似开花肠",
+              "line_no": 18
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/THE（CoMETIK）EPISODE/序章 改 (1).csv",
+          "line_no": 7,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "ルカ",
+              "jp": "…………",
+              "cn": "",
+              "line_no": 5
+            },
+            {
+              "offset": -1,
+              "speaker": "はるき",
+              "jp": "あ、あの……！",
+              "cn": "那，那个……！",
+              "line_no": 6
+            },
+            {
+              "offset": 0,
+              "speaker": "はるき",
+              "jp": "リクエスト、してもいいかな……？",
+              "cn": "我可以提个请求吗……？",
+              "line_no": 7
+            },
+            {
+              "offset": 1,
+              "speaker": "ルカ＆羽那",
+              "jp": "……？",
+              "cn": "",
+              "line_no": 8
+            },
+            {
+              "offset": 2,
+              "speaker": "はるき",
+              "jp": "ルカちゃん、今のところ\nもう一回……！",
+              "cn": "路加，刚才的动作\n再示范一次……！",
+              "line_no": 9
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/THE（CoMETIK）EPISODE/第一话 改.csv",
+          "line_no": 7,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "ルカ",
+              "jp": "────",
+              "cn": "────",
+              "line_no": 5
+            },
+            {
+              "offset": -1,
+              "speaker": "羽那",
+              "jp": "えーっ\nそうなんだー",
+              "cn": "诶，是那样啊—",
+              "line_no": 6
+            },
+            {
+              "offset": 0,
+              "speaker": "はるき",
+              "jp": "ふふ～……！",
+              "cn": "呵呵～……！",
+              "line_no": 7
+            },
+            {
+              "offset": 1,
+              "speaker": "プロデューサー",
+              "jp": "羽那の番組だよ\n『鈴木の部屋』っていうんだ",
+              "cn": "是羽那的节目哦\n叫『铃木的房间』",
+              "line_no": 8
+            },
+            {
+              "offset": 2,
+              "speaker": "プロデューサー",
+              "jp": "隔週更新でさ、今日が初回なんだよ\nゲストははるき",
+              "cn": "每周都会更新，今天是首播\n嘉宾是阳希",
+              "line_no": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "ルカ",
+      "score": 420,
+      "scene_cooccurrence": 53,
+      "prev_to_target": 116,
+      "target_to_next": 122,
+      "mentions_target": 0,
+      "target_mentions_partner": 76,
+      "samples": [
+        {
+          "file": "283活动剧情/PiCNiC BASKET！/Exコミュ3いつかのピクニックの話.csv",
+          "line_no": 8,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "プロデューサー",
+              "jp": "写真もあるぞ\nたしかこの辺に──",
+              "cn": "还拍了照片呢\n好像是放在那边了──",
+              "line_no": 6
+            },
+            {
+              "offset": -1,
+              "speaker": "ルカ",
+              "jp": "…………",
+              "cn": "…………",
+              "line_no": 7
+            },
+            {
+              "offset": 0,
+              "speaker": "はるき",
+              "jp": "……あ、ルカちゃん──",
+              "cn": "……啊、路加——",
+              "line_no": 8
+            },
+            {
+              "offset": 1,
+              "speaker": "ルカ",
+              "jp": "──仕事の話\n終わったなら帰る",
+              "cn": "──工作的事讲完了的话\n我就回去了",
+              "line_no": 9
+            },
+            {
+              "offset": 2,
+              "speaker": "プロデューサー",
+              "jp": "……あ、おう！\n時間、取ってくれてありがとうな",
+              "cn": "……啊，对了！\n感谢你们抽出时间来",
+              "line_no": 10
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/THE（CoMETIK）EPISODE/序章 改 (1).csv",
+          "line_no": 6,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "トレーナー",
+              "jp": "前回指摘したところ、\nしっかり改善されてる",
+              "cn": "将上次指出的地方\n认真改善了过来",
+              "line_no": 4
+            },
+            {
+              "offset": -1,
+              "speaker": "ルカ",
+              "jp": "…………",
+              "cn": "",
+              "line_no": 5
+            },
+            {
+              "offset": 0,
+              "speaker": "はるき",
+              "jp": "あ、あの……！",
+              "cn": "那，那个……！",
+              "line_no": 6
+            },
+            {
+              "offset": 1,
+              "speaker": "はるき",
+              "jp": "リクエスト、してもいいかな……？",
+              "cn": "我可以提个请求吗……？",
+              "line_no": 7
+            },
+            {
+              "offset": 2,
+              "speaker": "ルカ＆羽那",
+              "jp": "……？",
+              "cn": "",
+              "line_no": 8
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/THE（CoMETIK）EPISODE/第一话 改.csv",
+          "line_no": 20,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "はるき",
+              "jp": "でも……『鈴木の部屋』\nこれで大丈夫なのかなぁ",
+              "cn": "不过……『铃木的房间』\n就这样真的没问题吗",
+              "line_no": 18
+            },
+            {
+              "offset": -1,
+              "speaker": "羽那",
+              "jp": "……？",
+              "cn": "……？",
+              "line_no": 19
+            },
+            {
+              "offset": 0,
+              "speaker": "はるき",
+              "jp": "なんだか、ただただ\nいつもの会話をしてるだけだなぁって……！",
+              "cn": "总感觉，\n跟我们平时聊的话没什么区别……！",
+              "line_no": 20
+            },
+            {
+              "offset": 1,
+              "speaker": "ルカ",
+              "jp": "……────",
+              "cn": "……────",
+              "line_no": 21
+            },
+            {
+              "offset": 2,
+              "speaker": "プロデューサー",
+              "jp": "そうだ\n羽那、ゲストに呼べる人を探してたぞ",
+              "cn": "对了\n羽那正在找能当嘉宾的人哦",
+              "line_no": 22
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "制作人",
+      "score": 206,
+      "scene_cooccurrence": 0,
+      "prev_to_target": 0,
+      "target_to_next": 0,
+      "mentions_target": 0,
+      "target_mentions_partner": 206,
+      "samples": [
+        {
+          "file": "283活动剧情/2025ホワイトデー スペシャルコミュ/25白情hrk056.csv",
+          "line_no": 8,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "はるき",
+              "jp": "詩集なんですね……\nイラストもたくさん────",
+              "cn": "是诗集呢……\n画册也有好多——",
+              "line_no": 6
+            },
+            {
+              "offset": -1,
+              "speaker": "プロデューサー",
+              "jp": "アイディアに詰まった時とか\nパラパラめくってみるといいかなって",
+              "cn": "希望你在灵感枯竭的时候翻一翻，能够有所收获就好了",
+              "line_no": 7
+            },
+            {
+              "offset": 0,
+              "speaker": "はるき",
+              "jp": "そういうの、すっごく助かります……！\nふふ～、本当にプロデューサーさんは……",
+              "cn": "真是，帮大忙了……！\n哼哼～制作人真是太懂了……",
+              "line_no": 8
+            },
+            {
+              "offset": 1,
+              "speaker": "はるき",
+              "jp": "感想とか、またお話ししてもいいですか？",
+              "cn": "之后能和你聊聊感想吗？",
+              "line_no": 9
+            },
+            {
+              "offset": 2,
+              "speaker": "プロデューサー",
+              "jp": "ああ、もちろん",
+              "cn": "嗯，当然可以",
+              "line_no": 10
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/THE（CoMETIK）EPISODE/第二话 改.csv",
+          "line_no": 48,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "プロデューサー",
+              "jp": "はは、だけど\nその向上心があれば問題はなさそうだな",
+              "cn": "哈哈，不过\n只要有这份上进心就不成问题",
+              "line_no": 46
+            },
+            {
+              "offset": -1,
+              "speaker": "プロデューサー",
+              "jp": "はるきはこれから、もっとトークが上手くなると思うぞ",
+              "cn": "我觉得，阳希接下来还会变得更加会聊",
+              "line_no": 47
+            },
+            {
+              "offset": 0,
+              "speaker": "はるき",
+              "jp": "えへへ……\nプロデューサーさん、優しいですねぇ",
+              "cn": "诶嘿嘿……\n制作人好温柔啊",
+              "line_no": 48
+            },
+            {
+              "offset": 1,
+              "speaker": "はるき",
+              "jp": "──でもわたし、\n褒めてばかりだと伸びないかもしれませんよ？",
+              "cn": "——但是，光是夸我我也不会有进步哦？",
+              "line_no": 49
+            },
+            {
+              "offset": 2,
+              "speaker": "プロデューサー",
+              "jp": "そ、そうか……！？",
+              "cn": "是，是那样吗……！？",
+              "line_no": 50
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/THE（CoMETIK）EPISODE/第四话 改.csv",
+          "line_no": 26,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "プロデューサー",
+              "jp": "（電話──\nはるきから？）",
+              "cn": "（电话──\n是阳希打来的？）",
+              "line_no": 24
+            },
+            {
+              "offset": -1,
+              "speaker": "プロデューサー",
+              "jp": "──はい",
+              "cn": "──喂",
+              "line_no": 25
+            },
+            {
+              "offset": 0,
+              "speaker": "はるき",
+              "jp": "『あっ……！　プロデューサーさん、急にすみません……！\n今、お時間大丈夫でしょうか？』",
+              "cn": "『啊……！　制作人，突然打扰不好意思……！\n现在方便吗？』",
+              "line_no": 26
+            },
+            {
+              "offset": 1,
+              "speaker": "プロデューサー",
+              "jp": "ああ、大丈夫だよ\n何かあったか？",
+              "cn": "嗯，方便的\n发生什么事了吗？",
+              "line_no": 27
+            },
+            {
+              "offset": 2,
+              "speaker": "はるき",
+              "jp": "『いえ、何かというより──\n……ルカちゃんのことで』",
+              "cn": "『不，比起是发生什么事──\n……是关于路加的』",
+              "line_no": 28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "プロデューサーさん",
+      "score": 194,
+      "scene_cooccurrence": 0,
+      "prev_to_target": 0,
+      "target_to_next": 0,
+      "mentions_target": 0,
+      "target_mentions_partner": 194,
+      "samples": [
+        {
+          "file": "283活动剧情/2025ホワイトデー スペシャルコミュ/25白情hrk056.csv",
+          "line_no": 8,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "はるき",
+              "jp": "詩集なんですね……\nイラストもたくさん────",
+              "cn": "是诗集呢……\n画册也有好多——",
+              "line_no": 6
+            },
+            {
+              "offset": -1,
+              "speaker": "プロデューサー",
+              "jp": "アイディアに詰まった時とか\nパラパラめくってみるといいかなって",
+              "cn": "希望你在灵感枯竭的时候翻一翻，能够有所收获就好了",
+              "line_no": 7
+            },
+            {
+              "offset": 0,
+              "speaker": "はるき",
+              "jp": "そういうの、すっごく助かります……！\nふふ～、本当にプロデューサーさんは……",
+              "cn": "真是，帮大忙了……！\n哼哼～制作人真是太懂了……",
+              "line_no": 8
+            },
+            {
+              "offset": 1,
+              "speaker": "はるき",
+              "jp": "感想とか、またお話ししてもいいですか？",
+              "cn": "之后能和你聊聊感想吗？",
+              "line_no": 9
+            },
+            {
+              "offset": 2,
+              "speaker": "プロデューサー",
+              "jp": "ああ、もちろん",
+              "cn": "嗯，当然可以",
+              "line_no": 10
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/THE（CoMETIK）EPISODE/第二话 改.csv",
+          "line_no": 48,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "プロデューサー",
+              "jp": "はは、だけど\nその向上心があれば問題はなさそうだな",
+              "cn": "哈哈，不过\n只要有这份上进心就不成问题",
+              "line_no": 46
+            },
+            {
+              "offset": -1,
+              "speaker": "プロデューサー",
+              "jp": "はるきはこれから、もっとトークが上手くなると思うぞ",
+              "cn": "我觉得，阳希接下来还会变得更加会聊",
+              "line_no": 47
+            },
+            {
+              "offset": 0,
+              "speaker": "はるき",
+              "jp": "えへへ……\nプロデューサーさん、優しいですねぇ",
+              "cn": "诶嘿嘿……\n制作人好温柔啊",
+              "line_no": 48
+            },
+            {
+              "offset": 1,
+              "speaker": "はるき",
+              "jp": "──でもわたし、\n褒めてばかりだと伸びないかもしれませんよ？",
+              "cn": "——但是，光是夸我我也不会有进步哦？",
+              "line_no": 49
+            },
+            {
+              "offset": 2,
+              "speaker": "プロデューサー",
+              "jp": "そ、そうか……！？",
+              "cn": "是，是那样吗……！？",
+              "line_no": 50
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/THE（CoMETIK）EPISODE/第四话 改.csv",
+          "line_no": 26,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "プロデューサー",
+              "jp": "（電話──\nはるきから？）",
+              "cn": "（电话──\n是阳希打来的？）",
+              "line_no": 24
+            },
+            {
+              "offset": -1,
+              "speaker": "プロデューサー",
+              "jp": "──はい",
+              "cn": "──喂",
+              "line_no": 25
+            },
+            {
+              "offset": 0,
+              "speaker": "はるき",
+              "jp": "『あっ……！　プロデューサーさん、急にすみません……！\n今、お時間大丈夫でしょうか？』",
+              "cn": "『啊……！　制作人，突然打扰不好意思……！\n现在方便吗？』",
+              "line_no": 26
+            },
+            {
+              "offset": 1,
+              "speaker": "プロデューサー",
+              "jp": "ああ、大丈夫だよ\n何かあったか？",
+              "cn": "嗯，方便的\n发生什么事了吗？",
+              "line_no": 27
+            },
+            {
+              "offset": 2,
+              "speaker": "はるき",
+              "jp": "『いえ、何かというより──\n……ルカちゃんのことで』",
+              "cn": "『不，比起是发生什么事──\n……是关于路加的』",
+              "line_no": 28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "スタッフ",
+      "score": 108,
+      "scene_cooccurrence": 20,
+      "prev_to_target": 34,
+      "target_to_next": 29,
+      "mentions_target": 2,
+      "target_mentions_partner": 3,
+      "samples": [
+        {
+          "file": "283活动剧情/THE（CoMETIK）EPISODE/第一话 改.csv",
+          "line_no": 28,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "羽那",
+              "jp": "うんっ",
+              "cn": "嗯",
+              "line_no": 26
+            },
+            {
+              "offset": -1,
+              "speaker": "はるき",
+              "jp": "『わたしたちのいつもの感じが、テロップとか\n編集であんなに面白くなるなんて……』",
+              "cn": "『我们平时的互动，在经过字幕处理和剪辑编排之后\n竟然能变得这么有趣……』",
+              "line_no": 27
+            },
+            {
+              "offset": 0,
+              "speaker": "はるき",
+              "jp": "『スタッフさんたちってすごいねぇ』",
+              "cn": "『工作人员们真的好厉害呢』",
+              "line_no": 28
+            },
+            {
+              "offset": 1,
+              "speaker": "羽那",
+              "jp": "あはっ、はるきちゃん勉強熱心──！",
+              "cn": "哈哈，阳希真是好学——！",
+              "line_no": 29
+            },
+            {
+              "offset": 2,
+              "speaker": "はるき",
+              "jp": "『ええ……！\nそんなことないけどなぁ』",
+              "cn": "『诶……！\n没有那种事啦』",
+              "line_no": 30
+            }
+          ]
+        },
+        {
+          "file": "斑鳩ルカ/【JUNK STAR】斑鳩ルカ/JUNK STAR.3.8.19.csv",
+          "line_no": 12,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "スタッフ",
+              "jp": "コメティックのみなさん、\nお疲れ様でした～",
+              "cn": "CoMETIK的各位，\n辛苦啦～",
+              "line_no": 10
+            },
+            {
+              "offset": -1,
+              "speaker": "スタッフ",
+              "jp": "本日もとてもよかったです\nまたお願いしますね～",
+              "cn": "今天也表现得非常出色\n下次也请多多关照～",
+              "line_no": 11
+            },
+            {
+              "offset": 0,
+              "speaker": "羽那＆はるき",
+              "jp": "はいっ",
+              "cn": "好的",
+              "line_no": 12
+            },
+            {
+              "offset": 1,
+              "speaker": "スタッフ",
+              "jp": "あ──\n郁田さんが持ってるその雑誌、僕も買いましたよ",
+              "cn": "啊──\n郁田小姐拿的那本杂志，我也买了",
+              "line_no": 13
+            },
+            {
+              "offset": 2,
+              "speaker": "はるき",
+              "jp": "わぁっ……\n本当ですか……！",
+              "cn": "哇……\n真的吗……！",
+              "line_no": 14
+            }
+          ]
+        },
+        {
+          "file": "斑鳩ルカ/斑鳩ルカ ファン感謝祭編 含共通/2.何をやっても（共通） (1).csv",
+          "line_no": 17,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "はるき",
+              "jp": "感謝かぁ……",
+              "cn": "表达感谢吗……",
+              "line_no": 15
+            },
+            {
+              "offset": -1,
+              "speaker": "はるき",
+              "jp": "伝えたい人なら、いっぱいいます",
+              "cn": "想传达到的人，有很多呢",
+              "line_no": 16
+            },
+            {
+              "offset": 0,
+              "speaker": "はるき",
+              "jp": "ファンのみなさんはもちろん\n一緒にステージを作ってくださったスタッフさん",
+              "cn": "各位粉丝自不用说\n当然还有一起打造舞台的各位工作人员",
+              "line_no": 17
+            },
+            {
+              "offset": 1,
+              "speaker": "はるき",
+              "jp": "それに……\nプロデューサーさんと",
+              "cn": "还有……\n制作人和",
+              "line_no": 18
+            },
+            {
+              "offset": 2,
+              "speaker": "はるき",
+              "jp": "ルカちゃんと、羽那ちゃんと",
+              "cn": "路加，羽那",
+              "line_no": 19
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "かな",
+      "score": 105,
+      "scene_cooccurrence": 0,
+      "prev_to_target": 0,
+      "target_to_next": 0,
+      "mentions_target": 0,
+      "target_mentions_partner": 105,
+      "samples": [
+        {
+          "file": "283活动剧情/2025ホワイトデー スペシャルコミュ/25白情hrk056.csv",
+          "line_no": 11,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "はるき",
+              "jp": "感想とか、またお話ししてもいいですか？",
+              "cn": "之后能和你聊聊感想吗？",
+              "line_no": 9
+            },
+            {
+              "offset": -1,
+              "speaker": "プロデューサー",
+              "jp": "ああ、もちろん",
+              "cn": "嗯，当然可以",
+              "line_no": 10
+            },
+            {
+              "offset": 0,
+              "speaker": "はるき",
+              "jp": "────こんなにもらって、いいのかなぁ…………",
+              "cn": "————我真的能收下这么多吗……",
+              "line_no": 11
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/THE（CoMETIK）EPISODE/序章 改 (1).csv",
+          "line_no": 7,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "ルカ",
+              "jp": "…………",
+              "cn": "",
+              "line_no": 5
+            },
+            {
+              "offset": -1,
+              "speaker": "はるき",
+              "jp": "あ、あの……！",
+              "cn": "那，那个……！",
+              "line_no": 6
+            },
+            {
+              "offset": 0,
+              "speaker": "はるき",
+              "jp": "リクエスト、してもいいかな……？",
+              "cn": "我可以提个请求吗……？",
+              "line_no": 7
+            },
+            {
+              "offset": 1,
+              "speaker": "ルカ＆羽那",
+              "jp": "……？",
+              "cn": "",
+              "line_no": 8
+            },
+            {
+              "offset": 2,
+              "speaker": "はるき",
+              "jp": "ルカちゃん、今のところ\nもう一回……！",
+              "cn": "路加，刚才的动作\n再示范一次……！",
+              "line_no": 9
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/THE（CoMETIK）EPISODE/第一话 改.csv",
+          "line_no": 18,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "羽那",
+              "jp": "はぁ、面白いーっ",
+              "cn": "哈，真有趣——",
+              "line_no": 16
+            },
+            {
+              "offset": -1,
+              "speaker": "はるき",
+              "jp": "ね～……！",
+              "cn": "对啊～……！",
+              "line_no": 17
+            },
+            {
+              "offset": 0,
+              "speaker": "はるき",
+              "jp": "でも……『鈴木の部屋』\nこれで大丈夫なのかなぁ",
+              "cn": "不过……『铃木的房间』\n就这样真的没问题吗",
+              "line_no": 18
+            },
+            {
+              "offset": 1,
+              "speaker": "羽那",
+              "jp": "……？",
+              "cn": "……？",
+              "line_no": 19
+            },
+            {
+              "offset": 2,
+              "speaker": "はるき",
+              "jp": "なんだか、ただただ\nいつもの会話をしてるだけだなぁって……！",
+              "cn": "总感觉，\n跟我们平时聊的话没什么区别……！",
+              "line_no": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "夏葉",
+      "score": 64,
+      "scene_cooccurrence": 8,
+      "prev_to_target": 20,
+      "target_to_next": 21,
+      "mentions_target": 3,
+      "target_mentions_partner": 4,
+      "samples": [
+        {
+          "file": "283活动剧情/ロード・トゥ・ハッピーホリデー！/第4话-ミッション開始！.csv",
+          "line_no": 81,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "結華＆夏葉",
+              "jp": "……！",
+              "cn": "",
+              "line_no": 79
+            },
+            {
+              "offset": -1,
+              "speaker": "羽那",
+              "jp": "……それでは──！",
+              "cn": "……那么接着——！",
+              "line_no": 80
+            },
+            {
+              "offset": 0,
+              "speaker": "はるき",
+              "jp": "開幕宣言、ですね～",
+              "cn": "是开幕宣言，对吧～",
+              "line_no": 81
+            },
+            {
+              "offset": 1,
+              "speaker": "夏葉",
+              "jp": "──もう一部印刷できますか",
+              "cn": "——能再印刷一份吗",
+              "line_no": 82
+            },
+            {
+              "offset": 2,
+              "speaker": "スタッフ２",
+              "jp": "は、はい！\nこっちです──！",
+              "cn": "好、好的！\n来这边——！",
+              "line_no": 83
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/ロード・トゥ・ハッピーホリデー！/第5话-アンダーカバー・アンサンブル！.csv",
+          "line_no": 80,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "小糸",
+              "jp": "…………",
+              "cn": "",
+              "line_no": 78
+            },
+            {
+              "offset": -1,
+              "speaker": "夏葉",
+              "jp": "それじゃあ私たちは──",
+              "cn": "那我们就——",
+              "line_no": 79
+            },
+            {
+              "offset": 0,
+              "speaker": "はるき",
+              "jp": "羽那ちゃん\nお疲れ様……！",
+              "cn": "羽那\n辛苦了……！",
+              "line_no": 80
+            },
+            {
+              "offset": 1,
+              "speaker": "結華",
+              "jp": "！\n隠れて──！",
+              "cn": "！\n快藏起来——！",
+              "line_no": 81
+            },
+            {
+              "offset": 2,
+              "speaker": "はるき",
+              "jp": "やり切ったねぇ……！",
+              "cn": "总算是挺过来了……！",
+              "line_no": 82
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/ロード・トゥ・ハッピーホリデー！/终章-最終ミッションは？.csv",
+          "line_no": 65,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "はるき",
+              "jp": "羽那ちゃん、それって──",
+              "cn": "羽那，那个是——",
+              "line_no": 63
+            },
+            {
+              "offset": -1,
+              "speaker": "羽那＆はるき",
+              "jp": "…………！",
+              "cn": "",
+              "line_no": 64
+            },
+            {
+              "offset": 0,
+              "speaker": "羽那＆はるき",
+              "jp": "ついたーっ──！",
+              "cn": "点亮了————！",
+              "line_no": 65
+            },
+            {
+              "offset": 1,
+              "speaker": "夏葉",
+              "jp": "……！\nよかった……！",
+              "cn": "……！\n太好了……！",
+              "line_no": 66
+            },
+            {
+              "offset": 2,
+              "speaker": "結華",
+              "jp": "うん……綺麗……！",
+              "cn": "嗯……好漂亮……！",
+              "line_no": 67
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "トレーナー",
+      "score": 64,
+      "scene_cooccurrence": 9,
+      "prev_to_target": 23,
+      "target_to_next": 19,
+      "mentions_target": 2,
+      "target_mentions_partner": 2,
+      "samples": [
+        {
+          "file": "283活动剧情/THE（CoMETIK）EPISODE/序章 改 (1).csv",
+          "line_no": 16,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "トレーナー",
+              "jp": "…………\nダメじゃないよねぇ？",
+              "cn": "……\n不是不行吧？",
+              "line_no": 14
+            },
+            {
+              "offset": -1,
+              "speaker": "ルカ",
+              "jp": "──\n──別に……",
+              "cn": "——\n——无所谓……",
+              "line_no": 15
+            },
+            {
+              "offset": 0,
+              "speaker": "羽那＆はるき",
+              "jp": "──！",
+              "cn": "",
+              "line_no": 16
+            },
+            {
+              "offset": 1,
+              "speaker": "トレーナー",
+              "jp": "……ふふふっ",
+              "cn": "……呵呵",
+              "line_no": 17
+            },
+            {
+              "offset": 2,
+              "speaker": "トレーナー",
+              "jp": "なんか……いいじゃない、コメティック\nユニットらしくなってる",
+              "cn": "总觉得……不错嘛，CoMETIK\n变得像个组合了",
+              "line_no": 18
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/黑色彗星/400106902.csv",
+          "line_no": 90,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "プロデューサー",
+              "jp": "（……ふたりは\nいい組み合わせだな……）",
+              "cn": "（……她们两个\n是很好的组合呢……）",
+              "line_no": 88
+            },
+            {
+              "offset": -1,
+              "speaker": "トレーナー",
+              "jp": "はい、ふたりともおしゃべりはそこまで！\nレッスン再開するわよー",
+              "cn": "好了，别聊了！\n要继续上课咯——",
+              "line_no": 89
+            },
+            {
+              "offset": 0,
+              "speaker": "羽那＆はるき",
+              "jp": "はーい……！",
+              "cn": "好的……！",
+              "line_no": 90
+            },
+            {
+              "offset": 1,
+              "speaker": "プロデューサー",
+              "jp": "（羽那が持っている\n人の目を惹く華やかさと）",
+              "cn": "（羽那拥有的\n引人注目的华丽）",
+              "line_no": 91
+            },
+            {
+              "offset": 2,
+              "speaker": "プロデューサー",
+              "jp": "（はるきが持っている\n秘めた情熱と表現力）",
+              "cn": "（阳希拥有的\n蕴藏的热情和表现力）",
+              "line_no": 92
+            }
+          ]
+        },
+        {
+          "file": "斑鳩ルカ/【she sees】斑鳩ルカ/【she sees】斑鳩ルカ01.csv",
+          "line_no": 5,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "off",
+              "jp": "────……",
+              "cn": "",
+              "line_no": 3
+            },
+            {
+              "offset": -1,
+              "speaker": "トレーナー",
+              "jp": "はーい今日はここまで！\n斑鳩さんも郁田さんもお疲れ様！",
+              "cn": "今天就练到这儿——！\n斑鸠、郁田，你俩辛苦啦！",
+              "line_no": 4
+            },
+            {
+              "offset": 0,
+              "speaker": "ルカ＆はるき",
+              "jp": "お疲れ様でした、ありがとうございました……！",
+              "cn": "您辛苦了，非常感谢……！",
+              "line_no": 5
+            },
+            {
+              "offset": 1,
+              "speaker": "はるき",
+              "jp": "ルカちゃん、駅まで一緒に行こう……！",
+              "cn": "路加，一起去车站吧……！",
+              "line_no": 6
+            },
+            {
+              "offset": 2,
+              "speaker": "ルカ",
+              "jp": "──",
+              "cn": "",
+              "line_no": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "友人",
+      "score": 63,
+      "scene_cooccurrence": 8,
+      "prev_to_target": 23,
+      "target_to_next": 22,
+      "mentions_target": 2,
+      "target_mentions_partner": 0,
+      "samples": [
+        {
+          "file": "斑鳩ルカ/斑鳩ルカ ファン感謝祭編 含共通/2.何をやっても（共通） (1).csv",
+          "line_no": 4,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "教師",
+              "jp": "──それじゃあ模試も近いから\nしっかり勉強しておくように",
+              "cn": "──模拟考试也快到了\n各位要好好学习",
+              "line_no": 2
+            },
+            {
+              "offset": -1,
+              "speaker": "教師",
+              "jp": "みんなの将来にも関わってくるものだと思って\n真面目にやれよ～",
+              "cn": "事关各位的将来\n可要认真的对待哦~",
+              "line_no": 3
+            },
+            {
+              "offset": 0,
+              "speaker": "はるき",
+              "jp": "……",
+              "cn": "",
+              "line_no": 4
+            },
+            {
+              "offset": 1,
+              "speaker": "友人",
+              "jp": "ねえ、この後みんなで勉強しようって話に\nなってるんだけど、はるきも行かない？",
+              "cn": "对了，大家说待会儿要去一起学习\n阳希去不去？",
+              "line_no": 5
+            },
+            {
+              "offset": 2,
+              "speaker": "はるき",
+              "jp": "あ、ごめん\nわたし、この後用事があって……",
+              "cn": "啊，抱歉\n我之后有点事情要办……",
+              "line_no": 6
+            }
+          ]
+        },
+        {
+          "file": "郁田はるき/【創彗星】郁田はるき/【創彗星】郁田はるき01.まっしろなわたしたち.csv",
+          "line_no": 37,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "はるき",
+              "jp": "……そもそも",
+              "cn": "……说起来",
+              "line_no": 35
+            },
+            {
+              "offset": -1,
+              "speaker": "はるき",
+              "jp": "コメティックって、なんだろう？",
+              "cn": "『我们』……到底是指什么呢？",
+              "line_no": 36
+            },
+            {
+              "offset": 0,
+              "speaker": "はるき",
+              "jp": "…………",
+              "cn": "",
+              "line_no": 37
+            },
+            {
+              "offset": 1,
+              "speaker": "友人",
+              "jp": "──いくはるー、\nいくはるー",
+              "cn": "──小羊\n我说小羊啦──",
+              "line_no": 38
+            },
+            {
+              "offset": 2,
+              "speaker": "友人",
+              "jp": "……考え事モード？",
+              "cn": "……怎么，进入沉思者模式了？",
+              "line_no": 39
+            }
+          ]
+        },
+        {
+          "file": "郁田はるき/【猫と犬みたいな】郁田はるき/猫と犬みたいな雨01海、吹き去ったから.csv",
+          "line_no": 2,
+          "context": [
+            {
+              "offset": 0,
+              "speaker": "はるき",
+              "jp": "──────",
+              "cn": "──────",
+              "line_no": 2
+            },
+            {
+              "offset": 1,
+              "speaker": "友人",
+              "jp": "…………いくはる？",
+              "cn": "…………阳希？",
+              "line_no": 3
+            },
+            {
+              "offset": 2,
+              "speaker": "はるき",
+              "jp": "違う～～～～",
+              "cn": "不对～～～～",
+              "line_no": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "自分",
+      "score": 46,
+      "scene_cooccurrence": 0,
+      "prev_to_target": 0,
+      "target_to_next": 0,
+      "mentions_target": 0,
+      "target_mentions_partner": 46,
+      "samples": [
+        {
+          "file": "283活动剧情/黑色彗星/400106901.csv",
+          "line_no": 33,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "インタビュアー",
+              "jp": "では、ちょっといじわるな質問かもしれませんが\nこの先難しい……苦しい状況に陥ったら……？",
+              "cn": "接下来，或许是个比较刁难的问题\n要是今后陷入了困难……感受到痛苦的情况下你会怎么办……？",
+              "line_no": 31
+            },
+            {
+              "offset": -1,
+              "speaker": "はるき",
+              "jp": "────そういうことも\nあるかもしれないですけど……",
+              "cn": "————虽说\n可能会有这样的情况发生……",
+              "line_no": 32
+            },
+            {
+              "offset": 0,
+              "speaker": "はるき",
+              "jp": "それが最後に『楽しい』になるか\n『苦しい』になるかどうかは自分次第だと思うので──",
+              "cn": "但我认为最终会是“开心”\n或者“痛苦”都取决于我自己——",
+              "line_no": 33
+            },
+            {
+              "offset": 1,
+              "speaker": "はるき",
+              "jp": "そういう状況もちゃんと\n経験していきたいなって思います……！",
+              "cn": "我也想\n好好地体验这种情况……！",
+              "line_no": 34
+            },
+            {
+              "offset": 2,
+              "speaker": "インタビュアー",
+              "jp": "地元の家族や友達と離れて、\nアイドルとして活動している鈴木さんですが──",
+              "cn": "请问离开老家的亲人朋友，\n作为偶像进行活动的铃木小姐——",
+              "line_no": 35
+            }
+          ]
+        },
+        {
+          "file": "283活动剧情/黑色彗星/400106902.csv",
+          "line_no": 56,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "プロデューサー",
+              "jp": "……！",
+              "cn": "……！",
+              "line_no": 54
+            },
+            {
+              "offset": -1,
+              "speaker": "はるき",
+              "jp": "これは、単なる独り言、です……！",
+              "cn": "这些，只是我的自言自语罢了……！",
+              "line_no": 55
+            },
+            {
+              "offset": 0,
+              "speaker": "はるき",
+              "jp": "──今は、自分に問い続けたいんです",
+              "cn": "——我暂时，还想继续自己寻找答案",
+              "line_no": 56
+            },
+            {
+              "offset": 1,
+              "speaker": "プロデューサー",
+              "jp": "はは……わかったよ",
+              "cn": "哈哈……我知道了",
+              "line_no": 57
+            },
+            {
+              "offset": 2,
+              "speaker": "プロデューサー",
+              "jp": "でも、ルカがいい刺激になってるんだな……",
+              "cn": "不过，路加是个良性刺激呢……",
+              "line_no": 58
+            }
+          ]
+        },
+        {
+          "file": "斑鳩ルカ/【※CAUTION※】斑鳩 ルカ/1彗星が巡るほどの確率.csv",
+          "line_no": 38,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "はるき",
+              "jp": "もしかして……！\n『プロデューサー』さん、ですか……！？",
+              "cn": "难道你就是……！\n『制作人』吗……！？",
+              "line_no": 36
+            },
+            {
+              "offset": -1,
+              "speaker": "プロデューサー",
+              "jp": "……！　そうだよ……！\nえっと、こっちで俺の話が──？",
+              "cn": "……！正是……！\n那个，你是在哪听说我的——？",
+              "line_no": 37
+            },
+            {
+              "offset": 0,
+              "speaker": "はるき",
+              "jp": "はい、噂で聞いたことがあります\n自分のことをプロデューサーって名乗るニンゲンの話",
+              "cn": "嗯，我之前有所耳闻\n有个自称制作人的人类",
+              "line_no": 38
+            },
+            {
+              "offset": 1,
+              "speaker": "はるき",
+              "jp": "別の世界の──わたしたちにそっくりな女の子を知っていて\nその話を聞かせてくれるって",
+              "cn": "据说，他认识异世界的——\n跟我们长相一模一样的人",
+              "line_no": 39
+            },
+            {
+              "offset": 2,
+              "speaker": "はるき",
+              "jp": "『アイドル』っていう夢みたいなお仕事の物語を──",
+              "cn": "她们从事着『偶像』这个梦幻般的工作——",
+              "line_no": 40
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partner": "アイ",
+      "score": 40,
+      "scene_cooccurrence": 0,
+      "prev_to_target": 0,
+      "target_to_next": 0,
+      "mentions_target": 0,
+      "target_mentions_partner": 40,
+      "samples": [
+        {
+          "file": "283活动剧情/PiCNiC BASKET！/Exコミュ3いつかのピクニックの話.csv",
+          "line_no": 23,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "プロデューサー",
+              "jp": "カメとか……\nあとは、ワニだったかな……？",
+              "cn": "乌龟啊……\n还有，鳄鱼之类的……？",
+              "line_no": 21
+            },
+            {
+              "offset": -1,
+              "speaker": "羽那",
+              "jp": "へえーっ",
+              "cn": "欸—",
+              "line_no": 22
+            },
+            {
+              "offset": 0,
+              "speaker": "はるき",
+              "jp": "アイドルってだけでもすごいのに\nみなさん多才なんですねぇ……！",
+              "cn": "明明光是身为偶像就已经很厉害了\n大家都好多才多艺呢……！",
+              "line_no": 23
+            },
+            {
+              "offset": 1,
+              "speaker": "はるき",
+              "jp": "わたしも作ってみたいなぁ",
+              "cn": "我也想做做看！",
+              "line_no": 24
+            },
+            {
+              "offset": 2,
+              "speaker": "羽那",
+              "jp": "はるきちゃん、上手そう──！\n作ったら見せてね？",
+              "cn": "阳希貌似挺擅长的呢──！\n做完可以让我看看吗？",
+              "line_no": 25
+            }
+          ]
+        },
+        {
+          "file": "斑鳩ルカ/【※CAUTION※】斑鳩 ルカ/1彗星が巡るほどの確率.csv",
+          "line_no": 40,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "はるき",
+              "jp": "はい、噂で聞いたことがあります\n自分のことをプロデューサーって名乗るニンゲンの話",
+              "cn": "嗯，我之前有所耳闻\n有个自称制作人的人类",
+              "line_no": 38
+            },
+            {
+              "offset": -1,
+              "speaker": "はるき",
+              "jp": "別の世界の──わたしたちにそっくりな女の子を知っていて\nその話を聞かせてくれるって",
+              "cn": "据说，他认识异世界的——\n跟我们长相一模一样的人",
+              "line_no": 39
+            },
+            {
+              "offset": 0,
+              "speaker": "はるき",
+              "jp": "『アイドル』っていう夢みたいなお仕事の物語を──",
+              "cn": "她们从事着『偶像』这个梦幻般的工作——",
+              "line_no": 40
+            },
+            {
+              "offset": 1,
+              "speaker": "羽那",
+              "jp": "そうなんだーっ",
+              "cn": "这样啊——",
+              "line_no": 41
+            },
+            {
+              "offset": 2,
+              "speaker": "羽那",
+              "jp": "じゃあプロデューサーは、\nそのあたしたちに似てる子のことも話せるの？",
+              "cn": "那制作人，你能不能也给我们讲讲，\n那些很像我们的人的故事呢？",
+              "line_no": 42
+            }
+          ]
+        },
+        {
+          "file": "斑鳩ルカ/斑鳩ルカ ファン感謝祭編 含共通/3.壊れかけの（共通）.csv",
+          "line_no": 8,
+          "context": [
+            {
+              "offset": -2,
+              "speaker": "羽那",
+              "jp": "……それに、ステージの演出と\n衣装の案まで考えてくれたんだーっ",
+              "cn": "……而且，\n连舞台上要演出的衣服的方案都考虑到了",
+              "line_no": 6
+            },
+            {
+              "offset": -1,
+              "speaker": "はるき",
+              "jp": "うん……！",
+              "cn": "嗯……！",
+              "line_no": 7
+            },
+            {
+              "offset": 0,
+              "speaker": "はるき",
+              "jp": "えへへ……\nどんどんアイディアが湧いてきちゃって……！",
+              "cn": "哎嘿嘿……\n灵感源源不断地就涌现出来了……！",
+              "line_no": 8
+            },
+            {
+              "offset": 1,
+              "speaker": "羽那",
+              "jp": "これ、プロデューサーにはもう見せたの？",
+              "cn": "这个，已经给制作人看过了？",
+              "line_no": 9
+            },
+            {
+              "offset": 2,
+              "speaker": "はるき",
+              "jp": "あ、ううん……！",
+              "cn": "啊，还没……！",
+              "line_no": 10
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "target": "はるき",
+  "aliases": [
+    "郁田はるき",
+    "郁田 はるき",
+    "はるき",
+    "阳希",
+    "Haruki",
+    "Ikuta Haruki",
+    "Haruki Ikuta"
+  ],
+  "mention_aliases": [
+    "郁田はるき",
+    "郁田 はるき",
+    "はるき",
+    "阳希",
+    "Haruki",
+    "Ikuta Haruki",
+    "Haruki Ikuta"
+  ],
+  "theme_config": "../story-dialogue-themes/ikuta-haruki.json",
+  "voice_config": "../story-dialogue-voice/ikuta-haruki.json",
+  "output_dir": "../../283/ikuta-haruki-perspective/references/local-dialogue-analysis"
+}

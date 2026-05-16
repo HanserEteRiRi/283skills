@@ -1,0 +1,22 @@
+{
+  "jp": {
+    "soft_laugh_count": "(ふふ|ふふっ|ふふ～|えへへ)",
+    "long_dash_count": "(────|──|ー)",
+    "ellipsis_count": "…",
+    "soft_question_count": "(かな|でしょうか|ですか|？|\\?)",
+    "first_person_count": "(わたし|私)",
+    "chan_count": "(羽那ちゃん|ルカちゃん|斑鳩さん|プロデューサーさん)",
+    "thinking_count": "(ぼんやり|思って|考え|気持ち|わからない|わから)",
+    "emotion_count": "(うれしい|楽しい|幸せ|怖|苦し|悲し)"
+  },
+  "cn": {
+    "soft_laugh_count": "(呵呵|嘿嘿|嘻嘻)",
+    "long_dash_count": "(——|—|～|~)",
+    "ellipsis_count": "…",
+    "soft_question_count": "(吗|吧|呢|？|\\?)",
+    "first_person_count": "(我|阳希)",
+    "name_count": "(羽那|路加|斑鸠|制作人)",
+    "thinking_count": "(发呆|觉得|想|心情|不知道|不明白)",
+    "emotion_count": "(开心|高兴|幸福|害怕|痛苦|悲伤)"
+  }
+}
